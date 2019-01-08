@@ -1,0 +1,7 @@
+#excluir todos los archivos
+*
+
+# excepto
+!.gitignore
+!KMZ
+!prueba
