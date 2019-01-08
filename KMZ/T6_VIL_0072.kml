@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="T6_VIL_0072" id="T6_VIL_0072">
+	<SimpleField name="TRAMO" type="string"></SimpleField>
+	<SimpleField name="TERMINO" type="string"></SimpleField>
+	<SimpleField name="FINCA" type="string"></SimpleField>
+	<SimpleField name="SUPERFICIE" type="float"></SimpleField>
+</Schema>
+<Folder><name>T6_VIL_0072</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#T6_VIL_0072">
+		<SimpleData name="TRAMO">T6</SimpleData>
+		<SimpleData name="TERMINO">VIL</SimpleData>
+		<SimpleData name="FINCA">0072</SimpleData>
+		<SimpleData name="SUPERFICIE">294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2.41887431536825,42.4432034326638 -2.41899479933771,42.4432440388294 -2.41896599643332,42.4434296623844 -2.41901814780945,42.443588065245 -2.41898242943945,42.4436283830559 -2.41894732325005,42.4436628407738 -2.41894261831037,42.4436325418172 -2.41887431536825,42.4432034326638</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

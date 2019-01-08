@@ -1,4 +1,14 @@
 #excluir todos los archivos
-*
-#excepto
-!*/KMZ/
+ESCANEADO
+GIS
+GML
+instalador programa
+MODELOS
+www
+*.mdb
+*.lck
+*.ldb
+*.pdf
+*.exe
+*.xlsx
+

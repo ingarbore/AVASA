@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="T7_ALD_0055" id="T7_ALD_0055">
+	<SimpleField name="TRAMO" type="string"></SimpleField>
+	<SimpleField name="TERMINO" type="string"></SimpleField>
+	<SimpleField name="FINCA" type="string"></SimpleField>
+	<SimpleField name="SUPERFICIE" type="float"></SimpleField>
+</Schema>
+<Folder><name>T7_ALD_0055</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#T7_ALD_0055">
+		<SimpleData name="TRAMO">T7</SimpleData>
+		<SimpleData name="TERMINO">ALD</SimpleData>
+		<SimpleData name="FINCA">0055</SimpleData>
+		<SimpleData name="SUPERFICIE">2018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-1.90106721455987,42.2438639378599 -1.90107733398167,42.2438498619754 -1.90109105033625,42.243830782828 -1.90112060312203,42.2437910337059 -1.90113978771086,42.2437573807073 -1.90114525708937,42.2437378935416 -1.90118415626902,42.2437139609247 -1.90128800696057,42.2438372966214 -1.90137657333335,42.2439451162692 -1.90145578893618,42.2440373774536 -1.901669348878,42.2442977264542 -1.90128815325067,42.2444912214418 -1.90122161306947,42.2443791283681 -1.90108596240414,42.2439093115473 -1.90106721455987,42.2438639378599</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

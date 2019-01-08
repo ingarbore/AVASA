@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="T6_VIL_0029" id="T6_VIL_0029">
+	<SimpleField name="TRAMO" type="string"></SimpleField>
+	<SimpleField name="TERMINO" type="string"></SimpleField>
+	<SimpleField name="FINCA" type="string"></SimpleField>
+	<SimpleField name="SUPERFICIE" type="float"></SimpleField>
+</Schema>
+<Folder><name>T6_VIL_0029</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#T6_VIL_0029">
+		<SimpleData name="TRAMO">T6</SimpleData>
+		<SimpleData name="TERMINO">VIL</SimpleData>
+		<SimpleData name="FINCA">0029</SimpleData>
+		<SimpleData name="SUPERFICIE">262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2.42873159999126,42.4362706203638 -2.42876152813328,42.4362693398171 -2.42877927476244,42.4362279670784 -2.42880803020521,42.4362333927707 -2.42888460098103,42.4362478404124 -2.42892368598084,42.4362552150845 -2.42889655953572,42.4363086442287 -2.42889404177253,42.4363121471599 -2.42883205123786,42.4363983936437 -2.42876773752138,42.4364666985551 -2.42874254791082,42.4364465274977 -2.42872451791982,42.4364128397929 -2.42871618346486,42.4363741964715 -2.42871749908056,42.4363356012439 -2.42872556324012,42.4362977544972 -2.42873159999126,42.4362706203638</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

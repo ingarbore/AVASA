@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="T6_VIL_C_18" id="T6_VIL_C_18">
+	<SimpleField name="TRAMO" type="string"></SimpleField>
+	<SimpleField name="TERMINO" type="string"></SimpleField>
+	<SimpleField name="FINCA" type="string"></SimpleField>
+	<SimpleField name="SUPERFICIE" type="float"></SimpleField>
+</Schema>
+<Folder><name>T6_VIL_C_18</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#T6_VIL_C_18">
+		<SimpleData name="TRAMO">T6</SimpleData>
+		<SimpleData name="TERMINO">VIL</SimpleData>
+		<SimpleData name="FINCA">C-18</SimpleData>
+		<SimpleData name="SUPERFICIE">391</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-2.41549167477062,42.4438086257886 -2.41548736380223,42.4436814662084 -2.41552612792934,42.443664507551 -2.41554388538457,42.4436231369807 -2.41550205488841,42.4433469928109 -2.41555229383436,42.4433415302051 -2.41557386200217,42.4435132034143 -2.41559017107474,42.443627662057 -2.41559143694334,42.4436991531912 -2.41558173452842,42.4437797814838 -2.41557888554796,42.4438034568294 -2.41549167477062,42.4438086257886</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-2.41549167477062,42.4438086257886 -2.41549342354402,42.4438602088061 -2.41549226566256,42.4438425819493 -2.41549004149446,42.4438087225917 -2.41549167477062,42.4438086257886</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-2.41549342354402,42.4438602088061 -2.41549297264857,42.4438832095299 -2.41548975235574,42.444047479938 -2.41541193117284,42.4441128489751 -2.4153543561055,42.4440768129888 -2.41547942014731,42.4439130360588 -2.41549262483151,42.4438632219195 -2.41549342354402,42.4438602088061</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
