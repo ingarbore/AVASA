@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cp="urn:x-inspire:specification:gmlas:CadastralParcels:3.0" xmlns:base="urn:x-inspire:specification:gmlas:BaseTypes:3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:x-inspire:specification:gmlas:CadastralParcels:3.0 http://inspire.ec.europa.eu/schemas/cp/3.0/CadastralParcels.xsd" gml:id="ES.LOCAL.CP">
+   <gml:featureMember>
+      <cp:CadastralParcel gml:id="ES.LOCAL.CP.T10_ALA_0176">
+         <cp:areaValue uom="m2">1.39930043048e-07</cp:areaValue>
+         <cp:beginLifespanVersion xsi:nil="true" nilReason="other:unpopulated"></cp:beginLifespanVersion>
+         <cp:geometry>
+           <gml:MultiSurface gml:id="MultiSurface_ES.LOCAL.CP.T10_ALA_0176" srsName="urn:ogc:def:crs:EPSG:4326"> 
+                <gml:surfaceMember>
+               <gml:Surface gml:id="Surface_ES.LOCAL.CP.T10_ALA_0176.Polygon_1" srsName="urn:ogc:def:crs:EPSG:4326">
+                  <gml:patches>
+                    <gml:PolygonPatch>
+                        <gml:exterior>
+                        <gml:LinearRing>
+                        <gml:posList srsDimension="2" count="12">
+-1.11857302964 41.7754557061
+-1.11857655841 41.7753978441
+-1.11858372864 41.7753280633
+-1.11878447679 41.7754924089
+-1.11898215867 41.775679521
+-1.11913545297 41.7759209975
+-1.11914837658 41.7760031346
+-1.11878593653 41.7759837904
+-1.11881866329 41.7757860861
+-1.1187910031 41.7757385381
+-1.1186818 41.7755508167
+-1.11857302964 41.7754557061
+                        </gml:posList>
+                        </gml:LinearRing>
+                        </gml:exterior>
+
+                    </gml:PolygonPatch>
+                  </gml:patches>
+                </gml:Surface>
+             </gml:surfaceMember>
+
+            </gml:MultiSurface>
+            </cp:geometry>
+            <cp:inspireId xmlns:base="urn:x-inspire:specification:gmlas:BaseTypes:3.2">
+            <base:Identifier>
+            <base:localId>T10_ALA_0176</base:localId>
+            <base:namespace>ES.LOCAL.CP</base:namespace>
+            </base:Identifier>
+            </cp:inspireId>
+      <cp:label>T10_ALA_0176</cp:label>
+      <cp:nationalCadastralReference>T10_ALA_0176</cp:nationalCadastralReference>
+      </cp:CadastralParcel>
+   </gml:featureMember>
+</gml:FeatureCollection>

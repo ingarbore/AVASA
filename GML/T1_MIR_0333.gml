@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cp="urn:x-inspire:specification:gmlas:CadastralParcels:3.0" xmlns:base="urn:x-inspire:specification:gmlas:BaseTypes:3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:x-inspire:specification:gmlas:CadastralParcels:3.0 http://inspire.ec.europa.eu/schemas/cp/3.0/CadastralParcels.xsd" gml:id="ES.LOCAL.CP">
+   <gml:featureMember>
+      <cp:CadastralParcel gml:id="ES.LOCAL.CP.T1_MIR_0333">
+         <cp:areaValue uom="m2">8.21979882826e-07</cp:areaValue>
+         <cp:beginLifespanVersion xsi:nil="true" nilReason="other:unpopulated"></cp:beginLifespanVersion>
+         <cp:geometry>
+           <gml:MultiSurface gml:id="MultiSurface_ES.LOCAL.CP.T1_MIR_0333" srsName="urn:ogc:def:crs:EPSG:4326"> 
+                <gml:surfaceMember>
+               <gml:Surface gml:id="Surface_ES.LOCAL.CP.T1_MIR_0333.Polygon_1" srsName="urn:ogc:def:crs:EPSG:4326">
+                  <gml:patches>
+                    <gml:PolygonPatch>
+                        <gml:exterior>
+                        <gml:LinearRing>
+                        <gml:posList srsDimension="2" count="83">
+-2.89687512442 43.1816405882
+-2.89690228158 43.1815926378
+-2.89694597541 43.181515489
+-2.89709422324 43.181261903
+-2.89725601304 43.1810702356
+-2.89717939879 43.1808946005
+-2.89681421557 43.1807822142
+-2.89683787948 43.1807426986
+-2.89685319084 43.1807467214
+-2.89689744842 43.1807581974
+-2.89694430253 43.1807744408
+-2.89701588359 43.1808002365
+-2.89713562439 43.1808403707
+-2.89731004439 43.1808900839
+-2.89739100817 43.1809101618
+-2.89751832034 43.1809417332
+-2.89752906571 43.180944506
+-2.89771520322 43.1809925381
+-2.89813190938 43.1811085418
+-2.8981769876 43.1811186
+-2.89820480943 43.1811248078
+-2.89824951805 43.1811263962
+-2.89829103179 43.1811240506
+-2.89834232834 43.1811121836
+-2.89837710454 43.1810989915
+-2.89839030044 43.1810910031
+-2.89840001169 43.1812285
+-2.89840163018 43.1812514153
+-2.89840672932 43.1813504534
+-2.89839797163 43.1813446651
+-2.89837262474 43.1813160523
+-2.89833881232 43.1812879084
+-2.8983182719 43.1812730589
+-2.89824408044 43.1812501207
+-2.89817574926 43.1812271877
+-2.89812692959 43.1812178524
+-2.89804881719 43.1812034876
+-2.89801365711 43.1812027416
+-2.89795908163 43.1812089351
+-2.89790047117 43.1812138861
+-2.89786725019 43.1812217188
+-2.89784379146 43.1812324192
+-2.89780859321 43.1812545453
+-2.89777631074 43.181285251
+-2.89772739087 43.1813359551
+-2.89770389866 43.1813666687
+-2.89768547463 43.181384275
+-2.89765369591 43.1814056893
+-2.8975885195 43.1814431557
+-2.89757627583 43.1814639919
+-2.89756889179 43.1814991275
+-2.8975696609 43.1815259316
+-2.89757270502 43.1815551203
+-2.89754527115 43.1816065583
+-2.89750611912 43.1816565562
+-2.89746306497 43.1817036917
+-2.89743759155 43.1817508428
+-2.8974355807 43.1817851494
+-2.89744196732 43.1818191855
+-2.89746951324 43.181895451
+-2.89747108129 43.1819311903
+-2.89746278452 43.1820252926
+-2.89744313058 43.1820967508
+-2.8974136795 43.1821860691
+-2.89738104443 43.182232499
+-2.89734030392 43.1822586703
+-2.89726863393 43.1822848137
+-2.89717255789 43.1823037876
+-2.89705859527 43.1823108327
+-2.89705214585 43.1822738978
+-2.89705457232 43.1822507299
+-2.89704686666 43.1821863948
+-2.89704112886 43.1821134843
+-2.89704124169 43.1820463427
+-2.89704126819 43.1820305726
+-2.89703741417 43.1819991198
+-2.89702194771 43.1819033283
+-2.89701828155 43.181836798
+-2.8970021512 43.18174863
+-2.89697619772 43.1816938086
+-2.89694309357 43.1816658327
+-2.89691515346 43.1816501544
+-2.89687512442 43.1816405882
+                        </gml:posList>
+                        </gml:LinearRing>
+                        </gml:exterior>
+
+                    </gml:PolygonPatch>
+                  </gml:patches>
+                </gml:Surface>
+             </gml:surfaceMember>
+
+            </gml:MultiSurface>
+            </cp:geometry>
+            <cp:inspireId xmlns:base="urn:x-inspire:specification:gmlas:BaseTypes:3.2">
+            <base:Identifier>
+            <base:localId>T1_MIR_0333</base:localId>
+            <base:namespace>ES.LOCAL.CP</base:namespace>
+            </base:Identifier>
+            </cp:inspireId>
+      <cp:label>T1_MIR_0333</cp:label>
+      <cp:nationalCadastralReference>T1_MIR_0333</cp:nationalCadastralReference>
+      </cp:CadastralParcel>
+   </gml:featureMember>
+</gml:FeatureCollection>
