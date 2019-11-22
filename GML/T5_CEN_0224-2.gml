@@ -2,7 +2,7 @@
 <gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cp="urn:x-inspire:specification:gmlas:CadastralParcels:3.0" xmlns:base="urn:x-inspire:specification:gmlas:BaseTypes:3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:x-inspire:specification:gmlas:CadastralParcels:3.0 http://inspire.ec.europa.eu/schemas/cp/3.0/CadastralParcels.xsd" gml:id="ES.LOCAL.CP">
    <gml:featureMember>
       <cp:CadastralParcel gml:id="ES.LOCAL.CP.T5_CEN_0224-2">
-         <cp:areaValue uom="m2">4.07518399532e-07</cp:areaValue>
+         <cp:areaValue uom="m2">4.03396365387e-07</cp:areaValue>
          <cp:beginLifespanVersion xsi:nil="true" nilReason="other:unpopulated"></cp:beginLifespanVersion>
          <cp:geometry>
            <gml:MultiSurface gml:id="MultiSurface_ES.LOCAL.CP.T5_CEN_0224-2" srsName="urn:ogc:def:crs:EPSG:4326"> 
@@ -12,11 +12,17 @@
                     <gml:PolygonPatch>
                         <gml:exterior>
                         <gml:LinearRing>
-                        <gml:posList srsDimension="2" count="21">
--2.65992967527 42.4783848104
--2.66006220053 42.4784178467
+                        <gml:posList srsDimension="2" count="22">
+-2.65961774378 42.4786216075
+-2.65968154773 42.4785585222
+-2.65976005092 42.4784949195
+-2.6598179554 42.4784540833
+-2.65993042167 42.4783849964
+-2.6599364818 42.4783812737
+-2.66008001013 42.4784129054
 -2.66014824246 42.4783939746
--2.66040548695 42.4786984662
+-2.66016682521 42.4783888189
+-2.66048506638 42.4787595606
 -2.66046898699 42.4787736285
 -2.66042750597 42.4788249744
 -2.66039626374 42.4788877881
@@ -26,14 +32,9 @@
 -2.66019499892 42.4790803188
 -2.66013200317 42.4791218313
 -2.66005935683 42.4791621237
--2.66000024755 42.4791913126
--2.65994482727 42.4791114137
--2.65985715207 42.4789850128
--2.65959960493 42.478627366
--2.65969409423 42.4785361464
--2.65978976757 42.4784639929
--2.65989955759 42.4784004592
--2.65992967527 42.4783848104
+-2.66001812425 42.4791824849
+-2.65987311447 42.4789793477
+-2.65961774378 42.4786216075
                         </gml:posList>
                         </gml:LinearRing>
                         </gml:exterior>

@@ -2,7 +2,7 @@
 <gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cp="urn:x-inspire:specification:gmlas:CadastralParcels:3.0" xmlns:base="urn:x-inspire:specification:gmlas:BaseTypes:3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:x-inspire:specification:gmlas:CadastralParcels:3.0 http://inspire.ec.europa.eu/schemas/cp/3.0/CadastralParcels.xsd" gml:id="ES.LOCAL.CP">
    <gml:featureMember>
       <cp:CadastralParcel gml:id="ES.LOCAL.CP.T5_CEN_0220-1">
-         <cp:areaValue uom="m2">5.08527727497e-08</cp:areaValue>
+         <cp:areaValue uom="m2">5.27960026478e-08</cp:areaValue>
          <cp:beginLifespanVersion xsi:nil="true" nilReason="other:unpopulated"></cp:beginLifespanVersion>
          <cp:geometry>
            <gml:MultiSurface gml:id="MultiSurface_ES.LOCAL.CP.T5_CEN_0220-1" srsName="urn:ogc:def:crs:EPSG:4326"> 
@@ -12,19 +12,18 @@
                     <gml:PolygonPatch>
                         <gml:exterior>
                         <gml:LinearRing>
-                        <gml:posList srsDimension="2" count="12">
--2.66076914685 42.4786526269
--2.66080521462 42.4786498743
--2.66103453685 42.4789949559
--2.66118477315 42.4792213775
+                        <gml:posList srsDimension="2" count="11">
+-2.66079937653 42.4786408758
+-2.66081996844 42.4786384198
+-2.66119730844 42.4792020135
+-2.6612089633 42.479219421
+-2.66122939382 42.4792499356
 -2.66120514758 42.4792520837
--2.661128609 42.4792598274
--2.66110697663 42.4792276697
--2.6609154086 42.4789428917
--2.66072309988 42.4786570097
--2.66072313788 42.4786570034
--2.66076103859 42.4786533982
--2.66076914685 42.4786526269
+-2.66115214814 42.4792574459
+-2.66074070133 42.4786553327
+-2.66073665102 42.4786494054
+-2.66074997331 42.4786467958
+-2.66079937653 42.4786408758
                         </gml:posList>
                         </gml:LinearRing>
                         </gml:exterior>

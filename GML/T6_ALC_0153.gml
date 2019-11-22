@@ -2,7 +2,7 @@
 <gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cp="urn:x-inspire:specification:gmlas:CadastralParcels:3.0" xmlns:base="urn:x-inspire:specification:gmlas:BaseTypes:3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:x-inspire:specification:gmlas:CadastralParcels:3.0 http://inspire.ec.europa.eu/schemas/cp/3.0/CadastralParcels.xsd" gml:id="ES.LOCAL.CP">
    <gml:featureMember>
       <cp:CadastralParcel gml:id="ES.LOCAL.CP.T6_ALC_0153">
-         <cp:areaValue uom="m2">1.5024538462e-07</cp:areaValue>
+         <cp:areaValue uom="m2">1.53224280713e-07</cp:areaValue>
          <cp:beginLifespanVersion xsi:nil="true" nilReason="other:unpopulated"></cp:beginLifespanVersion>
          <cp:geometry>
            <gml:MultiSurface gml:id="MultiSurface_ES.LOCAL.CP.T6_ALC_0153" srsName="urn:ogc:def:crs:EPSG:4326"> 
@@ -12,12 +12,14 @@
                     <gml:PolygonPatch>
                         <gml:exterior>
                         <gml:LinearRing>
-                        <gml:posList srsDimension="2" count="18">
+                        <gml:posList srsDimension="2" count="20">
 -2.15459146046 42.3903912001
--2.15469727725 42.3903735066
--2.15487607953 42.3903436089
--2.15504971107 42.3903412118
--2.15518389443 42.3903393591
+-2.15462950165 42.3903848393
+-2.15462443998 42.3903740285
+-2.15485971957 42.3903512787
+-2.15494656103 42.3903426359
+-2.15513927144 42.3903242474
+-2.15519622982 42.3903215706
 -2.15520468983 42.3903359193
 -2.15524167636 42.3904024292
 -2.15518590426 42.3904482389
