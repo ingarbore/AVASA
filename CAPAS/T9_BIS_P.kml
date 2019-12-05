@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T9_BIS_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>41.85678750083968</north>
+			<south>41.85461736374072</south>
+			<east>-1.381544715846962</east>
+			<west>-1.383564313622034</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>698</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7502</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_BIS_0020</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_BIS_0020</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7261</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.381598743206977,41.85461736374072,-1.381598743206977</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>BIS</TERMINO><FINCA>0020</FINCA><SUPERFICIE>698</SUPERFICIE><IDGIS>7502</IDGIS><NAMESPACE>T9_BIS_0020</NAMESPACE><LOCALID>T9_BIS_0020</LOCALID><ORIG_FID>7261</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9240</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7503</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_BIS_0019</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_BIS_0019</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7262</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.382165474660651,41.85529272694289,-1.382165474660651</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>BIS</TERMINO><FINCA>0019</FINCA><SUPERFICIE>9240</SUPERFICIE><IDGIS>7503</IDGIS><NAMESPACE>T9_BIS_0019</NAMESPACE><LOCALID>T9_BIS_0019</LOCALID><ORIG_FID>7262</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8998</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7504</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_BIS_0018</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_BIS_0018</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7263</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.381943245523318,41.85560984046889,-1.381943245523318</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>BIS</TERMINO><FINCA>0018</FINCA><SUPERFICIE>8998</SUPERFICIE><IDGIS>7504</IDGIS><NAMESPACE>T9_BIS_0018</NAMESPACE><LOCALID>T9_BIS_0018</LOCALID><ORIG_FID>7263</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>336</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7505</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_BIS_0017</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_BIS_0017</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7264</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.382623069541766,41.85636684285601,-1.382623069541766</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>BIS</TERMINO><FINCA>0017</FINCA><SUPERFICIE>336</SUPERFICIE><IDGIS>7505</IDGIS><NAMESPACE>T9_BIS_0017</NAMESPACE><LOCALID>T9_BIS_0017</LOCALID><ORIG_FID>7264</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1212</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7506</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_BIS_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_BIS_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7265</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.383077427294065,41.85678140535867,-1.383077427294065</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>BIS</TERMINO><FINCA>0014</FINCA><SUPERFICIE>1212</SUPERFICIE><IDGIS>7506</IDGIS><NAMESPACE>T9_BIS_0014</NAMESPACE><LOCALID>T9_BIS_0014</LOCALID><ORIG_FID>7265</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>671</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7507</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_BIS_0016</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_BIS_0016</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7266</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.383529385343114,41.85603183749863,-1.383529385343114</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>BIS</TERMINO><FINCA>0016</FINCA><SUPERFICIE>671</SUPERFICIE><IDGIS>7507</IDGIS><NAMESPACE>T9_BIS_0016</NAMESPACE><LOCALID>T9_BIS_0016</LOCALID><ORIG_FID>7266</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4128</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7508</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_BIS_0015</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_BIS_0015</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7267</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.383309351030797,41.85637661647015,-1.383309351030797</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>BIS</TERMINO><FINCA>0015</FINCA><SUPERFICIE>4128</SUPERFICIE><IDGIS>7508</IDGIS><NAMESPACE>T9_BIS_0015</NAMESPACE><LOCALID>T9_BIS_0015</LOCALID><ORIG_FID>7267</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

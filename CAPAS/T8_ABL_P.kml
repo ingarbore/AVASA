@@ -1,0 +1,5994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T8_ABL_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>42.01297438700964</north>
+			<south>41.93379215684071</south>
+			<east>-1.49929396483006</east>
+			<west>-1.604919315655452</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-116</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2959</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8169</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-116</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-116</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7887</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.504738576701324,41.93598584932316,-1.504738576701324</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-116</FINCA><SUPERFICIE>2959</SUPERFICIE><IDGIS>8169</IDGIS><NAMESPACE>T8_ABL_0002-116</NAMESPACE><LOCALID>T8_ABL_0002-116</LOCALID><ORIG_FID>7887</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-117</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2541</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8170</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-117</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-117</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7888</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.504171016915863,41.9356778339174,-1.504171016915863</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-117</FINCA><SUPERFICIE>2541</SUPERFICIE><IDGIS>8170</IDGIS><NAMESPACE>T8_ABL_0002-117</NAMESPACE><LOCALID>T8_ABL_0002-117</LOCALID><ORIG_FID>7888</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-118</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1032</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8171</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-118</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-118</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7889</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.503504154733656,41.93534467578933,-1.503504154733656</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-118</FINCA><SUPERFICIE>1032</SUPERFICIE><IDGIS>8171</IDGIS><NAMESPACE>T8_ABL_0002-118</NAMESPACE><LOCALID>T8_ABL_0002-118</LOCALID><ORIG_FID>7889</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-119</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>505</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8172</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-119</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-119</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7890</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.502404699695622,41.93469023697445,-1.502404699695622</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-119</FINCA><SUPERFICIE>505</SUPERFICIE><IDGIS>8172</IDGIS><NAMESPACE>T8_ABL_0002-119</NAMESPACE><LOCALID>T8_ABL_0002-119</LOCALID><ORIG_FID>7890</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-120</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>115</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8173</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-120</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-120</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7891</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.501902514062828,41.93436206377874,-1.501902514062828</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-120</FINCA><SUPERFICIE>115</SUPERFICIE><IDGIS>8173</IDGIS><NAMESPACE>T8_ABL_0002-120</NAMESPACE><LOCALID>T8_ABL_0002-120</LOCALID><ORIG_FID>7891</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-121</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>610</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8174</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-121</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-121</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7892</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.501121170220984,41.93379215684071,-1.501121170220984</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-121</FINCA><SUPERFICIE>610</SUPERFICIE><IDGIS>8174</IDGIS><NAMESPACE>T8_ABL_0002-121</NAMESPACE><LOCALID>T8_ABL_0002-121</LOCALID><ORIG_FID>7892</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-114</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1029</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8175</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-114</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-114</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7893</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.509140265601193,41.93765135369045,-1.509140265601193</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-114</FINCA><SUPERFICIE>1029</SUPERFICIE><IDGIS>8175</IDGIS><NAMESPACE>T8_ABL_0002-114</NAMESPACE><LOCALID>T8_ABL_0002-114</LOCALID><ORIG_FID>7893</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-115</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1959</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8176</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-115</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-115</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7894</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.508543556296273,41.93715704616162,-1.508543556296273</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-115</FINCA><SUPERFICIE>1959</SUPERFICIE><IDGIS>8176</IDGIS><NAMESPACE>T8_ABL_0002-115</NAMESPACE><LOCALID>T8_ABL_0002-115</LOCALID><ORIG_FID>7894</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-113</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6984</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8177</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-113</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-113</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7895</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.509594030154317,41.93746082815384,-1.509594030154316</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-113</FINCA><SUPERFICIE>6984</SUPERFICIE><IDGIS>8177</IDGIS><NAMESPACE>T8_ABL_0002-113</NAMESPACE><LOCALID>T8_ABL_0002-113</LOCALID><ORIG_FID>7895</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-112</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>19</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8178</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-112</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-112</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7896</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.510291459461882,41.93789135142643,-1.510291459461882</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-112</FINCA><SUPERFICIE>19</SUPERFICIE><IDGIS>8178</IDGIS><NAMESPACE>T8_ABL_0002-112</NAMESPACE><LOCALID>T8_ABL_0002-112</LOCALID><ORIG_FID>7896</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-111</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6159</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8179</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-111</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-111</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7897</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.51081704424863,41.93763746151198,-1.51081704424863</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-111</FINCA><SUPERFICIE>6159</SUPERFICIE><IDGIS>8179</IDGIS><NAMESPACE>T8_ABL_0002-111</NAMESPACE><LOCALID>T8_ABL_0002-111</LOCALID><ORIG_FID>7897</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-110</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1695</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8180</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-110</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-110</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7898</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.511768183912591,41.93766361482401,-1.511768183912591</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-110</FINCA><SUPERFICIE>1695</SUPERFICIE><IDGIS>8180</IDGIS><NAMESPACE>T8_ABL_0002-110</NAMESPACE><LOCALID>T8_ABL_0002-110</LOCALID><ORIG_FID>7898</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-109</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>345</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8181</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-109</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-109</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7899</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.512173816715852,41.93749346257256,-1.512173816715852</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-109</FINCA><SUPERFICIE>345</SUPERFICIE><IDGIS>8181</IDGIS><NAMESPACE>T8_ABL_0002-109</NAMESPACE><LOCALID>T8_ABL_0002-109</LOCALID><ORIG_FID>7899</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-108</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10285</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8182</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-108</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-108</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7900</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.512483656716593,41.9378681747033,-1.512483656716593</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-108</FINCA><SUPERFICIE>10285</SUPERFICIE><IDGIS>8182</IDGIS><NAMESPACE>T8_ABL_0002-108</NAMESPACE><LOCALID>T8_ABL_0002-108</LOCALID><ORIG_FID>7900</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-107</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2628</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8183</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-107</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-107</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7901</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.513495938708106,41.93817910412056,-1.513495938708106</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-107</FINCA><SUPERFICIE>2628</SUPERFICIE><IDGIS>8183</IDGIS><NAMESPACE>T8_ABL_0002-107</NAMESPACE><LOCALID>T8_ABL_0002-107</LOCALID><ORIG_FID>7901</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-106</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2458</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8184</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-106</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-106</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7902</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.513919730015608,41.93804756717563,-1.513919730015608</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-106</FINCA><SUPERFICIE>2458</SUPERFICIE><IDGIS>8184</IDGIS><NAMESPACE>T8_ABL_0002-106</NAMESPACE><LOCALID>T8_ABL_0002-106</LOCALID><ORIG_FID>7902</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-105</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3059</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8185</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-105</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-105</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7903</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.514347433303026,41.93806850691976,-1.514347433303026</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-105</FINCA><SUPERFICIE>3059</SUPERFICIE><IDGIS>8185</IDGIS><NAMESPACE>T8_ABL_0002-105</NAMESPACE><LOCALID>T8_ABL_0002-105</LOCALID><ORIG_FID>7903</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-104</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4577</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8186</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-104</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-104</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7904</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.514997938250513,41.93821663431087,-1.514997938250513</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-104</FINCA><SUPERFICIE>4577</SUPERFICIE><IDGIS>8186</IDGIS><NAMESPACE>T8_ABL_0002-104</NAMESPACE><LOCALID>T8_ABL_0002-104</LOCALID><ORIG_FID>7904</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-103</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>723</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8187</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-103</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-103</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7905</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.515647491097776,41.9385798977672,-1.515647491097776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-103</FINCA><SUPERFICIE>723</SUPERFICIE><IDGIS>8187</IDGIS><NAMESPACE>T8_ABL_0002-103</NAMESPACE><LOCALID>T8_ABL_0002-103</LOCALID><ORIG_FID>7905</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-101</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4533</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8188</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-101</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-101</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7906</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.515964238246935,41.93843918663141,-1.515964238246935</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-101</FINCA><SUPERFICIE>4533</SUPERFICIE><IDGIS>8188</IDGIS><NAMESPACE>T8_ABL_0002-101</NAMESPACE><LOCALID>T8_ABL_0002-101</LOCALID><ORIG_FID>7906</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-99</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8189</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-99</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-99</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7907</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.517254878704216,41.93840309386931,-1.517254878704216</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-99</FINCA><SUPERFICIE>10</SUPERFICIE><IDGIS>8189</IDGIS><NAMESPACE>T8_ABL_0002-99</NAMESPACE><LOCALID>T8_ABL_0002-99</LOCALID><ORIG_FID>7907</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-100</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3974</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8190</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-100</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-100</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7908</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.516673077636931,41.93847198369772,-1.516673077636931</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-100</FINCA><SUPERFICIE>3974</SUPERFICIE><IDGIS>8190</IDGIS><NAMESPACE>T8_ABL_0002-100</NAMESPACE><LOCALID>T8_ABL_0002-100</LOCALID><ORIG_FID>7908</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-102</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>119</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8191</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-102</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-102</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7909</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.51618915128758,41.93932266588519,-1.51618915128758</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-102</FINCA><SUPERFICIE>119</SUPERFICIE><IDGIS>8191</IDGIS><NAMESPACE>T8_ABL_0002-102</NAMESPACE><LOCALID>T8_ABL_0002-102</LOCALID><ORIG_FID>7909</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-97</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>728</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8192</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-97</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-97</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7910</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.517415375615976,41.93898152563185,-1.517415375615976</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-97</FINCA><SUPERFICIE>728</SUPERFICIE><IDGIS>8192</IDGIS><NAMESPACE>T8_ABL_0002-97</NAMESPACE><LOCALID>T8_ABL_0002-97</LOCALID><ORIG_FID>7910</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-98</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2581</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8193</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-98</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-98</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7911</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.517143510837274,41.93878287980053,-1.517143510837274</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-98</FINCA><SUPERFICIE>2581</SUPERFICIE><IDGIS>8193</IDGIS><NAMESPACE>T8_ABL_0002-98</NAMESPACE><LOCALID>T8_ABL_0002-98</LOCALID><ORIG_FID>7911</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-93</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2654</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8194</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-93</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-93</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7912</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.518078357040468,41.93945071856393,-1.518078357040468</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-93</FINCA><SUPERFICIE>2654</SUPERFICIE><IDGIS>8194</IDGIS><NAMESPACE>T8_ABL_0002-93</NAMESPACE><LOCALID>T8_ABL_0002-93</LOCALID><ORIG_FID>7912</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-13</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>207</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8195</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-13</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-13</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7913</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.517932111720748,41.94015005630089,-1.517932111720748</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-13</FINCA><SUPERFICIE>207</SUPERFICIE><IDGIS>8195</IDGIS><NAMESPACE>T8_ABL_C-13</NAMESPACE><LOCALID>T8_ABL_C-13</LOCALID><ORIG_FID>7913</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-89</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>193</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8196</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-89</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-89</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7914</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.517960779940367,41.94019123277771,-1.517960779940367</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-89</FINCA><SUPERFICIE>193</SUPERFICIE><IDGIS>8196</IDGIS><NAMESPACE>T8_ABL_0002-89</NAMESPACE><LOCALID>T8_ABL_0002-89</LOCALID><ORIG_FID>7914</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-94</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2462</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8197</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-94</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-94</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7915</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.517812799742526,41.93893796350697,-1.517812799742526</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-94</FINCA><SUPERFICIE>2462</SUPERFICIE><IDGIS>8197</IDGIS><NAMESPACE>T8_ABL_0002-94</NAMESPACE><LOCALID>T8_ABL_0002-94</LOCALID><ORIG_FID>7915</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-96</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>913</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8198</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-96</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-96</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7916</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.517787922043556,41.93860019992058,-1.517787922043556</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-96</FINCA><SUPERFICIE>913</SUPERFICIE><IDGIS>8198</IDGIS><NAMESPACE>T8_ABL_0002-96</NAMESPACE><LOCALID>T8_ABL_0002-96</LOCALID><ORIG_FID>7916</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-14</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>367</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8199</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-14</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-14</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7917</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.518266666262021,41.93900223760731,-1.518266666262021</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-14</FINCA><SUPERFICIE>367</SUPERFICIE><IDGIS>8199</IDGIS><NAMESPACE>T8_ABL_C-14</NAMESPACE><LOCALID>T8_ABL_C-14</LOCALID><ORIG_FID>7917</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-92</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>187</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8200</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-92</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-92</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7918</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.518217231980846,41.93872003037455,-1.518217231980846</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-92</FINCA><SUPERFICIE>187</SUPERFICIE><IDGIS>8200</IDGIS><NAMESPACE>T8_ABL_0002-92</NAMESPACE><LOCALID>T8_ABL_0002-92</LOCALID><ORIG_FID>7918</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-15</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>137</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8201</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-15</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-15</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7919</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.518983165238051,41.93797608378149,-1.518983165238051</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-15</FINCA><SUPERFICIE>137</SUPERFICIE><IDGIS>8201</IDGIS><NAMESPACE>T8_ABL_C-15</NAMESPACE><LOCALID>T8_ABL_C-15</LOCALID><ORIG_FID>7919</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-95</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>33</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8202</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-95</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-95</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7920</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.519022649846616,41.93792926884799,-1.519022649846616</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-95</FINCA><SUPERFICIE>33</SUPERFICIE><IDGIS>8202</IDGIS><NAMESPACE>T8_ABL_0002-95</NAMESPACE><LOCALID>T8_ABL_0002-95</LOCALID><ORIG_FID>7920</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-91</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>721</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8203</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-91</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-91</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7921</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.518790449183902,41.93819239432983,-1.518790449183902</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-91</FINCA><SUPERFICIE>721</SUPERFICIE><IDGIS>8203</IDGIS><NAMESPACE>T8_ABL_0002-91</NAMESPACE><LOCALID>T8_ABL_0002-91</LOCALID><ORIG_FID>7921</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-90</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1382</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8204</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-90</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-90</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7922</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.518566826679515,41.93855249606482,-1.518566826679515</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-90</FINCA><SUPERFICIE>1382</SUPERFICIE><IDGIS>8204</IDGIS><NAMESPACE>T8_ABL_0002-90</NAMESPACE><LOCALID>T8_ABL_0002-90</LOCALID><ORIG_FID>7922</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-88</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1038</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8205</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-88</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-88</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7923</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.518577717800896,41.93919697874417,-1.518577717800896</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-88</FINCA><SUPERFICIE>1038</SUPERFICIE><IDGIS>8205</IDGIS><NAMESPACE>T8_ABL_0002-88</NAMESPACE><LOCALID>T8_ABL_0002-88</LOCALID><ORIG_FID>7923</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-87</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15456</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8206</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-87</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-87</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7924</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.519594757043005,41.93938586060529,-1.519594757043005</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-87</FINCA><SUPERFICIE>15456</SUPERFICIE><IDGIS>8206</IDGIS><NAMESPACE>T8_ABL_0002-87</NAMESPACE><LOCALID>T8_ABL_0002-87</LOCALID><ORIG_FID>7924</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-86</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4196</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8207</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-86</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-86</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7925</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.520997249000952,41.94014206395548,-1.520997249000952</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-86</FINCA><SUPERFICIE>4196</SUPERFICIE><IDGIS>8207</IDGIS><NAMESPACE>T8_ABL_0002-86</NAMESPACE><LOCALID>T8_ABL_0002-86</LOCALID><ORIG_FID>7925</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-12</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>78</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8208</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-12</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-12</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7926</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.521845892273214,41.939717452378,-1.521845892273214</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-12</FINCA><SUPERFICIE>78</SUPERFICIE><IDGIS>8208</IDGIS><NAMESPACE>T8_ABL_C-12</NAMESPACE><LOCALID>T8_ABL_C-12</LOCALID><ORIG_FID>7926</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-85</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>26</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8209</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-85</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-85</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7927</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.521870634876006,41.93970610403451,-1.521870634876006</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-85</FINCA><SUPERFICIE>26</SUPERFICIE><IDGIS>8209</IDGIS><NAMESPACE>T8_ABL_0002-85</NAMESPACE><LOCALID>T8_ABL_0002-85</LOCALID><ORIG_FID>7927</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-83</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6457</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8210</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-83</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-83</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7928</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.521788543953425,41.94031573834023,-1.521788543953425</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-83</FINCA><SUPERFICIE>6457</SUPERFICIE><IDGIS>8210</IDGIS><NAMESPACE>T8_ABL_0002-83</NAMESPACE><LOCALID>T8_ABL_0002-83</LOCALID><ORIG_FID>7928</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-11</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>296</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8211</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-11</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-11</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7929</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.52230873943797,41.94060109127499,-1.52230873943797</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-11</FINCA><SUPERFICIE>296</SUPERFICIE><IDGIS>8211</IDGIS><NAMESPACE>T8_ABL_C-11</NAMESPACE><LOCALID>T8_ABL_C-11</LOCALID><ORIG_FID>7929</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-84</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2567</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8212</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-84</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-84</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7930</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.522579676688189,41.9405296459467,-1.522579676688189</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-84</FINCA><SUPERFICIE>2567</SUPERFICIE><IDGIS>8212</IDGIS><NAMESPACE>T8_ABL_0002-84</NAMESPACE><LOCALID>T8_ABL_0002-84</LOCALID><ORIG_FID>7930</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-81</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7083</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8213</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-81</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-81</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7931</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.523259351007495,41.94112819143332,-1.523259351007495</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-81</FINCA><SUPERFICIE>7083</SUPERFICIE><IDGIS>8213</IDGIS><NAMESPACE>T8_ABL_0002-81</NAMESPACE><LOCALID>T8_ABL_0002-81</LOCALID><ORIG_FID>7931</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-80</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1285</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8214</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-80</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-80</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7932</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.523772153162289,41.94104023663401,-1.523772153162289</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-80</FINCA><SUPERFICIE>1285</SUPERFICIE><IDGIS>8214</IDGIS><NAMESPACE>T8_ABL_0002-80</NAMESPACE><LOCALID>T8_ABL_0002-80</LOCALID><ORIG_FID>7932</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-79</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>91</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8215</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-79</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-79</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7933</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.524576058206587,41.94148858367271,-1.524576058206587</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-79</FINCA><SUPERFICIE>91</SUPERFICIE><IDGIS>8215</IDGIS><NAMESPACE>T8_ABL_0002-79</NAMESPACE><LOCALID>T8_ABL_0002-79</LOCALID><ORIG_FID>7933</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-77</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>51</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8216</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-77</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-77</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7934</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.525111530177587,41.94182043945677,-1.525111530177587</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-77</FINCA><SUPERFICIE>51</SUPERFICIE><IDGIS>8216</IDGIS><NAMESPACE>T8_ABL_0002-77</NAMESPACE><LOCALID>T8_ABL_0002-77</LOCALID><ORIG_FID>7934</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-78</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5857</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8217</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-78</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-78</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7935</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.524344850293694,41.94171995112374,-1.524344850293694</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-78</FINCA><SUPERFICIE>5857</SUPERFICIE><IDGIS>8217</IDGIS><NAMESPACE>T8_ABL_0002-78</NAMESPACE><LOCALID>T8_ABL_0002-78</LOCALID><ORIG_FID>7935</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-75</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12843</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8218</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-75</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-75</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7936</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.526070111418795,41.94290299515238,-1.526070111418795</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-75</FINCA><SUPERFICIE>12843</SUPERFICIE><IDGIS>8218</IDGIS><NAMESPACE>T8_ABL_0002-75</NAMESPACE><LOCALID>T8_ABL_0002-75</LOCALID><ORIG_FID>7936</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-74</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>205</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8219</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-74</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-74</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7937</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.526496872740654,41.94358874699146,-1.526496872740654</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-74</FINCA><SUPERFICIE>205</SUPERFICIE><IDGIS>8219</IDGIS><NAMESPACE>T8_ABL_0002-74</NAMESPACE><LOCALID>T8_ABL_0002-74</LOCALID><ORIG_FID>7937</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-73</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>233</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8220</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-73</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-73</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7938</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.526732694427552,41.94372028569305,-1.526732694427552</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-73</FINCA><SUPERFICIE>233</SUPERFICIE><IDGIS>8220</IDGIS><NAMESPACE>T8_ABL_0002-73</NAMESPACE><LOCALID>T8_ABL_0002-73</LOCALID><ORIG_FID>7938</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-72</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>628</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8221</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-72</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-72</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7939</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.526944384541625,41.94385969839615,-1.526944384541625</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-72</FINCA><SUPERFICIE>628</SUPERFICIE><IDGIS>8221</IDGIS><NAMESPACE>T8_ABL_0002-72</NAMESPACE><LOCALID>T8_ABL_0002-72</LOCALID><ORIG_FID>7939</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-70</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7307</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8222</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-70</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-70</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7940</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.527461395820971,41.94383857742829,-1.527461395820971</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-70</FINCA><SUPERFICIE>7307</SUPERFICIE><IDGIS>8222</IDGIS><NAMESPACE>T8_ABL_0002-70</NAMESPACE><LOCALID>T8_ABL_0002-70</LOCALID><ORIG_FID>7940</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-71</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>22</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8223</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-71</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-71</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7941</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.52792533879711,41.94384959035283,-1.52792533879711</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-71</FINCA><SUPERFICIE>22</SUPERFICIE><IDGIS>8223</IDGIS><NAMESPACE>T8_ABL_0002-71</NAMESPACE><LOCALID>T8_ABL_0002-71</LOCALID><ORIG_FID>7941</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-69</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3686</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8224</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-69</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-69</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7942</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.528035810347496,41.94445411196972,-1.528035810347496</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-69</FINCA><SUPERFICIE>3686</SUPERFICIE><IDGIS>8224</IDGIS><NAMESPACE>T8_ABL_0002-69</NAMESPACE><LOCALID>T8_ABL_0002-69</LOCALID><ORIG_FID>7942</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-68</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5096</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8225</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-68</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-68</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7943</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.528513597099621,41.94493030397825,-1.52851359709962</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-68</FINCA><SUPERFICIE>5096</SUPERFICIE><IDGIS>8225</IDGIS><NAMESPACE>T8_ABL_0002-68</NAMESPACE><LOCALID>T8_ABL_0002-68</LOCALID><ORIG_FID>7943</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-67</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>62</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8226</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-67</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-67</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7944</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.529090394468127,41.94503438213992,-1.529090394468127</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-67</FINCA><SUPERFICIE>62</SUPERFICIE><IDGIS>8226</IDGIS><NAMESPACE>T8_ABL_0002-67</NAMESPACE><LOCALID>T8_ABL_0002-67</LOCALID><ORIG_FID>7944</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-66</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12164</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8227</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-66</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-66</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7945</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.529474980692992,41.94591793012859,-1.529474980692992</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-66</FINCA><SUPERFICIE>12164</SUPERFICIE><IDGIS>8227</IDGIS><NAMESPACE>T8_ABL_0002-66</NAMESPACE><LOCALID>T8_ABL_0002-66</LOCALID><ORIG_FID>7945</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-65</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3567</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8228</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-65</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-65</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7946</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.529980623138007,41.94684041543034,-1.529980623138007</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-65</FINCA><SUPERFICIE>3567</SUPERFICIE><IDGIS>8228</IDGIS><NAMESPACE>T8_ABL_0002-65</NAMESPACE><LOCALID>T8_ABL_0002-65</LOCALID><ORIG_FID>7946</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-64</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1555</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8229</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-64</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-64</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7947</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.530588764769811,41.94696834922765,-1.530588764769811</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-64</FINCA><SUPERFICIE>1555</SUPERFICIE><IDGIS>8229</IDGIS><NAMESPACE>T8_ABL_0002-64</NAMESPACE><LOCALID>T8_ABL_0002-64</LOCALID><ORIG_FID>7947</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-76</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3519</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8230</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-76</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-76</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7948</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.52540962078494,41.94220014986466,-1.52540962078494</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-76</FINCA><SUPERFICIE>3519</SUPERFICIE><IDGIS>8230</IDGIS><NAMESPACE>T8_ABL_0002-76</NAMESPACE><LOCALID>T8_ABL_0002-76</LOCALID><ORIG_FID>7948</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-63</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>122</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8239</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-63</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-63</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7957</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.53187922675058,41.94765646483728,-1.53187922675058</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-63</FINCA><SUPERFICIE>122</SUPERFICIE><IDGIS>8239</IDGIS><NAMESPACE>T8_ABL_0002-63</NAMESPACE><LOCALID>T8_ABL_0002-63</LOCALID><ORIG_FID>7957</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-62</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>20</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8240</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-62</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-62</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7958</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.532181379825021,41.9477728362287,-1.532181379825021</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-62</FINCA><SUPERFICIE>20</SUPERFICIE><IDGIS>8240</IDGIS><NAMESPACE>T8_ABL_0002-62</NAMESPACE><LOCALID>T8_ABL_0002-62</LOCALID><ORIG_FID>7958</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-61</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1377</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8346</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-61</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-61</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8064</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.543846875514654,41.96770295246631,-1.543846875514654</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-61</FINCA><SUPERFICIE>1377</SUPERFICIE><IDGIS>8346</IDGIS><NAMESPACE>T8_ABL_0002-61</NAMESPACE><LOCALID>T8_ABL_0002-61</LOCALID><ORIG_FID>8064</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-60</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>628</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8347</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-60</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-60</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8065</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.5441182255266,41.9678009338443,-1.544118225526601</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-60</FINCA><SUPERFICIE>628</SUPERFICIE><IDGIS>8347</IDGIS><NAMESPACE>T8_ABL_0002-60</NAMESPACE><LOCALID>T8_ABL_0002-60</LOCALID><ORIG_FID>8065</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-59</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6768</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8348</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-59</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-59</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8066</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.54422215516693,41.96829191946116,-1.54422215516693</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-59</FINCA><SUPERFICIE>6768</SUPERFICIE><IDGIS>8348</IDGIS><NAMESPACE>T8_ABL_0002-59</NAMESPACE><LOCALID>T8_ABL_0002-59</LOCALID><ORIG_FID>8066</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-58</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1369</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8349</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-58</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-58</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8067</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.544102952185553,41.96862541970922,-1.544102952185553</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-58</FINCA><SUPERFICIE>1369</SUPERFICIE><IDGIS>8349</IDGIS><NAMESPACE>T8_ABL_0002-58</NAMESPACE><LOCALID>T8_ABL_0002-58</LOCALID><ORIG_FID>8067</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-57</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>157</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8350</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-57</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-57</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8068</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.544141440449003,41.96888148802132,-1.544141440449004</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-57</FINCA><SUPERFICIE>157</SUPERFICIE><IDGIS>8350</IDGIS><NAMESPACE>T8_ABL_0002-57</NAMESPACE><LOCALID>T8_ABL_0002-57</LOCALID><ORIG_FID>8068</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-56</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2786</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8351</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-56</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-56</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8069</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.544553233601149,41.96906249456767,-1.544553233601148</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-56</FINCA><SUPERFICIE>2786</SUPERFICIE><IDGIS>8351</IDGIS><NAMESPACE>T8_ABL_0002-56</NAMESPACE><LOCALID>T8_ABL_0002-56</LOCALID><ORIG_FID>8069</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-55</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3302</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8352</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-55</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-55</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8070</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.545081305597168,41.96938862571419,-1.545081305597168</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-55</FINCA><SUPERFICIE>3302</SUPERFICIE><IDGIS>8352</IDGIS><NAMESPACE>T8_ABL_0002-55</NAMESPACE><LOCALID>T8_ABL_0002-55</LOCALID><ORIG_FID>8070</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-54</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4275</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8353</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-54</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-54</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8071</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.54505923175935,41.96979545516923,-1.54505923175935</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-54</FINCA><SUPERFICIE>4275</SUPERFICIE><IDGIS>8353</IDGIS><NAMESPACE>T8_ABL_0002-54</NAMESPACE><LOCALID>T8_ABL_0002-54</LOCALID><ORIG_FID>8071</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-53</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1921</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8354</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-53</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-53</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8072</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.54512026092866,41.97020288313438,-1.545120260928659</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-53</FINCA><SUPERFICIE>1921</SUPERFICIE><IDGIS>8354</IDGIS><NAMESPACE>T8_ABL_0002-53</NAMESPACE><LOCALID>T8_ABL_0002-53</LOCALID><ORIG_FID>8072</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-52</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>188</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8355</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-52</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-52</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8073</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.545333035514533,41.97060232810441,-1.545333035514533</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-52</FINCA><SUPERFICIE>188</SUPERFICIE><IDGIS>8355</IDGIS><NAMESPACE>T8_ABL_0002-52</NAMESPACE><LOCALID>T8_ABL_0002-52</LOCALID><ORIG_FID>8073</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-51</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3021</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8356</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-51</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-51</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8074</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.545727216833317,41.97045834897382,-1.545727216833316</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-51</FINCA><SUPERFICIE>3021</SUPERFICIE><IDGIS>8356</IDGIS><NAMESPACE>T8_ABL_0002-51</NAMESPACE><LOCALID>T8_ABL_0002-51</LOCALID><ORIG_FID>8074</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-47</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1296</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8357</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-47</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-47</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8075</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.545998638523185,41.9716866491295,-1.545998638523185</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-47</FINCA><SUPERFICIE>1296</SUPERFICIE><IDGIS>8357</IDGIS><NAMESPACE>T8_ABL_0002-47</NAMESPACE><LOCALID>T8_ABL_0002-47</LOCALID><ORIG_FID>8075</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-48</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7965</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8358</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-48</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-48</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8076</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.546077987771874,41.97121008623156,-1.546077987771874</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-48</FINCA><SUPERFICIE>7965</SUPERFICIE><IDGIS>8358</IDGIS><NAMESPACE>T8_ABL_0002-48</NAMESPACE><LOCALID>T8_ABL_0002-48</LOCALID><ORIG_FID>8076</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-49</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>813</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8359</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-49</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-49</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8077</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.546402182730484,41.97099440904874,-1.546402182730484</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-49</FINCA><SUPERFICIE>813</SUPERFICIE><IDGIS>8359</IDGIS><NAMESPACE>T8_ABL_0002-49</NAMESPACE><LOCALID>T8_ABL_0002-49</LOCALID><ORIG_FID>8077</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>403</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8360</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8078</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.546544870522435,41.97171300302028,-1.546544870522435</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-9</FINCA><SUPERFICIE>403</SUPERFICIE><IDGIS>8360</IDGIS><NAMESPACE>T8_ABL_C-9</NAMESPACE><LOCALID>T8_ABL_C-9</LOCALID><ORIG_FID>8078</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-42</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>333</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8361</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-42</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-42</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8079</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.546931692879182,41.97155675625516,-1.546931692879182</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-42</FINCA><SUPERFICIE>333</SUPERFICIE><IDGIS>8361</IDGIS><NAMESPACE>T8_ABL_0002-42</NAMESPACE><LOCALID>T8_ABL_0002-42</LOCALID><ORIG_FID>8079</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-50</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>90</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8362</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-50</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-50</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8080</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.547459051744722,41.97099688333566,-1.547459051744722</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-50</FINCA><SUPERFICIE>90</SUPERFICIE><IDGIS>8362</IDGIS><NAMESPACE>T8_ABL_0002-50</NAMESPACE><LOCALID>T8_ABL_0002-50</LOCALID><ORIG_FID>8080</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>121</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8363</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8081</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.547437670728047,41.97104127821446,-1.547437670728047</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-10</FINCA><SUPERFICIE>121</SUPERFICIE><IDGIS>8363</IDGIS><NAMESPACE>T8_ABL_C-10</NAMESPACE><LOCALID>T8_ABL_C-10</LOCALID><ORIG_FID>8081</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-45</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8364</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-45</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-45</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8082</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.545862390464332,41.97248541107444,-1.545862390464332</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-45</FINCA><SUPERFICIE>14</SUPERFICIE><IDGIS>8364</IDGIS><NAMESPACE>T8_ABL_0002-45</NAMESPACE><LOCALID>T8_ABL_0002-45</LOCALID><ORIG_FID>8082</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-44</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>43</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8365</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-44</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-44</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8083</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.545831337287051,41.97253795548203,-1.545831337287051</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-44</FINCA><SUPERFICIE>43</SUPERFICIE><IDGIS>8365</IDGIS><NAMESPACE>T8_ABL_0002-44</NAMESPACE><LOCALID>T8_ABL_0002-44</LOCALID><ORIG_FID>8083</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-40</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8366</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-40</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-40</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8084</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.545971195188967,41.97253653448333,-1.545971195188967</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-40</FINCA><SUPERFICIE>4</SUPERFICIE><IDGIS>8366</IDGIS><NAMESPACE>T8_ABL_0002-40</NAMESPACE><LOCALID>T8_ABL_0002-40</LOCALID><ORIG_FID>8084</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-41</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8367</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-41</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-41</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8085</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.545878116506581,41.97258992332123,-1.54587811650658</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-41</FINCA><SUPERFICIE>15</SUPERFICIE><IDGIS>8367</IDGIS><NAMESPACE>T8_ABL_0002-41</NAMESPACE><LOCALID>T8_ABL_0002-41</LOCALID><ORIG_FID>8085</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-46</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>384</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8368</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-46</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-46</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8086</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.546006046639954,41.97235213402434,-1.546006046639954</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-46</FINCA><SUPERFICIE>384</SUPERFICIE><IDGIS>8368</IDGIS><NAMESPACE>T8_ABL_0002-46</NAMESPACE><LOCALID>T8_ABL_0002-46</LOCALID><ORIG_FID>8086</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>219</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8369</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8087</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.546013827229835,41.97240329616903,-1.546013827229835</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-8</FINCA><SUPERFICIE>219</SUPERFICIE><IDGIS>8369</IDGIS><NAMESPACE>T8_ABL_C-8</NAMESPACE><LOCALID>T8_ABL_C-8</LOCALID><ORIG_FID>8087</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-39</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3952</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8370</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-39</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-39</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8088</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.546599760735499,41.97207407298014,-1.546599760735498</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-39</FINCA><SUPERFICIE>3952</SUPERFICIE><IDGIS>8370</IDGIS><NAMESPACE>T8_ABL_0002-39</NAMESPACE><LOCALID>T8_ABL_0002-39</LOCALID><ORIG_FID>8088</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-43</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>946</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8371</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-43</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-43</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8089</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.547335620830821,41.97139600350656,-1.547335620830821</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-43</FINCA><SUPERFICIE>946</SUPERFICIE><IDGIS>8371</IDGIS><NAMESPACE>T8_ABL_0002-43</NAMESPACE><LOCALID>T8_ABL_0002-43</LOCALID><ORIG_FID>8089</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-38</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>847</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8372</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-38</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-38</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8090</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.547535212542545,41.97183478140481,-1.547535212542545</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-38</FINCA><SUPERFICIE>847</SUPERFICIE><IDGIS>8372</IDGIS><NAMESPACE>T8_ABL_0002-38</NAMESPACE><LOCALID>T8_ABL_0002-38</LOCALID><ORIG_FID>8090</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-37</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>443</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8373</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-37</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-37</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8091</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.547847380988004,41.97212258863286,-1.547847380988004</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-37</FINCA><SUPERFICIE>443</SUPERFICIE><IDGIS>8373</IDGIS><NAMESPACE>T8_ABL_0002-37</NAMESPACE><LOCALID>T8_ABL_0002-37</LOCALID><ORIG_FID>8091</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-35</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1849</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8374</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-35</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-35</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8092</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.548183510425087,41.97254972538074,-1.548183510425087</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-35</FINCA><SUPERFICIE>1849</SUPERFICIE><IDGIS>8374</IDGIS><NAMESPACE>T8_ABL_0002-35</NAMESPACE><LOCALID>T8_ABL_0002-35</LOCALID><ORIG_FID>8092</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-31</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>405</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8375</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-31</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-31</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8093</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.548661033089987,41.97298757708077,-1.548661033089987</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-31</FINCA><SUPERFICIE>405</SUPERFICIE><IDGIS>8375</IDGIS><NAMESPACE>T8_ABL_0002-31</NAMESPACE><LOCALID>T8_ABL_0002-31</LOCALID><ORIG_FID>8093</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-28</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>76</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8376</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-28</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-28</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8094</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.54960803292158,41.9738766905243,-1.54960803292158</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-28</FINCA><SUPERFICIE>76</SUPERFICIE><IDGIS>8376</IDGIS><NAMESPACE>T8_ABL_0002-28</NAMESPACE><LOCALID>T8_ABL_0002-28</LOCALID><ORIG_FID>8094</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-36</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10638</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8377</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-36</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-36</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8095</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.547328966370335,41.97240297362414,-1.547328966370335</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-36</FINCA><SUPERFICIE>10638</SUPERFICIE><IDGIS>8377</IDGIS><NAMESPACE>T8_ABL_0002-36</NAMESPACE><LOCALID>T8_ABL_0002-36</LOCALID><ORIG_FID>8095</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-34</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2099</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8378</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-34</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-34</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8096</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.548144368155455,41.97288520233505,-1.548144368155455</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-34</FINCA><SUPERFICIE>2099</SUPERFICIE><IDGIS>8378</IDGIS><NAMESPACE>T8_ABL_0002-34</NAMESPACE><LOCALID>T8_ABL_0002-34</LOCALID><ORIG_FID>8096</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-30</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3578</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8379</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-30</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-30</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8097</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.548843249662435,41.97338768551452,-1.548843249662435</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-30</FINCA><SUPERFICIE>3578</SUPERFICIE><IDGIS>8379</IDGIS><NAMESPACE>T8_ABL_0002-30</NAMESPACE><LOCALID>T8_ABL_0002-30</LOCALID><ORIG_FID>8097</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-27</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1228</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8380</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-27</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-27</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8098</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.549353685985712,41.97404183109933,-1.549353685985711</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-27</FINCA><SUPERFICIE>1228</SUPERFICIE><IDGIS>8380</IDGIS><NAMESPACE>T8_ABL_0002-27</NAMESPACE><LOCALID>T8_ABL_0002-27</LOCALID><ORIG_FID>8098</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>714</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8381</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8099</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.548371917756107,41.97335446774549,-1.548371917756107</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-7</FINCA><SUPERFICIE>714</SUPERFICIE><IDGIS>8381</IDGIS><NAMESPACE>T8_ABL_C-7</NAMESPACE><LOCALID>T8_ABL_C-7</LOCALID><ORIG_FID>8099</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-33</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2423</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8382</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-33</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-33</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8100</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.547571346236057,41.97316255417498,-1.547571346236057</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-33</FINCA><SUPERFICIE>2423</SUPERFICIE><IDGIS>8382</IDGIS><NAMESPACE>T8_ABL_0002-33</NAMESPACE><LOCALID>T8_ABL_0002-33</LOCALID><ORIG_FID>8100</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-32</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>92</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8383</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-32</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-32</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8101</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.54736903181987,41.97335634425158,-1.54736903181987</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-32</FINCA><SUPERFICIE>92</SUPERFICIE><IDGIS>8383</IDGIS><NAMESPACE>T8_ABL_0002-32</NAMESPACE><LOCALID>T8_ABL_0002-32</LOCALID><ORIG_FID>8101</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-29</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2425</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8384</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-29</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-29</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8102</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.547742004145797,41.97364184282233,-1.547742004145797</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-29</FINCA><SUPERFICIE>2425</SUPERFICIE><IDGIS>8384</IDGIS><NAMESPACE>T8_ABL_0002-29</NAMESPACE><LOCALID>T8_ABL_0002-29</LOCALID><ORIG_FID>8102</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-25</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>595</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8385</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-25</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-25</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8103</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.549796381305832,41.97560999015993,-1.549796381305833</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-25</FINCA><SUPERFICIE>595</SUPERFICIE><IDGIS>8385</IDGIS><NAMESPACE>T8_ABL_0002-25</NAMESPACE><LOCALID>T8_ABL_0002-25</LOCALID><ORIG_FID>8103</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-26</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15845</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8386</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-26</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-26</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8104</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.548839009684376,41.9743512409258,-1.548839009684375</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-26</FINCA><SUPERFICIE>15845</SUPERFICIE><IDGIS>8386</IDGIS><NAMESPACE>T8_ABL_0002-26</NAMESPACE><LOCALID>T8_ABL_0002-26</LOCALID><ORIG_FID>8104</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-125</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14008</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8387</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-125</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-125</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8105</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.549876251622449,41.97484854108511,-1.549876251622449</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-125</FINCA><SUPERFICIE>14008</SUPERFICIE><IDGIS>8387</IDGIS><NAMESPACE>T8_ABL_0002-125</NAMESPACE><LOCALID>T8_ABL_0002-125</LOCALID><ORIG_FID>8105</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>304</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8388</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8106</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.550588594848197,41.97562332544879,-1.550588594848197</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-6</FINCA><SUPERFICIE>304</SUPERFICIE><IDGIS>8388</IDGIS><NAMESPACE>T8_ABL_C-6</NAMESPACE><LOCALID>T8_ABL_C-6</LOCALID><ORIG_FID>8106</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-24</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7407</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8389</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-24</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-24</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8107</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.550887111526235,41.97597384450236,-1.550887111526235</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-24</FINCA><SUPERFICIE>7407</SUPERFICIE><IDGIS>8389</IDGIS><NAMESPACE>T8_ABL_0002-24</NAMESPACE><LOCALID>T8_ABL_0002-24</LOCALID><ORIG_FID>8107</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-22</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>375</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8390</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-22</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-22</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8108</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.551928468331734,41.97714503118113,-1.551928468331734</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-22</FINCA><SUPERFICIE>375</SUPERFICIE><IDGIS>8390</IDGIS><NAMESPACE>T8_ABL_0002-22</NAMESPACE><LOCALID>T8_ABL_0002-22</LOCALID><ORIG_FID>8108</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-23</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>74</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8391</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-23</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-23</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8109</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.551810663716284,41.97625365624021,-1.551810663716284</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-23</FINCA><SUPERFICIE>74</SUPERFICIE><IDGIS>8391</IDGIS><NAMESPACE>T8_ABL_0002-23</NAMESPACE><LOCALID>T8_ABL_0002-23</LOCALID><ORIG_FID>8109</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-20</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>57</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8392</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-20</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-20</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8110</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.55276583889383,41.97692851596491,-1.55276583889383</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-20</FINCA><SUPERFICIE>57</SUPERFICIE><IDGIS>8392</IDGIS><NAMESPACE>T8_ABL_0002-20</NAMESPACE><LOCALID>T8_ABL_0002-20</LOCALID><ORIG_FID>8110</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-21</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4936</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8393</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-21</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-21</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8111</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.551633462785552,41.97653460487067,-1.551633462785552</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-21</FINCA><SUPERFICIE>4936</SUPERFICIE><IDGIS>8393</IDGIS><NAMESPACE>T8_ABL_0002-21</NAMESPACE><LOCALID>T8_ABL_0002-21</LOCALID><ORIG_FID>8111</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-19</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5267</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8394</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-19</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-19</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8112</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.552304265560777,41.9768430606334,-1.552304265560777</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-19</FINCA><SUPERFICIE>5267</SUPERFICIE><IDGIS>8394</IDGIS><NAMESPACE>T8_ABL_0002-19</NAMESPACE><LOCALID>T8_ABL_0002-19</LOCALID><ORIG_FID>8112</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-18</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>433</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8395</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-18</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-18</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8113</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.552988141533305,41.97712583253653,-1.552988141533305</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-18</FINCA><SUPERFICIE>433</SUPERFICIE><IDGIS>8395</IDGIS><NAMESPACE>T8_ABL_0002-18</NAMESPACE><LOCALID>T8_ABL_0002-18</LOCALID><ORIG_FID>8113</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-17</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1611</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8396</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-17</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-17</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8114</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.552395028917146,41.97733447031582,-1.552395028917146</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-17</FINCA><SUPERFICIE>1611</SUPERFICIE><IDGIS>8396</IDGIS><NAMESPACE>T8_ABL_0002-17</NAMESPACE><LOCALID>T8_ABL_0002-17</LOCALID><ORIG_FID>8114</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-16</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1277</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8397</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-16</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-16</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8115</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.553379783970784,41.977435357421,-1.553379783970784</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-16</FINCA><SUPERFICIE>1277</SUPERFICIE><IDGIS>8397</IDGIS><NAMESPACE>T8_ABL_0002-16</NAMESPACE><LOCALID>T8_ABL_0002-16</LOCALID><ORIG_FID>8115</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-15</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2607</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8398</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-15</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-15</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8116</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.553193656444516,41.97762287164662,-1.553193656444515</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-15</FINCA><SUPERFICIE>2607</SUPERFICIE><IDGIS>8398</IDGIS><NAMESPACE>T8_ABL_0002-15</NAMESPACE><LOCALID>T8_ABL_0002-15</LOCALID><ORIG_FID>8116</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-14</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1030</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8399</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-14</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-14</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8117</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.553262376315936,41.9779272038153,-1.553262376315936</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-14</FINCA><SUPERFICIE>1030</SUPERFICIE><IDGIS>8399</IDGIS><NAMESPACE>T8_ABL_0002-14</NAMESPACE><LOCALID>T8_ABL_0002-14</LOCALID><ORIG_FID>8117</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-12</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1938</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8400</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-12</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-12</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8118</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.554264103054266,41.97799041547103,-1.554264103054266</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-12</FINCA><SUPERFICIE>1938</SUPERFICIE><IDGIS>8400</IDGIS><NAMESPACE>T8_ABL_0002-12</NAMESPACE><LOCALID>T8_ABL_0002-12</LOCALID><ORIG_FID>8118</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-13</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3157</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8401</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-13</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-13</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8119</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.553998624719748,41.97811897983383,-1.553998624719748</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-13</FINCA><SUPERFICIE>3157</SUPERFICIE><IDGIS>8401</IDGIS><NAMESPACE>T8_ABL_0002-13</NAMESPACE><LOCALID>T8_ABL_0002-13</LOCALID><ORIG_FID>8119</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>58</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8402</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8120</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.553862482351393,41.98057498494782,-1.553862482351393</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-9</FINCA><SUPERFICIE>58</SUPERFICIE><IDGIS>8402</IDGIS><NAMESPACE>T8_ABL_0002-9</NAMESPACE><LOCALID>T8_ABL_0002-9</LOCALID><ORIG_FID>8120</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>391</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8403</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8121</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.554187772067166,41.98036178751715,-1.554187772067166</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-5</FINCA><SUPERFICIE>391</SUPERFICIE><IDGIS>8403</IDGIS><NAMESPACE>T8_ABL_C-5</NAMESPACE><LOCALID>T8_ABL_C-5</LOCALID><ORIG_FID>8121</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>87</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8404</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8122</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.553935334728313,41.98060976144239,-1.553935334728313</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-5</FINCA><SUPERFICIE>87</SUPERFICIE><IDGIS>8404</IDGIS><NAMESPACE>T8_ABL_0002-5</NAMESPACE><LOCALID>T8_ABL_0002-5</LOCALID><ORIG_FID>8122</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0029</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>347</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8405</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0029</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0029</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8123</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.55430638626838,41.9803279612122,-1.55430638626838</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0029</FINCA><SUPERFICIE>347</SUPERFICIE><IDGIS>8405</IDGIS><NAMESPACE>T8_ABL_0029</NAMESPACE><LOCALID>T8_ABL_0029</LOCALID><ORIG_FID>8123</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13194</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8406</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8124</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.554950104876305,41.97887562217739,-1.554950104876305</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-10</FINCA><SUPERFICIE>13194</SUPERFICIE><IDGIS>8406</IDGIS><NAMESPACE>T8_ABL_0002-10</NAMESPACE><LOCALID>T8_ABL_0002-10</LOCALID><ORIG_FID>8124</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1316</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8407</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8125</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.554466256235414,41.98000093431282,-1.554466256235414</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-8</FINCA><SUPERFICIE>1316</SUPERFICIE><IDGIS>8407</IDGIS><NAMESPACE>T8_ABL_0002-8</NAMESPACE><LOCALID>T8_ABL_0002-8</LOCALID><ORIG_FID>8125</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2848</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8408</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8126</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.55595315144458,41.97934031827165,-1.55595315144458</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-7</FINCA><SUPERFICIE>2848</SUPERFICIE><IDGIS>8408</IDGIS><NAMESPACE>T8_ABL_0002-7</NAMESPACE><LOCALID>T8_ABL_0002-7</LOCALID><ORIG_FID>8126</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-11</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2082</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8409</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-11</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-11</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8127</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.55582962475304,41.9786196701776,-1.55582962475304</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-11</FINCA><SUPERFICIE>2082</SUPERFICIE><IDGIS>8409</IDGIS><NAMESPACE>T8_ABL_0002-11</NAMESPACE><LOCALID>T8_ABL_0002-11</LOCALID><ORIG_FID>8127</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-126</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>230</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8410</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-126</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-126</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8128</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.55742461234248,41.97890665441845,-1.55742461234248</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-126</FINCA><SUPERFICIE>230</SUPERFICIE><IDGIS>8410</IDGIS><NAMESPACE>T8_ABL_0002-126</NAMESPACE><LOCALID>T8_ABL_0002-126</LOCALID><ORIG_FID>8128</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>426</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8411</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8129</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.556523086944974,41.97938099733489,-1.556523086944974</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-4</FINCA><SUPERFICIE>426</SUPERFICIE><IDGIS>8411</IDGIS><NAMESPACE>T8_ABL_C-4</NAMESPACE><LOCALID>T8_ABL_C-4</LOCALID><ORIG_FID>8129</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2160</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8412</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8130</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.556664125779864,41.97906186233107,-1.556664125779864</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-6</FINCA><SUPERFICIE>2160</SUPERFICIE><IDGIS>8412</IDGIS><NAMESPACE>T8_ABL_0002-6</NAMESPACE><LOCALID>T8_ABL_0002-6</LOCALID><ORIG_FID>8130</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0028</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4858</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8413</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0028</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0028</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8131</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.556573273889681,41.97964009216608,-1.556573273889681</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0028</FINCA><SUPERFICIE>4858</SUPERFICIE><IDGIS>8413</IDGIS><NAMESPACE>T8_ABL_0028</NAMESPACE><LOCALID>T8_ABL_0028</LOCALID><ORIG_FID>8131</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>34</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8414</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0027-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0027-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8132</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.557346560522897,41.97957125588005,-1.557346560522897</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0027-1</FINCA><SUPERFICIE>34</SUPERFICIE><IDGIS>8414</IDGIS><NAMESPACE>T8_ABL_0027-1</NAMESPACE><LOCALID>T8_ABL_0027-1</LOCALID><ORIG_FID>8132</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0024</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>32</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8415</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0024</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0024</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8133</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.557696882845529,41.97975644116286,-1.557696882845529</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0024</FINCA><SUPERFICIE>32</SUPERFICIE><IDGIS>8415</IDGIS><NAMESPACE>T8_ABL_0024</NAMESPACE><LOCALID>T8_ABL_0024</LOCALID><ORIG_FID>8133</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>349</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8416</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0025</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0025</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8134</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.5575095858826,41.97970795851218,-1.5575095858826</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0025</FINCA><SUPERFICIE>349</SUPERFICIE><IDGIS>8416</IDGIS><NAMESPACE>T8_ABL_0025</NAMESPACE><LOCALID>T8_ABL_0025</LOCALID><ORIG_FID>8134</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0023</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1267</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8417</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0023</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0023</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8135</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.557814294092609,41.97994425786436,-1.557814294092609</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0023</FINCA><SUPERFICIE>1267</SUPERFICIE><IDGIS>8417</IDGIS><NAMESPACE>T8_ABL_0023</NAMESPACE><LOCALID>T8_ABL_0023</LOCALID><ORIG_FID>8135</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3415</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8418</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0026</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0026</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8136</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.557033157836447,41.9799376583233,-1.557033157836446</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0026</FINCA><SUPERFICIE>3415</SUPERFICIE><IDGIS>8418</IDGIS><NAMESPACE>T8_ABL_0026</NAMESPACE><LOCALID>T8_ABL_0026</LOCALID><ORIG_FID>8136</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1400</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8419</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0021</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0021</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8137</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.558067734310612,41.98017303597256,-1.558067734310612</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0021</FINCA><SUPERFICIE>1400</SUPERFICIE><IDGIS>8419</IDGIS><NAMESPACE>T8_ABL_0021</NAMESPACE><LOCALID>T8_ABL_0021</LOCALID><ORIG_FID>8137</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="138">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>52</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8420</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0020</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0020</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8138</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.5585230798437,41.98014900099737,-1.5585230798437</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0020</FINCA><SUPERFICIE>52</SUPERFICIE><IDGIS>8420</IDGIS><NAMESPACE>T8_ABL_0020</NAMESPACE><LOCALID>T8_ABL_0020</LOCALID><ORIG_FID>8138</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="139">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2898</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8421</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0022</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0022</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8139</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.557450190786818,41.9802546278469,-1.557450190786818</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0022</FINCA><SUPERFICIE>2898</SUPERFICIE><IDGIS>8421</IDGIS><NAMESPACE>T8_ABL_0022</NAMESPACE><LOCALID>T8_ABL_0022</LOCALID><ORIG_FID>8139</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="140">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>161</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8422</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8140</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.558092606912672,41.98031602411631,-1.558092606912672</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-3</FINCA><SUPERFICIE>161</SUPERFICIE><IDGIS>8422</IDGIS><NAMESPACE>T8_ABL_C-3</NAMESPACE><LOCALID>T8_ABL_C-3</LOCALID><ORIG_FID>8140</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="141">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4840</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8423</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0019</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0019</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8141</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.558274077168223,41.98053180203409,-1.558274077168223</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0019</FINCA><SUPERFICIE>4840</SUPERFICIE><IDGIS>8423</IDGIS><NAMESPACE>T8_ABL_0019</NAMESPACE><LOCALID>T8_ABL_0019</LOCALID><ORIG_FID>8141</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="142">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>205</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8424</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_A-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_A-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8142</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.558621553056802,41.98065757138723,-1.558621553056802</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>A-4</FINCA><SUPERFICIE>205</SUPERFICIE><IDGIS>8424</IDGIS><NAMESPACE>T8_ABL_A-4</NAMESPACE><LOCALID>T8_ABL_A-4</LOCALID><ORIG_FID>8142</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="143">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2373</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8425</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0018</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0018</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8143</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.558849730276654,41.980640949444,-1.558849730276654</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0018</FINCA><SUPERFICIE>2373</SUPERFICIE><IDGIS>8425</IDGIS><NAMESPACE>T8_ABL_0018</NAMESPACE><LOCALID>T8_ABL_0018</LOCALID><ORIG_FID>8143</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="144">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2531</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8426</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0017</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0017</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8144</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.559175451474546,41.98081415894058,-1.559175451474546</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0017</FINCA><SUPERFICIE>2531</SUPERFICIE><IDGIS>8426</IDGIS><NAMESPACE>T8_ABL_0017</NAMESPACE><LOCALID>T8_ABL_0017</LOCALID><ORIG_FID>8144</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="145">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>390</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8427</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0016</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0016</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8145</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.558752894798625,41.98110118958828,-1.558752894798625</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0016</FINCA><SUPERFICIE>390</SUPERFICIE><IDGIS>8427</IDGIS><NAMESPACE>T8_ABL_0016</NAMESPACE><LOCALID>T8_ABL_0016</LOCALID><ORIG_FID>8145</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="146">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>597</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8428</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8146</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.559899684895995,41.98088794630728,-1.559899684895995</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0014</FINCA><SUPERFICIE>597</SUPERFICIE><IDGIS>8428</IDGIS><NAMESPACE>T8_ABL_0014</NAMESPACE><LOCALID>T8_ABL_0014</LOCALID><ORIG_FID>8146</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="147">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1642</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8429</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0015</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0015</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8147</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.55948000685378,41.98098518891766,-1.55948000685378</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0015</FINCA><SUPERFICIE>1642</SUPERFICIE><IDGIS>8429</IDGIS><NAMESPACE>T8_ABL_0015</NAMESPACE><LOCALID>T8_ABL_0015</LOCALID><ORIG_FID>8147</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="148">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>319</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8430</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_A-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_A-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8148</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.559621198088322,41.98108463066208,-1.559621198088322</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>A-3</FINCA><SUPERFICIE>319</SUPERFICIE><IDGIS>8430</IDGIS><NAMESPACE>T8_ABL_A-3</NAMESPACE><LOCALID>T8_ABL_A-3</LOCALID><ORIG_FID>8148</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="149">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>354</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8431</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8149</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.559571587656769,41.98111728039858,-1.559571587656769</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-2</FINCA><SUPERFICIE>354</SUPERFICIE><IDGIS>8431</IDGIS><NAMESPACE>T8_ABL_C-2</NAMESPACE><LOCALID>T8_ABL_C-2</LOCALID><ORIG_FID>8149</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="150">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>785</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8432</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0013</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0013</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8150</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.559246072595963,41.98127738499097,-1.559246072595963</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0013</FINCA><SUPERFICIE>785</SUPERFICIE><IDGIS>8432</IDGIS><NAMESPACE>T8_ABL_0013</NAMESPACE><LOCALID>T8_ABL_0013</LOCALID><ORIG_FID>8150</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="151">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0012</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3931</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8433</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0012</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0012</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8151</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.559873466254981,41.98143696857457,-1.559873466254981</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0012</FINCA><SUPERFICIE>3931</SUPERFICIE><IDGIS>8433</IDGIS><NAMESPACE>T8_ABL_0012</NAMESPACE><LOCALID>T8_ABL_0012</LOCALID><ORIG_FID>8151</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="152">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1019</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8434</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0011</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0011</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8152</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.56112713326976,41.9815274535236,-1.56112713326976</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0011</FINCA><SUPERFICIE>1019</SUPERFICIE><IDGIS>8434</IDGIS><NAMESPACE>T8_ABL_0011</NAMESPACE><LOCALID>T8_ABL_0011</LOCALID><ORIG_FID>8152</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="153">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1099</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8435</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0009-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0009-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8153</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.561412912506738,41.98175231647498,-1.561412912506738</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0009-2</FINCA><SUPERFICIE>1099</SUPERFICIE><IDGIS>8435</IDGIS><NAMESPACE>T8_ABL_0009-2</NAMESPACE><LOCALID>T8_ABL_0009-2</LOCALID><ORIG_FID>8153</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="154">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7610</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8436</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0010</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0010</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8154</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.560685057987114,41.98166134235592,-1.560685057987114</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0010</FINCA><SUPERFICIE>7610</SUPERFICIE><IDGIS>8436</IDGIS><NAMESPACE>T8_ABL_0010</NAMESPACE><LOCALID>T8_ABL_0010</LOCALID><ORIG_FID>8154</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="155">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1241</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8437</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0009-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0009-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8155</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.561549759051311,41.98193868693142,-1.561549759051311</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0009-1</FINCA><SUPERFICIE>1241</SUPERFICIE><IDGIS>8437</IDGIS><NAMESPACE>T8_ABL_0009-1</NAMESPACE><LOCALID>T8_ABL_0009-1</LOCALID><ORIG_FID>8155</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="156">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2071</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8438</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0005-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0005-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8156</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.562188963590001,41.9826462719145,-1.562188963590001</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0005-4</FINCA><SUPERFICIE>2071</SUPERFICIE><IDGIS>8438</IDGIS><NAMESPACE>T8_ABL_0005-4</NAMESPACE><LOCALID>T8_ABL_0005-4</LOCALID><ORIG_FID>8156</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="157">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>573</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8439</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0005-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0005-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8157</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.562548655351392,41.98235002581077,-1.562548655351391</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0005-7</FINCA><SUPERFICIE>573</SUPERFICIE><IDGIS>8439</IDGIS><NAMESPACE>T8_ABL_0005-7</NAMESPACE><LOCALID>T8_ABL_0005-7</LOCALID><ORIG_FID>8157</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="158">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>968</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8440</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0006</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0006</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8158</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.562352530220756,41.98216742987936,-1.562352530220756</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0006</FINCA><SUPERFICIE>968</SUPERFICIE><IDGIS>8440</IDGIS><NAMESPACE>T8_ABL_0006</NAMESPACE><LOCALID>T8_ABL_0006</LOCALID><ORIG_FID>8158</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="159">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3370</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8441</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0008</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0008</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8159</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.561825621975285,41.98217967931029,-1.561825621975285</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0008</FINCA><SUPERFICIE>3370</SUPERFICIE><IDGIS>8441</IDGIS><NAMESPACE>T8_ABL_0008</NAMESPACE><LOCALID>T8_ABL_0008</LOCALID><ORIG_FID>8159</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="160">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>202</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8442</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_A-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_A-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8160</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.561912030474439,41.98239856535284,-1.561912030474439</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>A-2</FINCA><SUPERFICIE>202</SUPERFICIE><IDGIS>8442</IDGIS><NAMESPACE>T8_ABL_A-2</NAMESPACE><LOCALID>T8_ABL_A-2</LOCALID><ORIG_FID>8160</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="161">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0007</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>733</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8443</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0007</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0007</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8161</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.561868415179896,41.98245650458391,-1.561868415179896</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0007</FINCA><SUPERFICIE>733</SUPERFICIE><IDGIS>8443</IDGIS><NAMESPACE>T8_ABL_0007</NAMESPACE><LOCALID>T8_ABL_0007</LOCALID><ORIG_FID>8161</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="162">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>652</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8444</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0005-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0005-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8162</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.562531516007771,41.98293669015773,-1.562531516007771</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0005-3</FINCA><SUPERFICIE>652</SUPERFICIE><IDGIS>8444</IDGIS><NAMESPACE>T8_ABL_0005-3</NAMESPACE><LOCALID>T8_ABL_0005-3</LOCALID><ORIG_FID>8162</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="163">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8445</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0005-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0005-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8163</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.562783306067146,41.98314103253839,-1.562783306067146</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0005-5</FINCA><SUPERFICIE>3</SUPERFICIE><IDGIS>8445</IDGIS><NAMESPACE>T8_ABL_0005-5</NAMESPACE><LOCALID>T8_ABL_0005-5</LOCALID><ORIG_FID>8163</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="164">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>776</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8446</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0005-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0005-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8164</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.562765884173041,41.9824091909748,-1.562765884173041</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0005-6</FINCA><SUPERFICIE>776</SUPERFICIE><IDGIS>8446</IDGIS><NAMESPACE>T8_ABL_0005-6</NAMESPACE><LOCALID>T8_ABL_0005-6</LOCALID><ORIG_FID>8164</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="165">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2658</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8447</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0005-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0005-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8165</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.562970639155056,41.98264848410651,-1.562970639155056</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0005-2</FINCA><SUPERFICIE>2658</SUPERFICIE><IDGIS>8447</IDGIS><NAMESPACE>T8_ABL_0005-2</NAMESPACE><LOCALID>T8_ABL_0005-2</LOCALID><ORIG_FID>8165</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="166">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0004</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>42</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8448</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0004</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0004</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8166</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.563999799476919,41.98290692479586,-1.563999799476919</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0004</FINCA><SUPERFICIE>42</SUPERFICIE><IDGIS>8448</IDGIS><NAMESPACE>T8_ABL_0004</NAMESPACE><LOCALID>T8_ABL_0004</LOCALID><ORIG_FID>8166</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="167">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>162</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8449</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_A-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_A-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8167</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.56347660954951,41.98305521761819,-1.56347660954951</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>A-1</FINCA><SUPERFICIE>162</SUPERFICIE><IDGIS>8449</IDGIS><NAMESPACE>T8_ABL_A-1</NAMESPACE><LOCALID>T8_ABL_A-1</LOCALID><ORIG_FID>8167</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="168">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3414</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8450</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0005-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0005-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8168</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.563263100793589,41.98293001416482,-1.563263100793589</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0005-1</FINCA><SUPERFICIE>3414</SUPERFICIE><IDGIS>8450</IDGIS><NAMESPACE>T8_ABL_0005-1</NAMESPACE><LOCALID>T8_ABL_0005-1</LOCALID><ORIG_FID>8168</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="169">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2083</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8451</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0003</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0003</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8169</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.563572059452739,41.98313742558705,-1.563572059452739</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0003</FINCA><SUPERFICIE>2083</SUPERFICIE><IDGIS>8451</IDGIS><NAMESPACE>T8_ABL_0003</NAMESPACE><LOCALID>T8_ABL_0003</LOCALID><ORIG_FID>8169</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="170">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2758</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8452</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_C-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_C-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8170</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.564714381280536,41.98313509905534,-1.564714381280536</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>C-1</FINCA><SUPERFICIE>2758</SUPERFICIE><IDGIS>8452</IDGIS><NAMESPACE>T8_ABL_C-1</NAMESPACE><LOCALID>T8_ABL_C-1</LOCALID><ORIG_FID>8170</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="171">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-123</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>798</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8453</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-123</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-123</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8171</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.565576102304674,41.98302265506684,-1.565576102304674</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-123</FINCA><SUPERFICIE>798</SUPERFICIE><IDGIS>8453</IDGIS><NAMESPACE>T8_ABL_0002-123</NAMESPACE><LOCALID>T8_ABL_0002-123</LOCALID><ORIG_FID>8171</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="172">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5223</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8454</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8172</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.564603797372174,41.98327922252945,-1.564603797372173</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-4</FINCA><SUPERFICIE>5223</SUPERFICIE><IDGIS>8454</IDGIS><NAMESPACE>T8_ABL_0002-4</NAMESPACE><LOCALID>T8_ABL_0002-4</LOCALID><ORIG_FID>8172</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="173">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6815</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8532</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0001</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0001</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8250</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.602468234848105,42.01256733735958,-1.602468234848105</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0001</FINCA><SUPERFICIE>6815</SUPERFICIE><IDGIS>8532</IDGIS><NAMESPACE>T8_ABL_0001</NAMESPACE><LOCALID>T8_ABL_0001</LOCALID><ORIG_FID>8250</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="174">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-124</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>91</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8980</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-124</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-124</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8684</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.566174734120081,41.98264944359121,-1.566174734120082</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-124</FINCA><SUPERFICIE>91</SUPERFICIE><IDGIS>8980</IDGIS><NAMESPACE>T8_ABL_0002-124</NAMESPACE><LOCALID>T8_ABL_0002-124</LOCALID><ORIG_FID>8684</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="175">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-122</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>98</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8981</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-122</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-122</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8685</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.565409963878252,41.98345319439241,-1.565409963878252</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-122</FINCA><SUPERFICIE>98</SUPERFICIE><IDGIS>8981</IDGIS><NAMESPACE>T8_ABL_0002-122</NAMESPACE><LOCALID>T8_ABL_0002-122</LOCALID><ORIG_FID>8685</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="176">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003-N</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1954</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8982</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0003-N</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0003-N</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8686</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.564825494864982,41.9829128237209,-1.564825494864981</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0003-N</FINCA><SUPERFICIE>1954</SUPERFICIE><IDGIS>8982</IDGIS><NAMESPACE>T8_ABL_0003-N</NAMESPACE><LOCALID>T8_ABL_0003-N</LOCALID><ORIG_FID>8686</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="177">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-N</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1151</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8994</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0001-N</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0001-N</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8697</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.603218541242115,42.01297438700964,-1.603218541242115</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0001-N</FINCA><SUPERFICIE>1151</SUPERFICIE><IDGIS>8994</IDGIS><NAMESPACE>T8_ABL_0001-N</NAMESPACE><LOCALID>T8_ABL_0001-N</LOCALID><ORIG_FID>8697</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="178">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-82</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9003</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0002-82</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0002-82</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8706</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.522586861507647,41.94108790688826,-1.522586861507647</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0002-82</FINCA><SUPERFICIE>3</SUPERFICIE><IDGIS>9003</IDGIS><NAMESPACE>T8_ABL_0002-82</NAMESPACE><LOCALID>T8_ABL_0002-82</LOCALID><ORIG_FID>8706</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="179">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ABL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>61</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9094</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_ABL_0027-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_ABL_0027-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8796</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.557196158394567,41.97922886694887,-1.557196158394567</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>ABL</TERMINO><FINCA>0027-2</FINCA><SUPERFICIE>61</SUPERFICIE><IDGIS>9094</IDGIS><NAMESPACE>T8_ABL_0027-2</NAMESPACE><LOCALID>T8_ABL_0027-2</LOCALID><ORIG_FID>8796</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,5565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T7_ALF_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>42.20575185234986</north>
+			<south>42.13965383040027</south>
+			<east>-1.77842458405323</east>
+			<west>-1.865855088058941</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0104</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3156</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0104</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0104</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>0</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.779678949676032,42.13965383040027,-1.779678949676032</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0104</FINCA><SUPERFICIE>3156</SUPERFICIE><IDGIS>1</IDGIS><NAMESPACE>T7_ALF_0104</NAMESPACE><LOCALID>T7_ALF_0104</LOCALID><ORIG_FID>0</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0097-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>34616</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>2</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0097-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0097-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.781337639635715,42.14095429023391,-1.781337639635715</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0097-3</FINCA><SUPERFICIE>34616</SUPERFICIE><IDGIS>2</IDGIS><NAMESPACE>T7_ALF_0097-3</NAMESPACE><LOCALID>T7_ALF_0097-3</LOCALID><ORIG_FID>1</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4396</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0103-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0103-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>2</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.783448887384082,42.14309599281023,-1.783448887384082</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0103-2</FINCA><SUPERFICIE>4396</SUPERFICIE><IDGIS>3</IDGIS><NAMESPACE>T7_ALF_0103-2</NAMESPACE><LOCALID>T7_ALF_0103-2</LOCALID><ORIG_FID>2</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0097-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>348</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>4</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0097-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0097-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.78419883078612,42.14352763604543,-1.78419883078612</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0097-2</FINCA><SUPERFICIE>348</SUPERFICIE><IDGIS>4</IDGIS><NAMESPACE>T7_ALF_0097-2</NAMESPACE><LOCALID>T7_ALF_0097-2</LOCALID><ORIG_FID>3</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0101-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>28</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0101-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0101-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.784448752390853,42.14376661704809,-1.784448752390853</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0101-2</FINCA><SUPERFICIE>28</SUPERFICIE><IDGIS>5</IDGIS><NAMESPACE>T7_ALF_0101-2</NAMESPACE><LOCALID>T7_ALF_0101-2</LOCALID><ORIG_FID>4</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2296</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0103-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0103-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.783613977056499,42.14353357944908,-1.783613977056499</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0103-1</FINCA><SUPERFICIE>2296</SUPERFICIE><IDGIS>6</IDGIS><NAMESPACE>T7_ALF_0103-1</NAMESPACE><LOCALID>T7_ALF_0103-1</LOCALID><ORIG_FID>5</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0102-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>194</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0102-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0102-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.784278455822552,42.14368116078973,-1.784278455822552</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0102-2</FINCA><SUPERFICIE>194</SUPERFICIE><IDGIS>7</IDGIS><NAMESPACE>T7_ALF_0102-2</NAMESPACE><LOCALID>T7_ALF_0102-2</LOCALID><ORIG_FID>6</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0100-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>319</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0100-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0100-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.783762011350945,42.14344763716662,-1.783762011350945</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0100-2</FINCA><SUPERFICIE>319</SUPERFICIE><IDGIS>8</IDGIS><NAMESPACE>T7_ALF_0100-2</NAMESPACE><LOCALID>T7_ALF_0100-2</LOCALID><ORIG_FID>7</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0102-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1555</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0102-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0102-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.783970342708899,42.14382760229104,-1.783970342708899</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0102-1</FINCA><SUPERFICIE>1555</SUPERFICIE><IDGIS>9</IDGIS><NAMESPACE>T7_ALF_0102-1</NAMESPACE><LOCALID>T7_ALF_0102-1</LOCALID><ORIG_FID>8</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0101-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3743</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0101-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0101-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.784339501092725,42.14416164819528,-1.784339501092725</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0101-1</FINCA><SUPERFICIE>3743</SUPERFICIE><IDGIS>10</IDGIS><NAMESPACE>T7_ALF_0101-1</NAMESPACE><LOCALID>T7_ALF_0101-1</LOCALID><ORIG_FID>9</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0100-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>181</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0100-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0100-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.784597954634354,42.14437142288356,-1.784597954634354</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0100-1</FINCA><SUPERFICIE>181</SUPERFICIE><IDGIS>11</IDGIS><NAMESPACE>T7_ALF_0100-1</NAMESPACE><LOCALID>T7_ALF_0100-1</LOCALID><ORIG_FID>10</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0099</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>40340</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0099</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0099</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.787118785416506,42.14637970042143,-1.787118785416505</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0099</FINCA><SUPERFICIE>40340</SUPERFICIE><IDGIS>12</IDGIS><NAMESPACE>T7_ALF_0099</NAMESPACE><LOCALID>T7_ALF_0099</LOCALID><ORIG_FID>11</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0097-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7607</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>13</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0097-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0097-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.790320700868702,42.14822343832956,-1.790320700868702</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0097-4</FINCA><SUPERFICIE>7607</SUPERFICIE><IDGIS>13</IDGIS><NAMESPACE>T7_ALF_0097-4</NAMESPACE><LOCALID>T7_ALF_0097-4</LOCALID><ORIG_FID>12</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0098-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5011</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>14</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0098-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0098-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>13</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.791556776094385,42.14888130189893,-1.791556776094384</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0098-2</FINCA><SUPERFICIE>5011</SUPERFICIE><IDGIS>14</IDGIS><NAMESPACE>T7_ALF_0098-2</NAMESPACE><LOCALID>T7_ALF_0098-2</LOCALID><ORIG_FID>13</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0098-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2183</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>15</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0098-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0098-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>14</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.792055417456675,42.14928788008671,-1.792055417456675</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0098-3</FINCA><SUPERFICIE>2183</SUPERFICIE><IDGIS>15</IDGIS><NAMESPACE>T7_ALF_0098-3</NAMESPACE><LOCALID>T7_ALF_0098-3</LOCALID><ORIG_FID>14</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0098-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3822</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>16</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0098-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0098-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>15</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.792660068635736,42.14924904745302,-1.792660068635736</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0098-1</FINCA><SUPERFICIE>3822</SUPERFICIE><IDGIS>16</IDGIS><NAMESPACE>T7_ALF_0098-1</NAMESPACE><LOCALID>T7_ALF_0098-1</LOCALID><ORIG_FID>15</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0098-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3570</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>17</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0098-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0098-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>16</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.793134978979231,42.14972455344358,-1.793134978979232</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0098-4</FINCA><SUPERFICIE>3570</SUPERFICIE><IDGIS>17</IDGIS><NAMESPACE>T7_ALF_0098-4</NAMESPACE><LOCALID>T7_ALF_0098-4</LOCALID><ORIG_FID>16</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0097-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>48373</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>18</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0097-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0097-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>17</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.797555762250746,42.15081910817623,-1.797555762250746</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0097-1</FINCA><SUPERFICIE>48373</SUPERFICIE><IDGIS>18</IDGIS><NAMESPACE>T7_ALF_0097-1</NAMESPACE><LOCALID>T7_ALF_0097-1</LOCALID><ORIG_FID>17</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0096</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>52</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>19</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0096</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0096</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>18</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.801353199441519,42.15209160173517,-1.801353199441519</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0096</FINCA><SUPERFICIE>52</SUPERFICIE><IDGIS>19</IDGIS><NAMESPACE>T7_ALF_0096</NAMESPACE><LOCALID>T7_ALF_0096</LOCALID><ORIG_FID>18</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0094-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>174</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>20</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0094-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0094-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>19</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.808345409848178,42.15360365292766,-1.808345409848178</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0094-4</FINCA><SUPERFICIE>174</SUPERFICIE><IDGIS>20</IDGIS><NAMESPACE>T7_ALF_0094-4</NAMESPACE><LOCALID>T7_ALF_0094-4</LOCALID><ORIG_FID>19</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0094-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>420</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>21</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0094-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0094-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>20</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.810673133148665,42.15234671682627,-1.810673133148665</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0094-2</FINCA><SUPERFICIE>420</SUPERFICIE><IDGIS>21</IDGIS><NAMESPACE>T7_ALF_0094-2</NAMESPACE><LOCALID>T7_ALF_0094-2</LOCALID><ORIG_FID>20</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0090-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5205</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>23</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0090-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0090-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>21</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.812665554355538,42.15378194905761,-1.812665554355537</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0090-3</FINCA><SUPERFICIE>5205</SUPERFICIE><IDGIS>23</IDGIS><NAMESPACE>T7_ALF_0090-3</NAMESPACE><LOCALID>T7_ALF_0090-3</LOCALID><ORIG_FID>21</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0095</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8057</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>24</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0095</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0095</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>22</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.807957289752991,42.15396691710821,-1.807957289752991</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0095</FINCA><SUPERFICIE>8057</SUPERFICIE><IDGIS>24</IDGIS><NAMESPACE>T7_ALF_0095</NAMESPACE><LOCALID>T7_ALF_0095</LOCALID><ORIG_FID>22</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0094-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6898</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>25</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0094-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0094-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>23</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.809262092095758,42.15363370838465,-1.809262092095758</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0094-3</FINCA><SUPERFICIE>6898</SUPERFICIE><IDGIS>25</IDGIS><NAMESPACE>T7_ALF_0094-3</NAMESPACE><LOCALID>T7_ALF_0094-3</LOCALID><ORIG_FID>23</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0093-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>31049</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>26</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0093-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0093-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>24</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.810247190036579,42.15489836711123,-1.810247190036579</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0093-1</FINCA><SUPERFICIE>31049</SUPERFICIE><IDGIS>26</IDGIS><NAMESPACE>T7_ALF_0093-1</NAMESPACE><LOCALID>T7_ALF_0093-1</LOCALID><ORIG_FID>24</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0093-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>33758</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>27</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0093-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0093-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>25</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.804903519833194,42.15295833076768,-1.804903519833194</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0093-2</FINCA><SUPERFICIE>33758</SUPERFICIE><IDGIS>27</IDGIS><NAMESPACE>T7_ALF_0093-2</NAMESPACE><LOCALID>T7_ALF_0093-2</LOCALID><ORIG_FID>25</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0092-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>869</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>28</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0092-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0092-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>26</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.810549707678843,42.15510099751214,-1.810549707678843</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0092-1</FINCA><SUPERFICIE>869</SUPERFICIE><IDGIS>28</IDGIS><NAMESPACE>T7_ALF_0092-1</NAMESPACE><LOCALID>T7_ALF_0092-1</LOCALID><ORIG_FID>26</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0090-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2590</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>29</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0090-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0090-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>27</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.81766688638687,42.16066553366215,-1.81766688638687</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0090-1</FINCA><SUPERFICIE>2590</SUPERFICIE><IDGIS>29</IDGIS><NAMESPACE>T7_ALF_0090-1</NAMESPACE><LOCALID>T7_ALF_0090-1</LOCALID><ORIG_FID>27</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0089-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8268</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>30</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0089-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0089-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>28</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.815522248080756,42.15892880683296,-1.815522248080756</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0089-A</FINCA><SUPERFICIE>8268</SUPERFICIE><IDGIS>30</IDGIS><NAMESPACE>T7_ALF_0089-A</NAMESPACE><LOCALID>T7_ALF_0089-A</LOCALID><ORIG_FID>28</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0089-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2755</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>31</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0089-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0089-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>29</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.813990971607091,42.15749273755712,-1.813990971607091</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0089-1</FINCA><SUPERFICIE>2755</SUPERFICIE><IDGIS>31</IDGIS><NAMESPACE>T7_ALF_0089-1</NAMESPACE><LOCALID>T7_ALF_0089-1</LOCALID><ORIG_FID>29</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0089-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2846</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>32</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0089-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0089-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>30</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.81479437116702,42.15716119986669,-1.814794371167019</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0089-2</FINCA><SUPERFICIE>2846</SUPERFICIE><IDGIS>32</IDGIS><NAMESPACE>T7_ALF_0089-2</NAMESPACE><LOCALID>T7_ALF_0089-2</LOCALID><ORIG_FID>30</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0105</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>484</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>33</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0105</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0105</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>31</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.813155068842036,42.15416732867686,-1.813155068842036</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0105</FINCA><SUPERFICIE>484</SUPERFICIE><IDGIS>33</IDGIS><NAMESPACE>T7_ALF_0105</NAMESPACE><LOCALID>T7_ALF_0105</LOCALID><ORIG_FID>31</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0085-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>298</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>34</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0085-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0085-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>32</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.824010368957013,42.16221651732813,-1.824010368957012</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0085-2</FINCA><SUPERFICIE>298</SUPERFICIE><IDGIS>34</IDGIS><NAMESPACE>T7_ALF_0085-2</NAMESPACE><LOCALID>T7_ALF_0085-2</LOCALID><ORIG_FID>32</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0091</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>18748</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>35</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0091</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0091</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>33</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.813499562981004,42.15629351967693,-1.813499562981004</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0091</FINCA><SUPERFICIE>18748</SUPERFICIE><IDGIS>35</IDGIS><NAMESPACE>T7_ALF_0091</NAMESPACE><LOCALID>T7_ALF_0091</LOCALID><ORIG_FID>33</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0092-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>163</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>36</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0092-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0092-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>34</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.813320021995121,42.15538984383559,-1.813320021995121</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0092-2</FINCA><SUPERFICIE>163</SUPERFICIE><IDGIS>36</IDGIS><NAMESPACE>T7_ALF_0092-2</NAMESPACE><LOCALID>T7_ALF_0092-2</LOCALID><ORIG_FID>34</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0090-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3437</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>37</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0090-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0090-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>35</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.815109132754324,42.15710240393001,-1.815109132754324</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0090-2</FINCA><SUPERFICIE>3437</SUPERFICIE><IDGIS>37</IDGIS><NAMESPACE>T7_ALF_0090-2</NAMESPACE><LOCALID>T7_ALF_0090-2</LOCALID><ORIG_FID>35</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0088</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>61775</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>38</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0088</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0088</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>36</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.819632562441768,42.15982900452116,-1.819632562441768</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0088</FINCA><SUPERFICIE>61775</SUPERFICIE><IDGIS>38</IDGIS><NAMESPACE>T7_ALF_0088</NAMESPACE><LOCALID>T7_ALF_0088</LOCALID><ORIG_FID>36</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0085-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>59</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>39</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0085-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0085-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>37</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.823520823532462,42.16185130114946,-1.823520823532462</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0085-1</FINCA><SUPERFICIE>59</SUPERFICIE><IDGIS>39</IDGIS><NAMESPACE>T7_ALF_0085-1</NAMESPACE><LOCALID>T7_ALF_0085-1</LOCALID><ORIG_FID>37</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0081</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>320</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>40</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0081</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0081</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>38</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.826314695458318,42.16382198643142,-1.826314695458318</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0081</FINCA><SUPERFICIE>320</SUPERFICIE><IDGIS>40</IDGIS><NAMESPACE>T7_ALF_0081</NAMESPACE><LOCALID>T7_ALF_0081</LOCALID><ORIG_FID>38</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0083</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3982</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>41</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0083</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0083</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>39</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.824497023545901,42.1634422902286,-1.824497023545901</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0083</FINCA><SUPERFICIE>3982</SUPERFICIE><IDGIS>41</IDGIS><NAMESPACE>T7_ALF_0083</NAMESPACE><LOCALID>T7_ALF_0083</LOCALID><ORIG_FID>39</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0084</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6658</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>42</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0084</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0084</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>40</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.824310117009018,42.16259460430386,-1.824310117009018</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0084</FINCA><SUPERFICIE>6658</SUPERFICIE><IDGIS>42</IDGIS><NAMESPACE>T7_ALF_0084</NAMESPACE><LOCALID>T7_ALF_0084</LOCALID><ORIG_FID>40</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0086</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3203</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>43</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0086</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0086</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>41</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.824279408702751,42.16286621708709,-1.824279408702751</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0086</FINCA><SUPERFICIE>3203</SUPERFICIE><IDGIS>43</IDGIS><NAMESPACE>T7_ALF_0086</NAMESPACE><LOCALID>T7_ALF_0086</LOCALID><ORIG_FID>41</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0082</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6698</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>44</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0082</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0082</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>42</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.825518590371535,42.16344924145263,-1.825518590371535</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0082</FINCA><SUPERFICIE>6698</SUPERFICIE><IDGIS>44</IDGIS><NAMESPACE>T7_ALF_0082</NAMESPACE><LOCALID>T7_ALF_0082</LOCALID><ORIG_FID>42</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>45</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0079-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0079-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>43</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.824838424121023,42.16440617345135,-1.824838424121023</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0079-3</FINCA><SUPERFICIE>7</SUPERFICIE><IDGIS>45</IDGIS><NAMESPACE>T7_ALF_0079-3</NAMESPACE><LOCALID>T7_ALF_0079-3</LOCALID><ORIG_FID>43</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13077</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>46</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0079-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0079-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>44</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.825274948512234,42.16412399367221,-1.825274948512234</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0079-2</FINCA><SUPERFICIE>13077</SUPERFICIE><IDGIS>46</IDGIS><NAMESPACE>T7_ALF_0079-2</NAMESPACE><LOCALID>T7_ALF_0079-2</LOCALID><ORIG_FID>44</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4662</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>47</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0079-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0079-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>45</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.825915260022995,42.16477896964831,-1.825915260022996</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0079-1</FINCA><SUPERFICIE>4662</SUPERFICIE><IDGIS>47</IDGIS><NAMESPACE>T7_ALF_0079-1</NAMESPACE><LOCALID>T7_ALF_0079-1</LOCALID><ORIG_FID>45</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0080</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2489</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>48</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0080</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0080</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>46</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.825496948328137,42.16377199910983,-1.825496948328136</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0080</FINCA><SUPERFICIE>2489</SUPERFICIE><IDGIS>48</IDGIS><NAMESPACE>T7_ALF_0080</NAMESPACE><LOCALID>T7_ALF_0080</LOCALID><ORIG_FID>46</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0078</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1138</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>49</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0078</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0078</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>47</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.826143859691789,42.16521743519072,-1.826143859691789</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0078</FINCA><SUPERFICIE>1138</SUPERFICIE><IDGIS>49</IDGIS><NAMESPACE>T7_ALF_0078</NAMESPACE><LOCALID>T7_ALF_0078</LOCALID><ORIG_FID>47</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0074</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1744</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>50</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0074</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0074</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>48</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.829054329167004,42.16746772018496,-1.829054329167004</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0074</FINCA><SUPERFICIE>1744</SUPERFICIE><IDGIS>50</IDGIS><NAMESPACE>T7_ALF_0074</NAMESPACE><LOCALID>T7_ALF_0074</LOCALID><ORIG_FID>48</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0077</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1282</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>51</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0077</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0077</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>49</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.827522853841101,42.16518995360192,-1.827522853841101</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0077</FINCA><SUPERFICIE>1282</SUPERFICIE><IDGIS>51</IDGIS><NAMESPACE>T7_ALF_0077</NAMESPACE><LOCALID>T7_ALF_0077</LOCALID><ORIG_FID>49</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0076</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14365</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>52</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0076</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0076</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>50</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.826881191762296,42.16503427031024,-1.826881191762296</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0076</FINCA><SUPERFICIE>14365</SUPERFICIE><IDGIS>52</IDGIS><NAMESPACE>T7_ALF_0076</NAMESPACE><LOCALID>T7_ALF_0076</LOCALID><ORIG_FID>50</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0075</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15120</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>53</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0075</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0075</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>51</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.82827559479089,42.16643251332209,-1.82827559479089</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0075</FINCA><SUPERFICIE>15120</SUPERFICIE><IDGIS>53</IDGIS><NAMESPACE>T7_ALF_0075</NAMESPACE><LOCALID>T7_ALF_0075</LOCALID><ORIG_FID>51</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0073-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5791</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>54</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0073-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0073-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>52</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.829668130525111,42.16776998673385,-1.829668130525111</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0073-2</FINCA><SUPERFICIE>5791</SUPERFICIE><IDGIS>54</IDGIS><NAMESPACE>T7_ALF_0073-2</NAMESPACE><LOCALID>T7_ALF_0073-2</LOCALID><ORIG_FID>52</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0073-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4932</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>55</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0073-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0073-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>53</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.83022829530867,42.16843717611433,-1.83022829530867</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0073-1</FINCA><SUPERFICIE>4932</SUPERFICIE><IDGIS>55</IDGIS><NAMESPACE>T7_ALF_0073-1</NAMESPACE><LOCALID>T7_ALF_0073-1</LOCALID><ORIG_FID>53</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0072</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4179</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>56</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0072</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0072</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>54</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.830742588520081,42.16898075320585,-1.830742588520081</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0072</FINCA><SUPERFICIE>4179</SUPERFICIE><IDGIS>56</IDGIS><NAMESPACE>T7_ALF_0072</NAMESPACE><LOCALID>T7_ALF_0072</LOCALID><ORIG_FID>54</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0071</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4105</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>57</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0071</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0071</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>55</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.831175479715448,42.16947255493124,-1.831175479715448</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0071</FINCA><SUPERFICIE>4105</SUPERFICIE><IDGIS>57</IDGIS><NAMESPACE>T7_ALF_0071</NAMESPACE><LOCALID>T7_ALF_0071</LOCALID><ORIG_FID>55</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0070</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>314</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>58</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0070</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0070</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>56</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.831351653660314,42.16971046572774,-1.831351653660314</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0070</FINCA><SUPERFICIE>314</SUPERFICIE><IDGIS>58</IDGIS><NAMESPACE>T7_ALF_0070</NAMESPACE><LOCALID>T7_ALF_0070</LOCALID><ORIG_FID>56</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0069</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2709</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>59</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0069</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0069</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>57</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.831440864366105,42.16987067191342,-1.831440864366105</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0069</FINCA><SUPERFICIE>2709</SUPERFICIE><IDGIS>59</IDGIS><NAMESPACE>T7_ALF_0069</NAMESPACE><LOCALID>T7_ALF_0069</LOCALID><ORIG_FID>57</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0067-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>217</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>60</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0067-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0067-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>58</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.832189432038273,42.17131418496583,-1.832189432038272</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0067-2</FINCA><SUPERFICIE>217</SUPERFICIE><IDGIS>60</IDGIS><NAMESPACE>T7_ALF_0067-2</NAMESPACE><LOCALID>T7_ALF_0067-2</LOCALID><ORIG_FID>58</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0068</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1508</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>61</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0068</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0068</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>59</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.832022340949896,42.17094123069908,-1.832022340949896</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0068</FINCA><SUPERFICIE>1508</SUPERFICIE><IDGIS>61</IDGIS><NAMESPACE>T7_ALF_0068</NAMESPACE><LOCALID>T7_ALF_0068</LOCALID><ORIG_FID>59</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0067-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1623</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>62</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0067-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0067-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>60</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.831233701782179,42.17201986039028,-1.831233701782179</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0067-1</FINCA><SUPERFICIE>1623</SUPERFICIE><IDGIS>62</IDGIS><NAMESPACE>T7_ALF_0067-1</NAMESPACE><LOCALID>T7_ALF_0067-1</LOCALID><ORIG_FID>60</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0066</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14499</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>63</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0066</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0066</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>61</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.832314978648613,42.17088213370834,-1.832314978648613</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0066</FINCA><SUPERFICIE>14499</SUPERFICIE><IDGIS>63</IDGIS><NAMESPACE>T7_ALF_0066</NAMESPACE><LOCALID>T7_ALF_0066</LOCALID><ORIG_FID>61</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0065</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>235</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>64</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0065</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0065</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>62</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.832826215776949,42.17180029790846,-1.832826215776949</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0065</FINCA><SUPERFICIE>235</SUPERFICIE><IDGIS>64</IDGIS><NAMESPACE>T7_ALF_0065</NAMESPACE><LOCALID>T7_ALF_0065</LOCALID><ORIG_FID>62</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0064</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1971</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>65</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0064</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0064</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>63</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.833493699409446,42.17204424802725,-1.833493699409446</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0064</FINCA><SUPERFICIE>1971</SUPERFICIE><IDGIS>65</IDGIS><NAMESPACE>T7_ALF_0064</NAMESPACE><LOCALID>T7_ALF_0064</LOCALID><ORIG_FID>63</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0063</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7622</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>66</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0063</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0063</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>64</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.83345525494769,42.17240852838268,-1.83345525494769</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0063</FINCA><SUPERFICIE>7622</SUPERFICIE><IDGIS>66</IDGIS><NAMESPACE>T7_ALF_0063</NAMESPACE><LOCALID>T7_ALF_0063</LOCALID><ORIG_FID>64</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5365</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>67</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0062</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0062</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>65</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.834095854876588,42.1732592101101,-1.834095854876588</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0062</FINCA><SUPERFICIE>5365</SUPERFICIE><IDGIS>67</IDGIS><NAMESPACE>T7_ALF_0062</NAMESPACE><LOCALID>T7_ALF_0062</LOCALID><ORIG_FID>65</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0061</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>621</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>68</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0061</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0061</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>66</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.834122208425387,42.17376553403941,-1.834122208425387</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0061</FINCA><SUPERFICIE>621</SUPERFICIE><IDGIS>68</IDGIS><NAMESPACE>T7_ALF_0061</NAMESPACE><LOCALID>T7_ALF_0061</LOCALID><ORIG_FID>66</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0060</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>18798</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>69</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0060</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0060</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>67</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.835114085131376,42.17474868187289,-1.835114085131375</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0060</FINCA><SUPERFICIE>18798</SUPERFICIE><IDGIS>69</IDGIS><NAMESPACE>T7_ALF_0060</NAMESPACE><LOCALID>T7_ALF_0060</LOCALID><ORIG_FID>67</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0059</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6138</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>70</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0059</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0059</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>68</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.836079534482946,42.17620929058744,-1.836079534482946</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0059</FINCA><SUPERFICIE>6138</SUPERFICIE><IDGIS>70</IDGIS><NAMESPACE>T7_ALF_0059</NAMESPACE><LOCALID>T7_ALF_0059</LOCALID><ORIG_FID>68</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0058-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2138</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>71</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0058-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0058-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>69</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.836078780478976,42.17667631312212,-1.836078780478976</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0058-1</FINCA><SUPERFICIE>2138</SUPERFICIE><IDGIS>71</IDGIS><NAMESPACE>T7_ALF_0058-1</NAMESPACE><LOCALID>T7_ALF_0058-1</LOCALID><ORIG_FID>69</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0056</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>608</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>72</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0056</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0056</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>70</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.837573221995173,42.17682122294817,-1.837573221995173</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0056</FINCA><SUPERFICIE>608</SUPERFICIE><IDGIS>72</IDGIS><NAMESPACE>T7_ALF_0056</NAMESPACE><LOCALID>T7_ALF_0056</LOCALID><ORIG_FID>70</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0057</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>28</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>73</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0057</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0057</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>71</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.837693120130594,42.17665207474348,-1.837693120130594</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0057</FINCA><SUPERFICIE>28</SUPERFICIE><IDGIS>73</IDGIS><NAMESPACE>T7_ALF_0057</NAMESPACE><LOCALID>T7_ALF_0057</LOCALID><ORIG_FID>71</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0054-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1282</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>74</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0054-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0054-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>72</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.837159677256564,42.17697837942076,-1.837159677256563</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0054-2</FINCA><SUPERFICIE>1282</SUPERFICIE><IDGIS>74</IDGIS><NAMESPACE>T7_ALF_0054-2</NAMESPACE><LOCALID>T7_ALF_0054-2</LOCALID><ORIG_FID>72</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0058-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1815</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>75</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0058-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0058-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>73</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.834818795712538,42.17764462117448,-1.834818795712537</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0058-2</FINCA><SUPERFICIE>1815</SUPERFICIE><IDGIS>75</IDGIS><NAMESPACE>T7_ALF_0058-2</NAMESPACE><LOCALID>T7_ALF_0058-2</LOCALID><ORIG_FID>73</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0055</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13195</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>76</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0055</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0055</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>74</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.836370378984125,42.17735427377826,-1.836370378984125</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0055</FINCA><SUPERFICIE>13195</SUPERFICIE><IDGIS>76</IDGIS><NAMESPACE>T7_ALF_0055</NAMESPACE><LOCALID>T7_ALF_0055</LOCALID><ORIG_FID>74</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0054-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8863</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>77</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0054-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0054-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>75</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.837347232679956,42.17861277801188,-1.837347232679956</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0054-1</FINCA><SUPERFICIE>8863</SUPERFICIE><IDGIS>77</IDGIS><NAMESPACE>T7_ALF_0054-1</NAMESPACE><LOCALID>T7_ALF_0054-1</LOCALID><ORIG_FID>75</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0052-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5015</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>78</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0052-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0052-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>76</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.837887229497482,42.17964639324284,-1.837887229497482</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0052-2</FINCA><SUPERFICIE>5015</SUPERFICIE><IDGIS>78</IDGIS><NAMESPACE>T7_ALF_0052-2</NAMESPACE><LOCALID>T7_ALF_0052-2</LOCALID><ORIG_FID>76</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0053</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>387</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>79</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0053</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0053</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>77</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.83794113521701,42.1799786268457,-1.83794113521701</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0053</FINCA><SUPERFICIE>387</SUPERFICIE><IDGIS>79</IDGIS><NAMESPACE>T7_ALF_0053</NAMESPACE><LOCALID>T7_ALF_0053</LOCALID><ORIG_FID>77</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0052-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>17682</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>80</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0052-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0052-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>78</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.838476630047922,42.18126885480965,-1.838476630047922</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0052-1</FINCA><SUPERFICIE>17682</SUPERFICIE><IDGIS>80</IDGIS><NAMESPACE>T7_ALF_0052-1</NAMESPACE><LOCALID>T7_ALF_0052-1</LOCALID><ORIG_FID>78</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>492</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>81</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0050</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0050</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>79</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.840063800450508,42.18387626345412,-1.840063800450508</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0050</FINCA><SUPERFICIE>492</SUPERFICIE><IDGIS>81</IDGIS><NAMESPACE>T7_ALF_0050</NAMESPACE><LOCALID>T7_ALF_0050</LOCALID><ORIG_FID>79</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0051</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10239</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>82</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0051</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0051</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>80</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.839381112940727,42.18310552017189,-1.839381112940727</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0051</FINCA><SUPERFICIE>10239</SUPERFICIE><IDGIS>82</IDGIS><NAMESPACE>T7_ALF_0051</NAMESPACE><LOCALID>T7_ALF_0051</LOCALID><ORIG_FID>80</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>372</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>83</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0008-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0008-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>81</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.839704506543894,42.18383968229964,-1.839704506543894</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0008-2</FINCA><SUPERFICIE>372</SUPERFICIE><IDGIS>83</IDGIS><NAMESPACE>T7_ALF_0008-2</NAMESPACE><LOCALID>T7_ALF_0008-2</LOCALID><ORIG_FID>81</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0049</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6897</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>84</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0049</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0049</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>82</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.839897862839717,42.18427609494369,-1.839897862839717</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0049</FINCA><SUPERFICIE>6897</SUPERFICIE><IDGIS>84</IDGIS><NAMESPACE>T7_ALF_0049</NAMESPACE><LOCALID>T7_ALF_0049</LOCALID><ORIG_FID>82</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0048</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2438</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>85</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0048</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0048</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>83</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.840224011203846,42.18486681651443,-1.840224011203845</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0048</FINCA><SUPERFICIE>2438</SUPERFICIE><IDGIS>85</IDGIS><NAMESPACE>T7_ALF_0048</NAMESPACE><LOCALID>T7_ALF_0048</LOCALID><ORIG_FID>83</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0046-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>16045</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>86</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0046-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0046-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>84</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.840920616289004,42.18605839873509,-1.840920616289004</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0046-2</FINCA><SUPERFICIE>16045</SUPERFICIE><IDGIS>86</IDGIS><NAMESPACE>T7_ALF_0046-2</NAMESPACE><LOCALID>T7_ALF_0046-2</LOCALID><ORIG_FID>84</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0047</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>459</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>87</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0047</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0047</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>85</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.841704871779261,42.18729256122238,-1.841704871779261</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0047</FINCA><SUPERFICIE>459</SUPERFICIE><IDGIS>87</IDGIS><NAMESPACE>T7_ALF_0047</NAMESPACE><LOCALID>T7_ALF_0047</LOCALID><ORIG_FID>85</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0046-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2568</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>88</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0046-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0046-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>86</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.841702452788145,42.18758583323243,-1.841702452788145</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0046-1</FINCA><SUPERFICIE>2568</SUPERFICIE><IDGIS>88</IDGIS><NAMESPACE>T7_ALF_0046-1</NAMESPACE><LOCALID>T7_ALF_0046-1</LOCALID><ORIG_FID>86</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0044-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14500</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>89</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0044-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0044-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>87</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.842598521886295,42.18869969429738,-1.842598521886295</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0044-2</FINCA><SUPERFICIE>14500</SUPERFICIE><IDGIS>89</IDGIS><NAMESPACE>T7_ALF_0044-2</NAMESPACE><LOCALID>T7_ALF_0044-2</LOCALID><ORIG_FID>87</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0045</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1827</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>90</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0045</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0045</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>88</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.841829930783028,42.18726584536829,-1.841829930783028</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0045</FINCA><SUPERFICIE>1827</SUPERFICIE><IDGIS>90</IDGIS><NAMESPACE>T7_ALF_0045</NAMESPACE><LOCALID>T7_ALF_0045</LOCALID><ORIG_FID>88</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>339</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>91</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>89</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.843286706839898,42.18966433421296,-1.843286706839898</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-10</FINCA><SUPERFICIE>339</SUPERFICIE><IDGIS>91</IDGIS><NAMESPACE>T7_ALF_0005-10</NAMESPACE><LOCALID>T7_ALF_0005-10</LOCALID><ORIG_FID>89</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0044-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1397</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>92</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0044-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0044-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>90</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.843428163899952,42.18963236927855,-1.843428163899952</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0044-1</FINCA><SUPERFICIE>1397</SUPERFICIE><IDGIS>92</IDGIS><NAMESPACE>T7_ALF_0044-1</NAMESPACE><LOCALID>T7_ALF_0044-1</LOCALID><ORIG_FID>90</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0043</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3002</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>93</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0043</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0043</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>91</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.843555511103094,42.19006793871994,-1.843555511103094</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0043</FINCA><SUPERFICIE>3002</SUPERFICIE><IDGIS>93</IDGIS><NAMESPACE>T7_ALF_0043</NAMESPACE><LOCALID>T7_ALF_0043</LOCALID><ORIG_FID>91</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0042</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2821</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>94</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0042</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0042</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>92</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.843834110078606,42.19042510364519,-1.843834110078605</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0042</FINCA><SUPERFICIE>2821</SUPERFICIE><IDGIS>94</IDGIS><NAMESPACE>T7_ALF_0042</NAMESPACE><LOCALID>T7_ALF_0042</LOCALID><ORIG_FID>92</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0041-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4091</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>95</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0041-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0041-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>93</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.844162979554435,42.19079326665241,-1.844162979554435</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0041-1</FINCA><SUPERFICIE>4091</SUPERFICIE><IDGIS>95</IDGIS><NAMESPACE>T7_ALF_0041-1</NAMESPACE><LOCALID>T7_ALF_0041-1</LOCALID><ORIG_FID>93</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0039</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1233</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>96</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0039</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0039</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>94</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.844945894235303,42.19136904797058,-1.844945894235303</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0039</FINCA><SUPERFICIE>1233</SUPERFICIE><IDGIS>96</IDGIS><NAMESPACE>T7_ALF_0039</NAMESPACE><LOCALID>T7_ALF_0039</LOCALID><ORIG_FID>94</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0041-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>48</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>97</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0041-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0041-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>95</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.84398075201861,42.19141441141176,-1.84398075201861</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0041-2</FINCA><SUPERFICIE>48</SUPERFICIE><IDGIS>97</IDGIS><NAMESPACE>T7_ALF_0041-2</NAMESPACE><LOCALID>T7_ALF_0041-2</LOCALID><ORIG_FID>95</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0037-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>470</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>98</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0037-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0037-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>96</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.844617307997833,42.19151838179341,-1.844617307997833</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0037-1</FINCA><SUPERFICIE>470</SUPERFICIE><IDGIS>98</IDGIS><NAMESPACE>T7_ALF_0037-1</NAMESPACE><LOCALID>T7_ALF_0037-1</LOCALID><ORIG_FID>96</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1748</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>99</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0038</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0038</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>97</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.84431287679392,42.1916599272273,-1.84431287679392</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0038</FINCA><SUPERFICIE>1748</SUPERFICIE><IDGIS>99</IDGIS><NAMESPACE>T7_ALF_0038</NAMESPACE><LOCALID>T7_ALF_0038</LOCALID><ORIG_FID>97</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-08</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>356</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>100</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-08</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-08</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>98</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.844633283876335,42.19155313276067,-1.844633283876335</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-08</FINCA><SUPERFICIE>356</SUPERFICIE><IDGIS>100</IDGIS><NAMESPACE>T7_ALF_0005-08</NAMESPACE><LOCALID>T7_ALF_0005-08</LOCALID><ORIG_FID>98</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0036</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2662</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>101</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0036</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0036</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>99</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.844823108430979,42.1918617700017,-1.844823108430979</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0036</FINCA><SUPERFICIE>2662</SUPERFICIE><IDGIS>101</IDGIS><NAMESPACE>T7_ALF_0036</NAMESPACE><LOCALID>T7_ALF_0036</LOCALID><ORIG_FID>99</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0035</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3238</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>102</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0035</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0035</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>100</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.845167608599911,42.19208734759548,-1.845167608599912</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0035</FINCA><SUPERFICIE>3238</SUPERFICIE><IDGIS>102</IDGIS><NAMESPACE>T7_ALF_0035</NAMESPACE><LOCALID>T7_ALF_0035</LOCALID><ORIG_FID>100</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0034</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3485</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>103</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0034</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0034</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>101</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.845436209256707,42.19243214776851,-1.845436209256707</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0034</FINCA><SUPERFICIE>3485</SUPERFICIE><IDGIS>103</IDGIS><NAMESPACE>T7_ALF_0034</NAMESPACE><LOCALID>T7_ALF_0034</LOCALID><ORIG_FID>101</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0033</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3334</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>104</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0033</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0033</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>102</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.845768142096662,42.19274864324439,-1.845768142096662</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0033</FINCA><SUPERFICIE>3334</SUPERFICIE><IDGIS>104</IDGIS><NAMESPACE>T7_ALF_0033</NAMESPACE><LOCALID>T7_ALF_0033</LOCALID><ORIG_FID>102</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-07</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>105</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-07</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-07</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>103</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.846650694555666,42.19234169086268,-1.846650694555666</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-07</FINCA><SUPERFICIE>5</SUPERFICIE><IDGIS>105</IDGIS><NAMESPACE>T7_ALF_0005-07</NAMESPACE><LOCALID>T7_ALF_0005-07</LOCALID><ORIG_FID>103</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0032</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3489</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>106</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0032</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0032</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>104</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.846058821959994,42.19307337138096,-1.846058821959994</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0032</FINCA><SUPERFICIE>3489</SUPERFICIE><IDGIS>106</IDGIS><NAMESPACE>T7_ALF_0032</NAMESPACE><LOCALID>T7_ALF_0032</LOCALID><ORIG_FID>104</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0040</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2986</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>107</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0040</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0040</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>105</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.844545719126409,42.19113045062229,-1.844545719126409</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0040</FINCA><SUPERFICIE>2986</SUPERFICIE><IDGIS>107</IDGIS><NAMESPACE>T7_ALF_0040</NAMESPACE><LOCALID>T7_ALF_0040</LOCALID><ORIG_FID>105</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0031</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3015</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>108</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0031</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0031</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>106</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.846356306291853,42.19342973657262,-1.846356306291853</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0031</FINCA><SUPERFICIE>3015</SUPERFICIE><IDGIS>108</IDGIS><NAMESPACE>T7_ALF_0031</NAMESPACE><LOCALID>T7_ALF_0031</LOCALID><ORIG_FID>106</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0030</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2495</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>109</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0030</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0030</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>107</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.846709633731515,42.19372085520745,-1.846709633731515</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0030</FINCA><SUPERFICIE>2495</SUPERFICIE><IDGIS>109</IDGIS><NAMESPACE>T7_ALF_0030</NAMESPACE><LOCALID>T7_ALF_0030</LOCALID><ORIG_FID>107</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0029</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4893</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>110</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0029</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0029</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>108</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.846989309778842,42.19445419597643,-1.846989309778842</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0029</FINCA><SUPERFICIE>4893</SUPERFICIE><IDGIS>110</IDGIS><NAMESPACE>T7_ALF_0029</NAMESPACE><LOCALID>T7_ALF_0029</LOCALID><ORIG_FID>108</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>294</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>111</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0022-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0022-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>109</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.850611145981013,42.1958743697093,-1.850611145981013</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0022-3</FINCA><SUPERFICIE>294</SUPERFICIE><IDGIS>111</IDGIS><NAMESPACE>T7_ALF_0022-3</NAMESPACE><LOCALID>T7_ALF_0022-3</LOCALID><ORIG_FID>109</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>220</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>112</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0022-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0022-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>110</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.850346184567722,42.19575736648985,-1.850346184567722</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0022-2</FINCA><SUPERFICIE>220</SUPERFICIE><IDGIS>112</IDGIS><NAMESPACE>T7_ALF_0022-2</NAMESPACE><LOCALID>T7_ALF_0022-2</LOCALID><ORIG_FID>110</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>318</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>113</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0022-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0022-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>111</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.850107121243416,42.19568986537199,-1.850107121243416</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0022-1</FINCA><SUPERFICIE>318</SUPERFICIE><IDGIS>113</IDGIS><NAMESPACE>T7_ALF_0022-1</NAMESPACE><LOCALID>T7_ALF_0022-1</LOCALID><ORIG_FID>111</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0023</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>214</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>114</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0023</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0023</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>112</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.850607380836598,42.19598335087077,-1.850607380836598</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0023</FINCA><SUPERFICIE>214</SUPERFICIE><IDGIS>114</IDGIS><NAMESPACE>T7_ALF_0023</NAMESPACE><LOCALID>T7_ALF_0023</LOCALID><ORIG_FID>112</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0024</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1424</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>115</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0024</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0024</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>113</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.849800665605831,42.19584088306626,-1.849800665605831</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0024</FINCA><SUPERFICIE>1424</SUPERFICIE><IDGIS>115</IDGIS><NAMESPACE>T7_ALF_0024</NAMESPACE><LOCALID>T7_ALF_0024</LOCALID><ORIG_FID>113</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>760</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>116</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0025-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0025-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>114</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.850055080831959,42.19580337088449,-1.850055080831959</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0025-1</FINCA><SUPERFICIE>760</SUPERFICIE><IDGIS>116</IDGIS><NAMESPACE>T7_ALF_0025-1</NAMESPACE><LOCALID>T7_ALF_0025-1</LOCALID><ORIG_FID>114</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>427</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>117</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0019-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0019-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>115</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.849705865813646,42.19565118362109,-1.849705865813646</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0019-3</FINCA><SUPERFICIE>427</SUPERFICIE><IDGIS>117</IDGIS><NAMESPACE>T7_ALF_0019-3</NAMESPACE><LOCALID>T7_ALF_0019-3</LOCALID><ORIG_FID>115</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-05</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>244</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>118</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-05</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-05</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>116</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.849390806359456,42.19584199779647,-1.849390806359456</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-05</FINCA><SUPERFICIE>244</SUPERFICIE><IDGIS>118</IDGIS><NAMESPACE>T7_ALF_0005-05</NAMESPACE><LOCALID>T7_ALF_0005-05</LOCALID><ORIG_FID>116</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>945</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>119</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0026-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0026-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>117</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.848508027840134,42.1953354558371,-1.848508027840134</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0026-2</FINCA><SUPERFICIE>945</SUPERFICIE><IDGIS>119</IDGIS><NAMESPACE>T7_ALF_0026-2</NAMESPACE><LOCALID>T7_ALF_0026-2</LOCALID><ORIG_FID>117</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-06</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>478</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>120</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-06</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-06</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>118</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.84852114783432,42.19555522932973,-1.848521147834321</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-06</FINCA><SUPERFICIE>478</SUPERFICIE><IDGIS>120</IDGIS><NAMESPACE>T7_ALF_0005-06</NAMESPACE><LOCALID>T7_ALF_0005-06</LOCALID><ORIG_FID>118</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1196</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>121</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0026-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0026-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>119</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.848599447884075,42.195554721153,-1.848599447884075</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0026-1</FINCA><SUPERFICIE>1196</SUPERFICIE><IDGIS>121</IDGIS><NAMESPACE>T7_ALF_0026-1</NAMESPACE><LOCALID>T7_ALF_0026-1</LOCALID><ORIG_FID>119</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>428</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>122</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0019-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0019-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>120</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.848952544737198,42.1956348553771,-1.848952544737198</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0019-1</FINCA><SUPERFICIE>428</SUPERFICIE><IDGIS>122</IDGIS><NAMESPACE>T7_ALF_0019-1</NAMESPACE><LOCALID>T7_ALF_0019-1</LOCALID><ORIG_FID>120</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0028-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>738</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>123</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0028-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0028-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>121</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.848188263061803,42.19532014640478,-1.848188263061803</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0028-1</FINCA><SUPERFICIE>738</SUPERFICIE><IDGIS>123</IDGIS><NAMESPACE>T7_ALF_0028-1</NAMESPACE><LOCALID>T7_ALF_0028-1</LOCALID><ORIG_FID>121</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0028-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8831</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>124</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0028-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0028-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>122</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.847656835200722,42.19467914722357,-1.847656835200722</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0028-2</FINCA><SUPERFICIE>8831</SUPERFICIE><IDGIS>124</IDGIS><NAMESPACE>T7_ALF_0028-2</NAMESPACE><LOCALID>T7_ALF_0028-2</LOCALID><ORIG_FID>122</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>642</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>125</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0025-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0025-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>123</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.848434913753905,42.19575076854568,-1.848434913753905</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0025-2</FINCA><SUPERFICIE>642</SUPERFICIE><IDGIS>125</IDGIS><NAMESPACE>T7_ALF_0025-2</NAMESPACE><LOCALID>T7_ALF_0025-2</LOCALID><ORIG_FID>123</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>209</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>126</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0027</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0027</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>124</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.848027583386219,42.19577518926643,-1.848027583386219</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0027</FINCA><SUPERFICIE>209</SUPERFICIE><IDGIS>126</IDGIS><NAMESPACE>T7_ALF_0027</NAMESPACE><LOCALID>T7_ALF_0027</LOCALID><ORIG_FID>124</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2473</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>127</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0021-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0021-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>125</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.848460711653928,42.1963231107562,-1.848460711653928</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0021-2</FINCA><SUPERFICIE>2473</SUPERFICIE><IDGIS>127</IDGIS><NAMESPACE>T7_ALF_0021-2</NAMESPACE><LOCALID>T7_ALF_0021-2</LOCALID><ORIG_FID>125</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12533</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>128</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0019-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0019-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>126</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.849397243859517,42.19636873464842,-1.849397243859517</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0019-2</FINCA><SUPERFICIE>12533</SUPERFICIE><IDGIS>128</IDGIS><NAMESPACE>T7_ALF_0019-2</NAMESPACE><LOCALID>T7_ALF_0019-2</LOCALID><ORIG_FID>126</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2031</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>129</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0021-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0021-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>127</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.85004072067252,42.19714490330047,-1.85004072067252</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0021-1</FINCA><SUPERFICIE>2031</SUPERFICIE><IDGIS>129</IDGIS><NAMESPACE>T7_ALF_0021-1</NAMESPACE><LOCALID>T7_ALF_0021-1</LOCALID><ORIG_FID>127</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>917</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>130</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0018-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0018-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>128</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.851648145398019,42.19792707818887,-1.851648145398019</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0018-2</FINCA><SUPERFICIE>917</SUPERFICIE><IDGIS>130</IDGIS><NAMESPACE>T7_ALF_0018-2</NAMESPACE><LOCALID>T7_ALF_0018-2</LOCALID><ORIG_FID>128</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5873</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>131</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0020</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0020</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>129</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.850936272531249,42.19762869647084,-1.850936272531249</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0020</FINCA><SUPERFICIE>5873</SUPERFICIE><IDGIS>131</IDGIS><NAMESPACE>T7_ALF_0020</NAMESPACE><LOCALID>T7_ALF_0020</LOCALID><ORIG_FID>129</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-04</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>178</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>132</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-04</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-04</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>130</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.851382031626934,42.19794581683195,-1.851382031626934</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-04</FINCA><SUPERFICIE>178</SUPERFICIE><IDGIS>132</IDGIS><NAMESPACE>T7_ALF_0005-04</NAMESPACE><LOCALID>T7_ALF_0005-04</LOCALID><ORIG_FID>130</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10839</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>133</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0018-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0018-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>131</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.852344370353112,42.1987031827917,-1.852344370353112</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0018-1</FINCA><SUPERFICIE>10839</SUPERFICIE><IDGIS>133</IDGIS><NAMESPACE>T7_ALF_0018-1</NAMESPACE><LOCALID>T7_ALF_0018-1</LOCALID><ORIG_FID>131</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1043</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>134</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0017-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0017-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>132</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.85338460245859,42.19975007166069,-1.853384602458589</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0017-2</FINCA><SUPERFICIE>1043</SUPERFICIE><IDGIS>134</IDGIS><NAMESPACE>T7_ALF_0017-2</NAMESPACE><LOCALID>T7_ALF_0017-2</LOCALID><ORIG_FID>132</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-03</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>687</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>135</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-03</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-03</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>133</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.853618954741888,42.19985917330993,-1.853618954741888</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-03</FINCA><SUPERFICIE>687</SUPERFICIE><IDGIS>135</IDGIS><NAMESPACE>T7_ALF_0005-03</NAMESPACE><LOCALID>T7_ALF_0005-03</LOCALID><ORIG_FID>133</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7201</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>136</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0017-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0017-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>134</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.853945084038842,42.19976265744294,-1.853945084038842</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0017-1</FINCA><SUPERFICIE>7201</SUPERFICIE><IDGIS>136</IDGIS><NAMESPACE>T7_ALF_0017-1</NAMESPACE><LOCALID>T7_ALF_0017-1</LOCALID><ORIG_FID>134</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1009</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>137</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>135</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.857659386657681,42.20229803512552,-1.857659386657681</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0014</FINCA><SUPERFICIE>1009</SUPERFICIE><IDGIS>137</IDGIS><NAMESPACE>T7_ALF_0014</NAMESPACE><LOCALID>T7_ALF_0014</LOCALID><ORIG_FID>135</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6802</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>138</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0015</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0015</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>136</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.857602227039229,42.20200435819399,-1.857602227039229</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0015</FINCA><SUPERFICIE>6802</SUPERFICIE><IDGIS>138</IDGIS><NAMESPACE>T7_ALF_0015</NAMESPACE><LOCALID>T7_ALF_0015</LOCALID><ORIG_FID>136</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1386</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>139</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0006</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0006</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>137</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.862202093440024,42.20422538801369,-1.862202093440024</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0006</FINCA><SUPERFICIE>1386</SUPERFICIE><IDGIS>139</IDGIS><NAMESPACE>T7_ALF_0006</NAMESPACE><LOCALID>T7_ALF_0006</LOCALID><ORIG_FID>137</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="138">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14840</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>140</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0016</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0016</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>138</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.855755284774812,42.20094120427921,-1.855755284774812</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0016</FINCA><SUPERFICIE>14840</SUPERFICIE><IDGIS>140</IDGIS><NAMESPACE>T7_ALF_0016</NAMESPACE><LOCALID>T7_ALF_0016</LOCALID><ORIG_FID>138</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="139">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-01</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>264</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>141</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-01</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-01</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>139</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.863774493473108,42.20522399666017,-1.863774493473108</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-01</FINCA><SUPERFICIE>264</SUPERFICIE><IDGIS>141</IDGIS><NAMESPACE>T7_ALF_0005-01</NAMESPACE><LOCALID>T7_ALF_0005-01</LOCALID><ORIG_FID>139</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="140">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0004-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>321</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>142</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0004-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0004-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>140</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.864217665388413,42.20506279488278,-1.864217665388413</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0004-1</FINCA><SUPERFICIE>321</SUPERFICIE><IDGIS>142</IDGIS><NAMESPACE>T7_ALF_0004-1</NAMESPACE><LOCALID>T7_ALF_0004-1</LOCALID><ORIG_FID>140</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="141">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0004-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1523</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>143</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0004-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0004-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>141</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.863178496685129,42.20463622145781,-1.863178496685129</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0004-2</FINCA><SUPERFICIE>1523</SUPERFICIE><IDGIS>143</IDGIS><NAMESPACE>T7_ALF_0004-2</NAMESPACE><LOCALID>T7_ALF_0004-2</LOCALID><ORIG_FID>141</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="142">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1935</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>144</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0008-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0008-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>142</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.860246694521307,42.20355577742807,-1.860246694521307</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0008-1</FINCA><SUPERFICIE>1935</SUPERFICIE><IDGIS>144</IDGIS><NAMESPACE>T7_ALF_0008-1</NAMESPACE><LOCALID>T7_ALF_0008-1</LOCALID><ORIG_FID>142</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="143">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>33</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>145</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0013-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0013-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>143</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.8601785388584,42.20311837655051,-1.8601785388584</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0013-2</FINCA><SUPERFICIE>33</SUPERFICIE><IDGIS>145</IDGIS><NAMESPACE>T7_ALF_0013-2</NAMESPACE><LOCALID>T7_ALF_0013-2</LOCALID><ORIG_FID>143</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="144">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6401</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>146</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0013-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0013-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>144</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.859291937915887,42.20280909066229,-1.859291937915887</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0013-1</FINCA><SUPERFICIE>6401</SUPERFICIE><IDGIS>146</IDGIS><NAMESPACE>T7_ALF_0013-1</NAMESPACE><LOCALID>T7_ALF_0013-1</LOCALID><ORIG_FID>144</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="145">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1172</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>147</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0010-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0010-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>145</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.860262784982906,42.20335290941964,-1.860262784982906</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0010-4</FINCA><SUPERFICIE>1172</SUPERFICIE><IDGIS>147</IDGIS><NAMESPACE>T7_ALF_0010-4</NAMESPACE><LOCALID>T7_ALF_0010-4</LOCALID><ORIG_FID>145</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="146">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>931</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>148</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0010-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0010-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>146</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.860557198832286,42.20348714899635,-1.860557198832286</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0010-3</FINCA><SUPERFICIE>931</SUPERFICIE><IDGIS>148</IDGIS><NAMESPACE>T7_ALF_0010-3</NAMESPACE><LOCALID>T7_ALF_0010-3</LOCALID><ORIG_FID>146</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="147">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2485</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>149</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0010-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0010-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>147</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.8610969558855,42.20377067429303,-1.8610969558855</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0010-2</FINCA><SUPERFICIE>2485</SUPERFICIE><IDGIS>149</IDGIS><NAMESPACE>T7_ALF_0010-2</NAMESPACE><LOCALID>T7_ALF_0010-2</LOCALID><ORIG_FID>147</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="148">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0012</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>260</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>150</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0012</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0012</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>148</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.860499852357125,42.2039019600622,-1.860499852357125</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0012</FINCA><SUPERFICIE>260</SUPERFICIE><IDGIS>150</IDGIS><NAMESPACE>T7_ALF_0012</NAMESPACE><LOCALID>T7_ALF_0012</LOCALID><ORIG_FID>148</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="149">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-02</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>111</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>151</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-02</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-02</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>149</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.860437813181959,42.20384925652899,-1.860437813181958</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-02</FINCA><SUPERFICIE>111</SUPERFICIE><IDGIS>151</IDGIS><NAMESPACE>T7_ALF_0005-02</NAMESPACE><LOCALID>T7_ALF_0005-02</LOCALID><ORIG_FID>149</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="150">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>62</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>152</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0011-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0011-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>150</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.860244989570987,42.20381767701574,-1.860244989570987</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0011-2</FINCA><SUPERFICIE>62</SUPERFICIE><IDGIS>152</IDGIS><NAMESPACE>T7_ALF_0011-2</NAMESPACE><LOCALID>T7_ALF_0011-2</LOCALID><ORIG_FID>150</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="151">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6151</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>153</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0011-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0011-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>151</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.859237644657891,42.20315180467694,-1.859237644657891</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0011-1</FINCA><SUPERFICIE>6151</SUPERFICIE><IDGIS>153</IDGIS><NAMESPACE>T7_ALF_0011-1</NAMESPACE><LOCALID>T7_ALF_0011-1</LOCALID><ORIG_FID>151</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="152">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1414</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>154</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0009</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0009</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>152</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.861091121973451,42.20414940775544,-1.861091121973451</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0009</FINCA><SUPERFICIE>1414</SUPERFICIE><IDGIS>154</IDGIS><NAMESPACE>T7_ALF_0009</NAMESPACE><LOCALID>T7_ALF_0009</LOCALID><ORIG_FID>152</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="153">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>756</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>155</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0010-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0010-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>153</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.861502525306973,42.20405948833315,-1.861502525306973</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0010-1</FINCA><SUPERFICIE>756</SUPERFICIE><IDGIS>155</IDGIS><NAMESPACE>T7_ALF_0010-1</NAMESPACE><LOCALID>T7_ALF_0010-1</LOCALID><ORIG_FID>153</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="154">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0007</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1721</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>156</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0007</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0007</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>154</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.861732187627932,42.20428291509391,-1.861732187627932</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0007</FINCA><SUPERFICIE>1721</SUPERFICIE><IDGIS>156</IDGIS><NAMESPACE>T7_ALF_0007</NAMESPACE><LOCALID>T7_ALF_0007</LOCALID><ORIG_FID>154</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="155">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8618</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>157</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0002-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0002-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>155</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.862947671956402,42.20486003873665,-1.862947671956402</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0002-2</FINCA><SUPERFICIE>8618</SUPERFICIE><IDGIS>157</IDGIS><NAMESPACE>T7_ALF_0002-2</NAMESPACE><LOCALID>T7_ALF_0002-2</LOCALID><ORIG_FID>155</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="156">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1933</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>158</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0003-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0003-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>156</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.86255482301088,42.20499406140306,-1.86255482301088</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0003-2</FINCA><SUPERFICIE>1933</SUPERFICIE><IDGIS>158</IDGIS><NAMESPACE>T7_ALF_0003-2</NAMESPACE><LOCALID>T7_ALF_0003-2</LOCALID><ORIG_FID>156</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="157">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1898</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>159</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0001-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0001-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>157</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.864694054691703,42.20548379163647,-1.864694054691703</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0001-1</FINCA><SUPERFICIE>1898</SUPERFICIE><IDGIS>159</IDGIS><NAMESPACE>T7_ALF_0001-1</NAMESPACE><LOCALID>T7_ALF_0001-1</LOCALID><ORIG_FID>157</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="158">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5115</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>160</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0002-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0002-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>158</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.864107918040127,42.20549238036776,-1.864107918040127</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0002-1</FINCA><SUPERFICIE>5115</SUPERFICIE><IDGIS>160</IDGIS><NAMESPACE>T7_ALF_0002-1</NAMESPACE><LOCALID>T7_ALF_0002-1</LOCALID><ORIG_FID>158</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="159">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>635</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>161</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0003-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0003-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>159</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.863897067007267,42.205744008437,-1.863897067007268</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0003-1</FINCA><SUPERFICIE>635</SUPERFICIE><IDGIS>161</IDGIS><NAMESPACE>T7_ALF_0003-1</NAMESPACE><LOCALID>T7_ALF_0003-1</LOCALID><ORIG_FID>159</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="160">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0036-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3258</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5725</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0036-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0036-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5534</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.844275063603839,42.19243666360084,-1.844275063603839</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0036-A</FINCA><SUPERFICIE>3258</SUPERFICIE><IDGIS>5725</IDGIS><NAMESPACE>T7_ALF_0036-A</NAMESPACE><LOCALID>T7_ALF_0036-A</LOCALID><ORIG_FID>5534</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="161">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0088-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2722</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5726</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0088-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0088-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5535</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.819547751781372,42.15936475082652,-1.819547751781371</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0088-A</FINCA><SUPERFICIE>2722</SUPERFICIE><IDGIS>5726</IDGIS><NAMESPACE>T7_ALF_0088-A</NAMESPACE><LOCALID>T7_ALF_0088-A</LOCALID><ORIG_FID>5535</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="162">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5854</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0026-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0026-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6165</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.848477752657122,42.19510770265607,-1.848477752657122</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0026-3</FINCA><SUPERFICIE>10</SUPERFICIE><IDGIS>5854</IDGIS><NAMESPACE>T7_ALF_0026-3</NAMESPACE><LOCALID>T7_ALF_0026-3</LOCALID><ORIG_FID>6165</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="163">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0075-N</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>920</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5855</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0075-N</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0075-N</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6166</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.8286438339281,42.16629699562414,-1.8286438339281</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0075-N</FINCA><SUPERFICIE>920</SUPERFICIE><IDGIS>5855</IDGIS><NAMESPACE>T7_ALF_0075-N</NAMESPACE><LOCALID>T7_ALF_0075-N</LOCALID><ORIG_FID>6166</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="164">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0087</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>152</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5856</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0087</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0087</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6167</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.824249396964064,42.16236060918825,-1.824249396964065</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0087</FINCA><SUPERFICIE>152</SUPERFICIE><IDGIS>5856</IDGIS><NAMESPACE>T7_ALF_0087</NAMESPACE><LOCALID>T7_ALF_0087</LOCALID><ORIG_FID>6167</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="165">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-09</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>57</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9697</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0005-09</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0005-09</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9387</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.843880701653127,42.1914593453775,-1.843880701653127</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0005-09</FINCA><SUPERFICIE>57</SUPERFICIE><IDGIS>9697</IDGIS><NAMESPACE>T7_ALF_0005-09</NAMESPACE><LOCALID>T7_ALF_0005-09</LOCALID><ORIG_FID>9387</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="166">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T7</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ALF</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0037-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>30</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9698</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T7_ALF_0037-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T7_ALF_0037-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9388</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.843844949593645,42.19142051961421,-1.843844949593645</coordinates>
+		</Point>
+		<Metadata><TRAMO>T7</TRAMO><TERMINO>ALF</TERMINO><FINCA>0037-2</FINCA><SUPERFICIE>30</SUPERFICIE><IDGIS>9698</IDGIS><NAMESPACE>T7_ALF_0037-2</NAMESPACE><LOCALID>T7_ALF_0037-2</LOCALID><ORIG_FID>9388</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

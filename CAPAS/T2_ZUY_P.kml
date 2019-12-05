@@ -1,0 +1,4608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T2_ZUY_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>43.03287475820136</north>
+			<south>42.95329737344661</south>
+			<east>-2.858357997638594</east>
+			<west>-2.91415489265858</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1254-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9517</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11044</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1254-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1254-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10612</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.876391430678738,42.95331804115337,-2.876391430678738</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1254-3</FINCA><SUPERFICIE>9517</SUPERFICIE><IDGIS>11044</IDGIS><NAMESPACE>T2_ZUY_1254-3</NAMESPACE><LOCALID>T2_ZUY_1254-3</LOCALID><ORIG_FID>10612</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1251</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>781</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11050</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1251</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1251</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10618</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.875880947815648,42.96916748176737,-2.875880947815648</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1251</FINCA><SUPERFICIE>781</SUPERFICIE><IDGIS>11050</IDGIS><NAMESPACE>T2_ZUY_1251</NAMESPACE><LOCALID>T2_ZUY_1251</LOCALID><ORIG_FID>10618</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>200984</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11051</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10619</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869684449768569,42.96500067018465,-2.869684449768569</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-5</FINCA><SUPERFICIE>200984</SUPERFICIE><IDGIS>11051</IDGIS><NAMESPACE>T2_ZUY_1249-5</NAMESPACE><LOCALID>T2_ZUY_1249-5</LOCALID><ORIG_FID>10619</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1255</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>28844</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11052</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1255</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1255</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10620</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.864933023720186,42.96351267948447,-2.864933023720186</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1255</FINCA><SUPERFICIE>28844</SUPERFICIE><IDGIS>11052</IDGIS><NAMESPACE>T2_ZUY_1255</NAMESPACE><LOCALID>T2_ZUY_1255</LOCALID><ORIG_FID>10620</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1258</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4255</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11053</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1258</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1258</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10621</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86331044048067,42.96317949279317,-2.86331044048067</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1258</FINCA><SUPERFICIE>4255</SUPERFICIE><IDGIS>11053</IDGIS><NAMESPACE>T2_ZUY_1258</NAMESPACE><LOCALID>T2_ZUY_1258</LOCALID><ORIG_FID>10621</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1257</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3975</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11054</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1257</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1257</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10622</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863725732976017,42.96326382947014,-2.863725732976017</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1257</FINCA><SUPERFICIE>3975</SUPERFICIE><IDGIS>11054</IDGIS><NAMESPACE>T2_ZUY_1257</NAMESPACE><LOCALID>T2_ZUY_1257</LOCALID><ORIG_FID>10622</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1256</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2115</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11055</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1256</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1256</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10623</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863587333134293,42.96403781092515,-2.863587333134293</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1256</FINCA><SUPERFICIE>2115</SUPERFICIE><IDGIS>11055</IDGIS><NAMESPACE>T2_ZUY_1256</NAMESPACE><LOCALID>T2_ZUY_1256</LOCALID><ORIG_FID>10623</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1264</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>911</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11056</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1264</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1264</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10624</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862953660493956,42.96303870026919,-2.862953660493956</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1264</FINCA><SUPERFICIE>911</SUPERFICIE><IDGIS>11056</IDGIS><NAMESPACE>T2_ZUY_1264</NAMESPACE><LOCALID>T2_ZUY_1264</LOCALID><ORIG_FID>10624</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1265</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>522</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11057</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1265</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1265</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10625</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862781916976021,42.96300130326422,-2.86278191697602</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1265</FINCA><SUPERFICIE>522</SUPERFICIE><IDGIS>11057</IDGIS><NAMESPACE>T2_ZUY_1265</NAMESPACE><LOCALID>T2_ZUY_1265</LOCALID><ORIG_FID>10625</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1277-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1803</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11058</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1277-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1277-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10626</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.860759862410389,42.96277742761384,-2.860759862410389</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1277-1</FINCA><SUPERFICIE>1803</SUPERFICIE><IDGIS>11058</IDGIS><NAMESPACE>T2_ZUY_1277-1</NAMESPACE><LOCALID>T2_ZUY_1277-1</LOCALID><ORIG_FID>10626</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1261</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5811</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11059</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1261</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1261</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10627</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862400637212001,42.96372277376945,-2.862400637212001</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1261</FINCA><SUPERFICIE>5811</SUPERFICIE><IDGIS>11059</IDGIS><NAMESPACE>T2_ZUY_1261</NAMESPACE><LOCALID>T2_ZUY_1261</LOCALID><ORIG_FID>10627</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1259</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1095</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11060</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1259</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1259</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10628</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863076557379141,42.9641581771149,-2.863076557379141</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1259</FINCA><SUPERFICIE>1095</SUPERFICIE><IDGIS>11060</IDGIS><NAMESPACE>T2_ZUY_1259</NAMESPACE><LOCALID>T2_ZUY_1259</LOCALID><ORIG_FID>10628</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1260</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3708</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11061</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1260</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1260</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10629</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862408497684027,42.96402610084272,-2.862408497684027</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1260</FINCA><SUPERFICIE>3708</SUPERFICIE><IDGIS>11061</IDGIS><NAMESPACE>T2_ZUY_1260</NAMESPACE><LOCALID>T2_ZUY_1260</LOCALID><ORIG_FID>10629</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1262</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1783</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11062</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1262</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1262</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10630</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862368810382471,42.96348118056368,-2.862368810382471</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1262</FINCA><SUPERFICIE>1783</SUPERFICIE><IDGIS>11062</IDGIS><NAMESPACE>T2_ZUY_1262</NAMESPACE><LOCALID>T2_ZUY_1262</LOCALID><ORIG_FID>10630</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1268</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>524</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11063</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1268</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1268</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10631</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.861325631232727,42.96354870555179,-2.861325631232727</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1268</FINCA><SUPERFICIE>524</SUPERFICIE><IDGIS>11063</IDGIS><NAMESPACE>T2_ZUY_1268</NAMESPACE><LOCALID>T2_ZUY_1268</LOCALID><ORIG_FID>10631</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1263</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1953</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11064</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1263</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1263</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10632</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862332359236034,42.96336367720166,-2.862332359236034</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1263</FINCA><SUPERFICIE>1953</SUPERFICIE><IDGIS>11064</IDGIS><NAMESPACE>T2_ZUY_1263</NAMESPACE><LOCALID>T2_ZUY_1263</LOCALID><ORIG_FID>10632</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1269</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>997</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11065</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1269</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1269</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10633</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.860902809827326,42.96342378914196,-2.860902809827326</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1269</FINCA><SUPERFICIE>997</SUPERFICIE><IDGIS>11065</IDGIS><NAMESPACE>T2_ZUY_1269</NAMESPACE><LOCALID>T2_ZUY_1269</LOCALID><ORIG_FID>10633</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1266</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1833</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11066</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1266</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1266</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10634</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862537429176377,42.96300545756775,-2.862537429176377</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1266</FINCA><SUPERFICIE>1833</SUPERFICIE><IDGIS>11066</IDGIS><NAMESPACE>T2_ZUY_1266</NAMESPACE><LOCALID>T2_ZUY_1266</LOCALID><ORIG_FID>10634</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1267</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3723</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11067</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1267</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1267</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10635</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.861788302532407,42.96317422148273,-2.861788302532407</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1267</FINCA><SUPERFICIE>3723</SUPERFICIE><IDGIS>11067</IDGIS><NAMESPACE>T2_ZUY_1267</NAMESPACE><LOCALID>T2_ZUY_1267</LOCALID><ORIG_FID>10635</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1270</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2326</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11068</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1270</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1270</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10636</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.861695867473111,42.96292750748638,-2.861695867473111</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1270</FINCA><SUPERFICIE>2326</SUPERFICIE><IDGIS>11068</IDGIS><NAMESPACE>T2_ZUY_1270</NAMESPACE><LOCALID>T2_ZUY_1270</LOCALID><ORIG_FID>10636</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1271</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2311</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11069</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1271</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1271</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10637</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.861104974861965,42.96303945362321,-2.861104974861965</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1271</FINCA><SUPERFICIE>2311</SUPERFICIE><IDGIS>11069</IDGIS><NAMESPACE>T2_ZUY_1271</NAMESPACE><LOCALID>T2_ZUY_1271</LOCALID><ORIG_FID>10637</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1272</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1753</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11070</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1272</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1272</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10638</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.860624900536666,42.96305206173857,-2.860624900536666</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1272</FINCA><SUPERFICIE>1753</SUPERFICIE><IDGIS>11070</IDGIS><NAMESPACE>T2_ZUY_1272</NAMESPACE><LOCALID>T2_ZUY_1272</LOCALID><ORIG_FID>10638</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1273</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2178</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11071</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1273</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1273</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10639</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.860202827704703,42.96314398488453,-2.860202827704702</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1273</FINCA><SUPERFICIE>2178</SUPERFICIE><IDGIS>11071</IDGIS><NAMESPACE>T2_ZUY_1273</NAMESPACE><LOCALID>T2_ZUY_1273</LOCALID><ORIG_FID>10639</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1274</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>95</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11072</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1274</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1274</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10640</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.859821023719003,42.963118137855,-2.859821023719003</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1274</FINCA><SUPERFICIE>95</SUPERFICIE><IDGIS>11072</IDGIS><NAMESPACE>T2_ZUY_1274</NAMESPACE><LOCALID>T2_ZUY_1274</LOCALID><ORIG_FID>10640</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1275</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3497</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11073</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1275</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1275</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10641</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.859452312841489,42.96299689429494,-2.859452312841489</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1275</FINCA><SUPERFICIE>3497</SUPERFICIE><IDGIS>11073</IDGIS><NAMESPACE>T2_ZUY_1275</NAMESPACE><LOCALID>T2_ZUY_1275</LOCALID><ORIG_FID>10641</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1276</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1549</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11074</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1276</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1276</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10642</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85851837366609,42.96295528364169,-2.85851837366609</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1276</FINCA><SUPERFICIE>1549</SUPERFICIE><IDGIS>11074</IDGIS><NAMESPACE>T2_ZUY_1276</NAMESPACE><LOCALID>T2_ZUY_1276</LOCALID><ORIG_FID>10642</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1250</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10735</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11075</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1250</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1250</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10643</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.864927515536599,42.96245632688482,-2.8649275155366</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1250</FINCA><SUPERFICIE>10735</SUPERFICIE><IDGIS>11075</IDGIS><NAMESPACE>T2_ZUY_1250</NAMESPACE><LOCALID>T2_ZUY_1250</LOCALID><ORIG_FID>10643</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1277-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4411</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11076</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1277-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1277-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10644</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86027837666146,42.96260403753978,-2.86027837666146</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1277-2</FINCA><SUPERFICIE>4411</SUPERFICIE><IDGIS>11076</IDGIS><NAMESPACE>T2_ZUY_1277-2</NAMESPACE><LOCALID>T2_ZUY_1277-2</LOCALID><ORIG_FID>10644</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1278</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>680</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11077</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1278</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1278</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10645</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86305914604711,42.96253170703134,-2.86305914604711</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1278</FINCA><SUPERFICIE>680</SUPERFICIE><IDGIS>11077</IDGIS><NAMESPACE>T2_ZUY_1278</NAMESPACE><LOCALID>T2_ZUY_1278</LOCALID><ORIG_FID>10645</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1279</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1114</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11078</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1279</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1279</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10646</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.866202574435275,42.96349391967753,-2.866202574435275</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1279</FINCA><SUPERFICIE>1114</SUPERFICIE><IDGIS>11078</IDGIS><NAMESPACE>T2_ZUY_1279</NAMESPACE><LOCALID>T2_ZUY_1279</LOCALID><ORIG_FID>10646</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3540</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11079</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10647</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.866399582618604,42.96298268895588,-2.866399582618605</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-9</FINCA><SUPERFICIE>3540</SUPERFICIE><IDGIS>11079</IDGIS><NAMESPACE>T2_ZUY_1249-9</NAMESPACE><LOCALID>T2_ZUY_1249-9</LOCALID><ORIG_FID>10647</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1279-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>94</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11080</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1279-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1279-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10648</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.865788062780087,42.96458631150298,-2.865788062780087</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1279-1</FINCA><SUPERFICIE>94</SUPERFICIE><IDGIS>11080</IDGIS><NAMESPACE>T2_ZUY_1279-1</NAMESPACE><LOCALID>T2_ZUY_1279-1</LOCALID><ORIG_FID>10648</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1909</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11081</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10649</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.872459165671363,42.96160905222271,-2.872459165671363</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-8</FINCA><SUPERFICIE>1909</SUPERFICIE><IDGIS>11081</IDGIS><NAMESPACE>T2_ZUY_1249-8</NAMESPACE><LOCALID>T2_ZUY_1249-8</LOCALID><ORIG_FID>10649</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8296</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11082</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10650</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.870499274611642,42.96178057188033,-2.870499274611642</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-7</FINCA><SUPERFICIE>8296</SUPERFICIE><IDGIS>11082</IDGIS><NAMESPACE>T2_ZUY_1249-7</NAMESPACE><LOCALID>T2_ZUY_1249-7</LOCALID><ORIG_FID>10650</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8641</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11083</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10651</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.867958034708021,42.96231579930544,-2.867958034708021</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-6</FINCA><SUPERFICIE>8641</SUPERFICIE><IDGIS>11083</IDGIS><NAMESPACE>T2_ZUY_1249-6</NAMESPACE><LOCALID>T2_ZUY_1249-6</LOCALID><ORIG_FID>10651</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1253-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>27195</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11084</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1253-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1253-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10652</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869696835514012,42.96001091908057,-2.869696835514012</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1253-2</FINCA><SUPERFICIE>27195</SUPERFICIE><IDGIS>11084</IDGIS><NAMESPACE>T2_ZUY_1253-2</NAMESPACE><LOCALID>T2_ZUY_1253-2</LOCALID><ORIG_FID>10652</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1252</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>888</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11085</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1252</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1252</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10653</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869401464544772,42.9603965009531,-2.869401464544771</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1252</FINCA><SUPERFICIE>888</SUPERFICIE><IDGIS>11085</IDGIS><NAMESPACE>T2_ZUY_1252</NAMESPACE><LOCALID>T2_ZUY_1252</LOCALID><ORIG_FID>10653</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1253-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4415</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11086</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1253-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1253-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10654</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86863748480907,42.96121673893954,-2.86863748480907</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1253-1</FINCA><SUPERFICIE>4415</SUPERFICIE><IDGIS>11086</IDGIS><NAMESPACE>T2_ZUY_1253-1</NAMESPACE><LOCALID>T2_ZUY_1253-1</LOCALID><ORIG_FID>10654</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1254-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1523</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11087</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1254-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1254-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10655</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.870951745402206,42.95861305604948,-2.870951745402205</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1254-1</FINCA><SUPERFICIE>1523</SUPERFICIE><IDGIS>11087</IDGIS><NAMESPACE>T2_ZUY_1254-1</NAMESPACE><LOCALID>T2_ZUY_1254-1</LOCALID><ORIG_FID>10655</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1254-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>50394</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11089</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1254-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1254-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10656</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.873601999166766,42.95624226746563,-2.873601999166766</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1254-2</FINCA><SUPERFICIE>50394</SUPERFICIE><IDGIS>11089</IDGIS><NAMESPACE>T2_ZUY_1254-2</NAMESPACE><LOCALID>T2_ZUY_1254-2</LOCALID><ORIG_FID>10656</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>38352</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11090</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10657</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896844424970244,43.00649948477246,-2.896844424970244</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-8</FINCA><SUPERFICIE>38352</SUPERFICIE><IDGIS>11090</IDGIS><NAMESPACE>T2_ZUY_1208-8</NAMESPACE><LOCALID>T2_ZUY_1208-8</LOCALID><ORIG_FID>10657</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1236</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>20133</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11091</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1236</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1236</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10658</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.893338989493641,43.00204895765876,-2.893338989493641</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1236</FINCA><SUPERFICIE>20133</SUPERFICIE><IDGIS>11091</IDGIS><NAMESPACE>T2_ZUY_1236</NAMESPACE><LOCALID>T2_ZUY_1236</LOCALID><ORIG_FID>10658</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>70079</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11092</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10659</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.88621559849014,42.9990606193157,-2.88621559849014</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-1</FINCA><SUPERFICIE>70079</SUPERFICIE><IDGIS>11092</IDGIS><NAMESPACE>T2_ZUY_1237-1</NAMESPACE><LOCALID>T2_ZUY_1237-1</LOCALID><ORIG_FID>10659</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1238</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>23204</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11093</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1238</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1238</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10660</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890981844875006,43.00101369844153,-2.890981844875006</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1238</FINCA><SUPERFICIE>23204</SUPERFICIE><IDGIS>11093</IDGIS><NAMESPACE>T2_ZUY_1238</NAMESPACE><LOCALID>T2_ZUY_1238</LOCALID><ORIG_FID>10660</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1239</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>285</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11094</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1239</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1239</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10661</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.880524618635496,42.99655883291882,-2.880524618635496</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1239</FINCA><SUPERFICIE>285</SUPERFICIE><IDGIS>11094</IDGIS><NAMESPACE>T2_ZUY_1239</NAMESPACE><LOCALID>T2_ZUY_1239</LOCALID><ORIG_FID>10661</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1597</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11095</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10662</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.880352411438606,42.99650831005361,-2.880352411438606</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-2</FINCA><SUPERFICIE>1597</SUPERFICIE><IDGIS>11095</IDGIS><NAMESPACE>T2_ZUY_1237-2</NAMESPACE><LOCALID>T2_ZUY_1237-2</LOCALID><ORIG_FID>10662</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1240</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>175</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11096</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1240</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1240</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10663</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.880167772276117,42.99636365266209,-2.880167772276117</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1240</FINCA><SUPERFICIE>175</SUPERFICIE><IDGIS>11096</IDGIS><NAMESPACE>T2_ZUY_1240</NAMESPACE><LOCALID>T2_ZUY_1240</LOCALID><ORIG_FID>10663</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>42841</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11097</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10664</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.878093593429802,42.99477851680537,-2.878093593429802</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-3</FINCA><SUPERFICIE>42841</SUPERFICIE><IDGIS>11097</IDGIS><NAMESPACE>T2_ZUY_1237-3</NAMESPACE><LOCALID>T2_ZUY_1237-3</LOCALID><ORIG_FID>10664</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1241</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>317</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11098</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1241</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1241</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10665</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.876349536995806,42.99349123483877,-2.876349536995806</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1241</FINCA><SUPERFICIE>317</SUPERFICIE><IDGIS>11098</IDGIS><NAMESPACE>T2_ZUY_1241</NAMESPACE><LOCALID>T2_ZUY_1241</LOCALID><ORIG_FID>10665</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15768</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11099</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10666</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.875745008850644,42.99293407130908,-2.875745008850644</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-4</FINCA><SUPERFICIE>15768</SUPERFICIE><IDGIS>11099</IDGIS><NAMESPACE>T2_ZUY_1237-4</NAMESPACE><LOCALID>T2_ZUY_1237-4</LOCALID><ORIG_FID>10666</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>27307</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11100</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10667</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.874816539414903,42.99158013950305,-2.874816539414903</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-5</FINCA><SUPERFICIE>27307</SUPERFICIE><IDGIS>11100</IDGIS><NAMESPACE>T2_ZUY_1237-5</NAMESPACE><LOCALID>T2_ZUY_1237-5</LOCALID><ORIG_FID>10667</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1242</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>180</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11101</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1242</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1242</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10668</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.875602669125148,42.99239643285679,-2.875602669125148</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1242</FINCA><SUPERFICIE>180</SUPERFICIE><IDGIS>11101</IDGIS><NAMESPACE>T2_ZUY_1242</NAMESPACE><LOCALID>T2_ZUY_1242</LOCALID><ORIG_FID>10668</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>44858</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11102</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10669</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.872312824104164,42.98962461888183,-2.872312824104164</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-6</FINCA><SUPERFICIE>44858</SUPERFICIE><IDGIS>11102</IDGIS><NAMESPACE>T2_ZUY_1237-6</NAMESPACE><LOCALID>T2_ZUY_1237-6</LOCALID><ORIG_FID>10669</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1244</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>483</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11103</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1244</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1244</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10670</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.870610856653522,42.98809079128586,-2.870610856653522</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1244</FINCA><SUPERFICIE>483</SUPERFICIE><IDGIS>11103</IDGIS><NAMESPACE>T2_ZUY_1244</NAMESPACE><LOCALID>T2_ZUY_1244</LOCALID><ORIG_FID>10670</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>27329</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11104</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10671</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869214781771785,42.98734185357733,-2.869214781771785</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-7</FINCA><SUPERFICIE>27329</SUPERFICIE><IDGIS>11104</IDGIS><NAMESPACE>T2_ZUY_1237-7</NAMESPACE><LOCALID>T2_ZUY_1237-7</LOCALID><ORIG_FID>10671</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1243</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>323</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11105</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1243</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1243</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10672</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.87285136040336,42.98984719872548,-2.87285136040336</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1243</FINCA><SUPERFICIE>323</SUPERFICIE><IDGIS>11105</IDGIS><NAMESPACE>T2_ZUY_1243</NAMESPACE><LOCALID>T2_ZUY_1243</LOCALID><ORIG_FID>10672</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1245-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5109</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11106</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1245-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1245-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10673</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.867473673290184,42.98712280618847,-2.867473673290184</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1245-A</FINCA><SUPERFICIE>5109</SUPERFICIE><IDGIS>11106</IDGIS><NAMESPACE>T2_ZUY_1245-A</NAMESPACE><LOCALID>T2_ZUY_1245-A</LOCALID><ORIG_FID>10673</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1245</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4452</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11107</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1245</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1245</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10674</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.867403295808217,42.98672875203974,-2.867403295808218</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1245</FINCA><SUPERFICIE>4452</SUPERFICIE><IDGIS>11107</IDGIS><NAMESPACE>T2_ZUY_1245</NAMESPACE><LOCALID>T2_ZUY_1245</LOCALID><ORIG_FID>10674</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2887</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11108</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10675</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.872054924405811,42.9875778275656,-2.872054924405811</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-9</FINCA><SUPERFICIE>2887</SUPERFICIE><IDGIS>11108</IDGIS><NAMESPACE>T2_ZUY_1237-9</NAMESPACE><LOCALID>T2_ZUY_1237-9</LOCALID><ORIG_FID>10675</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3065</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11109</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10676</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.874850848941232,42.96808686557683,-2.874850848941232</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-4</FINCA><SUPERFICIE>3065</SUPERFICIE><IDGIS>11109</IDGIS><NAMESPACE>T2_ZUY_1249-4</NAMESPACE><LOCALID>T2_ZUY_1249-4</LOCALID><ORIG_FID>10676</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>20537</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11110</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10677</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.877800053075523,42.97233699040456,-2.877800053075524</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-3</FINCA><SUPERFICIE>20537</SUPERFICIE><IDGIS>11110</IDGIS><NAMESPACE>T2_ZUY_1249-3</NAMESPACE><LOCALID>T2_ZUY_1249-3</LOCALID><ORIG_FID>10677</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>77505</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11111</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10678</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.876151680672804,42.97587676532859,-2.876151680672804</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-2</FINCA><SUPERFICIE>77505</SUPERFICIE><IDGIS>11111</IDGIS><NAMESPACE>T2_ZUY_1249-2</NAMESPACE><LOCALID>T2_ZUY_1249-2</LOCALID><ORIG_FID>10678</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1251-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>882</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11112</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1251-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1251-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10679</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.874470485144021,42.97879672328071,-2.874470485144021</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1251-1</FINCA><SUPERFICIE>882</SUPERFICIE><IDGIS>11112</IDGIS><NAMESPACE>T2_ZUY_1251-1</NAMESPACE><LOCALID>T2_ZUY_1251-1</LOCALID><ORIG_FID>10679</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>76379</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11113</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10680</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.871829494060532,42.98154993786658,-2.871829494060532</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-1</FINCA><SUPERFICIE>76379</SUPERFICIE><IDGIS>11113</IDGIS><NAMESPACE>T2_ZUY_1249-1</NAMESPACE><LOCALID>T2_ZUY_1249-1</LOCALID><ORIG_FID>10680</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1249-3BIS</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>175</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11114</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1249-3BIS</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1249-3BIS</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10681</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869222025331122,42.98474474461704,-2.869222025331122</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1249-3BIS</FINCA><SUPERFICIE>175</SUPERFICIE><IDGIS>11114</IDGIS><NAMESPACE>T2_ZUY_1249-3BIS</NAMESPACE><LOCALID>T2_ZUY_1249-3BIS</LOCALID><ORIG_FID>10681</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1248-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6509</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11115</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1248-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1248-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10682</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869922406629195,42.98462922544115,-2.869922406629195</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1248-2</FINCA><SUPERFICIE>6509</SUPERFICIE><IDGIS>11115</IDGIS><NAMESPACE>T2_ZUY_1248-2</NAMESPACE><LOCALID>T2_ZUY_1248-2</LOCALID><ORIG_FID>10682</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1250-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>403</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11116</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1250-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1250-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10683</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869944943996494,42.98489838686418,-2.869944943996494</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1250-1</FINCA><SUPERFICIE>403</SUPERFICIE><IDGIS>11116</IDGIS><NAMESPACE>T2_ZUY_1250-1</NAMESPACE><LOCALID>T2_ZUY_1250-1</LOCALID><ORIG_FID>10683</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1248-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1498</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11117</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1248-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1248-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10684</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.870268389262346,42.98489575701161,-2.870268389262346</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1248-1</FINCA><SUPERFICIE>1498</SUPERFICIE><IDGIS>11117</IDGIS><NAMESPACE>T2_ZUY_1248-1</NAMESPACE><LOCALID>T2_ZUY_1248-1</LOCALID><ORIG_FID>10684</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1247</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>22744</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11118</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1247</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1247</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10685</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86964193532733,42.98630895497486,-2.86964193532733</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1247</FINCA><SUPERFICIE>22744</SUPERFICIE><IDGIS>11118</IDGIS><NAMESPACE>T2_ZUY_1247</NAMESPACE><LOCALID>T2_ZUY_1247</LOCALID><ORIG_FID>10685</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1247-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>337</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11119</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1247-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1247-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10686</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.867739528269843,42.9864452171313,-2.867739528269843</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1247-A</FINCA><SUPERFICIE>337</SUPERFICIE><IDGIS>11119</IDGIS><NAMESPACE>T2_ZUY_1247-A</NAMESPACE><LOCALID>T2_ZUY_1247-A</LOCALID><ORIG_FID>10686</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1246</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6625</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11120</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1246</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1246</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10687</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869572489716052,42.98690744553342,-2.869572489716052</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1246</FINCA><SUPERFICIE>6625</SUPERFICIE><IDGIS>11120</IDGIS><NAMESPACE>T2_ZUY_1246</NAMESPACE><LOCALID>T2_ZUY_1246</LOCALID><ORIG_FID>10687</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4729</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11124</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10690</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902271794793728,43.00899808761155,-2.902271794793728</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-9</FINCA><SUPERFICIE>4729</SUPERFICIE><IDGIS>11124</IDGIS><NAMESPACE>T2_ZUY_1208-9</NAMESPACE><LOCALID>T2_ZUY_1208-9</LOCALID><ORIG_FID>10690</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1230</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3613</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11125</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1230</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1230</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10691</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902071313359979,43.00873954982733,-2.902071313359979</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1230</FINCA><SUPERFICIE>3613</SUPERFICIE><IDGIS>11125</IDGIS><NAMESPACE>T2_ZUY_1230</NAMESPACE><LOCALID>T2_ZUY_1230</LOCALID><ORIG_FID>10691</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1222</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6245</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11126</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1222</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1222</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10692</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.904593276399841,43.01254786481982,-2.904593276399841</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1222</FINCA><SUPERFICIE>6245</SUPERFICIE><IDGIS>11126</IDGIS><NAMESPACE>T2_ZUY_1222</NAMESPACE><LOCALID>T2_ZUY_1222</LOCALID><ORIG_FID>10692</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1221</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>19456</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11127</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1221</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1221</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10693</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.904202672190749,43.01443188695109,-2.904202672190749</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1221</FINCA><SUPERFICIE>19456</SUPERFICIE><IDGIS>11127</IDGIS><NAMESPACE>T2_ZUY_1221</NAMESPACE><LOCALID>T2_ZUY_1221</LOCALID><ORIG_FID>10693</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>229939</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11128</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10694</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.903804829628998,43.01269508613378,-2.903804829628998</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-7</FINCA><SUPERFICIE>229939</SUPERFICIE><IDGIS>11128</IDGIS><NAMESPACE>T2_ZUY_1208-7</NAMESPACE><LOCALID>T2_ZUY_1208-7</LOCALID><ORIG_FID>10694</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1224-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8059</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11129</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1224-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1224-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10695</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898908831246057,43.00761114951993,-2.898908831246057</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1224-1</FINCA><SUPERFICIE>8059</SUPERFICIE><IDGIS>11129</IDGIS><NAMESPACE>T2_ZUY_1224-1</NAMESPACE><LOCALID>T2_ZUY_1224-1</LOCALID><ORIG_FID>10695</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1227-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>58</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11130</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1227-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1227-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10696</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900426091563917,43.00650404803384,-2.900426091563916</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1227-2</FINCA><SUPERFICIE>58</SUPERFICIE><IDGIS>11130</IDGIS><NAMESPACE>T2_ZUY_1227-2</NAMESPACE><LOCALID>T2_ZUY_1227-2</LOCALID><ORIG_FID>10696</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1228</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4219</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11131</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1228</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1228</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10697</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.899931964616506,43.00743706823783,-2.899931964616506</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1228</FINCA><SUPERFICIE>4219</SUPERFICIE><IDGIS>11131</IDGIS><NAMESPACE>T2_ZUY_1228</NAMESPACE><LOCALID>T2_ZUY_1228</LOCALID><ORIG_FID>10697</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-11</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>640</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11132</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-11</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-11</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10698</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898631170860996,43.00741899403204,-2.898631170860996</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-11</FINCA><SUPERFICIE>640</SUPERFICIE><IDGIS>11132</IDGIS><NAMESPACE>T2_ZUY_1208-11</NAMESPACE><LOCALID>T2_ZUY_1208-11</LOCALID><ORIG_FID>10698</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1226</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1686</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11133</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1226</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1226</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10699</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898565719158172,43.00727595611832,-2.898565719158172</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1226</FINCA><SUPERFICIE>1686</SUPERFICIE><IDGIS>11133</IDGIS><NAMESPACE>T2_ZUY_1226</NAMESPACE><LOCALID>T2_ZUY_1226</LOCALID><ORIG_FID>10699</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6876</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11134</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10700</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897836835813607,43.00822793787068,-2.897836835813607</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-10</FINCA><SUPERFICIE>6876</SUPERFICIE><IDGIS>11134</IDGIS><NAMESPACE>T2_ZUY_1208-10</NAMESPACE><LOCALID>T2_ZUY_1208-10</LOCALID><ORIG_FID>10700</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1224-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1002</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11135</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1224-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1224-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10701</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898542635390799,43.00736913641569,-2.898542635390799</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1224-2</FINCA><SUPERFICIE>1002</SUPERFICIE><IDGIS>11135</IDGIS><NAMESPACE>T2_ZUY_1224-2</NAMESPACE><LOCALID>T2_ZUY_1224-2</LOCALID><ORIG_FID>10701</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1227-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1127</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11136</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1227-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1227-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10702</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89949655645284,43.00682234858265,-2.89949655645284</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1227-1</FINCA><SUPERFICIE>1127</SUPERFICIE><IDGIS>11136</IDGIS><NAMESPACE>T2_ZUY_1227-1</NAMESPACE><LOCALID>T2_ZUY_1227-1</LOCALID><ORIG_FID>10702</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1227</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6625</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11137</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1227</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1227</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10703</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897313081580381,43.00575911049802,-2.89731308158038</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1227</FINCA><SUPERFICIE>6625</SUPERFICIE><IDGIS>11137</IDGIS><NAMESPACE>T2_ZUY_1227</NAMESPACE><LOCALID>T2_ZUY_1227</LOCALID><ORIG_FID>10703</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1232</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11455</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11138</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1232</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1232</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10704</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896824117520001,43.005145716521,-2.896824117520001</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1232</FINCA><SUPERFICIE>11455</SUPERFICIE><IDGIS>11138</IDGIS><NAMESPACE>T2_ZUY_1232</NAMESPACE><LOCALID>T2_ZUY_1232</LOCALID><ORIG_FID>10704</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1233</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14963</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11139</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1233</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1233</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10705</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896101111653624,43.00431720278217,-2.896101111653624</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1233</FINCA><SUPERFICIE>14963</SUPERFICIE><IDGIS>11139</IDGIS><NAMESPACE>T2_ZUY_1233</NAMESPACE><LOCALID>T2_ZUY_1233</LOCALID><ORIG_FID>10705</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1234</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10362</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11140</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1234</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1234</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10706</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895149217313085,43.00330363475116,-2.895149217313085</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1234</FINCA><SUPERFICIE>10362</SUPERFICIE><IDGIS>11140</IDGIS><NAMESPACE>T2_ZUY_1234</NAMESPACE><LOCALID>T2_ZUY_1234</LOCALID><ORIG_FID>10706</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1235</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13954</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11141</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1235</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1235</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10707</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895397365142535,43.00282820782303,-2.895397365142535</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1235</FINCA><SUPERFICIE>13954</SUPERFICIE><IDGIS>11141</IDGIS><NAMESPACE>T2_ZUY_1235</NAMESPACE><LOCALID>T2_ZUY_1235</LOCALID><ORIG_FID>10707</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1219</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7944</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11148</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1219</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1219</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10714</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911570573120445,43.0174899527433,-2.911570573120445</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1219</FINCA><SUPERFICIE>7944</SUPERFICIE><IDGIS>11148</IDGIS><NAMESPACE>T2_ZUY_1219</NAMESPACE><LOCALID>T2_ZUY_1219</LOCALID><ORIG_FID>10714</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1218</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11130</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11149</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1218</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1218</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10715</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912847237278508,43.01886985630815,-2.912847237278508</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1218</FINCA><SUPERFICIE>11130</SUPERFICIE><IDGIS>11149</IDGIS><NAMESPACE>T2_ZUY_1218</NAMESPACE><LOCALID>T2_ZUY_1218</LOCALID><ORIG_FID>10715</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1220</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2752</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11150</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1220</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1220</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10716</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.910948872038881,43.0181588250592,-2.910948872038882</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1220</FINCA><SUPERFICIE>2752</SUPERFICIE><IDGIS>11150</IDGIS><NAMESPACE>T2_ZUY_1220</NAMESPACE><LOCALID>T2_ZUY_1220</LOCALID><ORIG_FID>10716</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>242</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11153</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10719</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913954421458115,43.02196402050217,-2.913954421458115</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-5</FINCA><SUPERFICIE>242</SUPERFICIE><IDGIS>11153</IDGIS><NAMESPACE>T2_ZUY_1208-5</NAMESPACE><LOCALID>T2_ZUY_1208-5</LOCALID><ORIG_FID>10719</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1211</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>50</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11154</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1211</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1211</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10720</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914059549458444,43.02183064096673,-2.914059549458444</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1211</FINCA><SUPERFICIE>50</SUPERFICIE><IDGIS>11154</IDGIS><NAMESPACE>T2_ZUY_1211</NAMESPACE><LOCALID>T2_ZUY_1211</LOCALID><ORIG_FID>10720</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1210-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2334</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11155</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1210-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1210-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10721</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913295927346835,43.02282269490699,-2.913295927346835</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1210-4</FINCA><SUPERFICIE>2334</SUPERFICIE><IDGIS>11155</IDGIS><NAMESPACE>T2_ZUY_1210-4</NAMESPACE><LOCALID>T2_ZUY_1210-4</LOCALID><ORIG_FID>10721</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4166</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11156</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10722</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913269746188381,43.02315919032169,-2.913269746188381</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-3</FINCA><SUPERFICIE>4166</SUPERFICIE><IDGIS>11156</IDGIS><NAMESPACE>T2_ZUY_1208-3</NAMESPACE><LOCALID>T2_ZUY_1208-3</LOCALID><ORIG_FID>10722</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1210-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>593</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11157</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1210-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1210-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10723</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913249836392466,43.02351227236835,-2.913249836392466</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1210-3</FINCA><SUPERFICIE>593</SUPERFICIE><IDGIS>11157</IDGIS><NAMESPACE>T2_ZUY_1210-3</NAMESPACE><LOCALID>T2_ZUY_1210-3</LOCALID><ORIG_FID>10723</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1210-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1875</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11158</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1210-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1210-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10724</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911941126764769,43.02330523462675,-2.911941126764769</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1210-2</FINCA><SUPERFICIE>1875</SUPERFICIE><IDGIS>11158</IDGIS><NAMESPACE>T2_ZUY_1210-2</NAMESPACE><LOCALID>T2_ZUY_1210-2</LOCALID><ORIG_FID>10724</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1204-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1065</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11159</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1204-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1204-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10725</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912808620392175,43.02355889844479,-2.912808620392175</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1204-2</FINCA><SUPERFICIE>1065</SUPERFICIE><IDGIS>11159</IDGIS><NAMESPACE>T2_ZUY_1204-2</NAMESPACE><LOCALID>T2_ZUY_1204-2</LOCALID><ORIG_FID>10725</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8899</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11160</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10726</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911247473776534,43.02356547255773,-2.911247473776534</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-2</FINCA><SUPERFICIE>8899</SUPERFICIE><IDGIS>11160</IDGIS><NAMESPACE>T2_ZUY_1208-2</NAMESPACE><LOCALID>T2_ZUY_1208-2</LOCALID><ORIG_FID>10726</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1210-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>17615</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11161</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1210-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1210-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10727</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912184208824927,43.02436070005533,-2.912184208824927</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1210-1</FINCA><SUPERFICIE>17615</SUPERFICIE><IDGIS>11161</IDGIS><NAMESPACE>T2_ZUY_1210-1</NAMESPACE><LOCALID>T2_ZUY_1210-1</LOCALID><ORIG_FID>10727</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>60895</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11162</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10728</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91169033919319,43.02796294282682,-2.911690339193191</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-1</FINCA><SUPERFICIE>60895</SUPERFICIE><IDGIS>11162</IDGIS><NAMESPACE>T2_ZUY_1208-1</NAMESPACE><LOCALID>T2_ZUY_1208-1</LOCALID><ORIG_FID>10728</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1216-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1164</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11167</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1216-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1216-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10729</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911456996214962,43.01781145821224,-2.911456996214962</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1216-A</FINCA><SUPERFICIE>1164</SUPERFICIE><IDGIS>11167</IDGIS><NAMESPACE>T2_ZUY_1216-A</NAMESPACE><LOCALID>T2_ZUY_1216-A</LOCALID><ORIG_FID>10729</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1216</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>644</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11168</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1216</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1216</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10730</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911232736861319,43.01788073243907,-2.911232736861319</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1216</FINCA><SUPERFICIE>644</SUPERFICIE><IDGIS>11168</IDGIS><NAMESPACE>T2_ZUY_1216</NAMESPACE><LOCALID>T2_ZUY_1216</LOCALID><ORIG_FID>10730</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1215-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9476</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11169</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1215-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1215-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10731</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.910508919392837,43.01698631368321,-2.910508919392837</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1215-1</FINCA><SUPERFICIE>9476</SUPERFICIE><IDGIS>11169</IDGIS><NAMESPACE>T2_ZUY_1215-1</NAMESPACE><LOCALID>T2_ZUY_1215-1</LOCALID><ORIG_FID>10731</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1217</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2161</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11170</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1217</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1217</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10732</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911924391052506,43.0182100514738,-2.911924391052505</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1217</FINCA><SUPERFICIE>2161</SUPERFICIE><IDGIS>11170</IDGIS><NAMESPACE>T2_ZUY_1217</NAMESPACE><LOCALID>T2_ZUY_1217</LOCALID><ORIG_FID>10732</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1216-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>115</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11171</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1216-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1216-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10733</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912206894880417,43.01846742694581,-2.912206894880417</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1216-B</FINCA><SUPERFICIE>115</SUPERFICIE><IDGIS>11171</IDGIS><NAMESPACE>T2_ZUY_1216-B</NAMESPACE><LOCALID>T2_ZUY_1216-B</LOCALID><ORIG_FID>10733</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1218-D</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1306</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12457</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1218-D</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1218-D</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10734</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912111371272494,43.01940397172429,-2.912111371272494</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1218-D</FINCA><SUPERFICIE>1306</SUPERFICIE><IDGIS>12457</IDGIS><NAMESPACE>T2_ZUY_1218-D</NAMESPACE><LOCALID>T2_ZUY_1218-D</LOCALID><ORIG_FID>10734</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1218-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>305</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11174</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1218-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1218-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10735</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911881101331308,43.0189089279199,-2.911881101331308</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1218-B</FINCA><SUPERFICIE>305</SUPERFICIE><IDGIS>11174</IDGIS><NAMESPACE>T2_ZUY_1218-B</NAMESPACE><LOCALID>T2_ZUY_1218-B</LOCALID><ORIG_FID>10735</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1214</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13781</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11175</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1214</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1214</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10736</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911107649240977,43.01846121146186,-2.911107649240977</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1214</FINCA><SUPERFICIE>13781</SUPERFICIE><IDGIS>11175</IDGIS><NAMESPACE>T2_ZUY_1214</NAMESPACE><LOCALID>T2_ZUY_1214</LOCALID><ORIG_FID>10736</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1213-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1644</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11176</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1213-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1213-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10737</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911713241599965,43.01926676859564,-2.911713241599965</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1213-A</FINCA><SUPERFICIE>1644</SUPERFICIE><IDGIS>11176</IDGIS><NAMESPACE>T2_ZUY_1213-A</NAMESPACE><LOCALID>T2_ZUY_1213-A</LOCALID><ORIG_FID>10737</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1213</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>893</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11177</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1213</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1213</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10738</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911495025669391,43.01910838116417,-2.911495025669391</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1213</FINCA><SUPERFICIE>893</SUPERFICIE><IDGIS>11177</IDGIS><NAMESPACE>T2_ZUY_1213</NAMESPACE><LOCALID>T2_ZUY_1213</LOCALID><ORIG_FID>10738</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>98100</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11178</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10739</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911038838153306,43.02047082785155,-2.911038838153306</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-4</FINCA><SUPERFICIE>98100</SUPERFICIE><IDGIS>11178</IDGIS><NAMESPACE>T2_ZUY_1208-4</NAMESPACE><LOCALID>T2_ZUY_1208-4</LOCALID><ORIG_FID>10739</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1208-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9334</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11179</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1208-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1208-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10740</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.908988290827912,43.01732277924984,-2.908988290827912</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1208-6</FINCA><SUPERFICIE>9334</SUPERFICIE><IDGIS>11179</IDGIS><NAMESPACE>T2_ZUY_1208-6</NAMESPACE><LOCALID>T2_ZUY_1208-6</LOCALID><ORIG_FID>10740</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1219-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4936</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11180</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1219-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1219-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10741</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.909115597701425,43.01560639277388,-2.909115597701425</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1219-A</FINCA><SUPERFICIE>4936</SUPERFICIE><IDGIS>11180</IDGIS><NAMESPACE>T2_ZUY_1219-A</NAMESPACE><LOCALID>T2_ZUY_1219-A</LOCALID><ORIG_FID>10741</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1201-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3091</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11184</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1201-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1201-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10743</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91226415694118,43.0320769136665,-2.91226415694118</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1201-2</FINCA><SUPERFICIE>3091</SUPERFICIE><IDGIS>11184</IDGIS><NAMESPACE>T2_ZUY_1201-2</NAMESPACE><LOCALID>T2_ZUY_1201-2</LOCALID><ORIG_FID>10743</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1204-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>825</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11185</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1204-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1204-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10744</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912910642086375,43.03221387879481,-2.912910642086375</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1204-1</FINCA><SUPERFICIE>825</SUPERFICIE><IDGIS>11185</IDGIS><NAMESPACE>T2_ZUY_1204-1</NAMESPACE><LOCALID>T2_ZUY_1204-1</LOCALID><ORIG_FID>10744</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1205-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15076</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11186</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1205-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1205-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10745</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912774725376144,43.03166136384509,-2.912774725376145</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1205-1</FINCA><SUPERFICIE>15076</SUPERFICIE><IDGIS>11186</IDGIS><NAMESPACE>T2_ZUY_1205-1</NAMESPACE><LOCALID>T2_ZUY_1205-1</LOCALID><ORIG_FID>10745</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1206-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2510</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12454</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1206-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1206-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10746</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913142363979167,43.03061130629417,-2.913142363979167</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1206-A</FINCA><SUPERFICIE>2510</SUPERFICIE><IDGIS>12454</IDGIS><NAMESPACE>T2_ZUY_1206-A</NAMESPACE><LOCALID>T2_ZUY_1206-A</LOCALID><ORIG_FID>10746</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1207</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9088</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11188</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1207</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1207</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10747</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912262435038236,43.02999728100009,-2.912262435038235</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1207</FINCA><SUPERFICIE>9088</SUPERFICIE><IDGIS>11188</IDGIS><NAMESPACE>T2_ZUY_1207</NAMESPACE><LOCALID>T2_ZUY_1207</LOCALID><ORIG_FID>10747</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1202</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2653</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11189</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1202</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1202</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10748</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912822164364182,43.03276117190026,-2.912822164364182</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1202</FINCA><SUPERFICIE>2653</SUPERFICIE><IDGIS>11189</IDGIS><NAMESPACE>T2_ZUY_1202</NAMESPACE><LOCALID>T2_ZUY_1202</LOCALID><ORIG_FID>10748</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1203</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3189</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11190</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1203</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1203</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10749</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913614562593494,43.03268018258637,-2.913614562593493</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1203</FINCA><SUPERFICIE>3189</SUPERFICIE><IDGIS>11190</IDGIS><NAMESPACE>T2_ZUY_1203</NAMESPACE><LOCALID>T2_ZUY_1203</LOCALID><ORIG_FID>10749</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1201-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1769</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11191</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1201-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1201-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10750</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913263378616442,43.03287416915902,-2.913263378616442</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1201-1</FINCA><SUPERFICIE>1769</SUPERFICIE><IDGIS>11191</IDGIS><NAMESPACE>T2_ZUY_1201-1</NAMESPACE><LOCALID>T2_ZUY_1201-1</LOCALID><ORIG_FID>10750</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1206-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>304</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11192</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1206-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1206-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10751</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912611398581222,43.03259543012138,-2.912611398581222</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1206-1</FINCA><SUPERFICIE>304</SUPERFICIE><IDGIS>11192</IDGIS><NAMESPACE>T2_ZUY_1206-1</NAMESPACE><LOCALID>T2_ZUY_1206-1</LOCALID><ORIG_FID>10751</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1209</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14512</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11287</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1209</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1209</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10843</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912389103679552,43.02758396038804,-2.912389103679552</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1209</FINCA><SUPERFICIE>14512</SUPERFICIE><IDGIS>11287</IDGIS><NAMESPACE>T2_ZUY_1209</NAMESPACE><LOCALID>T2_ZUY_1209</LOCALID><ORIG_FID>10843</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1231</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>675</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12447</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1231</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1231</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11979</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902041013186105,43.00781191815779,-2.902041013186105</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1231</FINCA><SUPERFICIE>675</SUPERFICIE><IDGIS>12447</IDGIS><NAMESPACE>T2_ZUY_1231</NAMESPACE><LOCALID>T2_ZUY_1231</LOCALID><ORIG_FID>11979</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>88</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12448</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11980</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.870964450077881,42.98749856607176,-2.870964450077881</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-10</FINCA><SUPERFICIE>88</SUPERFICIE><IDGIS>12448</IDGIS><NAMESPACE>T2_ZUY_1237-10</NAMESPACE><LOCALID>T2_ZUY_1237-10</LOCALID><ORIG_FID>11980</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1237-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>649</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12449</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1237-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1237-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11981</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.873201446309696,42.98808538409621,-2.873201446309695</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1237-8</FINCA><SUPERFICIE>649</SUPERFICIE><IDGIS>12449</IDGIS><NAMESPACE>T2_ZUY_1237-8</NAMESPACE><LOCALID>T2_ZUY_1237-8</LOCALID><ORIG_FID>11981</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1215-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>549</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12450</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1215-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1215-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11982</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.909520263351934,43.01666642125971,-2.909520263351934</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1215-7</FINCA><SUPERFICIE>549</SUPERFICIE><IDGIS>12450</IDGIS><NAMESPACE>T2_ZUY_1215-7</NAMESPACE><LOCALID>T2_ZUY_1215-7</LOCALID><ORIG_FID>11982</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1212</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>904</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12681</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1212</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1212</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11983</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912055410421273,43.02044482344235,-2.912055410421272</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1212</FINCA><SUPERFICIE>904</SUPERFICIE><IDGIS>12681</IDGIS><NAMESPACE>T2_ZUY_1212</NAMESPACE><LOCALID>T2_ZUY_1212</LOCALID><ORIG_FID>11983</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1205-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1447</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12452</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1205-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1205-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11984</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913592508021285,43.03175599138768,-2.913592508021285</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1205-1A</FINCA><SUPERFICIE>1447</SUPERFICIE><IDGIS>12452</IDGIS><NAMESPACE>T2_ZUY_1205-1A</NAMESPACE><LOCALID>T2_ZUY_1205-1A</LOCALID><ORIG_FID>11984</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1205-1B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1297</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12453</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1205-1B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1205-1B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11985</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91339082047595,43.03131035330186,-2.91339082047595</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1205-1B</FINCA><SUPERFICIE>1297</SUPERFICIE><IDGIS>12453</IDGIS><NAMESPACE>T2_ZUY_1205-1B</NAMESPACE><LOCALID>T2_ZUY_1205-1B</LOCALID><ORIG_FID>11985</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1206</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1944</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11187</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1206</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1206</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11986</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912868579047405,43.03083587392747,-2.912868579047406</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1206</FINCA><SUPERFICIE>1944</SUPERFICIE><IDGIS>11187</IDGIS><NAMESPACE>T2_ZUY_1206</NAMESPACE><LOCALID>T2_ZUY_1206</LOCALID><ORIG_FID>11986</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1207-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3962</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12455</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1207-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1207-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11987</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913265724714013,43.02751883540155,-2.913265724714013</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1207-1</FINCA><SUPERFICIE>3962</SUPERFICIE><IDGIS>12455</IDGIS><NAMESPACE>T2_ZUY_1207-1</NAMESPACE><LOCALID>T2_ZUY_1207-1</LOCALID><ORIG_FID>11987</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1207-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2360</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12456</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1207-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1207-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11988</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913136020837219,43.02909640024453,-2.91313602083722</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1207-B</FINCA><SUPERFICIE>2360</SUPERFICIE><IDGIS>12456</IDGIS><NAMESPACE>T2_ZUY_1207-B</NAMESPACE><LOCALID>T2_ZUY_1207-B</LOCALID><ORIG_FID>11988</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1213-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>127</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11172</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1213-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1213-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11989</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911932483020636,43.01931551169428,-2.911932483020637</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1213-B</FINCA><SUPERFICIE>127</SUPERFICIE><IDGIS>11172</IDGIS><NAMESPACE>T2_ZUY_1213-B</NAMESPACE><LOCALID>T2_ZUY_1213-B</LOCALID><ORIG_FID>11989</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1218-C</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>153</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12458</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1218-C</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1218-C</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11990</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91219685551624,43.01863492777985,-2.91219685551624</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1218-C</FINCA><SUPERFICIE>153</SUPERFICIE><IDGIS>12458</IDGIS><NAMESPACE>T2_ZUY_1218-C</NAMESPACE><LOCALID>T2_ZUY_1218-C</LOCALID><ORIG_FID>11990</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZUY</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1218-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3519</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12459</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ZUY_1218-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ZUY_1218-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11991</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912930114216204,43.01948831213909,-2.912930114216204</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ZUY</TERMINO><FINCA>1218-A</FINCA><SUPERFICIE>3519</SUPERFICIE><IDGIS>12459</IDGIS><NAMESPACE>T2_ZUY_1218-A</NAMESPACE><LOCALID>T2_ZUY_1218-A</LOCALID><ORIG_FID>11991</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

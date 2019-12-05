@@ -1,0 +1,5895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T4_HAR_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>42.63730712488282</north>
+			<south>42.57724010403215</south>
+			<east>-2.853247355342941</east>
+			<west>-2.876870072686509</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4613</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>28178</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>4968</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4613</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4613</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4871</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.874336565450299,42.57909347900043,-2.874336565450298</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4613</FINCA><SUPERFICIE>28178</SUPERFICIE><IDGIS>4968</IDGIS><NAMESPACE>T4_HAR_4613</NAMESPACE><LOCALID>T4_HAR_4613</LOCALID><ORIG_FID>4871</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4614</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>605</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>4969</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4614</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4614</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4872</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.87582621867755,42.57777003146575,-2.87582621867755</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4614</FINCA><SUPERFICIE>605</SUPERFICIE><IDGIS>4969</IDGIS><NAMESPACE>T4_HAR_4614</NAMESPACE><LOCALID>T4_HAR_4614</LOCALID><ORIG_FID>4872</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4615</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>131</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>4970</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4615</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4615</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4873</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.875784616619836,42.57757811695343,-2.875784616619836</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4615</FINCA><SUPERFICIE>131</SUPERFICIE><IDGIS>4970</IDGIS><NAMESPACE>T4_HAR_4615</NAMESPACE><LOCALID>T4_HAR_4615</LOCALID><ORIG_FID>4873</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4621</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3477</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>4971</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4621</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4621</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4874</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.876143811677838,42.57746135170462,-2.876143811677838</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4621</FINCA><SUPERFICIE>3477</SUPERFICIE><IDGIS>4971</IDGIS><NAMESPACE>T4_HAR_4621</NAMESPACE><LOCALID>T4_HAR_4621</LOCALID><ORIG_FID>4874</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4620</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>74</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>4973</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4620</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4620</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4875</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.876869553582139,42.57753159887479,-2.876869553582139</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4620</FINCA><SUPERFICIE>74</SUPERFICIE><IDGIS>4973</IDGIS><NAMESPACE>T4_HAR_4620</NAMESPACE><LOCALID>T4_HAR_4620</LOCALID><ORIG_FID>4875</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4619</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1306</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>4974</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4619</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4619</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4876</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.876523126382922,42.57749637110727,-2.876523126382922</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4619</FINCA><SUPERFICIE>1306</SUPERFICIE><IDGIS>4974</IDGIS><NAMESPACE>T4_HAR_4619</NAMESPACE><LOCALID>T4_HAR_4619</LOCALID><ORIG_FID>4876</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4612</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2990</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5012</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4612</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4612</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4913</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.872656818700046,42.58027168964129,-2.872656818700046</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4612</FINCA><SUPERFICIE>2990</SUPERFICIE><IDGIS>5012</IDGIS><NAMESPACE>T4_HAR_4612</NAMESPACE><LOCALID>T4_HAR_4612</LOCALID><ORIG_FID>4913</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4611</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10363</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5013</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4611</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4611</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4914</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.872563073589685,42.58072656856074,-2.872563073589685</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4611</FINCA><SUPERFICIE>10363</SUPERFICIE><IDGIS>5013</IDGIS><NAMESPACE>T4_HAR_4611</NAMESPACE><LOCALID>T4_HAR_4611</LOCALID><ORIG_FID>4914</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4610</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5836</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5014</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4610</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4610</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4915</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.871535074863016,42.58078806552543,-2.871535074863016</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4610</FINCA><SUPERFICIE>5836</SUPERFICIE><IDGIS>5014</IDGIS><NAMESPACE>T4_HAR_4610</NAMESPACE><LOCALID>T4_HAR_4610</LOCALID><ORIG_FID>4915</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4609</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1629</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5015</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4609</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4609</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4916</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.870890958132761,42.58042781037887,-2.870890958132761</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4609</FINCA><SUPERFICIE>1629</SUPERFICIE><IDGIS>5015</IDGIS><NAMESPACE>T4_HAR_4609</NAMESPACE><LOCALID>T4_HAR_4609</LOCALID><ORIG_FID>4916</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4608</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3455</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5016</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4608</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4608</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4917</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.871150652585544,42.5814811414622,-2.871150652585545</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4608</FINCA><SUPERFICIE>3455</SUPERFICIE><IDGIS>5016</IDGIS><NAMESPACE>T4_HAR_4608</NAMESPACE><LOCALID>T4_HAR_4608</LOCALID><ORIG_FID>4917</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4607</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>93</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5017</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4607</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4607</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4918</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.871120831840701,42.58182179450955,-2.871120831840701</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4607</FINCA><SUPERFICIE>93</SUPERFICIE><IDGIS>5017</IDGIS><NAMESPACE>T4_HAR_4607</NAMESPACE><LOCALID>T4_HAR_4607</LOCALID><ORIG_FID>4918</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4605</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15948</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5018</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4605</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4605</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4919</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869858382211472,42.58250839053317,-2.869858382211472</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4605</FINCA><SUPERFICIE>15948</SUPERFICIE><IDGIS>5018</IDGIS><NAMESPACE>T4_HAR_4605</NAMESPACE><LOCALID>T4_HAR_4605</LOCALID><ORIG_FID>4919</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4604</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>291</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5019</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4604</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4604</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4920</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.870106617437596,42.58188435772497,-2.870106617437596</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4604</FINCA><SUPERFICIE>291</SUPERFICIE><IDGIS>5019</IDGIS><NAMESPACE>T4_HAR_4604</NAMESPACE><LOCALID>T4_HAR_4604</LOCALID><ORIG_FID>4920</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4603</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1420</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5020</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4603</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4603</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4921</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.868673105025259,42.58331504099262,-2.868673105025259</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4603</FINCA><SUPERFICIE>1420</SUPERFICIE><IDGIS>5020</IDGIS><NAMESPACE>T4_HAR_4603</NAMESPACE><LOCALID>T4_HAR_4603</LOCALID><ORIG_FID>4921</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4602</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>201</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5021</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4602</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4602</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4922</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.867840972845496,42.58371924823798,-2.867840972845496</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4602</FINCA><SUPERFICIE>201</SUPERFICIE><IDGIS>5021</IDGIS><NAMESPACE>T4_HAR_4602</NAMESPACE><LOCALID>T4_HAR_4602</LOCALID><ORIG_FID>4922</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4601-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>200</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5022</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4601-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4601-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4923</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869213369685778,42.58368244046156,-2.869213369685778</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4601-A</FINCA><SUPERFICIE>200</SUPERFICIE><IDGIS>5022</IDGIS><NAMESPACE>T4_HAR_4601-A</NAMESPACE><LOCALID>T4_HAR_4601-A</LOCALID><ORIG_FID>4923</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4578</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4669</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5023</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4578</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4578</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4924</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863900906490274,42.59094456912744,-2.863900906490275</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4578</FINCA><SUPERFICIE>4669</SUPERFICIE><IDGIS>5023</IDGIS><NAMESPACE>T4_HAR_4578</NAMESPACE><LOCALID>T4_HAR_4578</LOCALID><ORIG_FID>4924</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4581</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1223</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5024</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4581</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4581</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4925</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.865005811980102,42.59044103095549,-2.865005811980102</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4581</FINCA><SUPERFICIE>1223</SUPERFICIE><IDGIS>5024</IDGIS><NAMESPACE>T4_HAR_4581</NAMESPACE><LOCALID>T4_HAR_4581</LOCALID><ORIG_FID>4925</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4582</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>18236</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5025</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4582</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4582</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4926</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.864895886596526,42.58964483939331,-2.864895886596526</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4582</FINCA><SUPERFICIE>18236</SUPERFICIE><IDGIS>5025</IDGIS><NAMESPACE>T4_HAR_4582</NAMESPACE><LOCALID>T4_HAR_4582</LOCALID><ORIG_FID>4926</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4583</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>28490</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5026</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4583</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4583</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4927</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.866215278032971,42.58736612024211,-2.866215278032971</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4583</FINCA><SUPERFICIE>28490</SUPERFICIE><IDGIS>5026</IDGIS><NAMESPACE>T4_HAR_4583</NAMESPACE><LOCALID>T4_HAR_4583</LOCALID><ORIG_FID>4927</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4584</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>872</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5027</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4584</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4584</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4928</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.865646348592216,42.5889881436414,-2.865646348592216</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4584</FINCA><SUPERFICIE>872</SUPERFICIE><IDGIS>5027</IDGIS><NAMESPACE>T4_HAR_4584</NAMESPACE><LOCALID>T4_HAR_4584</LOCALID><ORIG_FID>4928</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4585</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1072</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5028</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4585</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4585</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4929</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.865647481373036,42.58375174131371,-2.865647481373036</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4585</FINCA><SUPERFICIE>1072</SUPERFICIE><IDGIS>5028</IDGIS><NAMESPACE>T4_HAR_4585</NAMESPACE><LOCALID>T4_HAR_4585</LOCALID><ORIG_FID>4929</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4586</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2944</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5029</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4586</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4586</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4930</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.866742842630568,42.58444351072788,-2.866742842630568</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4586</FINCA><SUPERFICIE>2944</SUPERFICIE><IDGIS>5029</IDGIS><NAMESPACE>T4_HAR_4586</NAMESPACE><LOCALID>T4_HAR_4586</LOCALID><ORIG_FID>4930</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4587</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2771</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5030</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4587</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4587</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4931</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.867642384299385,42.58478375291283,-2.867642384299385</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4587</FINCA><SUPERFICIE>2771</SUPERFICIE><IDGIS>5030</IDGIS><NAMESPACE>T4_HAR_4587</NAMESPACE><LOCALID>T4_HAR_4587</LOCALID><ORIG_FID>4931</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4588</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2386</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5031</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4588</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4588</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4932</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86708132348391,42.58477959839829,-2.86708132348391</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4588</FINCA><SUPERFICIE>2386</SUPERFICIE><IDGIS>5031</IDGIS><NAMESPACE>T4_HAR_4588</NAMESPACE><LOCALID>T4_HAR_4588</LOCALID><ORIG_FID>4932</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4589</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11521</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5032</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4589</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4589</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4933</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.867427522005859,42.58558173668121,-2.867427522005859</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4589</FINCA><SUPERFICIE>11521</SUPERFICIE><IDGIS>5032</IDGIS><NAMESPACE>T4_HAR_4589</NAMESPACE><LOCALID>T4_HAR_4589</LOCALID><ORIG_FID>4933</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4590</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2109</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5033</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4590</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4590</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4934</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86807078676151,42.58567044814102,-2.86807078676151</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4590</FINCA><SUPERFICIE>2109</SUPERFICIE><IDGIS>5033</IDGIS><NAMESPACE>T4_HAR_4590</NAMESPACE><LOCALID>T4_HAR_4590</LOCALID><ORIG_FID>4934</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4591</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>801</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5034</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4591</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4591</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4935</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.868939459434836,42.58562173244368,-2.868939459434836</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4591</FINCA><SUPERFICIE>801</SUPERFICIE><IDGIS>5034</IDGIS><NAMESPACE>T4_HAR_4591</NAMESPACE><LOCALID>T4_HAR_4591</LOCALID><ORIG_FID>4935</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4593-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1153</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5035</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4593-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4593-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4936</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86963836859619,42.58591851787806,-2.86963836859619</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4593-1</FINCA><SUPERFICIE>1153</SUPERFICIE><IDGIS>5035</IDGIS><NAMESPACE>T4_HAR_4593-1</NAMESPACE><LOCALID>T4_HAR_4593-1</LOCALID><ORIG_FID>4936</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4592</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>53</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5036</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4592</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4592</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4937</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.870193409001725,42.58620198235258,-2.870193409001725</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4592</FINCA><SUPERFICIE>53</SUPERFICIE><IDGIS>5036</IDGIS><NAMESPACE>T4_HAR_4592</NAMESPACE><LOCALID>T4_HAR_4592</LOCALID><ORIG_FID>4937</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4593-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1127</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5037</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4593-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4593-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4938</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.866484980771498,42.58403106623764,-2.866484980771498</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4593-2</FINCA><SUPERFICIE>1127</SUPERFICIE><IDGIS>5037</IDGIS><NAMESPACE>T4_HAR_4593-2</NAMESPACE><LOCALID>T4_HAR_4593-2</LOCALID><ORIG_FID>4938</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4594</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>83</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5038</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4594</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4594</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4939</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.865541426361671,42.58354300151233,-2.865541426361671</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4594</FINCA><SUPERFICIE>83</SUPERFICIE><IDGIS>5038</IDGIS><NAMESPACE>T4_HAR_4594</NAMESPACE><LOCALID>T4_HAR_4594</LOCALID><ORIG_FID>4939</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4595-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>388</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5039</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4595-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4595-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4940</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.867925558379889,42.58455070751664,-2.867925558379889</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4595-1</FINCA><SUPERFICIE>388</SUPERFICIE><IDGIS>5039</IDGIS><NAMESPACE>T4_HAR_4595-1</NAMESPACE><LOCALID>T4_HAR_4595-1</LOCALID><ORIG_FID>4940</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4595-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>513</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5040</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4595-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4595-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4941</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.868776429406329,42.58355627831708,-2.868776429406329</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4595-2</FINCA><SUPERFICIE>513</SUPERFICIE><IDGIS>5040</IDGIS><NAMESPACE>T4_HAR_4595-2</NAMESPACE><LOCALID>T4_HAR_4595-2</LOCALID><ORIG_FID>4941</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4595-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>36</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5041</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4595-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4595-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4942</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86784971589957,42.58383913200006,-2.86784971589957</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4595-3</FINCA><SUPERFICIE>36</SUPERFICIE><IDGIS>5041</IDGIS><NAMESPACE>T4_HAR_4595-3</NAMESPACE><LOCALID>T4_HAR_4595-3</LOCALID><ORIG_FID>4942</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4595-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>263</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5042</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4595-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4595-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4943</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.870851677117379,42.58163255444527,-2.870851677117379</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4595-4</FINCA><SUPERFICIE>263</SUPERFICIE><IDGIS>5042</IDGIS><NAMESPACE>T4_HAR_4595-4</NAMESPACE><LOCALID>T4_HAR_4595-4</LOCALID><ORIG_FID>4943</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4596</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>617</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5043</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4596</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4596</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4944</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.867789051294522,42.58448229284905,-2.867789051294522</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4596</FINCA><SUPERFICIE>617</SUPERFICIE><IDGIS>5043</IDGIS><NAMESPACE>T4_HAR_4596</NAMESPACE><LOCALID>T4_HAR_4596</LOCALID><ORIG_FID>4944</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4597</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>190</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5044</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4597</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4597</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4945</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869383145597669,42.58575305740181,-2.869383145597669</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4597</FINCA><SUPERFICIE>190</SUPERFICIE><IDGIS>5044</IDGIS><NAMESPACE>T4_HAR_4597</NAMESPACE><LOCALID>T4_HAR_4597</LOCALID><ORIG_FID>4945</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4598</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>508</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5045</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4598</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4598</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4946</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869562608131866,42.58578065100483,-2.869562608131866</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4598</FINCA><SUPERFICIE>508</SUPERFICIE><IDGIS>5045</IDGIS><NAMESPACE>T4_HAR_4598</NAMESPACE><LOCALID>T4_HAR_4598</LOCALID><ORIG_FID>4946</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4599</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>702</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5046</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4599</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4599</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4947</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869999823419642,42.58599091504442,-2.869999823419642</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4599</FINCA><SUPERFICIE>702</SUPERFICIE><IDGIS>5046</IDGIS><NAMESPACE>T4_HAR_4599</NAMESPACE><LOCALID>T4_HAR_4599</LOCALID><ORIG_FID>4947</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4600</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7457</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5047</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4600</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4600</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4948</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.868353078303692,42.5840803656651,-2.868353078303692</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4600</FINCA><SUPERFICIE>7457</SUPERFICIE><IDGIS>5047</IDGIS><NAMESPACE>T4_HAR_4600</NAMESPACE><LOCALID>T4_HAR_4600</LOCALID><ORIG_FID>4948</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4600-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>531</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5048</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4600-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4600-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4949</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.868519687111552,42.58442806344451,-2.868519687111552</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4600-A</FINCA><SUPERFICIE>531</SUPERFICIE><IDGIS>5048</IDGIS><NAMESPACE>T4_HAR_4600-A</NAMESPACE><LOCALID>T4_HAR_4600-A</LOCALID><ORIG_FID>4949</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4601</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>521</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5049</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4601</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4601</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4950</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86903945832224,42.58365831985968,-2.86903945832224</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4601</FINCA><SUPERFICIE>521</SUPERFICIE><IDGIS>5049</IDGIS><NAMESPACE>T4_HAR_4601</NAMESPACE><LOCALID>T4_HAR_4601</LOCALID><ORIG_FID>4950</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4500</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1870</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5050</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4500</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4500</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4951</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.859370257225185,42.6365366187095,-2.859370257225185</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4500</FINCA><SUPERFICIE>1870</SUPERFICIE><IDGIS>5050</IDGIS><NAMESPACE>T4_HAR_4500</NAMESPACE><LOCALID>T4_HAR_4500</LOCALID><ORIG_FID>4951</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4501</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2598</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5051</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4501</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4501</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4952</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85911899791902,42.63614099835245,-2.85911899791902</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4501</FINCA><SUPERFICIE>2598</SUPERFICIE><IDGIS>5051</IDGIS><NAMESPACE>T4_HAR_4501</NAMESPACE><LOCALID>T4_HAR_4501</LOCALID><ORIG_FID>4952</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4502</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3974</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5052</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4502</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4502</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4953</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858834833500343,42.63620564332902,-2.858834833500343</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4502</FINCA><SUPERFICIE>3974</SUPERFICIE><IDGIS>5052</IDGIS><NAMESPACE>T4_HAR_4502</NAMESPACE><LOCALID>T4_HAR_4502</LOCALID><ORIG_FID>4953</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4503</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>20992</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5053</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4503</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4503</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4954</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858093499380556,42.63436806011002,-2.858093499380556</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4503</FINCA><SUPERFICIE>20992</SUPERFICIE><IDGIS>5053</IDGIS><NAMESPACE>T4_HAR_4503</NAMESPACE><LOCALID>T4_HAR_4503</LOCALID><ORIG_FID>4954</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4504</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>702</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5054</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4504</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4504</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4955</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858978604922252,42.63704199880707,-2.858978604922252</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4504</FINCA><SUPERFICIE>702</SUPERFICIE><IDGIS>5054</IDGIS><NAMESPACE>T4_HAR_4504</NAMESPACE><LOCALID>T4_HAR_4504</LOCALID><ORIG_FID>4955</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4505</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>954</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5055</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4505</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4505</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4956</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85876345276686,42.63709253650284,-2.85876345276686</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4505</FINCA><SUPERFICIE>954</SUPERFICIE><IDGIS>5055</IDGIS><NAMESPACE>T4_HAR_4505</NAMESPACE><LOCALID>T4_HAR_4505</LOCALID><ORIG_FID>4956</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4506</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1840</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5056</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4506</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4506</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4957</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858415919068389,42.6372859318713,-2.858415919068389</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4506</FINCA><SUPERFICIE>1840</SUPERFICIE><IDGIS>5056</IDGIS><NAMESPACE>T4_HAR_4506</NAMESPACE><LOCALID>T4_HAR_4506</LOCALID><ORIG_FID>4957</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4507</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>974</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5057</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4507</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4507</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4958</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85856446636629,42.63677251889018,-2.85856446636629</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4507</FINCA><SUPERFICIE>974</SUPERFICIE><IDGIS>5057</IDGIS><NAMESPACE>T4_HAR_4507</NAMESPACE><LOCALID>T4_HAR_4507</LOCALID><ORIG_FID>4958</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4508</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1781</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5058</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4508</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4508</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4959</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85834349586233,42.63611415711084,-2.85834349586233</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4508</FINCA><SUPERFICIE>1781</SUPERFICIE><IDGIS>5058</IDGIS><NAMESPACE>T4_HAR_4508</NAMESPACE><LOCALID>T4_HAR_4508</LOCALID><ORIG_FID>4959</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4509</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15401</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5059</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4509</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4509</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4960</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857535800807439,42.63494400068897,-2.857535800807439</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4509</FINCA><SUPERFICIE>15401</SUPERFICIE><IDGIS>5059</IDGIS><NAMESPACE>T4_HAR_4509</NAMESPACE><LOCALID>T4_HAR_4509</LOCALID><ORIG_FID>4960</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4510-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6178</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5060</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4510-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4510-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4961</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858064240779096,42.63564552330067,-2.858064240779096</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4510-1</FINCA><SUPERFICIE>6178</SUPERFICIE><IDGIS>5060</IDGIS><NAMESPACE>T4_HAR_4510-1</NAMESPACE><LOCALID>T4_HAR_4510-1</LOCALID><ORIG_FID>4961</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4510-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1037</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5061</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4510-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4510-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4962</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856287636449364,42.63235209506526,-2.856287636449363</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4510-2</FINCA><SUPERFICIE>1037</SUPERFICIE><IDGIS>5061</IDGIS><NAMESPACE>T4_HAR_4510-2</NAMESPACE><LOCALID>T4_HAR_4510-2</LOCALID><ORIG_FID>4962</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4510-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1528</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5062</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4510-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4510-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4963</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855989220601055,42.62432689579795,-2.855989220601055</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4510-3</FINCA><SUPERFICIE>1528</SUPERFICIE><IDGIS>5062</IDGIS><NAMESPACE>T4_HAR_4510-3</NAMESPACE><LOCALID>T4_HAR_4510-3</LOCALID><ORIG_FID>4963</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4510-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8863</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5064</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4510-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4510-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4964</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855879595126171,42.61579752850459,-2.855879595126171</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4510-4</FINCA><SUPERFICIE>8863</SUPERFICIE><IDGIS>5064</IDGIS><NAMESPACE>T4_HAR_4510-4</NAMESPACE><LOCALID>T4_HAR_4510-4</LOCALID><ORIG_FID>4964</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4510-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2539</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5065</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4510-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4510-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4965</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855649999095607,42.61437511041231,-2.855649999095607</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4510-5</FINCA><SUPERFICIE>2539</SUPERFICIE><IDGIS>5065</IDGIS><NAMESPACE>T4_HAR_4510-5</NAMESPACE><LOCALID>T4_HAR_4510-5</LOCALID><ORIG_FID>4965</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4510-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>776</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5066</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4510-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4510-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4966</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857587055985026,42.61088473424763,-2.857587055985026</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4510-6</FINCA><SUPERFICIE>776</SUPERFICIE><IDGIS>5066</IDGIS><NAMESPACE>T4_HAR_4510-6</NAMESPACE><LOCALID>T4_HAR_4510-6</LOCALID><ORIG_FID>4966</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4511</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7929</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5067</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4511</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4511</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4967</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856826683676594,42.63258298188485,-2.856826683676594</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4511</FINCA><SUPERFICIE>7929</SUPERFICIE><IDGIS>5067</IDGIS><NAMESPACE>T4_HAR_4511</NAMESPACE><LOCALID>T4_HAR_4511</LOCALID><ORIG_FID>4967</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4512-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>38856</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5916</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4512-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4512-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4968</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856669217000282,42.62869561934692,-2.856669217000282</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4512-M</FINCA><SUPERFICIE>38856</SUPERFICIE><IDGIS>5916</IDGIS><NAMESPACE>T4_HAR_4512-M</NAMESPACE><LOCALID>T4_HAR_4512-M</LOCALID><ORIG_FID>4968</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4513-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>60</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5903</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4513-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4513-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4969</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858143305711263,42.63014406506395,-2.858143305711263</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4513-M</FINCA><SUPERFICIE>60</SUPERFICIE><IDGIS>5903</IDGIS><NAMESPACE>T4_HAR_4513-M</NAMESPACE><LOCALID>T4_HAR_4513-M</LOCALID><ORIG_FID>4969</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4514-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>54489</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5070</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4514-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4514-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4970</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855360221333879,42.62267874345439,-2.855360221333879</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4514-M</FINCA><SUPERFICIE>54489</SUPERFICIE><IDGIS>5070</IDGIS><NAMESPACE>T4_HAR_4514-M</NAMESPACE><LOCALID>T4_HAR_4514-M</LOCALID><ORIG_FID>4970</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4514-1M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11548</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5071</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4514-1M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4514-1M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4971</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855246194663685,42.62246658582873,-2.855246194663685</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4514-1M</FINCA><SUPERFICIE>11548</SUPERFICIE><IDGIS>5071</IDGIS><NAMESPACE>T4_HAR_4514-1M</NAMESPACE><LOCALID>T4_HAR_4514-1M</LOCALID><ORIG_FID>4971</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4515-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>43528</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5072</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4515-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4515-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4972</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.854945657797681,42.61989310826625,-2.854945657797681</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4515-M</FINCA><SUPERFICIE>43528</SUPERFICIE><IDGIS>5072</IDGIS><NAMESPACE>T4_HAR_4515-M</NAMESPACE><LOCALID>T4_HAR_4515-M</LOCALID><ORIG_FID>4972</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4516-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14388</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5074</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4516-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4516-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4973</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856464377949919,42.61691249298812,-2.856464377949919</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4516-M</FINCA><SUPERFICIE>14388</SUPERFICIE><IDGIS>5074</IDGIS><NAMESPACE>T4_HAR_4516-M</NAMESPACE><LOCALID>T4_HAR_4516-M</LOCALID><ORIG_FID>4973</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4517-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>33285</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5075</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4517-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4517-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4974</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.854132096958715,42.61779358210833,-2.854132096958715</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4517-M</FINCA><SUPERFICIE>33285</SUPERFICIE><IDGIS>5075</IDGIS><NAMESPACE>T4_HAR_4517-M</NAMESPACE><LOCALID>T4_HAR_4517-M</LOCALID><ORIG_FID>4974</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4518</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7460</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5076</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4518</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4518</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4975</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855968865658845,42.61586701703354,-2.855968865658845</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4518</FINCA><SUPERFICIE>7460</SUPERFICIE><IDGIS>5076</IDGIS><NAMESPACE>T4_HAR_4518</NAMESPACE><LOCALID>T4_HAR_4518</LOCALID><ORIG_FID>4975</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4519</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4044</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5077</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4519</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4519</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4976</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.853296774349456,42.61623662904499,-2.853296774349456</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4519</FINCA><SUPERFICIE>4044</SUPERFICIE><IDGIS>5077</IDGIS><NAMESPACE>T4_HAR_4519</NAMESPACE><LOCALID>T4_HAR_4519</LOCALID><ORIG_FID>4976</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4520</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12907</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5078</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4520</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4520</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4977</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857088239833258,42.61495904706657,-2.857088239833258</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4520</FINCA><SUPERFICIE>12907</SUPERFICIE><IDGIS>5078</IDGIS><NAMESPACE>T4_HAR_4520</NAMESPACE><LOCALID>T4_HAR_4520</LOCALID><ORIG_FID>4977</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4521</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>267</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5079</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4521</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4521</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4978</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857166152717653,42.61388093265975,-2.857166152717653</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4521</FINCA><SUPERFICIE>267</SUPERFICIE><IDGIS>5079</IDGIS><NAMESPACE>T4_HAR_4521</NAMESPACE><LOCALID>T4_HAR_4521</LOCALID><ORIG_FID>4978</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4522</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2013</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5080</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4522</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4522</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4979</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855603777180704,42.61413099777543,-2.855603777180704</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4522</FINCA><SUPERFICIE>2013</SUPERFICIE><IDGIS>5080</IDGIS><NAMESPACE>T4_HAR_4522</NAMESPACE><LOCALID>T4_HAR_4522</LOCALID><ORIG_FID>4979</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4523</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11567</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5081</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4523</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4523</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4980</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856258897313059,42.61453235173529,-2.856258897313059</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4523</FINCA><SUPERFICIE>11567</SUPERFICIE><IDGIS>5081</IDGIS><NAMESPACE>T4_HAR_4523</NAMESPACE><LOCALID>T4_HAR_4523</LOCALID><ORIG_FID>4980</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4524</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5382</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5082</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4524</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4524</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4981</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856363851241256,42.61336823217638,-2.856363851241256</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4524</FINCA><SUPERFICIE>5382</SUPERFICIE><IDGIS>5082</IDGIS><NAMESPACE>T4_HAR_4524</NAMESPACE><LOCALID>T4_HAR_4524</LOCALID><ORIG_FID>4981</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4525</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1606</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5083</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4525</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4525</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4982</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857137319437848,42.61359241808725,-2.857137319437848</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4525</FINCA><SUPERFICIE>1606</SUPERFICIE><IDGIS>5083</IDGIS><NAMESPACE>T4_HAR_4525</NAMESPACE><LOCALID>T4_HAR_4525</LOCALID><ORIG_FID>4982</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4526</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>61</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5084</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4526</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4526</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4983</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857870779407395,42.61341931950446,-2.857870779407395</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4526</FINCA><SUPERFICIE>61</SUPERFICIE><IDGIS>5084</IDGIS><NAMESPACE>T4_HAR_4526</NAMESPACE><LOCALID>T4_HAR_4526</LOCALID><ORIG_FID>4983</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4527</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14350</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5085</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4527</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4527</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4984</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85720304613009,42.61213366318172,-2.85720304613009</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4527</FINCA><SUPERFICIE>14350</SUPERFICIE><IDGIS>5085</IDGIS><NAMESPACE>T4_HAR_4527</NAMESPACE><LOCALID>T4_HAR_4527</LOCALID><ORIG_FID>4984</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4527-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>59</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5086</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4527-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4527-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4985</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858027219819332,42.61335194821224,-2.858027219819332</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4527-1</FINCA><SUPERFICIE>59</SUPERFICIE><IDGIS>5086</IDGIS><NAMESPACE>T4_HAR_4527-1</NAMESPACE><LOCALID>T4_HAR_4527-1</LOCALID><ORIG_FID>4985</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4528</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>41</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5087</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4528</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4528</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4986</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858193520703381,42.61327941423582,-2.858193520703381</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4528</FINCA><SUPERFICIE>41</SUPERFICIE><IDGIS>5087</IDGIS><NAMESPACE>T4_HAR_4528</NAMESPACE><LOCALID>T4_HAR_4528</LOCALID><ORIG_FID>4986</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4530-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1520</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8127</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4530-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4530-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4987</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856493779725696,42.61070530304221,-2.856493779725697</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4530-M</FINCA><SUPERFICIE>1520</SUPERFICIE><IDGIS>8127</IDGIS><NAMESPACE>T4_HAR_4530-M</NAMESPACE><LOCALID>T4_HAR_4530-M</LOCALID><ORIG_FID>4987</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4531</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>625</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5090</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4531</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4531</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4988</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857322506965256,42.61069952073651,-2.857322506965255</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4531</FINCA><SUPERFICIE>625</SUPERFICIE><IDGIS>5090</IDGIS><NAMESPACE>T4_HAR_4531</NAMESPACE><LOCALID>T4_HAR_4531</LOCALID><ORIG_FID>4988</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4532</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6782</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5091</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4532</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4532</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4989</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857682408358058,42.61054210378771,-2.857682408358058</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4532</FINCA><SUPERFICIE>6782</SUPERFICIE><IDGIS>5091</IDGIS><NAMESPACE>T4_HAR_4532</NAMESPACE><LOCALID>T4_HAR_4532</LOCALID><ORIG_FID>4989</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4532-1M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>281</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5092</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4532-1M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4532-1M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4990</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856633314199388,42.61034293063878,-2.856633314199388</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4532-1M</FINCA><SUPERFICIE>281</SUPERFICIE><IDGIS>5092</IDGIS><NAMESPACE>T4_HAR_4532-1M</NAMESPACE><LOCALID>T4_HAR_4532-1M</LOCALID><ORIG_FID>4990</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4533</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10016</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5093</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4533</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4533</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4991</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857867982353015,42.60991409627037,-2.857867982353015</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4533</FINCA><SUPERFICIE>10016</SUPERFICIE><IDGIS>5093</IDGIS><NAMESPACE>T4_HAR_4533</NAMESPACE><LOCALID>T4_HAR_4533</LOCALID><ORIG_FID>4991</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4534</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>912</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5094</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4534</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4534</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4992</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858684935287175,42.60963747356247,-2.858684935287175</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4534</FINCA><SUPERFICIE>912</SUPERFICIE><IDGIS>5094</IDGIS><NAMESPACE>T4_HAR_4534</NAMESPACE><LOCALID>T4_HAR_4534</LOCALID><ORIG_FID>4992</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4535</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2295</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5095</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4535</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4535</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4993</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858590041481146,42.60936002310213,-2.858590041481146</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4535</FINCA><SUPERFICIE>2295</SUPERFICIE><IDGIS>5095</IDGIS><NAMESPACE>T4_HAR_4535</NAMESPACE><LOCALID>T4_HAR_4535</LOCALID><ORIG_FID>4993</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4535-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2241</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5096</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4535-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4535-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4994</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858607391837839,42.60909036327099,-2.858607391837839</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4535-2</FINCA><SUPERFICIE>2241</SUPERFICIE><IDGIS>5096</IDGIS><NAMESPACE>T4_HAR_4535-2</NAMESPACE><LOCALID>T4_HAR_4535-2</LOCALID><ORIG_FID>4994</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4536</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3698</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5097</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4536</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4536</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4995</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857660762935239,42.60926549583526,-2.857660762935239</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4536</FINCA><SUPERFICIE>3698</SUPERFICIE><IDGIS>5097</IDGIS><NAMESPACE>T4_HAR_4536</NAMESPACE><LOCALID>T4_HAR_4536</LOCALID><ORIG_FID>4995</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4537-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>458</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5098</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4537-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4537-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4996</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858125697758858,42.60899461442649,-2.858125697758858</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4537-1</FINCA><SUPERFICIE>458</SUPERFICIE><IDGIS>5098</IDGIS><NAMESPACE>T4_HAR_4537-1</NAMESPACE><LOCALID>T4_HAR_4537-1</LOCALID><ORIG_FID>4996</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4538</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>17706</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5099</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4538</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4538</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4997</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85836198963435,42.60802686089807,-2.85836198963435</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4538</FINCA><SUPERFICIE>17706</SUPERFICIE><IDGIS>5099</IDGIS><NAMESPACE>T4_HAR_4538</NAMESPACE><LOCALID>T4_HAR_4538</LOCALID><ORIG_FID>4997</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4537-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>324</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5100</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4537-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4537-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4998</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858444376724467,42.60710469088663,-2.858444376724467</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4537-2</FINCA><SUPERFICIE>324</SUPERFICIE><IDGIS>5100</IDGIS><NAMESPACE>T4_HAR_4537-2</NAMESPACE><LOCALID>T4_HAR_4537-2</LOCALID><ORIG_FID>4998</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4537-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>930</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5101</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4537-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4537-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>4999</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857420732713872,42.60321597024122,-2.857420732713872</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4537-4</FINCA><SUPERFICIE>930</SUPERFICIE><IDGIS>5101</IDGIS><NAMESPACE>T4_HAR_4537-4</NAMESPACE><LOCALID>T4_HAR_4537-4</LOCALID><ORIG_FID>4999</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4537-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>297</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5102</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4537-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4537-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857333976919925,42.5973306328407,-2.857333976919925</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4537-5</FINCA><SUPERFICIE>297</SUPERFICIE><IDGIS>5102</IDGIS><NAMESPACE>T4_HAR_4537-5</NAMESPACE><LOCALID>T4_HAR_4537-5</LOCALID><ORIG_FID>5000</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4539</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>35029</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5103</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4539</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4539</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5001</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858057770104718,42.60551309819726,-2.858057770104718</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4539</FINCA><SUPERFICIE>35029</SUPERFICIE><IDGIS>5103</IDGIS><NAMESPACE>T4_HAR_4539</NAMESPACE><LOCALID>T4_HAR_4539</LOCALID><ORIG_FID>5001</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4540</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>597</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5104</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4540</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4540</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5002</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858643539519055,42.6045758342833,-2.858643539519055</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4540</FINCA><SUPERFICIE>597</SUPERFICIE><IDGIS>5104</IDGIS><NAMESPACE>T4_HAR_4540</NAMESPACE><LOCALID>T4_HAR_4540</LOCALID><ORIG_FID>5002</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4541</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7386</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5105</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4541</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4541</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5003</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858054369646847,42.60409131268278,-2.858054369646847</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4541</FINCA><SUPERFICIE>7386</SUPERFICIE><IDGIS>5105</IDGIS><NAMESPACE>T4_HAR_4541</NAMESPACE><LOCALID>T4_HAR_4541</LOCALID><ORIG_FID>5003</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4542</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7341</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5106</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4542</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4542</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5004</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856979316322469,42.6033437524168,-2.856979316322469</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4542</FINCA><SUPERFICIE>7341</SUPERFICIE><IDGIS>5106</IDGIS><NAMESPACE>T4_HAR_4542</NAMESPACE><LOCALID>T4_HAR_4542</LOCALID><ORIG_FID>5004</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4543</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>77</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5107</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4543</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4543</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5005</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856725863988284,42.6037064660003,-2.856725863988284</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4543</FINCA><SUPERFICIE>77</SUPERFICIE><IDGIS>5107</IDGIS><NAMESPACE>T4_HAR_4543</NAMESPACE><LOCALID>T4_HAR_4543</LOCALID><ORIG_FID>5005</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4544</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4114</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5109</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4544</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4544</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5006</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857659491159612,42.60294678730213,-2.857659491159612</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4544</FINCA><SUPERFICIE>4114</SUPERFICIE><IDGIS>5109</IDGIS><NAMESPACE>T4_HAR_4544</NAMESPACE><LOCALID>T4_HAR_4544</LOCALID><ORIG_FID>5006</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4544-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>278</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5110</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4544-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4544-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5007</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.859645696560815,42.60357906757161,-2.859645696560815</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4544-1</FINCA><SUPERFICIE>278</SUPERFICIE><IDGIS>5110</IDGIS><NAMESPACE>T4_HAR_4544-1</NAMESPACE><LOCALID>T4_HAR_4544-1</LOCALID><ORIG_FID>5007</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4544-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1326</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5111</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4544-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4544-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5008</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.860912194887319,42.60398149867893,-2.860912194887319</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4544-2</FINCA><SUPERFICIE>1326</SUPERFICIE><IDGIS>5111</IDGIS><NAMESPACE>T4_HAR_4544-2</NAMESPACE><LOCALID>T4_HAR_4544-2</LOCALID><ORIG_FID>5008</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4544-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>554</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5112</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4544-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4544-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5009</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862421881473601,42.60464578796444,-2.862421881473601</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4544-3</FINCA><SUPERFICIE>554</SUPERFICIE><IDGIS>5112</IDGIS><NAMESPACE>T4_HAR_4544-3</NAMESPACE><LOCALID>T4_HAR_4544-3</LOCALID><ORIG_FID>5009</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4567-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2901</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5113</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4567-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4567-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5010</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.859539528454509,42.59521461682274,-2.859539528454509</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4567-1</FINCA><SUPERFICIE>2901</SUPERFICIE><IDGIS>5113</IDGIS><NAMESPACE>T4_HAR_4567-1</NAMESPACE><LOCALID>T4_HAR_4567-1</LOCALID><ORIG_FID>5010</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4568</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9955</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5114</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4568</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4568</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5011</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.859823384569534,42.5946514562529,-2.859823384569534</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4568</FINCA><SUPERFICIE>9955</SUPERFICIE><IDGIS>5114</IDGIS><NAMESPACE>T4_HAR_4568</NAMESPACE><LOCALID>T4_HAR_4568</LOCALID><ORIG_FID>5011</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4566</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5115</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4566</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4566</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5012</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.860027040681849,42.59608457583916,-2.860027040681849</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4566</FINCA><SUPERFICIE>12</SUPERFICIE><IDGIS>5115</IDGIS><NAMESPACE>T4_HAR_4566</NAMESPACE><LOCALID>T4_HAR_4566</LOCALID><ORIG_FID>5012</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4565</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1697</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5116</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4565</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4565</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5013</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.859317591987015,42.59578510498797,-2.859317591987015</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4565</FINCA><SUPERFICIE>1697</SUPERFICIE><IDGIS>5116</IDGIS><NAMESPACE>T4_HAR_4565</NAMESPACE><LOCALID>T4_HAR_4565</LOCALID><ORIG_FID>5013</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4564</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2944</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5117</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4564</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4564</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5014</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85875880293129,42.59565612824947,-2.858758802931289</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4564</FINCA><SUPERFICIE>2944</SUPERFICIE><IDGIS>5117</IDGIS><NAMESPACE>T4_HAR_4564</NAMESPACE><LOCALID>T4_HAR_4564</LOCALID><ORIG_FID>5014</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4562</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2029</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5118</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4562</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4562</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5015</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858086236207245,42.59552026983223,-2.858086236207245</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4562</FINCA><SUPERFICIE>2029</SUPERFICIE><IDGIS>5118</IDGIS><NAMESPACE>T4_HAR_4562</NAMESPACE><LOCALID>T4_HAR_4562</LOCALID><ORIG_FID>5015</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4561</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3998</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5119</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4561</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4561</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5016</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858148513671298,42.5959082830265,-2.858148513671298</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4561</FINCA><SUPERFICIE>3998</SUPERFICIE><IDGIS>5119</IDGIS><NAMESPACE>T4_HAR_4561</NAMESPACE><LOCALID>T4_HAR_4561</LOCALID><ORIG_FID>5016</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4560</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2486</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5120</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4560</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4560</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5017</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857965130752369,42.59620843282585,-2.857965130752368</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4560</FINCA><SUPERFICIE>2486</SUPERFICIE><IDGIS>5120</IDGIS><NAMESPACE>T4_HAR_4560</NAMESPACE><LOCALID>T4_HAR_4560</LOCALID><ORIG_FID>5017</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4559-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1091</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5121</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4559-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4559-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5018</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.859224990295869,42.59545692793984,-2.859224990295869</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4559-2</FINCA><SUPERFICIE>1091</SUPERFICIE><IDGIS>5121</IDGIS><NAMESPACE>T4_HAR_4559-2</NAMESPACE><LOCALID>T4_HAR_4559-2</LOCALID><ORIG_FID>5018</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4559-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>425</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5122</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4559-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4559-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5019</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857624022982618,42.59625505177528,-2.857624022982618</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4559-1</FINCA><SUPERFICIE>425</SUPERFICIE><IDGIS>5122</IDGIS><NAMESPACE>T4_HAR_4559-1</NAMESPACE><LOCALID>T4_HAR_4559-1</LOCALID><ORIG_FID>5019</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4558</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2970</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5123</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4558</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4558</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5020</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857861621163621,42.59644139335263,-2.857861621163621</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4558</FINCA><SUPERFICIE>2970</SUPERFICIE><IDGIS>5123</IDGIS><NAMESPACE>T4_HAR_4558</NAMESPACE><LOCALID>T4_HAR_4558</LOCALID><ORIG_FID>5020</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4557</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>362</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5124</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4557</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4557</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5021</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857831300841594,42.59658281046129,-2.857831300841594</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4557</FINCA><SUPERFICIE>362</SUPERFICIE><IDGIS>5124</IDGIS><NAMESPACE>T4_HAR_4557</NAMESPACE><LOCALID>T4_HAR_4557</LOCALID><ORIG_FID>5021</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4544-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>192</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5125</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4544-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4544-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5022</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863013142384796,42.60466279674789,-2.863013142384796</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4544-4</FINCA><SUPERFICIE>192</SUPERFICIE><IDGIS>5125</IDGIS><NAMESPACE>T4_HAR_4544-4</NAMESPACE><LOCALID>T4_HAR_4544-4</LOCALID><ORIG_FID>5022</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4544-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>651</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5126</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4544-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4544-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5023</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858847909170664,42.60367206933577,-2.858847909170664</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4544-A</FINCA><SUPERFICIE>651</SUPERFICIE><IDGIS>5126</IDGIS><NAMESPACE>T4_HAR_4544-A</NAMESPACE><LOCALID>T4_HAR_4544-A</LOCALID><ORIG_FID>5023</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4545</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>420</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5127</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4545</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4545</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5024</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856300613058474,42.60255025439159,-2.856300613058474</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4545</FINCA><SUPERFICIE>420</SUPERFICIE><IDGIS>5127</IDGIS><NAMESPACE>T4_HAR_4545</NAMESPACE><LOCALID>T4_HAR_4545</LOCALID><ORIG_FID>5024</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4546</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3639</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5128</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4546</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4546</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5025</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857337276664198,42.60289951450664,-2.857337276664198</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4546</FINCA><SUPERFICIE>3639</SUPERFICIE><IDGIS>5128</IDGIS><NAMESPACE>T4_HAR_4546</NAMESPACE><LOCALID>T4_HAR_4546</LOCALID><ORIG_FID>5025</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4547</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1218</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5129</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4547</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4547</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5026</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856832652609203,42.60263204842386,-2.856832652609203</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4547</FINCA><SUPERFICIE>1218</SUPERFICIE><IDGIS>5129</IDGIS><NAMESPACE>T4_HAR_4547</NAMESPACE><LOCALID>T4_HAR_4547</LOCALID><ORIG_FID>5026</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4548</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>664</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5130</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4548</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4548</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5027</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857018524896786,42.60242567590356,-2.857018524896786</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4548</FINCA><SUPERFICIE>664</SUPERFICIE><IDGIS>5130</IDGIS><NAMESPACE>T4_HAR_4548</NAMESPACE><LOCALID>T4_HAR_4548</LOCALID><ORIG_FID>5027</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4549</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>602</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5131</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4549</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4549</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5028</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857425353200707,42.60189099296783,-2.857425353200707</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4549</FINCA><SUPERFICIE>602</SUPERFICIE><IDGIS>5131</IDGIS><NAMESPACE>T4_HAR_4549</NAMESPACE><LOCALID>T4_HAR_4549</LOCALID><ORIG_FID>5028</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4550</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9112</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5132</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4550</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4550</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5029</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856640540138411,42.60176109684548,-2.856640540138411</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4550</FINCA><SUPERFICIE>9112</SUPERFICIE><IDGIS>5132</IDGIS><NAMESPACE>T4_HAR_4550</NAMESPACE><LOCALID>T4_HAR_4550</LOCALID><ORIG_FID>5029</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4551</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>866</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5133</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4551</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4551</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5030</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857408749928852,42.60154516358203,-2.857408749928852</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4551</FINCA><SUPERFICIE>866</SUPERFICIE><IDGIS>5133</IDGIS><NAMESPACE>T4_HAR_4551</NAMESPACE><LOCALID>T4_HAR_4551</LOCALID><ORIG_FID>5030</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4552</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6882</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5134</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4552</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4552</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5031</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856808427785451,42.60098549664747,-2.856808427785451</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4552</FINCA><SUPERFICIE>6882</SUPERFICIE><IDGIS>5134</IDGIS><NAMESPACE>T4_HAR_4552</NAMESPACE><LOCALID>T4_HAR_4552</LOCALID><ORIG_FID>5031</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4553</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14284</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5135</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4553</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4553</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5032</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85651698014498,42.59990730598479,-2.85651698014498</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4553</FINCA><SUPERFICIE>14284</SUPERFICIE><IDGIS>5135</IDGIS><NAMESPACE>T4_HAR_4553</NAMESPACE><LOCALID>T4_HAR_4553</LOCALID><ORIG_FID>5032</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4554</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14863</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5136</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4554</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4554</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5033</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857128158214208,42.59873970804902,-2.857128158214208</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4554</FINCA><SUPERFICIE>14863</SUPERFICIE><IDGIS>5136</IDGIS><NAMESPACE>T4_HAR_4554</NAMESPACE><LOCALID>T4_HAR_4554</LOCALID><ORIG_FID>5033</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4555</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>453</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5137</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4555</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4555</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5034</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857012483251535,42.59720422579239,-2.857012483251535</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4555</FINCA><SUPERFICIE>453</SUPERFICIE><IDGIS>5137</IDGIS><NAMESPACE>T4_HAR_4555</NAMESPACE><LOCALID>T4_HAR_4555</LOCALID><ORIG_FID>5034</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4556</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8296</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5138</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4556</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4556</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5035</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857648126249318,42.59698536226765,-2.857648126249318</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4556</FINCA><SUPERFICIE>8296</SUPERFICIE><IDGIS>5138</IDGIS><NAMESPACE>T4_HAR_4556</NAMESPACE><LOCALID>T4_HAR_4556</LOCALID><ORIG_FID>5035</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4537-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1166</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5139</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4537-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4537-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5036</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857504580356214,42.6040654664717,-2.857504580356214</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4537-3</FINCA><SUPERFICIE>1166</SUPERFICIE><IDGIS>5139</IDGIS><NAMESPACE>T4_HAR_4537-3</NAMESPACE><LOCALID>T4_HAR_4537-3</LOCALID><ORIG_FID>5036</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4572</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4178</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5140</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4572</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4572</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5037</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862057862166669,42.59284929926145,-2.86205786216667</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4572</FINCA><SUPERFICIE>4178</SUPERFICIE><IDGIS>5140</IDGIS><NAMESPACE>T4_HAR_4572</NAMESPACE><LOCALID>T4_HAR_4572</LOCALID><ORIG_FID>5037</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4571</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>137</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5141</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4571</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4571</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5038</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.861400735320322,42.59309094593475,-2.861400735320321</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4571</FINCA><SUPERFICIE>137</SUPERFICIE><IDGIS>5141</IDGIS><NAMESPACE>T4_HAR_4571</NAMESPACE><LOCALID>T4_HAR_4571</LOCALID><ORIG_FID>5038</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4570</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10083</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5142</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4570</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4570</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5039</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.861181673444437,42.59356957215428,-2.861181673444437</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4570</FINCA><SUPERFICIE>10083</SUPERFICIE><IDGIS>5142</IDGIS><NAMESPACE>T4_HAR_4570</NAMESPACE><LOCALID>T4_HAR_4570</LOCALID><ORIG_FID>5039</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4569</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>78</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5143</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4569</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4569</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5040</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.860028780559184,42.59411919051671,-2.860028780559184</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4569</FINCA><SUPERFICIE>78</SUPERFICIE><IDGIS>5143</IDGIS><NAMESPACE>T4_HAR_4569</NAMESPACE><LOCALID>T4_HAR_4569</LOCALID><ORIG_FID>5040</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4563</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>892</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5145</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4563</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4563</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5041</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85870412363391,42.5952581121717,-2.85870412363391</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4563</FINCA><SUPERFICIE>892</SUPERFICIE><IDGIS>5145</IDGIS><NAMESPACE>T4_HAR_4563</NAMESPACE><LOCALID>T4_HAR_4563</LOCALID><ORIG_FID>5041</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4559-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>71</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5146</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4559-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4559-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5042</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.860105495050314,42.59410244529503,-2.860105495050314</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4559-3</FINCA><SUPERFICIE>71</SUPERFICIE><IDGIS>5146</IDGIS><NAMESPACE>T4_HAR_4559-3</NAMESPACE><LOCALID>T4_HAR_4559-3</LOCALID><ORIG_FID>5042</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4580</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>941</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5147</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4580</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4580</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5043</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.864887482413174,42.5907827806912,-2.864887482413174</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4580</FINCA><SUPERFICIE>941</SUPERFICIE><IDGIS>5147</IDGIS><NAMESPACE>T4_HAR_4580</NAMESPACE><LOCALID>T4_HAR_4580</LOCALID><ORIG_FID>5043</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4579</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2545</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5148</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4579</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4579</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5044</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.864309869206779,42.591075749886,-2.864309869206779</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4579</FINCA><SUPERFICIE>2545</SUPERFICIE><IDGIS>5148</IDGIS><NAMESPACE>T4_HAR_4579</NAMESPACE><LOCALID>T4_HAR_4579</LOCALID><ORIG_FID>5044</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="138">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4577</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>437</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5149</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4577</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4577</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5045</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863814810329238,42.59125657404547,-2.863814810329238</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4577</FINCA><SUPERFICIE>437</SUPERFICIE><IDGIS>5149</IDGIS><NAMESPACE>T4_HAR_4577</NAMESPACE><LOCALID>T4_HAR_4577</LOCALID><ORIG_FID>5045</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="139">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4576</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6258</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5150</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4576</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4576</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5046</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863496058665728,42.59146312128289,-2.863496058665728</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4576</FINCA><SUPERFICIE>6258</SUPERFICIE><IDGIS>5150</IDGIS><NAMESPACE>T4_HAR_4576</NAMESPACE><LOCALID>T4_HAR_4576</LOCALID><ORIG_FID>5046</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="140">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4575-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>632</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5151</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4575-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4575-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5047</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.86205206944262,42.5920896930417,-2.86205206944262</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4575-A</FINCA><SUPERFICIE>632</SUPERFICIE><IDGIS>5151</IDGIS><NAMESPACE>T4_HAR_4575-A</NAMESPACE><LOCALID>T4_HAR_4575-A</LOCALID><ORIG_FID>5047</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="141">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4575</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8386</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5152</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4575</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4575</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5048</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863162099665645,42.59194340212728,-2.863162099665646</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4575</FINCA><SUPERFICIE>8386</SUPERFICIE><IDGIS>5152</IDGIS><NAMESPACE>T4_HAR_4575</NAMESPACE><LOCALID>T4_HAR_4575</LOCALID><ORIG_FID>5048</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="142">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4574</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5070</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5153</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4574</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4574</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5049</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863306870444816,42.59255072157484,-2.863306870444816</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4574</FINCA><SUPERFICIE>5070</SUPERFICIE><IDGIS>5153</IDGIS><NAMESPACE>T4_HAR_4574</NAMESPACE><LOCALID>T4_HAR_4574</LOCALID><ORIG_FID>5049</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="143">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4573</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2026</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5154</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4573</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4573</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5050</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862381392531062,42.59249595488489,-2.862381392531062</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4573</FINCA><SUPERFICIE>2026</SUPERFICIE><IDGIS>5154</IDGIS><NAMESPACE>T4_HAR_4573</NAMESPACE><LOCALID>T4_HAR_4573</LOCALID><ORIG_FID>5050</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="144">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4559-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2317</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5155</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4559-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4559-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5051</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.862992416522389,42.59239118409877,-2.862992416522389</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4559-4</FINCA><SUPERFICIE>2317</SUPERFICIE><IDGIS>5155</IDGIS><NAMESPACE>T4_HAR_4559-4</NAMESPACE><LOCALID>T4_HAR_4559-4</LOCALID><ORIG_FID>5051</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="145">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4511-1M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>851</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5901</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4511-1M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4511-1M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6213</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857207898435047,42.63217327736913,-2.857207898435047</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4511-1M</FINCA><SUPERFICIE>851</SUPERFICIE><IDGIS>5901</IDGIS><NAMESPACE>T4_HAR_4511-1M</NAMESPACE><LOCALID>T4_HAR_4511-1M</LOCALID><ORIG_FID>6213</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="146">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4511-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>267</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5902</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4511-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4511-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6214</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855687687836805,42.63275581069179,-2.855687687836805</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4511-M</FINCA><SUPERFICIE>267</SUPERFICIE><IDGIS>5902</IDGIS><NAMESPACE>T4_HAR_4511-M</NAMESPACE><LOCALID>T4_HAR_4511-M</LOCALID><ORIG_FID>6214</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="147">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4513</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>58</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5069</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4513</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4513</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6215</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858123300694365,42.63016834930272,-2.858123300694365</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4513</FINCA><SUPERFICIE>58</SUPERFICIE><IDGIS>5069</IDGIS><NAMESPACE>T4_HAR_4513</NAMESPACE><LOCALID>T4_HAR_4513</LOCALID><ORIG_FID>6215</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="148">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4501-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>160</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5904</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4501-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4501-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6216</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858859007702237,42.63547438714585,-2.858859007702237</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4501-M</FINCA><SUPERFICIE>160</SUPERFICIE><IDGIS>5904</IDGIS><NAMESPACE>T4_HAR_4501-M</NAMESPACE><LOCALID>T4_HAR_4501-M</LOCALID><ORIG_FID>6216</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="149">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4503-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1845</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5905</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4503-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4503-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6217</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.858324712273262,42.63390860792755,-2.858324712273262</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4503-M</FINCA><SUPERFICIE>1845</SUPERFICIE><IDGIS>5905</IDGIS><NAMESPACE>T4_HAR_4503-M</NAMESPACE><LOCALID>T4_HAR_4503-M</LOCALID><ORIG_FID>6217</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="150">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4514-R</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14316</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5906</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4514-R</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4514-R</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6218</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855167518552863,42.6242447269008,-2.855167518552863</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4514-R</FINCA><SUPERFICIE>14316</SUPERFICIE><IDGIS>5906</IDGIS><NAMESPACE>T4_HAR_4514-R</NAMESPACE><LOCALID>T4_HAR_4514-R</LOCALID><ORIG_FID>6218</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="151">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4514-1R</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>125</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5907</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4514-1R</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4514-1R</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6219</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855329847832793,42.62199607963309,-2.855329847832793</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4514-1R</FINCA><SUPERFICIE>125</SUPERFICIE><IDGIS>5907</IDGIS><NAMESPACE>T4_HAR_4514-1R</NAMESPACE><LOCALID>T4_HAR_4514-1R</LOCALID><ORIG_FID>6219</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="152">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4515</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9783</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5909</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4515</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4515</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6220</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.854307203660069,42.61932187693565,-2.854307203660069</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4515</FINCA><SUPERFICIE>9783</SUPERFICIE><IDGIS>5909</IDGIS><NAMESPACE>T4_HAR_4515</NAMESPACE><LOCALID>T4_HAR_4515</LOCALID><ORIG_FID>6220</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="153">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4515-R</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14895</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5908</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4515-R</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4515-R</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6221</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855679488315639,42.62088412928691,-2.855679488315639</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4515-R</FINCA><SUPERFICIE>14895</SUPERFICIE><IDGIS>5908</IDGIS><NAMESPACE>T4_HAR_4515-R</NAMESPACE><LOCALID>T4_HAR_4515-R</LOCALID><ORIG_FID>6221</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="154">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4518-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2173</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5910</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4518-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4518-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6222</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855346154976255,42.61613237869719,-2.855346154976255</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4518-M</FINCA><SUPERFICIE>2173</SUPERFICIE><IDGIS>5910</IDGIS><NAMESPACE>T4_HAR_4518-M</NAMESPACE><LOCALID>T4_HAR_4518-M</LOCALID><ORIG_FID>6222</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="155">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4518-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1282</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5911</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4518-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4518-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6223</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855145051904448,42.61541769654895,-2.855145051904448</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4518-A</FINCA><SUPERFICIE>1282</SUPERFICIE><IDGIS>5911</IDGIS><NAMESPACE>T4_HAR_4518-A</NAMESPACE><LOCALID>T4_HAR_4518-A</LOCALID><ORIG_FID>6223</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="156">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4520-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2038</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5912</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4520-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4520-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6224</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857450856927091,42.61474994436037,-2.857450856927091</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4520-M</FINCA><SUPERFICIE>2038</SUPERFICIE><IDGIS>5912</IDGIS><NAMESPACE>T4_HAR_4520-M</NAMESPACE><LOCALID>T4_HAR_4520-M</LOCALID><ORIG_FID>6224</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="157">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4520-R</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2656</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5913</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4520-R</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4520-R</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6225</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857672421717323,42.61526985387827,-2.857672421717323</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4520-R</FINCA><SUPERFICIE>2656</SUPERFICIE><IDGIS>5913</IDGIS><NAMESPACE>T4_HAR_4520-R</NAMESPACE><LOCALID>T4_HAR_4520-R</LOCALID><ORIG_FID>6225</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="158">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4512-3M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1094</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5914</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4512-3M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4512-3M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6226</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856980799052711,42.63160880421731,-2.856980799052711</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4512-3M</FINCA><SUPERFICIE>1094</SUPERFICIE><IDGIS>5914</IDGIS><NAMESPACE>T4_HAR_4512-3M</NAMESPACE><LOCALID>T4_HAR_4512-3M</LOCALID><ORIG_FID>6226</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="159">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4512-2M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2217</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5915</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4512-2M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4512-2M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6227</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855695798434179,42.63122686451479,-2.855695798434179</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4512-2M</FINCA><SUPERFICIE>2217</SUPERFICIE><IDGIS>5915</IDGIS><NAMESPACE>T4_HAR_4512-2M</NAMESPACE><LOCALID>T4_HAR_4512-2M</LOCALID><ORIG_FID>6227</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="160">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4512</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13027</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5068</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4512</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4512</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6228</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856297647615863,42.63132602326301,-2.856297647615863</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4512</FINCA><SUPERFICIE>13027</SUPERFICIE><IDGIS>5068</IDGIS><NAMESPACE>T4_HAR_4512</NAMESPACE><LOCALID>T4_HAR_4512</LOCALID><ORIG_FID>6228</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="161">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4512-1M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>424</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5917</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4512-1M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4512-1M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6229</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.855671745586625,42.63266469827703,-2.855671745586625</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4512-1M</FINCA><SUPERFICIE>424</SUPERFICIE><IDGIS>5917</IDGIS><NAMESPACE>T4_HAR_4512-1M</NAMESPACE><LOCALID>T4_HAR_4512-1M</LOCALID><ORIG_FID>6229</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="162">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4524-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>166</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8124</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4524-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4524-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7839</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856339036156213,42.6126227372072,-2.856339036156213</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4524-M</FINCA><SUPERFICIE>166</SUPERFICIE><IDGIS>8124</IDGIS><NAMESPACE>T4_HAR_4524-M</NAMESPACE><LOCALID>T4_HAR_4524-M</LOCALID><ORIG_FID>7839</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="163">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4527-R</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1139</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8125</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4527-R</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4527-R</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7840</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857334020548258,42.61278050675251,-2.857334020548258</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4527-R</FINCA><SUPERFICIE>1139</SUPERFICIE><IDGIS>8125</IDGIS><NAMESPACE>T4_HAR_4527-R</NAMESPACE><LOCALID>T4_HAR_4527-R</LOCALID><ORIG_FID>7840</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="164">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4529</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5206</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5088</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4529</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4529</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7841</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857223711771018,42.61127222427288,-2.857223711771018</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4529</FINCA><SUPERFICIE>5206</SUPERFICIE><IDGIS>5088</IDGIS><NAMESPACE>T4_HAR_4529</NAMESPACE><LOCALID>T4_HAR_4529</LOCALID><ORIG_FID>7841</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="165">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4529-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3918</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8126</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4529-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4529-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7842</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856627101719951,42.61143245346207,-2.85662710171995</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4529-M</FINCA><SUPERFICIE>3918</SUPERFICIE><IDGIS>8126</IDGIS><NAMESPACE>T4_HAR_4529-M</NAMESPACE><LOCALID>T4_HAR_4529-M</LOCALID><ORIG_FID>7842</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="166">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4530</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1221</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5089</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4530</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4530</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7843</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857121277321337,42.6107927059352,-2.857121277321337</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4530</FINCA><SUPERFICIE>1221</SUPERFICIE><IDGIS>5089</IDGIS><NAMESPACE>T4_HAR_4530</NAMESPACE><LOCALID>T4_HAR_4530</LOCALID><ORIG_FID>7843</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="167">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4532-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>242</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8128</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4532-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4532-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7844</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856736234365302,42.61043459604762,-2.856736234365302</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4532-M</FINCA><SUPERFICIE>242</SUPERFICIE><IDGIS>8128</IDGIS><NAMESPACE>T4_HAR_4532-M</NAMESPACE><LOCALID>T4_HAR_4532-M</LOCALID><ORIG_FID>7844</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="168">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4533-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>459</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8129</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4533-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4533-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7845</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856976962874685,42.61018151593726,-2.856976962874685</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4533-M</FINCA><SUPERFICIE>459</SUPERFICIE><IDGIS>8129</IDGIS><NAMESPACE>T4_HAR_4533-M</NAMESPACE><LOCALID>T4_HAR_4533-M</LOCALID><ORIG_FID>7845</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="169">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4553-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2199</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8130</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4553-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4553-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7846</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856606183117795,42.59853365798137,-2.856606183117795</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4553-1</FINCA><SUPERFICIE>2199</SUPERFICIE><IDGIS>8130</IDGIS><NAMESPACE>T4_HAR_4553-1</NAMESPACE><LOCALID>T4_HAR_4553-1</LOCALID><ORIG_FID>7846</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="170">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4558-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>981</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8131</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4558-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4558-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7847</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.856980946444796,42.5962247048877,-2.856980946444796</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4558-A</FINCA><SUPERFICIE>981</SUPERFICIE><IDGIS>8131</IDGIS><NAMESPACE>T4_HAR_4558-A</NAMESPACE><LOCALID>T4_HAR_4558-A</LOCALID><ORIG_FID>7847</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="171">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4561-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>334</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8132</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4561-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4561-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7848</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.85760279655045,42.59580649251575,-2.85760279655045</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4561-A</FINCA><SUPERFICIE>334</SUPERFICIE><IDGIS>8132</IDGIS><NAMESPACE>T4_HAR_4561-A</NAMESPACE><LOCALID>T4_HAR_4561-A</LOCALID><ORIG_FID>7848</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="172">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4561-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>506</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8133</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4561-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4561-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7849</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.857536124385295,42.59571565082655,-2.857536124385295</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4561-B</FINCA><SUPERFICIE>506</SUPERFICIE><IDGIS>8133</IDGIS><NAMESPACE>T4_HAR_4561-B</NAMESPACE><LOCALID>T4_HAR_4561-B</LOCALID><ORIG_FID>7849</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="173">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4570-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1020</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12683</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4570-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4570-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7850</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.861630392581582,42.59364338554338,-2.861630392581582</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4570-1</FINCA><SUPERFICIE>1020</SUPERFICIE><IDGIS>12683</IDGIS><NAMESPACE>T4_HAR_4570-1</NAMESPACE><LOCALID>T4_HAR_4570-1</LOCALID><ORIG_FID>7850</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="174">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4574-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>745</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8134</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4574-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4574-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7851</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.863498499682864,42.59273338813748,-2.863498499682865</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4574-A</FINCA><SUPERFICIE>745</SUPERFICIE><IDGIS>8134</IDGIS><NAMESPACE>T4_HAR_4574-A</NAMESPACE><LOCALID>T4_HAR_4574-A</LOCALID><ORIG_FID>7851</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="175">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4591-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>225</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8135</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4591-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4591-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7852</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.869449846628989,42.58592377242378,-2.869449846628989</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4591-1</FINCA><SUPERFICIE>225</SUPERFICIE><IDGIS>8135</IDGIS><NAMESPACE>T4_HAR_4591-1</NAMESPACE><LOCALID>T4_HAR_4591-1</LOCALID><ORIG_FID>7852</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="176">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T4</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>HAR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4616</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>996</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>4972</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T4_HAR_4616</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T4_HAR_4616</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7853</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.875929842119525,42.57726672917703,-2.875929842119524</coordinates>
+		</Point>
+		<Metadata><TRAMO>T4</TRAMO><TERMINO>HAR</TERMINO><FINCA>4616</FINCA><SUPERFICIE>996</SUPERFICIE><IDGIS>4972</IDGIS><NAMESPACE>T4_HAR_4616</NAMESPACE><LOCALID>T4_HAR_4616</LOCALID><ORIG_FID>7853</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T3_BER_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>42.68115573140616</north>
+			<south>42.67128621169905</south>
+			<east>-2.884804562089084</east>
+			<west>-2.895961649511173</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4221</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>497</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9626</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4221</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4221</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9316</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884819666551431,42.67296694927818,-2.884819666551431</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4221</FINCA><SUPERFICIE>497</SUPERFICIE><IDGIS>9626</IDGIS><NAMESPACE>T3_BER_4221</NAMESPACE><LOCALID>T3_BER_4221</LOCALID><ORIG_FID>9316</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4217-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>59</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9627</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4217-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4217-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9317</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.885002331004925,42.67309868938111,-2.885002331004925</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4217-2</FINCA><SUPERFICIE>59</SUPERFICIE><IDGIS>9627</IDGIS><NAMESPACE>T3_BER_4217-2</NAMESPACE><LOCALID>T3_BER_4217-2</LOCALID><ORIG_FID>9317</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4219-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>38</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9628</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4219-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4219-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9318</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.885026054625424,42.67288421498387,-2.885026054625424</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4219-2</FINCA><SUPERFICIE>38</SUPERFICIE><IDGIS>9628</IDGIS><NAMESPACE>T3_BER_4219-2</NAMESPACE><LOCALID>T3_BER_4219-2</LOCALID><ORIG_FID>9318</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4216-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>34</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9629</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4216-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4216-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9319</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884978479941099,42.67333188719041,-2.884978479941099</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4216-2</FINCA><SUPERFICIE>34</SUPERFICIE><IDGIS>9629</IDGIS><NAMESPACE>T3_BER_4216-2</NAMESPACE><LOCALID>T3_BER_4216-2</LOCALID><ORIG_FID>9319</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4218-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>453</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9630</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4218-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4218-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9320</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.885122409817023,42.67242109300296,-2.885122409817023</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4218-2</FINCA><SUPERFICIE>453</SUPERFICIE><IDGIS>9630</IDGIS><NAMESPACE>T3_BER_4218-2</NAMESPACE><LOCALID>T3_BER_4218-2</LOCALID><ORIG_FID>9320</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4222-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>423</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12519</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4222-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4222-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9345</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894024810433994,42.67541783859712,-2.894024810433994</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4222-M</FINCA><SUPERFICIE>423</SUPERFICIE><IDGIS>12519</IDGIS><NAMESPACE>T3_BER_4222-M</NAMESPACE><LOCALID>T3_BER_4222-M</LOCALID><ORIG_FID>9345</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4223-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3014</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12521</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4223-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4223-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9346</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894748031814372,42.67605913233928,-2.894748031814372</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4223-M</FINCA><SUPERFICIE>3014</SUPERFICIE><IDGIS>12521</IDGIS><NAMESPACE>T3_BER_4223-M</NAMESPACE><LOCALID>T3_BER_4223-M</LOCALID><ORIG_FID>9346</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4224-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>838</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9658</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4224-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4224-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9347</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895645217884578,42.67660651386432,-2.895645217884578</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4224-M</FINCA><SUPERFICIE>838</SUPERFICIE><IDGIS>9658</IDGIS><NAMESPACE>T3_BER_4224-M</NAMESPACE><LOCALID>T3_BER_4224-M</LOCALID><ORIG_FID>9347</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4225</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>458</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9659</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4225</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4225</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9348</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895952736675947,42.67664012692296,-2.895952736675947</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4225</FINCA><SUPERFICIE>458</SUPERFICIE><IDGIS>9659</IDGIS><NAMESPACE>T3_BER_4225</NAMESPACE><LOCALID>T3_BER_4225</LOCALID><ORIG_FID>9348</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4211</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13900</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9661</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4211</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4211</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9350</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890135792862521,42.67358431455154,-2.890135792862521</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4211</FINCA><SUPERFICIE>13900</SUPERFICIE><IDGIS>9661</IDGIS><NAMESPACE>T3_BER_4211</NAMESPACE><LOCALID>T3_BER_4211</LOCALID><ORIG_FID>9350</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4210</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7956</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9662</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4210</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4210</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9351</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890312850268418,42.67439687165066,-2.890312850268418</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4210</FINCA><SUPERFICIE>7956</SUPERFICIE><IDGIS>9662</IDGIS><NAMESPACE>T3_BER_4210</NAMESPACE><LOCALID>T3_BER_4210</LOCALID><ORIG_FID>9351</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4220</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6660</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9665</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4220</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4220</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9353</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.885081804257025,42.67128647185046,-2.885081804257025</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4220</FINCA><SUPERFICIE>6660</SUPERFICIE><IDGIS>9665</IDGIS><NAMESPACE>T3_BER_4220</NAMESPACE><LOCALID>T3_BER_4220</LOCALID><ORIG_FID>9353</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4218-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8090</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9666</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4218-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4218-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9354</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.886888821308884,42.67294806763805,-2.886888821308884</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4218-1</FINCA><SUPERFICIE>8090</SUPERFICIE><IDGIS>9666</IDGIS><NAMESPACE>T3_BER_4218-1</NAMESPACE><LOCALID>T3_BER_4218-1</LOCALID><ORIG_FID>9354</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4219-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>341</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9667</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4219-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4219-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9355</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.886305386876482,42.67314107995748,-2.886305386876482</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4219-1</FINCA><SUPERFICIE>341</SUPERFICIE><IDGIS>9667</IDGIS><NAMESPACE>T3_BER_4219-1</NAMESPACE><LOCALID>T3_BER_4219-1</LOCALID><ORIG_FID>9355</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4217-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2460</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9668</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4217-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4217-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9356</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.886717820447361,42.67344195336217,-2.886717820447361</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4217-1</FINCA><SUPERFICIE>2460</SUPERFICIE><IDGIS>9668</IDGIS><NAMESPACE>T3_BER_4217-1</NAMESPACE><LOCALID>T3_BER_4217-1</LOCALID><ORIG_FID>9356</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4213</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>28702</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9669</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4213</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4213</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9357</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888338813347508,42.67410240751605,-2.888338813347508</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4213</FINCA><SUPERFICIE>28702</SUPERFICIE><IDGIS>9669</IDGIS><NAMESPACE>T3_BER_4213</NAMESPACE><LOCALID>T3_BER_4213</LOCALID><ORIG_FID>9357</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4216-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4929</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9670</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4216-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4216-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9358</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.88665524002288,42.67387418568407,-2.88665524002288</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4216-1</FINCA><SUPERFICIE>4929</SUPERFICIE><IDGIS>9670</IDGIS><NAMESPACE>T3_BER_4216-1</NAMESPACE><LOCALID>T3_BER_4216-1</LOCALID><ORIG_FID>9358</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4215</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>145</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9671</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4215</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4215</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9359</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.886662646327488,42.67429625954075,-2.886662646327488</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4215</FINCA><SUPERFICIE>145</SUPERFICIE><IDGIS>9671</IDGIS><NAMESPACE>T3_BER_4215</NAMESPACE><LOCALID>T3_BER_4215</LOCALID><ORIG_FID>9359</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4214</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1056</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9672</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4214</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4214</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9360</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.886790847847266,42.67447095272431,-2.886790847847266</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4214</FINCA><SUPERFICIE>1056</SUPERFICIE><IDGIS>9672</IDGIS><NAMESPACE>T3_BER_4214</NAMESPACE><LOCALID>T3_BER_4214</LOCALID><ORIG_FID>9360</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4209</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>26956</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9673</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4209</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4209</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9361</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890869988084796,42.67598696637737,-2.890869988084796</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4209</FINCA><SUPERFICIE>26956</SUPERFICIE><IDGIS>9673</IDGIS><NAMESPACE>T3_BER_4209</NAMESPACE><LOCALID>T3_BER_4209</LOCALID><ORIG_FID>9361</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4208</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>23213</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9674</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4208</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4208</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9362</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889784215713998,42.67618881583056,-2.889784215713998</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4208</FINCA><SUPERFICIE>23213</SUPERFICIE><IDGIS>9674</IDGIS><NAMESPACE>T3_BER_4208</NAMESPACE><LOCALID>T3_BER_4208</LOCALID><ORIG_FID>9362</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4207</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>20662</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9675</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4207</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4207</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9363</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888601993154081,42.67589561702913,-2.888601993154081</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4207</FINCA><SUPERFICIE>20662</SUPERFICIE><IDGIS>9675</IDGIS><NAMESPACE>T3_BER_4207</NAMESPACE><LOCALID>T3_BER_4207</LOCALID><ORIG_FID>9363</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4206-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>300</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9676</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4206-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4206-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9364</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888383895391529,42.67798340154142,-2.888383895391529</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4206-2</FINCA><SUPERFICIE>300</SUPERFICIE><IDGIS>9676</IDGIS><NAMESPACE>T3_BER_4206-2</NAMESPACE><LOCALID>T3_BER_4206-2</LOCALID><ORIG_FID>9364</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4206-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2248</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9677</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4206-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4206-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9365</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889950530804788,42.67763968772213,-2.889950530804789</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4206-1</FINCA><SUPERFICIE>2248</SUPERFICIE><IDGIS>9677</IDGIS><NAMESPACE>T3_BER_4206-1</NAMESPACE><LOCALID>T3_BER_4206-1</LOCALID><ORIG_FID>9365</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4204</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2722</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9679</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4204</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4204</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9366</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890087902076868,42.67783662074646,-2.890087902076868</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4204</FINCA><SUPERFICIE>2722</SUPERFICIE><IDGIS>9679</IDGIS><NAMESPACE>T3_BER_4204</NAMESPACE><LOCALID>T3_BER_4204</LOCALID><ORIG_FID>9366</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4203-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>738</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9680</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4203-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4203-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9367</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889186849439046,42.68087100303584,-2.889186849439046</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4203-1</FINCA><SUPERFICIE>738</SUPERFICIE><IDGIS>9680</IDGIS><NAMESPACE>T3_BER_4203-1</NAMESPACE><LOCALID>T3_BER_4203-1</LOCALID><ORIG_FID>9367</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4203</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>30689</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9681</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4203</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4203</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9368</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889093841894166,42.67935846489803,-2.889093841894165</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4203</FINCA><SUPERFICIE>30689</SUPERFICIE><IDGIS>9681</IDGIS><NAMESPACE>T3_BER_4203</NAMESPACE><LOCALID>T3_BER_4203</LOCALID><ORIG_FID>9368</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4202-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1290</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9682</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4202-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4202-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9369</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889159720632485,42.68077921880066,-2.889159720632485</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4202-1</FINCA><SUPERFICIE>1290</SUPERFICIE><IDGIS>9682</IDGIS><NAMESPACE>T3_BER_4202-1</NAMESPACE><LOCALID>T3_BER_4202-1</LOCALID><ORIG_FID>9369</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4201</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3014</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9683</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4201</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4201</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9370</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889171436879681,42.68114937801633,-2.889171436879681</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4201</FINCA><SUPERFICIE>3014</SUPERFICIE><IDGIS>9683</IDGIS><NAMESPACE>T3_BER_4201</NAMESPACE><LOCALID>T3_BER_4201</LOCALID><ORIG_FID>9370</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4222</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>382</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9656</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4222</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4222</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12064</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.893908882553038,42.67523470684086,-2.893908882553038</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4222</FINCA><SUPERFICIE>382</SUPERFICIE><IDGIS>9656</IDGIS><NAMESPACE>T3_BER_4222</NAMESPACE><LOCALID>T3_BER_4222</LOCALID><ORIG_FID>12064</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4223</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>253</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9657</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4223</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4223</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12065</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894427585971307,42.67559124233524,-2.894427585971307</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4223</FINCA><SUPERFICIE>253</SUPERFICIE><IDGIS>9657</IDGIS><NAMESPACE>T3_BER_4223</NAMESPACE><LOCALID>T3_BER_4223</LOCALID><ORIG_FID>12065</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4202-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>107</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12643</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4202-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4202-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12204</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.88823052802704,42.68041598308886,-2.88823052802704</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4202-2</FINCA><SUPERFICIE>107</SUPERFICIE><IDGIS>12643</IDGIS><NAMESPACE>T3_BER_4202-2</NAMESPACE><LOCALID>T3_BER_4202-2</LOCALID><ORIG_FID>12204</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BER</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4207-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>445</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12646</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_BER_4207-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_BER_4207-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12206</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.88798578011366,42.67530778067577,-2.88798578011366</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>BER</TERMINO><FINCA>4207-M</FINCA><SUPERFICIE>445</SUPERFICIE><IDGIS>12646</IDGIS><NAMESPACE>T3_BER_4207-M</NAMESPACE><LOCALID>T3_BER_4207-M</LOCALID><ORIG_FID>12206</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

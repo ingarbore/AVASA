@@ -1,0 +1,1935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T3_ZAM_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>42.67504170248316</north>
+			<south>42.65930524798992</south>
+			<east>-2.884868070736077</east>
+			<west>-2.893790989006551</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4334-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1322</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9576</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4334-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4334-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9269</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888454127855103,42.66003878533577,-2.888454127855103</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4334-1</FINCA><SUPERFICIE>1322</SUPERFICIE><IDGIS>9576</IDGIS><NAMESPACE>T3_ZAM_4334-1</NAMESPACE><LOCALID>T3_ZAM_4334-1</LOCALID><ORIG_FID>9269</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4335-A-4345-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2407</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9577</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4335-A-4345-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4335-A-4345-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9270</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888933396952446,42.65930923240739,-2.888933396952446</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4335-A-4345-A</FINCA><SUPERFICIE>2407</SUPERFICIE><IDGIS>9577</IDGIS><NAMESPACE>T3_ZAM_4335-A-4345-A</NAMESPACE><LOCALID>T3_ZAM_4335-A-4345-A</LOCALID><ORIG_FID>9270</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4335</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1265</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9578</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4335</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4335</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9271</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889002560412559,42.6598501656705,-2.889002560412559</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4335</FINCA><SUPERFICIE>1265</SUPERFICIE><IDGIS>9578</IDGIS><NAMESPACE>T3_ZAM_4335</NAMESPACE><LOCALID>T3_ZAM_4335</LOCALID><ORIG_FID>9271</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4334</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4550</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9579</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4334</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4334</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9272</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888734298972471,42.65995608716636,-2.888734298972471</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4334</FINCA><SUPERFICIE>4550</SUPERFICIE><IDGIS>9579</IDGIS><NAMESPACE>T3_ZAM_4334</NAMESPACE><LOCALID>T3_ZAM_4334</LOCALID><ORIG_FID>9272</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4333</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3599</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9580</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4333</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4333</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9273</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889574235383499,42.66133957041301,-2.889574235383499</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4333</FINCA><SUPERFICIE>3599</SUPERFICIE><IDGIS>9580</IDGIS><NAMESPACE>T3_ZAM_4333</NAMESPACE><LOCALID>T3_ZAM_4333</LOCALID><ORIG_FID>9273</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4332</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10978</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9581</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4332</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4332</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9274</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889264187760727,42.66158175564884,-2.889264187760727</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4332</FINCA><SUPERFICIE>10978</SUPERFICIE><IDGIS>9581</IDGIS><NAMESPACE>T3_ZAM_4332</NAMESPACE><LOCALID>T3_ZAM_4332</LOCALID><ORIG_FID>9274</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4330</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>245</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9605</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4330</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4330</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9297</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890322473515098,42.66250142111798,-2.890322473515098</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4330</FINCA><SUPERFICIE>245</SUPERFICIE><IDGIS>9605</IDGIS><NAMESPACE>T3_ZAM_4330</NAMESPACE><LOCALID>T3_ZAM_4330</LOCALID><ORIG_FID>9297</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4331</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>898</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9606</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4331</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4331</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9298</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889925746611421,42.6625088953041,-2.88992574661142</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4331</FINCA><SUPERFICIE>898</SUPERFICIE><IDGIS>9606</IDGIS><NAMESPACE>T3_ZAM_4331</NAMESPACE><LOCALID>T3_ZAM_4331</LOCALID><ORIG_FID>9298</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4329</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1000</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9607</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4329</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4329</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9299</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890180731829934,42.66283742826358,-2.890180731829934</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4329</FINCA><SUPERFICIE>1000</SUPERFICIE><IDGIS>9607</IDGIS><NAMESPACE>T3_ZAM_4329</NAMESPACE><LOCALID>T3_ZAM_4329</LOCALID><ORIG_FID>9299</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4328</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8845</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9608</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4328</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4328</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9300</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89018045860922,42.6635916865779,-2.89018045860922</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4328</FINCA><SUPERFICIE>8845</SUPERFICIE><IDGIS>9608</IDGIS><NAMESPACE>T3_ZAM_4328</NAMESPACE><LOCALID>T3_ZAM_4328</LOCALID><ORIG_FID>9300</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4327-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9470</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9609</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4327-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4327-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9301</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889960970246297,42.66410319959365,-2.889960970246297</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4327-2</FINCA><SUPERFICIE>9470</SUPERFICIE><IDGIS>9609</IDGIS><NAMESPACE>T3_ZAM_4327-2</NAMESPACE><LOCALID>T3_ZAM_4327-2</LOCALID><ORIG_FID>9301</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4324</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2188</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9611</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4324</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4324</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9302</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890286602856273,42.6670351222032,-2.890286602856274</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4324</FINCA><SUPERFICIE>2188</SUPERFICIE><IDGIS>9611</IDGIS><NAMESPACE>T3_ZAM_4324</NAMESPACE><LOCALID>T3_ZAM_4324</LOCALID><ORIG_FID>9302</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4323</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>542</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9612</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4323</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4323</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9303</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890703526194663,42.66743734226439,-2.890703526194663</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4323</FINCA><SUPERFICIE>542</SUPERFICIE><IDGIS>9612</IDGIS><NAMESPACE>T3_ZAM_4323</NAMESPACE><LOCALID>T3_ZAM_4323</LOCALID><ORIG_FID>9303</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4326</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>19132</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9613</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4326</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4326</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9304</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890550064309846,42.66610648009502,-2.890550064309846</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4326</FINCA><SUPERFICIE>19132</SUPERFICIE><IDGIS>9613</IDGIS><NAMESPACE>T3_ZAM_4326</NAMESPACE><LOCALID>T3_ZAM_4326</LOCALID><ORIG_FID>9304</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4325</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>95</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9614</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4325</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4325</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9305</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.891064308983665,42.66651054164173,-2.891064308983665</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4325</FINCA><SUPERFICIE>95</SUPERFICIE><IDGIS>9614</IDGIS><NAMESPACE>T3_ZAM_4325</NAMESPACE><LOCALID>T3_ZAM_4325</LOCALID><ORIG_FID>9305</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4322</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>18571</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9615</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4322</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4322</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9306</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890812717914843,42.66851470057227,-2.890812717914843</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4322</FINCA><SUPERFICIE>18571</SUPERFICIE><IDGIS>9615</IDGIS><NAMESPACE>T3_ZAM_4322</NAMESPACE><LOCALID>T3_ZAM_4322</LOCALID><ORIG_FID>9306</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4321</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7778</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9616</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4321</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4321</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9307</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890628681641137,42.66990183405662,-2.890628681641136</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4321</FINCA><SUPERFICIE>7778</SUPERFICIE><IDGIS>9616</IDGIS><NAMESPACE>T3_ZAM_4321</NAMESPACE><LOCALID>T3_ZAM_4321</LOCALID><ORIG_FID>9307</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4309</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1000</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9618</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4309</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4309</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9308</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890834033240171,42.67115782344067,-2.890834033240171</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4309</FINCA><SUPERFICIE>1000</SUPERFICIE><IDGIS>9618</IDGIS><NAMESPACE>T3_ZAM_4309</NAMESPACE><LOCALID>T3_ZAM_4309</LOCALID><ORIG_FID>9308</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4303</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1711</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9619</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4303</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4303</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9309</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89337095350022,42.67453887399953,-2.89337095350022</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4303</FINCA><SUPERFICIE>1711</SUPERFICIE><IDGIS>9619</IDGIS><NAMESPACE>T3_ZAM_4303</NAMESPACE><LOCALID>T3_ZAM_4303</LOCALID><ORIG_FID>9309</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4302-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>139</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9620</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4302-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4302-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9310</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888177713153214,42.67122750784838,-2.888177713153214</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4302-3</FINCA><SUPERFICIE>139</SUPERFICIE><IDGIS>9620</IDGIS><NAMESPACE>T3_ZAM_4302-3</NAMESPACE><LOCALID>T3_ZAM_4302-3</LOCALID><ORIG_FID>9310</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4339</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>857</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9621</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4339</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4339</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9311</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.885020064662738,42.67024456901721,-2.885020064662738</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4339</FINCA><SUPERFICIE>857</SUPERFICIE><IDGIS>9621</IDGIS><NAMESPACE>T3_ZAM_4339</NAMESPACE><LOCALID>T3_ZAM_4339</LOCALID><ORIG_FID>9311</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4338</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>916</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9622</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4338</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4338</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9312</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884986873558063,42.67103207170945,-2.884986873558063</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4338</FINCA><SUPERFICIE>916</SUPERFICIE><IDGIS>9622</IDGIS><NAMESPACE>T3_ZAM_4338</NAMESPACE><LOCALID>T3_ZAM_4338</LOCALID><ORIG_FID>9312</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4337</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>518</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9623</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4337</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4337</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9313</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884937655843991,42.67167311350294,-2.884937655843991</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4337</FINCA><SUPERFICIE>518</SUPERFICIE><IDGIS>9623</IDGIS><NAMESPACE>T3_ZAM_4337</NAMESPACE><LOCALID>T3_ZAM_4337</LOCALID><ORIG_FID>9313</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4341</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>268</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9624</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4341</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4341</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9314</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884872970742221,42.67237840186541,-2.884872970742221</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4341</FINCA><SUPERFICIE>268</SUPERFICIE><IDGIS>9624</IDGIS><NAMESPACE>T3_ZAM_4341</NAMESPACE><LOCALID>T3_ZAM_4341</LOCALID><ORIG_FID>9314</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4336</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>205</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9625</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4336</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4336</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9315</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884899583520587,42.67208505656544,-2.884899583520587</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4336</FINCA><SUPERFICIE>205</SUPERFICIE><IDGIS>9625</IDGIS><NAMESPACE>T3_ZAM_4336</NAMESPACE><LOCALID>T3_ZAM_4336</LOCALID><ORIG_FID>9315</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4319</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>869</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9631</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4319</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4319</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9321</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.885242007954432,42.67137978465988,-2.885242007954432</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4319</FINCA><SUPERFICIE>869</SUPERFICIE><IDGIS>9631</IDGIS><NAMESPACE>T3_ZAM_4319</NAMESPACE><LOCALID>T3_ZAM_4319</LOCALID><ORIG_FID>9321</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4340</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>247</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9632</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4340</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4340</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9322</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.885228537085731,42.66981851733583,-2.885228537085731</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4340</FINCA><SUPERFICIE>247</SUPERFICIE><IDGIS>9632</IDGIS><NAMESPACE>T3_ZAM_4340</NAMESPACE><LOCALID>T3_ZAM_4340</LOCALID><ORIG_FID>9322</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4318</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4198</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9633</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4318</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4318</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9323</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.885727393552115,42.67203683269717,-2.885727393552115</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4318</FINCA><SUPERFICIE>4198</SUPERFICIE><IDGIS>9633</IDGIS><NAMESPACE>T3_ZAM_4318</NAMESPACE><LOCALID>T3_ZAM_4318</LOCALID><ORIG_FID>9323</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4317-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4934</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9634</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4317-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4317-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9324</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.886736863702537,42.67220138516906,-2.886736863702537</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4317-1</FINCA><SUPERFICIE>4934</SUPERFICIE><IDGIS>9634</IDGIS><NAMESPACE>T3_ZAM_4317-1</NAMESPACE><LOCALID>T3_ZAM_4317-1</LOCALID><ORIG_FID>9324</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4316-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1970</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9635</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4316-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4316-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9325</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.887279560789776,42.67224211879441,-2.887279560789776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4316-1</FINCA><SUPERFICIE>1970</SUPERFICIE><IDGIS>9635</IDGIS><NAMESPACE>T3_ZAM_4316-1</NAMESPACE><LOCALID>T3_ZAM_4316-1</LOCALID><ORIG_FID>9325</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4315</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7081</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9636</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4315</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4315</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9326</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.887914418650704,42.67211703517218,-2.887914418650704</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4315</FINCA><SUPERFICIE>7081</SUPERFICIE><IDGIS>9636</IDGIS><NAMESPACE>T3_ZAM_4315</NAMESPACE><LOCALID>T3_ZAM_4315</LOCALID><ORIG_FID>9326</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4314</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7584</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9637</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4314</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4314</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9327</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888279625827963,42.67243912803135,-2.888279625827963</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4314</FINCA><SUPERFICIE>7584</SUPERFICIE><IDGIS>9637</IDGIS><NAMESPACE>T3_ZAM_4314</NAMESPACE><LOCALID>T3_ZAM_4314</LOCALID><ORIG_FID>9327</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4317-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>166</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9638</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4317-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4317-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9328</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888154771194978,42.67129693760199,-2.888154771194977</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4317-2</FINCA><SUPERFICIE>166</SUPERFICIE><IDGIS>9638</IDGIS><NAMESPACE>T3_ZAM_4317-2</NAMESPACE><LOCALID>T3_ZAM_4317-2</LOCALID><ORIG_FID>9328</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4316-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>384</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9639</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4316-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4316-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9329</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888237906044109,42.67145841004319,-2.888237906044109</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4316-2</FINCA><SUPERFICIE>384</SUPERFICIE><IDGIS>9639</IDGIS><NAMESPACE>T3_ZAM_4316-2</NAMESPACE><LOCALID>T3_ZAM_4316-2</LOCALID><ORIG_FID>9329</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4310-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1686</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9640</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4310-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4310-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9330</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889750780535783,42.67195706214328,-2.889750780535783</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4310-2</FINCA><SUPERFICIE>1686</SUPERFICIE><IDGIS>9640</IDGIS><NAMESPACE>T3_ZAM_4310-2</NAMESPACE><LOCALID>T3_ZAM_4310-2</LOCALID><ORIG_FID>9330</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4320</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6628</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9641</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4320</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4320</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9331</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.891032065780272,42.67061276109639,-2.891032065780272</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4320</FINCA><SUPERFICIE>6628</SUPERFICIE><IDGIS>9641</IDGIS><NAMESPACE>T3_ZAM_4320</NAMESPACE><LOCALID>T3_ZAM_4320</LOCALID><ORIG_FID>9331</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4320-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>639</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9642</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4320-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4320-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9332</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.891236816345837,42.67117934633688,-2.891236816345836</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4320-1</FINCA><SUPERFICIE>639</SUPERFICIE><IDGIS>9642</IDGIS><NAMESPACE>T3_ZAM_4320-1</NAMESPACE><LOCALID>T3_ZAM_4320-1</LOCALID><ORIG_FID>9332</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4310-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>80</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9643</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4310-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4310-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9333</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890379981913385,42.67101496704662,-2.890379981913385</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4310-1</FINCA><SUPERFICIE>80</SUPERFICIE><IDGIS>9643</IDGIS><NAMESPACE>T3_ZAM_4310-1</NAMESPACE><LOCALID>T3_ZAM_4310-1</LOCALID><ORIG_FID>9333</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4304</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5208</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9644</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4304</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4304</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9334</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.892779137603327,42.67355032579174,-2.892779137603328</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4304</FINCA><SUPERFICIE>5208</SUPERFICIE><IDGIS>9644</IDGIS><NAMESPACE>T3_ZAM_4304</NAMESPACE><LOCALID>T3_ZAM_4304</LOCALID><ORIG_FID>9334</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4308</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>18600</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9645</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4308</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4308</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9335</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890801006267086,42.6720228706409,-2.890801006267086</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4308</FINCA><SUPERFICIE>18600</SUPERFICIE><IDGIS>9645</IDGIS><NAMESPACE>T3_ZAM_4308</NAMESPACE><LOCALID>T3_ZAM_4308</LOCALID><ORIG_FID>9335</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4306</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>477</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9646</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4306</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4306</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9336</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.8917722639499,42.67263140876427,-2.8917722639499</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4306</FINCA><SUPERFICIE>477</SUPERFICIE><IDGIS>9646</IDGIS><NAMESPACE>T3_ZAM_4306</NAMESPACE><LOCALID>T3_ZAM_4306</LOCALID><ORIG_FID>9336</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4305</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4760</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9648</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4305</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4305</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9337</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.892192275969348,42.67294084298602,-2.892192275969348</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4305</FINCA><SUPERFICIE>4760</SUPERFICIE><IDGIS>9648</IDGIS><NAMESPACE>T3_ZAM_4305</NAMESPACE><LOCALID>T3_ZAM_4305</LOCALID><ORIG_FID>9337</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4305-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>459</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9649</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4305-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4305-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9338</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.892174708126211,42.6725496994768,-2.892174708126211</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4305-M</FINCA><SUPERFICIE>459</SUPERFICIE><IDGIS>9649</IDGIS><NAMESPACE>T3_ZAM_4305-M</NAMESPACE><LOCALID>T3_ZAM_4305-M</LOCALID><ORIG_FID>9338</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4307</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>828</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9650</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4307</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4307</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9339</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.891658041805379,42.67258386466262,-2.891658041805379</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4307</FINCA><SUPERFICIE>828</SUPERFICIE><IDGIS>9650</IDGIS><NAMESPACE>T3_ZAM_4307</NAMESPACE><LOCALID>T3_ZAM_4307</LOCALID><ORIG_FID>9339</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4307-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>48</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9651</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4307-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4307-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9340</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.891801527984825,42.67232403543905,-2.891801527984825</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4307-M</FINCA><SUPERFICIE>48</SUPERFICIE><IDGIS>9651</IDGIS><NAMESPACE>T3_ZAM_4307-M</NAMESPACE><LOCALID>T3_ZAM_4307-M</LOCALID><ORIG_FID>9340</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4313</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6215</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9652</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4313</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4313</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9341</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888625192244073,42.67266597083494,-2.888625192244073</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4313</FINCA><SUPERFICIE>6215</SUPERFICIE><IDGIS>9652</IDGIS><NAMESPACE>T3_ZAM_4313</NAMESPACE><LOCALID>T3_ZAM_4313</LOCALID><ORIG_FID>9341</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4312-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2177</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9653</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4312-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4312-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9342</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.888879947831643,42.67277286442488,-2.888879947831643</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4312-1</FINCA><SUPERFICIE>2177</SUPERFICIE><IDGIS>9653</IDGIS><NAMESPACE>T3_ZAM_4312-1</NAMESPACE><LOCALID>T3_ZAM_4312-1</LOCALID><ORIG_FID>9342</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4312-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4431</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9654</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4312-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4312-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9343</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889058232259473,42.67288849989956,-2.889058232259474</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4312-2</FINCA><SUPERFICIE>4431</SUPERFICIE><IDGIS>9654</IDGIS><NAMESPACE>T3_ZAM_4312-2</NAMESPACE><LOCALID>T3_ZAM_4312-2</LOCALID><ORIG_FID>9343</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4302-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>707</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9655</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4302-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4302-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9344</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.893764210893881,42.67504170248316,-2.893764210893881</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4302-1</FINCA><SUPERFICIE>707</SUPERFICIE><IDGIS>9655</IDGIS><NAMESPACE>T3_ZAM_4302-1</NAMESPACE><LOCALID>T3_ZAM_4302-1</LOCALID><ORIG_FID>9344</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4311</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8469</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9660</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4311</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4311</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9349</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889512061185825,42.67307263936594,-2.889512061185825</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4311</FINCA><SUPERFICIE>8469</SUPERFICIE><IDGIS>9660</IDGIS><NAMESPACE>T3_ZAM_4311</NAMESPACE><LOCALID>T3_ZAM_4311</LOCALID><ORIG_FID>9349</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4302-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2677</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9664</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4302-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4302-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9352</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890087638838047,42.67248494960018,-2.890087638838047</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4302-2</FINCA><SUPERFICIE>2677</SUPERFICIE><IDGIS>9664</IDGIS><NAMESPACE>T3_ZAM_4302-2</NAMESPACE><LOCALID>T3_ZAM_4302-2</LOCALID><ORIG_FID>9352</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4335-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>425</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12420</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4335-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4335-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11952</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889127737701418,42.65992779291042,-2.889127737701419</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4335-M</FINCA><SUPERFICIE>425</SUPERFICIE><IDGIS>12420</IDGIS><NAMESPACE>T3_ZAM_4335-M</NAMESPACE><LOCALID>T3_ZAM_4335-M</LOCALID><ORIG_FID>11952</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4333-M</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>185</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12422</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4333-M</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4333-M</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11953</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.889394887848428,42.66061158353835,-2.889394887848428</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4333-M</FINCA><SUPERFICIE>185</SUPERFICIE><IDGIS>12422</IDGIS><NAMESPACE>T3_ZAM_4333-M</NAMESPACE><LOCALID>T3_ZAM_4333-M</LOCALID><ORIG_FID>11953</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4333-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1911</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12421</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4333-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4333-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11954</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.88971535156197,42.66136430881728,-2.88971535156197</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4333-A</FINCA><SUPERFICIE>1911</SUPERFICIE><IDGIS>12421</IDGIS><NAMESPACE>T3_ZAM_4333-A</NAMESPACE><LOCALID>T3_ZAM_4333-A</LOCALID><ORIG_FID>11954</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4328-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>52</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12423</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4328-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4328-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11955</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890418701247703,42.66350434767156,-2.890418701247703</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4328-A</FINCA><SUPERFICIE>52</SUPERFICIE><IDGIS>12423</IDGIS><NAMESPACE>T3_ZAM_4328-A</NAMESPACE><LOCALID>T3_ZAM_4328-A</LOCALID><ORIG_FID>11955</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4327-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>30</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12424</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4327-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4327-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11956</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.890070435970202,42.6662286169941,-2.890070435970202</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4327-1</FINCA><SUPERFICIE>30</SUPERFICIE><IDGIS>12424</IDGIS><NAMESPACE>T3_ZAM_4327-1</NAMESPACE><LOCALID>T3_ZAM_4327-1</LOCALID><ORIG_FID>11956</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T3</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ZAM</value>
+			</Data>
+			<Data name="FINCA">
+				<value>4322-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12425</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T3_ZAM_4322-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T3_ZAM_4322-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11957</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.891416115886539,42.66978064449045,-2.891416115886539</coordinates>
+		</Point>
+		<Metadata><TRAMO>T3</TRAMO><TERMINO>ZAM</TERMINO><FINCA>4322-1</FINCA><SUPERFICIE>4</SUPERFICIE><IDGIS>12425</IDGIS><NAMESPACE>T3_ZAM_4322-1</NAMESPACE><LOCALID>T3_ZAM_4322-1</LOCALID><ORIG_FID>11957</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

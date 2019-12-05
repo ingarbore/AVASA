@@ -1,0 +1,4674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T6_AUS_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>42.39065463735653</north>
+			<south>42.37245765511985</south>
+			<east>-2.085098621216884</east>
+			<west>-2.147467475147192</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>29</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1478</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0001</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0001</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1461</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.147242030452075,42.3895977385347,-2.147242030452075</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0001</FINCA><SUPERFICIE>29</SUPERFICIE><IDGIS>1478</IDGIS><NAMESPACE>T6_AUS_0001</NAMESPACE><LOCALID>T6_AUS_0001</LOCALID><ORIG_FID>1461</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>328</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1479</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0003-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0003-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1462</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.145334736792926,42.38988041017641,-2.145334736792926</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0003-A</FINCA><SUPERFICIE>328</SUPERFICIE><IDGIS>1479</IDGIS><NAMESPACE>T6_AUS_0003-A</NAMESPACE><LOCALID>T6_AUS_0003-A</LOCALID><ORIG_FID>1462</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>442</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1483</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0002</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0002</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1465</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.146614479187108,42.38971388365354,-2.146614479187108</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0002</FINCA><SUPERFICIE>442</SUPERFICIE><IDGIS>1483</IDGIS><NAMESPACE>T6_AUS_0002</NAMESPACE><LOCALID>T6_AUS_0002</LOCALID><ORIG_FID>1465</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>CR-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>625</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1484</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_CR-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_CR-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1466</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.146979724307927,42.38969407989294,-2.146979724307927</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>CR-1</FINCA><SUPERFICIE>625</SUPERFICIE><IDGIS>1484</IDGIS><NAMESPACE>T6_AUS_CR-1</NAMESPACE><LOCALID>T6_AUS_CR-1</LOCALID><ORIG_FID>1466</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>68</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1485</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0003</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0003</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1467</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.146086341471166,42.38982175991788,-2.146086341471166</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0003</FINCA><SUPERFICIE>68</SUPERFICIE><IDGIS>1485</IDGIS><NAMESPACE>T6_AUS_0003</NAMESPACE><LOCALID>T6_AUS_0003</LOCALID><ORIG_FID>1467</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-01</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>329</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1486</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-01</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-01</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1468</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.145441839721616,42.38992362217967,-2.145441839721616</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-01</FINCA><SUPERFICIE>329</SUPERFICIE><IDGIS>1486</IDGIS><NAMESPACE>T6_AUS_C-01</NAMESPACE><LOCALID>T6_AUS_C-01</LOCALID><ORIG_FID>1468</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0004</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>629</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1507</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0004</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0004</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1489</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.14173214940567,42.39040332254852,-2.14173214940567</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0004</FINCA><SUPERFICIE>629</SUPERFICIE><IDGIS>1507</IDGIS><NAMESPACE>T6_AUS_0004</NAMESPACE><LOCALID>T6_AUS_0004</LOCALID><ORIG_FID>1489</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4721</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1511</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0005</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0005</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1493</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.140558230082029,42.39048470528125,-2.140558230082029</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0005</FINCA><SUPERFICIE>4721</SUPERFICIE><IDGIS>1511</IDGIS><NAMESPACE>T6_AUS_0005</NAMESPACE><LOCALID>T6_AUS_0005</LOCALID><ORIG_FID>1493</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>140</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1512</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0008</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0008</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1494</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.139642263950128,42.39007879143461,-2.139642263950128</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0008</FINCA><SUPERFICIE>140</SUPERFICIE><IDGIS>1512</IDGIS><NAMESPACE>T6_AUS_0008</NAMESPACE><LOCALID>T6_AUS_0008</LOCALID><ORIG_FID>1494</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>653</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1513</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0011-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0011-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1495</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.139330391006543,42.39011186995236,-2.139330391006543</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0011-1</FINCA><SUPERFICIE>653</SUPERFICIE><IDGIS>1513</IDGIS><NAMESPACE>T6_AUS_0011-1</NAMESPACE><LOCALID>T6_AUS_0011-1</LOCALID><ORIG_FID>1495</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>367</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1515</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0006</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0006</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1497</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.139665597267534,42.39059813483111,-2.139665597267534</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0006</FINCA><SUPERFICIE>367</SUPERFICIE><IDGIS>1515</IDGIS><NAMESPACE>T6_AUS_0006</NAMESPACE><LOCALID>T6_AUS_0006</LOCALID><ORIG_FID>1497</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0007</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2506</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1516</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0007</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0007</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1498</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.14003956361715,42.39026395760381,-2.14003956361715</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0007</FINCA><SUPERFICIE>2506</SUPERFICIE><IDGIS>1516</IDGIS><NAMESPACE>T6_AUS_0007</NAMESPACE><LOCALID>T6_AUS_0007</LOCALID><ORIG_FID>1498</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-03</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>197</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1517</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-03</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-03</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1499</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.139567515996622,42.39037156890875,-2.139567515996622</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-03</FINCA><SUPERFICIE>197</SUPERFICIE><IDGIS>1517</IDGIS><NAMESPACE>T6_AUS_C-03</NAMESPACE><LOCALID>T6_AUS_C-03</LOCALID><ORIG_FID>1499</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>836</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1518</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0010</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0010</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1500</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.139372409364013,42.39032132627607,-2.139372409364013</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0010</FINCA><SUPERFICIE>836</SUPERFICIE><IDGIS>1518</IDGIS><NAMESPACE>T6_AUS_0010</NAMESPACE><LOCALID>T6_AUS_0010</LOCALID><ORIG_FID>1500</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>256</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1519</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0011-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0011-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1501</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.139165020226098,42.3900161080443,-2.139165020226098</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0011-2</FINCA><SUPERFICIE>256</SUPERFICIE><IDGIS>1519</IDGIS><NAMESPACE>T6_AUS_0011-2</NAMESPACE><LOCALID>T6_AUS_0011-2</LOCALID><ORIG_FID>1501</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0012</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>118</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1520</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0012</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0012</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1502</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.139043373865857,42.38995256258248,-2.139043373865857</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0012</FINCA><SUPERFICIE>118</SUPERFICIE><IDGIS>1520</IDGIS><NAMESPACE>T6_AUS_0012</NAMESPACE><LOCALID>T6_AUS_0012</LOCALID><ORIG_FID>1502</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>727</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1521</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0013</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0013</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1503</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.138820967754226,42.38993501365118,-2.138820967754226</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0013</FINCA><SUPERFICIE>727</SUPERFICIE><IDGIS>1521</IDGIS><NAMESPACE>T6_AUS_0013</NAMESPACE><LOCALID>T6_AUS_0013</LOCALID><ORIG_FID>1503</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3297</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1522</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0009</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0009</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1504</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.138991312738064,42.39051655067805,-2.138991312738064</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0009</FINCA><SUPERFICIE>3297</SUPERFICIE><IDGIS>1522</IDGIS><NAMESPACE>T6_AUS_0009</NAMESPACE><LOCALID>T6_AUS_0009</LOCALID><ORIG_FID>1504</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4686</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1523</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1505</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.138428629844246,42.38996673142711,-2.138428629844246</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0014</FINCA><SUPERFICIE>4686</SUPERFICIE><IDGIS>1523</IDGIS><NAMESPACE>T6_AUS_0014</NAMESPACE><LOCALID>T6_AUS_0014</LOCALID><ORIG_FID>1505</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1423</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1524</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0016</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0016</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1506</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.137573945894471,42.38978482372365,-2.137573945894471</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0016</FINCA><SUPERFICIE>1423</SUPERFICIE><IDGIS>1524</IDGIS><NAMESPACE>T6_AUS_0016</NAMESPACE><LOCALID>T6_AUS_0016</LOCALID><ORIG_FID>1506</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>896</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1525</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0018</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0018</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1507</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.135302854738042,42.38956339944032,-2.135302854738042</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0018</FINCA><SUPERFICIE>896</SUPERFICIE><IDGIS>1525</IDGIS><NAMESPACE>T6_AUS_0018</NAMESPACE><LOCALID>T6_AUS_0018</LOCALID><ORIG_FID>1507</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>131</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1526</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0019-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0019-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1508</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.134352721736599,42.38934362427163,-2.134352721736599</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0019-1</FINCA><SUPERFICIE>131</SUPERFICIE><IDGIS>1526</IDGIS><NAMESPACE>T6_AUS_0019-1</NAMESPACE><LOCALID>T6_AUS_0019-1</LOCALID><ORIG_FID>1508</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4256</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1528</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0015</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0015</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1510</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.137854427095719,42.39018026867732,-2.137854427095719</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0015</FINCA><SUPERFICIE>4256</SUPERFICIE><IDGIS>1528</IDGIS><NAMESPACE>T6_AUS_0015</NAMESPACE><LOCALID>T6_AUS_0015</LOCALID><ORIG_FID>1510</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2992</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1529</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0017</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0017</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1511</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.136604169100508,42.3898362743662,-2.136604169100508</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0017</FINCA><SUPERFICIE>2992</SUPERFICIE><IDGIS>1529</IDGIS><NAMESPACE>T6_AUS_0017</NAMESPACE><LOCALID>T6_AUS_0017</LOCALID><ORIG_FID>1511</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-02</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2436</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1530</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-02</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-02</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1512</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.137750983683368,42.39017298387383,-2.137750983683368</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-02</FINCA><SUPERFICIE>2436</SUPERFICIE><IDGIS>1530</IDGIS><NAMESPACE>T6_AUS_C-02</NAMESPACE><LOCALID>T6_AUS_C-02</LOCALID><ORIG_FID>1512</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>246</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1546</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0019-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0019-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1528</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.131371182044874,42.38864139823358,-2.131371182044874</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0019-2</FINCA><SUPERFICIE>246</SUPERFICIE><IDGIS>1546</IDGIS><NAMESPACE>T6_AUS_0019-2</NAMESPACE><LOCALID>T6_AUS_0019-2</LOCALID><ORIG_FID>1528</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1251</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1547</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0020</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0020</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1529</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.130571549522061,42.38830378667563,-2.130571549522061</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0020</FINCA><SUPERFICIE>1251</SUPERFICIE><IDGIS>1547</IDGIS><NAMESPACE>T6_AUS_0020</NAMESPACE><LOCALID>T6_AUS_0020</LOCALID><ORIG_FID>1529</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-05</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>176</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1548</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-05</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-05</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1530</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.13018325139013,42.3883917085729,-2.13018325139013</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-05</FINCA><SUPERFICIE>176</SUPERFICIE><IDGIS>1548</IDGIS><NAMESPACE>T6_AUS_C-05</NAMESPACE><LOCALID>T6_AUS_C-05</LOCALID><ORIG_FID>1530</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>725</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1550</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0021</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0021</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1532</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.130005108445101,42.38849039317854,-2.130005108445101</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0021</FINCA><SUPERFICIE>725</SUPERFICIE><IDGIS>1550</IDGIS><NAMESPACE>T6_AUS_0021</NAMESPACE><LOCALID>T6_AUS_0021</LOCALID><ORIG_FID>1532</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3669</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1552</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0019-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0019-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1534</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.130662776230079,42.38859417860366,-2.130662776230079</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0019-3</FINCA><SUPERFICIE>3669</SUPERFICIE><IDGIS>1552</IDGIS><NAMESPACE>T6_AUS_0019-3</NAMESPACE><LOCALID>T6_AUS_0019-3</LOCALID><ORIG_FID>1534</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-04</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1807</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1553</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-04</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-04</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1535</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.127903683491772,42.38790932749055,-2.127903683491772</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-04</FINCA><SUPERFICIE>1807</SUPERFICIE><IDGIS>1553</IDGIS><NAMESPACE>T6_AUS_C-04</NAMESPACE><LOCALID>T6_AUS_C-04</LOCALID><ORIG_FID>1535</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0023</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3563</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1556</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0023</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0023</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1538</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.12960384645557,42.38799562011639,-2.12960384645557</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0023</FINCA><SUPERFICIE>3563</SUPERFICIE><IDGIS>1556</IDGIS><NAMESPACE>T6_AUS_0023</NAMESPACE><LOCALID>T6_AUS_0023</LOCALID><ORIG_FID>1538</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1243</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1557</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0025-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0025-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1539</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.127508612172504,42.38728005773126,-2.127508612172504</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0025-1</FINCA><SUPERFICIE>1243</SUPERFICIE><IDGIS>1557</IDGIS><NAMESPACE>T6_AUS_0025-1</NAMESPACE><LOCALID>T6_AUS_0025-1</LOCALID><ORIG_FID>1539</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1416</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1558</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0025-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0025-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1540</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.12703838557788,42.38709132895203,-2.12703838557788</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0025-3</FINCA><SUPERFICIE>1416</SUPERFICIE><IDGIS>1558</IDGIS><NAMESPACE>T6_AUS_0025-3</NAMESPACE><LOCALID>T6_AUS_0025-3</LOCALID><ORIG_FID>1540</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>509</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1559</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0026-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0026-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1541</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.127060752955178,42.38739156706596,-2.127060752955178</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0026-1</FINCA><SUPERFICIE>509</SUPERFICIE><IDGIS>1559</IDGIS><NAMESPACE>T6_AUS_0026-1</NAMESPACE><LOCALID>T6_AUS_0026-1</LOCALID><ORIG_FID>1541</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0028</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1560</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0028</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0028</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1542</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.126758646854853,42.38627358167645,-2.126758646854853</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0028</FINCA><SUPERFICIE>6</SUPERFICIE><IDGIS>1560</IDGIS><NAMESPACE>T6_AUS_0028</NAMESPACE><LOCALID>T6_AUS_0028</LOCALID><ORIG_FID>1542</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>31</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1561</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0027</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0027</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1543</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.126805919017645,42.38629028487033,-2.126805919017645</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0027</FINCA><SUPERFICIE>31</SUPERFICIE><IDGIS>1561</IDGIS><NAMESPACE>T6_AUS_0027</NAMESPACE><LOCALID>T6_AUS_0027</LOCALID><ORIG_FID>1543</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-06</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>543</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1562</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-06</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-06</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1544</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.126845827107255,42.38693678367049,-2.126845827107255</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-06</FINCA><SUPERFICIE>543</SUPERFICIE><IDGIS>1562</IDGIS><NAMESPACE>T6_AUS_C-06</NAMESPACE><LOCALID>T6_AUS_C-06</LOCALID><ORIG_FID>1544</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0031</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>16</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1563</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0031</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0031</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1545</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.126713813103353,42.38632662749807,-2.126713813103353</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0031</FINCA><SUPERFICIE>16</SUPERFICIE><IDGIS>1563</IDGIS><NAMESPACE>T6_AUS_0031</NAMESPACE><LOCALID>T6_AUS_0031</LOCALID><ORIG_FID>1545</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0037</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3549</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1564</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0037</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0037</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1546</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.123594320933895,42.38583421462469,-2.123594320933895</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0037</FINCA><SUPERFICIE>3549</SUPERFICIE><IDGIS>1564</IDGIS><NAMESPACE>T6_AUS_0037</NAMESPACE><LOCALID>T6_AUS_0037</LOCALID><ORIG_FID>1546</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0036</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2790</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1565</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0036</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0036</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1547</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.123595873042677,42.3862848811966,-2.123595873042677</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0036</FINCA><SUPERFICIE>2790</SUPERFICIE><IDGIS>1565</IDGIS><NAMESPACE>T6_AUS_0036</NAMESPACE><LOCALID>T6_AUS_0036</LOCALID><ORIG_FID>1547</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0030-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>386</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1566</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0030-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0030-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1548</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.126524772960182,42.38659850021605,-2.126524772960182</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0030-3</FINCA><SUPERFICIE>386</SUPERFICIE><IDGIS>1566</IDGIS><NAMESPACE>T6_AUS_0030-3</NAMESPACE><LOCALID>T6_AUS_0030-3</LOCALID><ORIG_FID>1548</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0029-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1963</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1567</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0029-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0029-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1549</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.126553617808481,42.38689671823415,-2.126553617808481</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0029-2</FINCA><SUPERFICIE>1963</SUPERFICIE><IDGIS>1567</IDGIS><NAMESPACE>T6_AUS_0029-2</NAMESPACE><LOCALID>T6_AUS_0029-2</LOCALID><ORIG_FID>1549</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0033</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1348</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1568</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0033</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0033</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1550</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.125678158763722,42.38647430973614,-2.125678158763722</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0033</FINCA><SUPERFICIE>1348</SUPERFICIE><IDGIS>1568</IDGIS><NAMESPACE>T6_AUS_0033</NAMESPACE><LOCALID>T6_AUS_0033</LOCALID><ORIG_FID>1550</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0035</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3549</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1569</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0035</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0035</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1551</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.124542754148183,42.38607905392695,-2.124542754148183</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0035</FINCA><SUPERFICIE>3549</SUPERFICIE><IDGIS>1569</IDGIS><NAMESPACE>T6_AUS_0035</NAMESPACE><LOCALID>T6_AUS_0035</LOCALID><ORIG_FID>1551</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0032</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5176</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1570</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0032</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0032</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1552</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.125067947791381,42.38649777262722,-2.125067947791381</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0032</FINCA><SUPERFICIE>5176</SUPERFICIE><IDGIS>1570</IDGIS><NAMESPACE>T6_AUS_0032</NAMESPACE><LOCALID>T6_AUS_0032</LOCALID><ORIG_FID>1552</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7524</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1571</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0022</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0022</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1553</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.128910761491612,42.3879845073122,-2.128910761491612</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0022</FINCA><SUPERFICIE>7524</SUPERFICIE><IDGIS>1571</IDGIS><NAMESPACE>T6_AUS_0022</NAMESPACE><LOCALID>T6_AUS_0022</LOCALID><ORIG_FID>1553</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0024</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5145</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1574</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0024</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0024</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1556</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.127893627709282,42.38773672832661,-2.127893627709282</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0024</FINCA><SUPERFICIE>5145</SUPERFICIE><IDGIS>1574</IDGIS><NAMESPACE>T6_AUS_0024</NAMESPACE><LOCALID>T6_AUS_0024</LOCALID><ORIG_FID>1556</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4727</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1581</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0026-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0026-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1563</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.126198981926147,42.38715680511334,-2.126198981926147</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0026-2</FINCA><SUPERFICIE>4727</SUPERFICIE><IDGIS>1581</IDGIS><NAMESPACE>T6_AUS_0026-2</NAMESPACE><LOCALID>T6_AUS_0026-2</LOCALID><ORIG_FID>1563</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0034</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4631</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1583</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0034</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0034</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1565</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.124789729662436,42.38670866511234,-2.124789729662436</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0034</FINCA><SUPERFICIE>4631</SUPERFICIE><IDGIS>1583</IDGIS><NAMESPACE>T6_AUS_0034</NAMESPACE><LOCALID>T6_AUS_0034</LOCALID><ORIG_FID>1565</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0039</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4594</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1586</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0039</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0039</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1568</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.122915595188625,42.38563221296339,-2.122915595188625</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0039</FINCA><SUPERFICIE>4594</SUPERFICIE><IDGIS>1586</IDGIS><NAMESPACE>T6_AUS_0039</NAMESPACE><LOCALID>T6_AUS_0039</LOCALID><ORIG_FID>1568</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0040</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>146</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1587</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0040</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0040</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1569</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.122986768277527,42.38529252392744,-2.122986768277527</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0040</FINCA><SUPERFICIE>146</SUPERFICIE><IDGIS>1587</IDGIS><NAMESPACE>T6_AUS_0040</NAMESPACE><LOCALID>T6_AUS_0040</LOCALID><ORIG_FID>1569</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0042</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>47</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1588</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0042</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0042</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1570</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.122714465477748,42.38519669558134,-2.122714465477748</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0042</FINCA><SUPERFICIE>47</SUPERFICIE><IDGIS>1588</IDGIS><NAMESPACE>T6_AUS_0042</NAMESPACE><LOCALID>T6_AUS_0042</LOCALID><ORIG_FID>1570</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0041</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1003</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1589</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0041</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0041</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1571</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.122474480417618,42.38547649689243,-2.122474480417618</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0041</FINCA><SUPERFICIE>1003</SUPERFICIE><IDGIS>1589</IDGIS><NAMESPACE>T6_AUS_0041</NAMESPACE><LOCALID>T6_AUS_0041</LOCALID><ORIG_FID>1571</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1076</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1590</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0038</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0038</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1572</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.122466374593278,42.3858709482041,-2.122466374593278</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0038</FINCA><SUPERFICIE>1076</SUPERFICIE><IDGIS>1590</IDGIS><NAMESPACE>T6_AUS_0038</NAMESPACE><LOCALID>T6_AUS_0038</LOCALID><ORIG_FID>1572</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0043</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3434</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1591</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0043</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0043</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1573</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.122157137174701,42.38534090155117,-2.122157137174701</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0043</FINCA><SUPERFICIE>3434</SUPERFICIE><IDGIS>1591</IDGIS><NAMESPACE>T6_AUS_0043</NAMESPACE><LOCALID>T6_AUS_0043</LOCALID><ORIG_FID>1573</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0044</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1749</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1592</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0044</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0044</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1574</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.121794696895872,42.38518785124439,-2.121794696895872</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0044</FINCA><SUPERFICIE>1749</SUPERFICIE><IDGIS>1592</IDGIS><NAMESPACE>T6_AUS_0044</NAMESPACE><LOCALID>T6_AUS_0044</LOCALID><ORIG_FID>1574</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0045</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1160</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1593</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0045</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0045</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1575</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.121390589714526,42.38523277373834,-2.121390589714526</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0045</FINCA><SUPERFICIE>1160</SUPERFICIE><IDGIS>1593</IDGIS><NAMESPACE>T6_AUS_0045</NAMESPACE><LOCALID>T6_AUS_0045</LOCALID><ORIG_FID>1575</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0046</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1329</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1594</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0046</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0046</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1576</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.121570556266443,42.38493815210566,-2.121570556266443</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0046</FINCA><SUPERFICIE>1329</SUPERFICIE><IDGIS>1594</IDGIS><NAMESPACE>T6_AUS_0046</NAMESPACE><LOCALID>T6_AUS_0046</LOCALID><ORIG_FID>1576</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0047</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1030</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1595</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0047</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0047</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1577</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.121096550168925,42.38509935158194,-2.121096550168925</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0047</FINCA><SUPERFICIE>1030</SUPERFICIE><IDGIS>1595</IDGIS><NAMESPACE>T6_AUS_0047</NAMESPACE><LOCALID>T6_AUS_0047</LOCALID><ORIG_FID>1577</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>925</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1596</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0050</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0050</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1578</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.121028299291599,42.38465788466777,-2.121028299291599</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0050</FINCA><SUPERFICIE>925</SUPERFICIE><IDGIS>1596</IDGIS><NAMESPACE>T6_AUS_0050</NAMESPACE><LOCALID>T6_AUS_0050</LOCALID><ORIG_FID>1578</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0048</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>796</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1597</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0048</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0048</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1579</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.121279898361072,42.38478845193111,-2.121279898361072</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0048</FINCA><SUPERFICIE>796</SUPERFICIE><IDGIS>1597</IDGIS><NAMESPACE>T6_AUS_0048</NAMESPACE><LOCALID>T6_AUS_0048</LOCALID><ORIG_FID>1579</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0049</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2077</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1598</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0049</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0049</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1580</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.120723001086803,42.38488604208172,-2.120723001086803</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0049</FINCA><SUPERFICIE>2077</SUPERFICIE><IDGIS>1598</IDGIS><NAMESPACE>T6_AUS_0049</NAMESPACE><LOCALID>T6_AUS_0049</LOCALID><ORIG_FID>1580</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0051</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>493</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1599</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0051</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0051</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1581</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.120768721801161,42.38447817856507,-2.120768721801161</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0051</FINCA><SUPERFICIE>493</SUPERFICIE><IDGIS>1599</IDGIS><NAMESPACE>T6_AUS_0051</NAMESPACE><LOCALID>T6_AUS_0051</LOCALID><ORIG_FID>1581</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0052</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1938</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1600</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0052</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0052</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1582</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.1203250944071,42.3846794088031,-2.1203250944071</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0052</FINCA><SUPERFICIE>1938</SUPERFICIE><IDGIS>1600</IDGIS><NAMESPACE>T6_AUS_0052</NAMESPACE><LOCALID>T6_AUS_0052</LOCALID><ORIG_FID>1582</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0053-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>207</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1601</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0053-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0053-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1583</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.119526975872597,42.38457266355574,-2.119526975872597</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0053-2</FINCA><SUPERFICIE>207</SUPERFICIE><IDGIS>1601</IDGIS><NAMESPACE>T6_AUS_0053-2</NAMESPACE><LOCALID>T6_AUS_0053-2</LOCALID><ORIG_FID>1583</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0054</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>420</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1602</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0054</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0054</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1584</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.120377591829026,42.38429325587314,-2.120377591829026</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0054</FINCA><SUPERFICIE>420</SUPERFICIE><IDGIS>1602</IDGIS><NAMESPACE>T6_AUS_0054</NAMESPACE><LOCALID>T6_AUS_0054</LOCALID><ORIG_FID>1584</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0053-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1573</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1603</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0053-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0053-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1585</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.120104762307312,42.38448556938118,-2.120104762307312</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0053-1</FINCA><SUPERFICIE>1573</SUPERFICIE><IDGIS>1603</IDGIS><NAMESPACE>T6_AUS_0053-1</NAMESPACE><LOCALID>T6_AUS_0053-1</LOCALID><ORIG_FID>1585</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0055</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1844</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1604</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0055</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0055</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1586</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.119470491110194,42.38440612464166,-2.119470491110194</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0055</FINCA><SUPERFICIE>1844</SUPERFICIE><IDGIS>1604</IDGIS><NAMESPACE>T6_AUS_0055</NAMESPACE><LOCALID>T6_AUS_0055</LOCALID><ORIG_FID>1586</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0056</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2302</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1605</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0056</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0056</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1587</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.119656314275889,42.38417334718625,-2.119656314275889</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0056</FINCA><SUPERFICIE>2302</SUPERFICIE><IDGIS>1605</IDGIS><NAMESPACE>T6_AUS_0056</NAMESPACE><LOCALID>T6_AUS_0056</LOCALID><ORIG_FID>1587</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0057</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2724</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1606</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0057</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0057</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1588</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.11893870337664,42.38403753419531,-2.11893870337664</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0057</FINCA><SUPERFICIE>2724</SUPERFICIE><IDGIS>1606</IDGIS><NAMESPACE>T6_AUS_0057</NAMESPACE><LOCALID>T6_AUS_0057</LOCALID><ORIG_FID>1588</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0058</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5063</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1607</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0058</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0058</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1589</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.118241104504536,42.38374615482479,-2.118241104504536</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0058</FINCA><SUPERFICIE>5063</SUPERFICIE><IDGIS>1607</IDGIS><NAMESPACE>T6_AUS_0058</NAMESPACE><LOCALID>T6_AUS_0058</LOCALID><ORIG_FID>1589</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0059</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>749</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1608</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0059</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0059</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1590</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.117760862527927,42.38371134532426,-2.117760862527927</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0059</FINCA><SUPERFICIE>749</SUPERFICIE><IDGIS>1608</IDGIS><NAMESPACE>T6_AUS_0059</NAMESPACE><LOCALID>T6_AUS_0059</LOCALID><ORIG_FID>1590</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0060</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2108</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1609</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0060</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0060</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1591</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.11740806492946,42.38339158470208,-2.11740806492946</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0060</FINCA><SUPERFICIE>2108</SUPERFICIE><IDGIS>1609</IDGIS><NAMESPACE>T6_AUS_0060</NAMESPACE><LOCALID>T6_AUS_0060</LOCALID><ORIG_FID>1591</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0061</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>789</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1610</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0061</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0061</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1592</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.117207093968604,42.38348101013975,-2.117207093968604</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0061</FINCA><SUPERFICIE>789</SUPERFICIE><IDGIS>1610</IDGIS><NAMESPACE>T6_AUS_0061</NAMESPACE><LOCALID>T6_AUS_0061</LOCALID><ORIG_FID>1592</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1508</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1611</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0062-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0062-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1593</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.116927577788275,42.38333228260924,-2.116927577788275</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0062-1</FINCA><SUPERFICIE>1508</SUPERFICIE><IDGIS>1611</IDGIS><NAMESPACE>T6_AUS_0062-1</NAMESPACE><LOCALID>T6_AUS_0062-1</LOCALID><ORIG_FID>1593</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0063</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>526</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1612</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0063</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0063</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1594</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.116715741941069,42.38293534825224,-2.116715741941069</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0063</FINCA><SUPERFICIE>526</SUPERFICIE><IDGIS>1612</IDGIS><NAMESPACE>T6_AUS_0063</NAMESPACE><LOCALID>T6_AUS_0063</LOCALID><ORIG_FID>1594</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0064</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2242</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1613</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0064</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0064</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1595</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.116236641575417,42.38301391275201,-2.116236641575417</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0064</FINCA><SUPERFICIE>2242</SUPERFICIE><IDGIS>1613</IDGIS><NAMESPACE>T6_AUS_0064</NAMESPACE><LOCALID>T6_AUS_0064</LOCALID><ORIG_FID>1595</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0065</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2417</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1614</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0065</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0065</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1596</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.11571493358817,42.38283709228313,-2.11571493358817</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0065</FINCA><SUPERFICIE>2417</SUPERFICIE><IDGIS>1614</IDGIS><NAMESPACE>T6_AUS_0065</NAMESPACE><LOCALID>T6_AUS_0065</LOCALID><ORIG_FID>1596</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0066</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>441</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1615</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0066</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0066</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1597</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.116043781319668,42.38267253802398,-2.116043781319668</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0066</FINCA><SUPERFICIE>441</SUPERFICIE><IDGIS>1615</IDGIS><NAMESPACE>T6_AUS_0066</NAMESPACE><LOCALID>T6_AUS_0066</LOCALID><ORIG_FID>1597</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0067</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1168</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1616</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0067</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0067</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1598</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.115420942063105,42.38267195942614,-2.115420942063105</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0067</FINCA><SUPERFICIE>1168</SUPERFICIE><IDGIS>1616</IDGIS><NAMESPACE>T6_AUS_0067</NAMESPACE><LOCALID>T6_AUS_0067</LOCALID><ORIG_FID>1598</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0068</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1119</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1617</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0068</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0068</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1599</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.115220431666945,42.3825976583069,-2.115220431666945</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0068</FINCA><SUPERFICIE>1119</SUPERFICIE><IDGIS>1617</IDGIS><NAMESPACE>T6_AUS_0068</NAMESPACE><LOCALID>T6_AUS_0068</LOCALID><ORIG_FID>1599</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0069</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2344</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1618</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0069</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0069</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1600</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.114914180570489,42.38249100072299,-2.114914180570489</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0069</FINCA><SUPERFICIE>2344</SUPERFICIE><IDGIS>1618</IDGIS><NAMESPACE>T6_AUS_0069</NAMESPACE><LOCALID>T6_AUS_0069</LOCALID><ORIG_FID>1600</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0070</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1271</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1619</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0070</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0070</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1601</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.114602211801124,42.38237489323243,-2.114602211801124</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0070</FINCA><SUPERFICIE>1271</SUPERFICIE><IDGIS>1619</IDGIS><NAMESPACE>T6_AUS_0070</NAMESPACE><LOCALID>T6_AUS_0070</LOCALID><ORIG_FID>1601</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0071</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>148</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1620</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0071</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0071</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1602</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.114650912597064,42.3821323037174,-2.114650912597064</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0071</FINCA><SUPERFICIE>148</SUPERFICIE><IDGIS>1620</IDGIS><NAMESPACE>T6_AUS_0071</NAMESPACE><LOCALID>T6_AUS_0071</LOCALID><ORIG_FID>1602</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0072-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>993</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1621</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0072-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0072-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1603</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.114350751039627,42.38232102427314,-2.114350751039627</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0072-1</FINCA><SUPERFICIE>993</SUPERFICIE><IDGIS>1621</IDGIS><NAMESPACE>T6_AUS_0072-1</NAMESPACE><LOCALID>T6_AUS_0072-1</LOCALID><ORIG_FID>1603</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0072-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1781</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1622</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0072-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0072-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1604</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.114145216245373,42.3821790746758,-2.114145216245373</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0072-2</FINCA><SUPERFICIE>1781</SUPERFICIE><IDGIS>1622</IDGIS><NAMESPACE>T6_AUS_0072-2</NAMESPACE><LOCALID>T6_AUS_0072-2</LOCALID><ORIG_FID>1604</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0074</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>175</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1623</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0074</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0074</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1605</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.113401710349927,42.38224576831468,-2.113401710349927</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0074</FINCA><SUPERFICIE>175</SUPERFICIE><IDGIS>1623</IDGIS><NAMESPACE>T6_AUS_0074</NAMESPACE><LOCALID>T6_AUS_0074</LOCALID><ORIG_FID>1605</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0077</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>179</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1624</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0077</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0077</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1606</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112952996596999,42.38209086551785,-2.112952996596999</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0077</FINCA><SUPERFICIE>179</SUPERFICIE><IDGIS>1624</IDGIS><NAMESPACE>T6_AUS_0077</NAMESPACE><LOCALID>T6_AUS_0077</LOCALID><ORIG_FID>1606</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0073</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1734</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1625</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0073</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0073</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1607</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.113881348428381,42.38204673710256,-2.113881348428381</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0073</FINCA><SUPERFICIE>1734</SUPERFICIE><IDGIS>1625</IDGIS><NAMESPACE>T6_AUS_0073</NAMESPACE><LOCALID>T6_AUS_0073</LOCALID><ORIG_FID>1607</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0076-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1086</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1626</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0076-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0076-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1608</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112929538097588,42.38120435647542,-2.112929538097588</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0076-A</FINCA><SUPERFICIE>1086</SUPERFICIE><IDGIS>1626</IDGIS><NAMESPACE>T6_AUS_0076-A</NAMESPACE><LOCALID>T6_AUS_0076-A</LOCALID><ORIG_FID>1608</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0076-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>581</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1627</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0076-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0076-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1609</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112902330757208,42.38083320998973,-2.112902330757208</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0076-1</FINCA><SUPERFICIE>581</SUPERFICIE><IDGIS>1627</IDGIS><NAMESPACE>T6_AUS_0076-1</NAMESPACE><LOCALID>T6_AUS_0076-1</LOCALID><ORIG_FID>1609</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>27</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1628</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0079-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0079-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1610</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112776209043918,42.38049147430267,-2.112776209043918</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0079-2</FINCA><SUPERFICIE>27</SUPERFICIE><IDGIS>1628</IDGIS><NAMESPACE>T6_AUS_0079-2</NAMESPACE><LOCALID>T6_AUS_0079-2</LOCALID><ORIG_FID>1610</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>572</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1629</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0079-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0079-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1611</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112719803798899,42.380931081927,-2.112719803798899</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0079-1</FINCA><SUPERFICIE>572</SUPERFICIE><IDGIS>1629</IDGIS><NAMESPACE>T6_AUS_0079-1</NAMESPACE><LOCALID>T6_AUS_0079-1</LOCALID><ORIG_FID>1611</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-11</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>277</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1630</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-11</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-11</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1612</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112786095469469,42.38093063854662,-2.112786095469469</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-11</FINCA><SUPERFICIE>277</SUPERFICIE><IDGIS>1630</IDGIS><NAMESPACE>T6_AUS_C-11</NAMESPACE><LOCALID>T6_AUS_C-11</LOCALID><ORIG_FID>1612</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0075</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4997</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1631</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0075</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0075</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1613</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.113249182544133,42.38187472172155,-2.113249182544133</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0075</FINCA><SUPERFICIE>4997</SUPERFICIE><IDGIS>1631</IDGIS><NAMESPACE>T6_AUS_0075</NAMESPACE><LOCALID>T6_AUS_0075</LOCALID><ORIG_FID>1613</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0078-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1441</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1635</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0078-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0078-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1617</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112400404205586,42.38228869219616,-2.112400404205586</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0078-1</FINCA><SUPERFICIE>1441</SUPERFICIE><IDGIS>1635</IDGIS><NAMESPACE>T6_AUS_0078-1</NAMESPACE><LOCALID>T6_AUS_0078-1</LOCALID><ORIG_FID>1617</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2564</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1639</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0079</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0079</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1621</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112336486954177,42.38143632214172,-2.112336486954177</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0079</FINCA><SUPERFICIE>2564</SUPERFICIE><IDGIS>1639</IDGIS><NAMESPACE>T6_AUS_0079</NAMESPACE><LOCALID>T6_AUS_0079</LOCALID><ORIG_FID>1621</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0078</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2767</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1640</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0078</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0078</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1622</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112236567398286,42.38173101974946,-2.112236567398286</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0078</FINCA><SUPERFICIE>2767</SUPERFICIE><IDGIS>1640</IDGIS><NAMESPACE>T6_AUS_0078</NAMESPACE><LOCALID>T6_AUS_0078</LOCALID><ORIG_FID>1622</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0080</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3799</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1641</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0080</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0080</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1623</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.111523157870025,42.38132842986859,-2.111523157870025</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0080</FINCA><SUPERFICIE>3799</SUPERFICIE><IDGIS>1641</IDGIS><NAMESPACE>T6_AUS_0080</NAMESPACE><LOCALID>T6_AUS_0080</LOCALID><ORIG_FID>1623</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0081</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4396</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1642</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0081</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0081</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1624</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.110814147868568,42.3811164899403,-2.110814147868568</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0081</FINCA><SUPERFICIE>4396</SUPERFICIE><IDGIS>1642</IDGIS><NAMESPACE>T6_AUS_0081</NAMESPACE><LOCALID>T6_AUS_0081</LOCALID><ORIG_FID>1624</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0082</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2229</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1643</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0082</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0082</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1625</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.110220534501166,42.38095041802287,-2.110220534501166</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0082</FINCA><SUPERFICIE>2229</SUPERFICIE><IDGIS>1643</IDGIS><NAMESPACE>T6_AUS_0082</NAMESPACE><LOCALID>T6_AUS_0082</LOCALID><ORIG_FID>1625</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0083</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1373</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1644</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0083</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0083</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1626</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.109912609124912,42.38074227105775,-2.109912609124912</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0083</FINCA><SUPERFICIE>1373</SUPERFICIE><IDGIS>1644</IDGIS><NAMESPACE>T6_AUS_0083</NAMESPACE><LOCALID>T6_AUS_0083</LOCALID><ORIG_FID>1626</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0084</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>677</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1645</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0084</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0084</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1627</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.109713905988694,42.38098855161083,-2.109713905988694</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0084</FINCA><SUPERFICIE>677</SUPERFICIE><IDGIS>1645</IDGIS><NAMESPACE>T6_AUS_0084</NAMESPACE><LOCALID>T6_AUS_0084</LOCALID><ORIG_FID>1627</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0085</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>64</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1646</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0085</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0085</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1628</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.109350353858456,42.38098811612601,-2.109350353858456</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0085</FINCA><SUPERFICIE>64</SUPERFICIE><IDGIS>1646</IDGIS><NAMESPACE>T6_AUS_0085</NAMESPACE><LOCALID>T6_AUS_0085</LOCALID><ORIG_FID>1628</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0086</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1517</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1647</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0086</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0086</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1629</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.109520846041473,42.38072690223103,-2.109520846041473</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0086</FINCA><SUPERFICIE>1517</SUPERFICIE><IDGIS>1647</IDGIS><NAMESPACE>T6_AUS_0086</NAMESPACE><LOCALID>T6_AUS_0086</LOCALID><ORIG_FID>1629</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0087</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>451</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1648</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0087</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0087</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1630</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.108936021547345,42.38086179927574,-2.108936021547345</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0087</FINCA><SUPERFICIE>451</SUPERFICIE><IDGIS>1648</IDGIS><NAMESPACE>T6_AUS_0087</NAMESPACE><LOCALID>T6_AUS_0087</LOCALID><ORIG_FID>1630</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0090</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1784</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1649</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0090</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0090</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1631</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.108366746292996,42.38029843039912,-2.108366746292996</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0090</FINCA><SUPERFICIE>1784</SUPERFICIE><IDGIS>1649</IDGIS><NAMESPACE>T6_AUS_0090</NAMESPACE><LOCALID>T6_AUS_0090</LOCALID><ORIG_FID>1631</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0088</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4361</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1650</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0088</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0088</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1632</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.108924057683116,42.38055357885418,-2.108924057683116</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0088</FINCA><SUPERFICIE>4361</SUPERFICIE><IDGIS>1650</IDGIS><NAMESPACE>T6_AUS_0088</NAMESPACE><LOCALID>T6_AUS_0088</LOCALID><ORIG_FID>1632</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0089</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>948</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1651</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0089</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0089</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1633</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.108317706660611,42.38066208635711,-2.108317706660611</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0089</FINCA><SUPERFICIE>948</SUPERFICIE><IDGIS>1651</IDGIS><NAMESPACE>T6_AUS_0089</NAMESPACE><LOCALID>T6_AUS_0089</LOCALID><ORIG_FID>1633</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-08</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>204</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1652</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-08</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-08</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1634</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.108085965019079,42.38032523015802,-2.108085965019079</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-08</FINCA><SUPERFICIE>204</SUPERFICIE><IDGIS>1652</IDGIS><NAMESPACE>T6_AUS_C-08</NAMESPACE><LOCALID>T6_AUS_C-08</LOCALID><ORIG_FID>1634</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0091</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1726</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1653</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0091</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0091</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1635</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.107565991358854,42.38042120022767,-2.107565991358854</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0091</FINCA><SUPERFICIE>1726</SUPERFICIE><IDGIS>1653</IDGIS><NAMESPACE>T6_AUS_0091</NAMESPACE><LOCALID>T6_AUS_0091</LOCALID><ORIG_FID>1635</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0093</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2176</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1654</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0093</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0093</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1636</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.106823228753116,42.38019424360438,-2.106823228753116</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0093</FINCA><SUPERFICIE>2176</SUPERFICIE><IDGIS>1654</IDGIS><NAMESPACE>T6_AUS_0093</NAMESPACE><LOCALID>T6_AUS_0093</LOCALID><ORIG_FID>1636</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0094</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2199</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1655</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0094</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0094</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1637</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.107244118243262,42.37996179712198,-2.107244118243262</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0094</FINCA><SUPERFICIE>2199</SUPERFICIE><IDGIS>1655</IDGIS><NAMESPACE>T6_AUS_0094</NAMESPACE><LOCALID>T6_AUS_0094</LOCALID><ORIG_FID>1637</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0092</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2502</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1656</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0092</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0092</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1638</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.107820553055762,42.38014021682616,-2.107820553055762</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0092</FINCA><SUPERFICIE>2502</SUPERFICIE><IDGIS>1656</IDGIS><NAMESPACE>T6_AUS_0092</NAMESPACE><LOCALID>T6_AUS_0092</LOCALID><ORIG_FID>1638</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0096-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1888</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1657</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0096-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0096-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1639</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.106715635550034,42.37979018563585,-2.106715635550034</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0096-1</FINCA><SUPERFICIE>1888</SUPERFICIE><IDGIS>1657</IDGIS><NAMESPACE>T6_AUS_0096-1</NAMESPACE><LOCALID>T6_AUS_0096-1</LOCALID><ORIG_FID>1639</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0098</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1013</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1658</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0098</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0098</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1640</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.106284678836653,42.37967164320194,-2.106284678836653</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0098</FINCA><SUPERFICIE>1013</SUPERFICIE><IDGIS>1658</IDGIS><NAMESPACE>T6_AUS_0098</NAMESPACE><LOCALID>T6_AUS_0098</LOCALID><ORIG_FID>1640</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0097</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5181</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1659</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0097</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0097</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1641</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.105635185729207,42.37985741272686,-2.105635185729207</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0097</FINCA><SUPERFICIE>5181</SUPERFICIE><IDGIS>1659</IDGIS><NAMESPACE>T6_AUS_0097</NAMESPACE><LOCALID>T6_AUS_0097</LOCALID><ORIG_FID>1641</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0099</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1434</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1660</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0099</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0099</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1642</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.10589026894517,42.37957299017968,-2.10589026894517</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0099</FINCA><SUPERFICIE>1434</SUPERFICIE><IDGIS>1660</IDGIS><NAMESPACE>T6_AUS_0099</NAMESPACE><LOCALID>T6_AUS_0099</LOCALID><ORIG_FID>1642</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0100</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1202</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1661</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0100</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0100</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1643</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.105374802171057,42.3794776500989,-2.105374802171057</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0100</FINCA><SUPERFICIE>1202</SUPERFICIE><IDGIS>1661</IDGIS><NAMESPACE>T6_AUS_0100</NAMESPACE><LOCALID>T6_AUS_0100</LOCALID><ORIG_FID>1643</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0101</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1553</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1662</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0101</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0101</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1644</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.104843643319042,42.37937502092647,-2.104843643319042</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0101</FINCA><SUPERFICIE>1553</SUPERFICIE><IDGIS>1662</IDGIS><NAMESPACE>T6_AUS_0101</NAMESPACE><LOCALID>T6_AUS_0101</LOCALID><ORIG_FID>1644</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0102</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>411</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1663</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0102</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0102</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1645</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.104510209867345,42.37921315986736,-2.104510209867345</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0102</FINCA><SUPERFICIE>411</SUPERFICIE><IDGIS>1663</IDGIS><NAMESPACE>T6_AUS_0102</NAMESPACE><LOCALID>T6_AUS_0102</LOCALID><ORIG_FID>1645</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0104</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>931</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1664</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0104</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0104</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1646</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.104082244385657,42.37913119764831,-2.104082244385657</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0104</FINCA><SUPERFICIE>931</SUPERFICIE><IDGIS>1664</IDGIS><NAMESPACE>T6_AUS_0104</NAMESPACE><LOCALID>T6_AUS_0104</LOCALID><ORIG_FID>1646</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0105-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>634</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1665</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0105-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0105-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1647</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.103633706134837,42.37902639144888,-2.103633706134837</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0105-1</FINCA><SUPERFICIE>634</SUPERFICIE><IDGIS>1665</IDGIS><NAMESPACE>T6_AUS_0105-1</NAMESPACE><LOCALID>T6_AUS_0105-1</LOCALID><ORIG_FID>1647</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0107</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>247</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1666</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0107</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0107</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1648</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.102562445107667,42.37871698684823,-2.102562445107667</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0107</FINCA><SUPERFICIE>247</SUPERFICIE><IDGIS>1666</IDGIS><NAMESPACE>T6_AUS_0107</NAMESPACE><LOCALID>T6_AUS_0107</LOCALID><ORIG_FID>1648</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0105</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>788</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1667</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0105</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0105</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1649</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.10314849362733,42.37888526461857,-2.10314849362733</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0105</FINCA><SUPERFICIE>788</SUPERFICIE><IDGIS>1667</IDGIS><NAMESPACE>T6_AUS_0105</NAMESPACE><LOCALID>T6_AUS_0105</LOCALID><ORIG_FID>1649</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5275</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1671</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0103</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0103</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1653</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.103903852151682,42.37935540647241,-2.103903852151682</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0103</FINCA><SUPERFICIE>5275</SUPERFICIE><IDGIS>1671</IDGIS><NAMESPACE>T6_AUS_0103</NAMESPACE><LOCALID>T6_AUS_0103</LOCALID><ORIG_FID>1653</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0106</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5195</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1678</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0106</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0106</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1660</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.10220170149049,42.37880665360223,-2.10220170149049</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0106</FINCA><SUPERFICIE>5195</SUPERFICIE><IDGIS>1678</IDGIS><NAMESPACE>T6_AUS_0106</NAMESPACE><LOCALID>T6_AUS_0106</LOCALID><ORIG_FID>1660</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0108</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5211</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1691</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0108</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0108</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1673</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.099994525587288,42.37817845441962,-2.099994525587288</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0108</FINCA><SUPERFICIE>5211</SUPERFICIE><IDGIS>1691</IDGIS><NAMESPACE>T6_AUS_0108</NAMESPACE><LOCALID>T6_AUS_0108</LOCALID><ORIG_FID>1673</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2083</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1693</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1675</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.101737781593221,42.3788433563801,-2.101737781593221</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-10</FINCA><SUPERFICIE>2083</SUPERFICIE><IDGIS>1693</IDGIS><NAMESPACE>T6_AUS_C-10</NAMESPACE><LOCALID>T6_AUS_C-10</LOCALID><ORIG_FID>1675</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0076</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>488</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>1803</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0076</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0076</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>1783</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.113289507822334,42.38157963165067,-2.113289507822334</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0076</FINCA><SUPERFICIE>488</SUPERFICIE><IDGIS>1803</IDGIS><NAMESPACE>T6_AUS_0076</NAMESPACE><LOCALID>T6_AUS_0076</LOCALID><ORIG_FID>1783</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-07</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>220</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5620</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_C-07</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_C-07</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5430</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112753929318861,42.38171891959031,-2.112753929318861</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>C-07</FINCA><SUPERFICIE>220</SUPERFICIE><IDGIS>5620</IDGIS><NAMESPACE>T6_AUS_C-07</NAMESPACE><LOCALID>T6_AUS_C-07</LOCALID><ORIG_FID>5430</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>170</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5621</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0079-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0079-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5431</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112683064569328,42.38130373104596,-2.112683064569328</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0079-A</FINCA><SUPERFICIE>170</SUPERFICIE><IDGIS>5621</IDGIS><NAMESPACE>T6_AUS_0079-A</NAMESPACE><LOCALID>T6_AUS_0079-A</LOCALID><ORIG_FID>5431</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0078-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>171</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5622</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0078-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0078-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5432</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112077342718677,42.38227347133255,-2.112077342718677</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0078-1A</FINCA><SUPERFICIE>171</SUPERFICIE><IDGIS>5622</IDGIS><NAMESPACE>T6_AUS_0078-1A</NAMESPACE><LOCALID>T6_AUS_0078-1A</LOCALID><ORIG_FID>5432</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0078_A y 78_B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>548</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5623</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0078_A y 78_B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0078_A y 78_B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5433</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.112440317509276,42.3820153918964,-2.112440317509276</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0078_A y 78_B</FINCA><SUPERFICIE>548</SUPERFICIE><IDGIS>5623</IDGIS><NAMESPACE>T6_AUS_0078_A y 78_B</NAMESPACE><LOCALID>T6_AUS_0078_A y 78_B</LOCALID><ORIG_FID>5433</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0078-1B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>236</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5624</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0078-1B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0078-1B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5434</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.111514985466174,42.38197738773698,-2.111514985466174</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0078-1B</FINCA><SUPERFICIE>236</SUPERFICIE><IDGIS>5624</IDGIS><NAMESPACE>T6_AUS_0078-1B</NAMESPACE><LOCALID>T6_AUS_0078-1B</LOCALID><ORIG_FID>5434</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>191</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5820</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0025-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0025-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6124</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.126823037686911,42.38649150847579,-2.126823037686911</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0025-2</FINCA><SUPERFICIE>191</SUPERFICIE><IDGIS>5820</IDGIS><NAMESPACE>T6_AUS_0025-2</NAMESPACE><LOCALID>T6_AUS_0025-2</LOCALID><ORIG_FID>6124</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1293</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5821</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0062-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0062-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6125</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.116584462875133,42.38319711002565,-2.116584462875133</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0062-2</FINCA><SUPERFICIE>1293</SUPERFICIE><IDGIS>5821</IDGIS><NAMESPACE>T6_AUS_0062-2</NAMESPACE><LOCALID>T6_AUS_0062-2</LOCALID><ORIG_FID>6125</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="138">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0096-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>19</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5822</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0096-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0096-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6126</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.10749313677757,42.37926201176249,-2.10749313677757</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0096-2</FINCA><SUPERFICIE>19</SUPERFICIE><IDGIS>5822</IDGIS><NAMESPACE>T6_AUS_0096-2</NAMESPACE><LOCALID>T6_AUS_0096-2</LOCALID><ORIG_FID>6126</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="139">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>AUS</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0108-N</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>76</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9885</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_AUS_0108-N</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_AUS_0108-N</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9574</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.085355834760185,42.37245765511985,-2.085355834760185</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0108-N</FINCA><SUPERFICIE>76</SUPERFICIE><IDGIS>9885</IDGIS><NAMESPACE>T6_AUS_0108-N</NAMESPACE><LOCALID>T6_AUS_0108-N</LOCALID><ORIG_FID>9574</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,3684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T1_MIR_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>43.19139814268667</north>
+			<south>43.17425965049565</south>
+			<east>-2.892945572739843</east>
+			<west>-2.909699230899139</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0375</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1344</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11686</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0375</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0375</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11280</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.909698061738623,43.17506757061112,-2.909698061738623</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0375</FINCA><SUPERFICIE>1344</SUPERFICIE><IDGIS>11686</IDGIS><NAMESPACE>T1_MIR_0375</NAMESPACE><LOCALID>T1_MIR_0375</LOCALID><ORIG_FID>11280</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0373</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12028</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11687</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0373</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0373</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11281</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.909388126959962,43.17474747729544,-2.909388126959962</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0373</FINCA><SUPERFICIE>12028</SUPERFICIE><IDGIS>11687</IDGIS><NAMESPACE>T1_MIR_0373</NAMESPACE><LOCALID>T1_MIR_0373</LOCALID><ORIG_FID>11281</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0372</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4100</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11688</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0372</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0372</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11282</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.909194518139757,43.1742736723721,-2.909194518139757</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0372</FINCA><SUPERFICIE>4100</SUPERFICIE><IDGIS>11688</IDGIS><NAMESPACE>T1_MIR_0372</NAMESPACE><LOCALID>T1_MIR_0372</LOCALID><ORIG_FID>11282</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0374</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1083</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11689</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0374</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0374</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11283</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.908254429949053,43.17509499708529,-2.908254429949053</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0374</FINCA><SUPERFICIE>1083</SUPERFICIE><IDGIS>11689</IDGIS><NAMESPACE>T1_MIR_0374</NAMESPACE><LOCALID>T1_MIR_0374</LOCALID><ORIG_FID>11283</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0371</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5649</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11690</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0371</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0371</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11284</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.907466703810125,43.1749397482708,-2.907466703810125</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0371</FINCA><SUPERFICIE>5649</SUPERFICIE><IDGIS>11690</IDGIS><NAMESPACE>T1_MIR_0371</NAMESPACE><LOCALID>T1_MIR_0371</LOCALID><ORIG_FID>11284</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0369</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6220</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11692</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0369</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0369</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11285</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.906301523807607,43.17498585554435,-2.906301523807607</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0369</FINCA><SUPERFICIE>6220</SUPERFICIE><IDGIS>11692</IDGIS><NAMESPACE>T1_MIR_0369</NAMESPACE><LOCALID>T1_MIR_0369</LOCALID><ORIG_FID>11285</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0370</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8065</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11751</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0370</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0370</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11286</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.906745998295309,43.17547901878057,-2.906745998295309</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0370</FINCA><SUPERFICIE>8065</SUPERFICIE><IDGIS>11751</IDGIS><NAMESPACE>T1_MIR_0370</NAMESPACE><LOCALID>T1_MIR_0370</LOCALID><ORIG_FID>11286</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0368</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>712</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11752</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0368</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0368</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11287</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.905845597651997,43.17554935724672,-2.905845597651997</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0368</FINCA><SUPERFICIE>712</SUPERFICIE><IDGIS>11752</IDGIS><NAMESPACE>T1_MIR_0368</NAMESPACE><LOCALID>T1_MIR_0368</LOCALID><ORIG_FID>11287</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0366</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2327</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11753</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0366</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0366</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11288</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.904925952716168,43.17571271125791,-2.904925952716167</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0366</FINCA><SUPERFICIE>2327</SUPERFICIE><IDGIS>11753</IDGIS><NAMESPACE>T1_MIR_0366</NAMESPACE><LOCALID>T1_MIR_0366</LOCALID><ORIG_FID>11288</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0367</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1473</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11754</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0367</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0367</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11289</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.904987979771149,43.17544531625041,-2.904987979771149</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0367</FINCA><SUPERFICIE>1473</SUPERFICIE><IDGIS>11754</IDGIS><NAMESPACE>T1_MIR_0367</NAMESPACE><LOCALID>T1_MIR_0367</LOCALID><ORIG_FID>11289</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0365</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4470</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11755</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0365</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0365</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11290</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.904395736143314,43.17589277089738,-2.904395736143314</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0365</FINCA><SUPERFICIE>4470</SUPERFICIE><IDGIS>11755</IDGIS><NAMESPACE>T1_MIR_0365</NAMESPACE><LOCALID>T1_MIR_0365</LOCALID><ORIG_FID>11290</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0364</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1305</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11756</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0364</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0364</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11291</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.904009958371264,43.17616512349704,-2.904009958371264</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0364</FINCA><SUPERFICIE>1305</SUPERFICIE><IDGIS>11756</IDGIS><NAMESPACE>T1_MIR_0364</NAMESPACE><LOCALID>T1_MIR_0364</LOCALID><ORIG_FID>11291</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0362</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8925</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11757</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0362</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0362</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11292</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.903201395477293,43.17621373551766,-2.903201395477293</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0362</FINCA><SUPERFICIE>8925</SUPERFICIE><IDGIS>11757</IDGIS><NAMESPACE>T1_MIR_0362</NAMESPACE><LOCALID>T1_MIR_0362</LOCALID><ORIG_FID>11292</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0363</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1631</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11758</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0363</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0363</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11293</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.903457408964787,43.17653545060303,-2.903457408964787</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0363</FINCA><SUPERFICIE>1631</SUPERFICIE><IDGIS>11758</IDGIS><NAMESPACE>T1_MIR_0363</NAMESPACE><LOCALID>T1_MIR_0363</LOCALID><ORIG_FID>11293</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0361</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1645</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11759</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0361</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0361</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11294</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902576524713244,43.17688864340676,-2.902576524713244</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0361</FINCA><SUPERFICIE>1645</SUPERFICIE><IDGIS>11759</IDGIS><NAMESPACE>T1_MIR_0361</NAMESPACE><LOCALID>T1_MIR_0361</LOCALID><ORIG_FID>11294</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0358</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4863</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11762</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0358</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0358</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11295</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900952294134913,43.17806909135994,-2.900952294134913</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0358</FINCA><SUPERFICIE>4863</SUPERFICIE><IDGIS>11762</IDGIS><NAMESPACE>T1_MIR_0358</NAMESPACE><LOCALID>T1_MIR_0358</LOCALID><ORIG_FID>11295</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0353</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>742</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11763</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0353</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0353</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11296</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900592078525829,43.17858148571204,-2.900592078525829</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0353</FINCA><SUPERFICIE>742</SUPERFICIE><IDGIS>11763</IDGIS><NAMESPACE>T1_MIR_0353</NAMESPACE><LOCALID>T1_MIR_0353</LOCALID><ORIG_FID>11296</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0352-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1346</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11764</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0352-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0352-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11297</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900469053912971,43.17823487104499,-2.900469053912971</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0352-1</FINCA><SUPERFICIE>1346</SUPERFICIE><IDGIS>11764</IDGIS><NAMESPACE>T1_MIR_0352-1</NAMESPACE><LOCALID>T1_MIR_0352-1</LOCALID><ORIG_FID>11297</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0352-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>71</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11765</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0352-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0352-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11298</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900646472159207,43.17782733073992,-2.900646472159207</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0352-2</FINCA><SUPERFICIE>71</SUPERFICIE><IDGIS>11765</IDGIS><NAMESPACE>T1_MIR_0352-2</NAMESPACE><LOCALID>T1_MIR_0352-2</LOCALID><ORIG_FID>11298</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0352</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1068</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11766</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0352</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0352</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11299</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900552713808244,43.17786686233892,-2.900552713808244</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0352</FINCA><SUPERFICIE>1068</SUPERFICIE><IDGIS>11766</IDGIS><NAMESPACE>T1_MIR_0352</NAMESPACE><LOCALID>T1_MIR_0352</LOCALID><ORIG_FID>11299</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0354</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>780</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11767</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0354</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0354</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11300</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900625889018998,43.17871621259676,-2.900625889018998</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0354</FINCA><SUPERFICIE>780</SUPERFICIE><IDGIS>11767</IDGIS><NAMESPACE>T1_MIR_0354</NAMESPACE><LOCALID>T1_MIR_0354</LOCALID><ORIG_FID>11300</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0355</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2213</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11768</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0355</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0355</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11301</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900569769256046,43.17892664490714,-2.900569769256046</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0355</FINCA><SUPERFICIE>2213</SUPERFICIE><IDGIS>11768</IDGIS><NAMESPACE>T1_MIR_0355</NAMESPACE><LOCALID>T1_MIR_0355</LOCALID><ORIG_FID>11301</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0356</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>796</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11769</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0356</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0356</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11302</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900498498582651,43.17913481010375,-2.900498498582651</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0356</FINCA><SUPERFICIE>796</SUPERFICIE><IDGIS>11769</IDGIS><NAMESPACE>T1_MIR_0356</NAMESPACE><LOCALID>T1_MIR_0356</LOCALID><ORIG_FID>11302</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0349</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>272</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11770</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0349</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0349</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11303</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900129136178567,43.17971851481018,-2.900129136178567</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0349</FINCA><SUPERFICIE>272</SUPERFICIE><IDGIS>11770</IDGIS><NAMESPACE>T1_MIR_0349</NAMESPACE><LOCALID>T1_MIR_0349</LOCALID><ORIG_FID>11303</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0357</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1685</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11771</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0357</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0357</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11304</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900256113762345,43.17937594137698,-2.900256113762344</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0357</FINCA><SUPERFICIE>1685</SUPERFICIE><IDGIS>11771</IDGIS><NAMESPACE>T1_MIR_0357</NAMESPACE><LOCALID>T1_MIR_0357</LOCALID><ORIG_FID>11304</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0357-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1080</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11773</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0357-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0357-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11305</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.899913585538322,43.17926792675753,-2.899913585538322</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0357-1</FINCA><SUPERFICIE>1080</SUPERFICIE><IDGIS>11773</IDGIS><NAMESPACE>T1_MIR_0357-1</NAMESPACE><LOCALID>T1_MIR_0357-1</LOCALID><ORIG_FID>11305</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0347-U</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2120</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11774</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0347-U</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0347-U</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11306</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897630072454405,43.17968324404717,-2.897630072454405</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0347-U</FINCA><SUPERFICIE>2120</SUPERFICIE><IDGIS>11774</IDGIS><NAMESPACE>T1_MIR_0347-U</NAMESPACE><LOCALID>T1_MIR_0347-U</LOCALID><ORIG_FID>11306</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0347-1U</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2425</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11775</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0347-1U</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0347-1U</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11307</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897437783201228,43.17925857986915,-2.897437783201228</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0347-1U</FINCA><SUPERFICIE>2425</SUPERFICIE><IDGIS>11775</IDGIS><NAMESPACE>T1_MIR_0347-1U</NAMESPACE><LOCALID>T1_MIR_0347-1U</LOCALID><ORIG_FID>11307</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0345-U</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3411</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11776</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0345-U</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0345-U</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11308</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897474392967721,43.18056308392693,-2.897474392967721</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0345-U</FINCA><SUPERFICIE>3411</SUPERFICIE><IDGIS>11776</IDGIS><NAMESPACE>T1_MIR_0345-U</NAMESPACE><LOCALID>T1_MIR_0345-U</LOCALID><ORIG_FID>11308</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0348</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10039</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11777</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0348</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0348</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11309</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.899337763033874,43.17949165837874,-2.899337763033874</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0348</FINCA><SUPERFICIE>10039</SUPERFICIE><IDGIS>11777</IDGIS><NAMESPACE>T1_MIR_0348</NAMESPACE><LOCALID>T1_MIR_0348</LOCALID><ORIG_FID>11309</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0347</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6882</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11778</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0347</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0347</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11310</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898782493403676,43.17991292208791,-2.898782493403676</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0347</FINCA><SUPERFICIE>6882</SUPERFICIE><IDGIS>11778</IDGIS><NAMESPACE>T1_MIR_0347</NAMESPACE><LOCALID>T1_MIR_0347</LOCALID><ORIG_FID>11310</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0346</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1286</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11693</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0346</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0346</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11311</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89899168383604,43.18057026502437,-2.89899168383604</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0346</FINCA><SUPERFICIE>1286</SUPERFICIE><IDGIS>11693</IDGIS><NAMESPACE>T1_MIR_0346</NAMESPACE><LOCALID>T1_MIR_0346</LOCALID><ORIG_FID>11311</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0343</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2092</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11694</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0343</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0343</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11312</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898674107836426,43.18066454276557,-2.898674107836426</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0343</FINCA><SUPERFICIE>2092</SUPERFICIE><IDGIS>11694</IDGIS><NAMESPACE>T1_MIR_0343</NAMESPACE><LOCALID>T1_MIR_0343</LOCALID><ORIG_FID>11312</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0344</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>282</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11695</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0344</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0344</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11313</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898131619154976,43.1809657174778,-2.898131619154976</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0344</FINCA><SUPERFICIE>282</SUPERFICIE><IDGIS>11695</IDGIS><NAMESPACE>T1_MIR_0344</NAMESPACE><LOCALID>T1_MIR_0344</LOCALID><ORIG_FID>11313</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0341</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>378</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11696</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0341</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0341</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11314</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898304029018121,43.18099215857826,-2.898304029018121</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0341</FINCA><SUPERFICIE>378</SUPERFICIE><IDGIS>11696</IDGIS><NAMESPACE>T1_MIR_0341</NAMESPACE><LOCALID>T1_MIR_0341</LOCALID><ORIG_FID>11314</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0342</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1643</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11697</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0342</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0342</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11315</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898268587270943,43.18067202969791,-2.898268587270943</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0342</FINCA><SUPERFICIE>1643</SUPERFICIE><IDGIS>11697</IDGIS><NAMESPACE>T1_MIR_0342</NAMESPACE><LOCALID>T1_MIR_0342</LOCALID><ORIG_FID>11315</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0345</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1353</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11699</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0345</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0345</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11316</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897837400432352,43.18081654539756,-2.897837400432352</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0345</FINCA><SUPERFICIE>1353</SUPERFICIE><IDGIS>11699</IDGIS><NAMESPACE>T1_MIR_0345</NAMESPACE><LOCALID>T1_MIR_0345</LOCALID><ORIG_FID>11316</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0340</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>312</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11700</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0340</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0340</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11317</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89867643802977,43.18095866874606,-2.89867643802977</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0340</FINCA><SUPERFICIE>312</SUPERFICIE><IDGIS>11700</IDGIS><NAMESPACE>T1_MIR_0340</NAMESPACE><LOCALID>T1_MIR_0340</LOCALID><ORIG_FID>11317</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0338</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>102</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11701</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0338</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0338</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11318</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.8984619268431,43.18129546263889,-2.898461926843101</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0338</FINCA><SUPERFICIE>102</SUPERFICIE><IDGIS>11701</IDGIS><NAMESPACE>T1_MIR_0338</NAMESPACE><LOCALID>T1_MIR_0338</LOCALID><ORIG_FID>11318</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0339</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>508</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11702</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0339</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0339</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11319</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898536121984404,43.18112891168163,-2.898536121984404</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0339</FINCA><SUPERFICIE>508</SUPERFICIE><IDGIS>11702</IDGIS><NAMESPACE>T1_MIR_0339</NAMESPACE><LOCALID>T1_MIR_0339</LOCALID><ORIG_FID>11319</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0333</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7418</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11703</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0333</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0333</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11320</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89740207569043,43.18148587731395,-2.897402075690429</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0333</FINCA><SUPERFICIE>7418</SUPERFICIE><IDGIS>11703</IDGIS><NAMESPACE>T1_MIR_0333</NAMESPACE><LOCALID>T1_MIR_0333</LOCALID><ORIG_FID>11320</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0337</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>29</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11704</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0337</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0337</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11321</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898941232061116,43.1815347601198,-2.898941232061116</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0337</FINCA><SUPERFICIE>29</SUPERFICIE><IDGIS>11704</IDGIS><NAMESPACE>T1_MIR_0337</NAMESPACE><LOCALID>T1_MIR_0337</LOCALID><ORIG_FID>11321</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0333-U</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>662</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11705</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0333-U</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0333-U</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11322</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897056549458875,43.18124232379927,-2.897056549458875</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0333-U</FINCA><SUPERFICIE>662</SUPERFICIE><IDGIS>11705</IDGIS><NAMESPACE>T1_MIR_0333-U</NAMESPACE><LOCALID>T1_MIR_0333-U</LOCALID><ORIG_FID>11322</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0332-U</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>22</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11706</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0332-U</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0332-U</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11323</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89683828815246,43.18167748872622,-2.89683828815246</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0332-U</FINCA><SUPERFICIE>22</SUPERFICIE><IDGIS>11706</IDGIS><NAMESPACE>T1_MIR_0332-U</NAMESPACE><LOCALID>T1_MIR_0332-U</LOCALID><ORIG_FID>11323</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0335</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4767</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11707</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0335</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0335</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11324</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897902640977473,43.18205546193487,-2.897902640977473</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0335</FINCA><SUPERFICIE>4767</SUPERFICIE><IDGIS>11707</IDGIS><NAMESPACE>T1_MIR_0335</NAMESPACE><LOCALID>T1_MIR_0335</LOCALID><ORIG_FID>11324</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0334</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5389</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11708</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0334</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0334</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11325</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897774281041693,43.18176019691217,-2.897774281041693</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0334</FINCA><SUPERFICIE>5389</SUPERFICIE><IDGIS>11708</IDGIS><NAMESPACE>T1_MIR_0334</NAMESPACE><LOCALID>T1_MIR_0334</LOCALID><ORIG_FID>11325</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0332-V</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>521</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11709</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0332-V</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0332-V</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11326</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895965390761078,43.18274898383798,-2.895965390761078</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0332-V</FINCA><SUPERFICIE>521</SUPERFICIE><IDGIS>11709</IDGIS><NAMESPACE>T1_MIR_0332-V</NAMESPACE><LOCALID>T1_MIR_0332-V</LOCALID><ORIG_FID>11326</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0332</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7052</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11710</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0332</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0332</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11327</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896518591040126,43.18230757759726,-2.896518591040126</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0332</FINCA><SUPERFICIE>7052</SUPERFICIE><IDGIS>11710</IDGIS><NAMESPACE>T1_MIR_0332</NAMESPACE><LOCALID>T1_MIR_0332</LOCALID><ORIG_FID>11327</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0330-V-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2454</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11711</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0330-V-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0330-V-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11328</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895379954480078,43.1830393176774,-2.895379954480078</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0330-V-1</FINCA><SUPERFICIE>2454</SUPERFICIE><IDGIS>11711</IDGIS><NAMESPACE>T1_MIR_0330-V-1</NAMESPACE><LOCALID>T1_MIR_0330-V-1</LOCALID><ORIG_FID>11328</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0319</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9455</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11713</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0319</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0319</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11329</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894897926720998,43.18914463434906,-2.894897926720997</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0319</FINCA><SUPERFICIE>9455</SUPERFICIE><IDGIS>11713</IDGIS><NAMESPACE>T1_MIR_0319</NAMESPACE><LOCALID>T1_MIR_0319</LOCALID><ORIG_FID>11329</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0325</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4242</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11714</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0325</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0325</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11330</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89459729899816,43.18840351648334,-2.89459729899816</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0325</FINCA><SUPERFICIE>4242</SUPERFICIE><IDGIS>11714</IDGIS><NAMESPACE>T1_MIR_0325</NAMESPACE><LOCALID>T1_MIR_0325</LOCALID><ORIG_FID>11330</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0325-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4036</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11715</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0325-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0325-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11331</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894269378878561,43.18859974799796,-2.894269378878561</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0325-1</FINCA><SUPERFICIE>4036</SUPERFICIE><IDGIS>11715</IDGIS><NAMESPACE>T1_MIR_0325-1</NAMESPACE><LOCALID>T1_MIR_0325-1</LOCALID><ORIG_FID>11331</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0326</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1168</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11716</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0326</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0326</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11332</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.893499188816448,43.18861378349865,-2.893499188816449</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0326</FINCA><SUPERFICIE>1168</SUPERFICIE><IDGIS>11716</IDGIS><NAMESPACE>T1_MIR_0326</NAMESPACE><LOCALID>T1_MIR_0326</LOCALID><ORIG_FID>11332</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0328-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>204</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11717</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0328-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0328-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11333</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.893110947115544,43.18868768305664,-2.893110947115544</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0328-1</FINCA><SUPERFICIE>204</SUPERFICIE><IDGIS>11717</IDGIS><NAMESPACE>T1_MIR_0328-1</NAMESPACE><LOCALID>T1_MIR_0328-1</LOCALID><ORIG_FID>11333</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0328</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>341</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11718</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0328</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0328</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11334</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.892950026256422,43.18883548402732,-2.892950026256422</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0328</FINCA><SUPERFICIE>341</SUPERFICIE><IDGIS>11718</IDGIS><NAMESPACE>T1_MIR_0328</NAMESPACE><LOCALID>T1_MIR_0328</LOCALID><ORIG_FID>11334</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0327</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1703</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11719</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0327</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0327</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11335</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.893661459072249,43.18897565240349,-2.893661459072249</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0327</FINCA><SUPERFICIE>1703</SUPERFICIE><IDGIS>11719</IDGIS><NAMESPACE>T1_MIR_0327</NAMESPACE><LOCALID>T1_MIR_0327</LOCALID><ORIG_FID>11335</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0318</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10258</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11720</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0318</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0318</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11336</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894006612303348,43.18983050298523,-2.894006612303348</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0318</FINCA><SUPERFICIE>10258</SUPERFICIE><IDGIS>11720</IDGIS><NAMESPACE>T1_MIR_0318</NAMESPACE><LOCALID>T1_MIR_0318</LOCALID><ORIG_FID>11336</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0317</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1475</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11721</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0317</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0317</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11337</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894478799174767,43.19057286655326,-2.894478799174767</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0317</FINCA><SUPERFICIE>1475</SUPERFICIE><IDGIS>11721</IDGIS><NAMESPACE>T1_MIR_0317</NAMESPACE><LOCALID>T1_MIR_0317</LOCALID><ORIG_FID>11337</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0321</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2158</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11722</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0321</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0321</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11338</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895281853476815,43.18962492371907,-2.895281853476815</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0321</FINCA><SUPERFICIE>2158</SUPERFICIE><IDGIS>11722</IDGIS><NAMESPACE>T1_MIR_0321</NAMESPACE><LOCALID>T1_MIR_0321</LOCALID><ORIG_FID>11338</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0324-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>65</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11723</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0324-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0324-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11339</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895804015794776,43.18977410465554,-2.895804015794776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0324-1</FINCA><SUPERFICIE>65</SUPERFICIE><IDGIS>11723</IDGIS><NAMESPACE>T1_MIR_0324-1</NAMESPACE><LOCALID>T1_MIR_0324-1</LOCALID><ORIG_FID>11339</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0316</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1798</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11724</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0316</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0316</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11340</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894677679474274,43.19076097073909,-2.894677679474274</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0316</FINCA><SUPERFICIE>1798</SUPERFICIE><IDGIS>11724</IDGIS><NAMESPACE>T1_MIR_0316</NAMESPACE><LOCALID>T1_MIR_0316</LOCALID><ORIG_FID>11340</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0315</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2245</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11725</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0315</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0315</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11341</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894847416251007,43.19099617975241,-2.894847416251007</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0315</FINCA><SUPERFICIE>2245</SUPERFICIE><IDGIS>11725</IDGIS><NAMESPACE>T1_MIR_0315</NAMESPACE><LOCALID>T1_MIR_0315</LOCALID><ORIG_FID>11341</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0318-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>951</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11726</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0318-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0318-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11342</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.894694779700955,43.19014182260349,-2.894694779700955</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0318-1</FINCA><SUPERFICIE>951</SUPERFICIE><IDGIS>11726</IDGIS><NAMESPACE>T1_MIR_0318-1</NAMESPACE><LOCALID>T1_MIR_0318-1</LOCALID><ORIG_FID>11342</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0313</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1155</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11727</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0313</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0313</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11343</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895453554359048,43.19077539754498,-2.895453554359048</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0313</FINCA><SUPERFICIE>1155</SUPERFICIE><IDGIS>11727</IDGIS><NAMESPACE>T1_MIR_0313</NAMESPACE><LOCALID>T1_MIR_0313</LOCALID><ORIG_FID>11343</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0314</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2624</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11728</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0314</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0314</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11344</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89548141470068,43.19040315153144,-2.89548141470068</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0314</FINCA><SUPERFICIE>2624</SUPERFICIE><IDGIS>11728</IDGIS><NAMESPACE>T1_MIR_0314</NAMESPACE><LOCALID>T1_MIR_0314</LOCALID><ORIG_FID>11344</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0320</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6437</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11729</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0320</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0320</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11345</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895116748884735,43.18998103528676,-2.895116748884735</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0320</FINCA><SUPERFICIE>6437</SUPERFICIE><IDGIS>11729</IDGIS><NAMESPACE>T1_MIR_0320</NAMESPACE><LOCALID>T1_MIR_0320</LOCALID><ORIG_FID>11345</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0322</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1295</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11731</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0322</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0322</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11346</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895775080615173,43.18907026477795,-2.895775080615173</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0322</FINCA><SUPERFICIE>1295</SUPERFICIE><IDGIS>11731</IDGIS><NAMESPACE>T1_MIR_0322</NAMESPACE><LOCALID>T1_MIR_0322</LOCALID><ORIG_FID>11346</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0324</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1571</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11733</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0324</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0324</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11347</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896510255153242,43.18953054926061,-2.896510255153242</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0324</FINCA><SUPERFICIE>1571</SUPERFICIE><IDGIS>11733</IDGIS><NAMESPACE>T1_MIR_0324</NAMESPACE><LOCALID>T1_MIR_0324</LOCALID><ORIG_FID>11347</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0308-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1891</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11734</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0308-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0308-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11348</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89700449650819,43.18968746519265,-2.89700449650819</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0308-A</FINCA><SUPERFICIE>1891</SUPERFICIE><IDGIS>11734</IDGIS><NAMESPACE>T1_MIR_0308-A</NAMESPACE><LOCALID>T1_MIR_0308-A</LOCALID><ORIG_FID>11348</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0310-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>136</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11735</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0310-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0310-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11349</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89608696987546,43.19014105053789,-2.89608696987546</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0310-1</FINCA><SUPERFICIE>136</SUPERFICIE><IDGIS>11735</IDGIS><NAMESPACE>T1_MIR_0310-1</NAMESPACE><LOCALID>T1_MIR_0310-1</LOCALID><ORIG_FID>11349</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0301-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>343</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11736</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0301-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0301-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11350</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896447583647539,43.19023830234592,-2.896447583647539</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0301-2</FINCA><SUPERFICIE>343</SUPERFICIE><IDGIS>11736</IDGIS><NAMESPACE>T1_MIR_0301-2</NAMESPACE><LOCALID>T1_MIR_0301-2</LOCALID><ORIG_FID>11350</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0302-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6884</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12479</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0302-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0302-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11351</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.899102739569615,43.1913146145817,-2.899102739569615</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0302-1A</FINCA><SUPERFICIE>6884</SUPERFICIE><IDGIS>12479</IDGIS><NAMESPACE>T1_MIR_0302-1A</NAMESPACE><LOCALID>T1_MIR_0302-1A</LOCALID><ORIG_FID>11351</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0311</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1808</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11738</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0311</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0311</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11352</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896507090556042,43.19083470012355,-2.896507090556042</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0311</FINCA><SUPERFICIE>1808</SUPERFICIE><IDGIS>11738</IDGIS><NAMESPACE>T1_MIR_0311</NAMESPACE><LOCALID>T1_MIR_0311</LOCALID><ORIG_FID>11352</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0310</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4276</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11739</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0310</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0310</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11353</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896099738623463,43.19052598084621,-2.896099738623463</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0310</FINCA><SUPERFICIE>4276</SUPERFICIE><IDGIS>11739</IDGIS><NAMESPACE>T1_MIR_0310</NAMESPACE><LOCALID>T1_MIR_0310</LOCALID><ORIG_FID>11353</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0312-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2325</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11740</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0312-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0312-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11354</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897113918509104,43.19092699001901,-2.897113918509104</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0312-1</FINCA><SUPERFICIE>2325</SUPERFICIE><IDGIS>11740</IDGIS><NAMESPACE>T1_MIR_0312-1</NAMESPACE><LOCALID>T1_MIR_0312-1</LOCALID><ORIG_FID>11354</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0312</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2599</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11741</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0312</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0312</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11355</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896130936437453,43.19103899395487,-2.896130936437453</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0312</FINCA><SUPERFICIE>2599</SUPERFICIE><IDGIS>11741</IDGIS><NAMESPACE>T1_MIR_0312</NAMESPACE><LOCALID>T1_MIR_0312</LOCALID><ORIG_FID>11355</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0301</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2087</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11742</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0301</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0301</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11356</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897062378333192,43.19124718543173,-2.897062378333192</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0301</FINCA><SUPERFICIE>2087</SUPERFICIE><IDGIS>11742</IDGIS><NAMESPACE>T1_MIR_0301</NAMESPACE><LOCALID>T1_MIR_0301</LOCALID><ORIG_FID>11356</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0302-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4535</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12690</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0302-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0302-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11357</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898827725414615,43.19082644188304,-2.898827725414615</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0302-A</FINCA><SUPERFICIE>4535</SUPERFICIE><IDGIS>12690</IDGIS><NAMESPACE>T1_MIR_0302-A</NAMESPACE><LOCALID>T1_MIR_0302-A</LOCALID><ORIG_FID>11357</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0303-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2279</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12478</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0303-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0303-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11358</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898560242897729,43.19044425702399,-2.898560242897729</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0303-A</FINCA><SUPERFICIE>2279</SUPERFICIE><IDGIS>12478</IDGIS><NAMESPACE>T1_MIR_0303-A</NAMESPACE><LOCALID>T1_MIR_0303-A</LOCALID><ORIG_FID>11358</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0304-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>833</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12477</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0304-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0304-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11359</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898283376450111,43.19028275795166,-2.898283376450111</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0304-A</FINCA><SUPERFICIE>833</SUPERFICIE><IDGIS>12477</IDGIS><NAMESPACE>T1_MIR_0304-A</NAMESPACE><LOCALID>T1_MIR_0304-A</LOCALID><ORIG_FID>11359</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0307</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1209</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11746</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0307</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0307</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11360</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896734183362542,43.189958901443,-2.896734183362543</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0307</FINCA><SUPERFICIE>1209</SUPERFICIE><IDGIS>11746</IDGIS><NAMESPACE>T1_MIR_0307</NAMESPACE><LOCALID>T1_MIR_0307</LOCALID><ORIG_FID>11360</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0301-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10932</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11747</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0301-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0301-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11361</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897494552406521,43.19075703672569,-2.897494552406521</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0301-1</FINCA><SUPERFICIE>10932</SUPERFICIE><IDGIS>11747</IDGIS><NAMESPACE>T1_MIR_0301-1</NAMESPACE><LOCALID>T1_MIR_0301-1</LOCALID><ORIG_FID>11361</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0306-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2364</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12475</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0306-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0306-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11362</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897723270346475,43.19004615934604,-2.897723270346476</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0306-A</FINCA><SUPERFICIE>2364</SUPERFICIE><IDGIS>12475</IDGIS><NAMESPACE>T1_MIR_0306-A</NAMESPACE><LOCALID>T1_MIR_0306-A</LOCALID><ORIG_FID>11362</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0361-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>104</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12401</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0361-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0361-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11932</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902370541970077,43.1771687884675,-2.902370541970077</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0361-1</FINCA><SUPERFICIE>104</SUPERFICIE><IDGIS>12401</IDGIS><NAMESPACE>T1_MIR_0361-1</NAMESPACE><LOCALID>T1_MIR_0361-1</LOCALID><ORIG_FID>11932</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0351</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1486</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11772</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0351</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0351</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11933</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.900185255246201,43.1781101539466,-2.900185255246201</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0351</FINCA><SUPERFICIE>1486</SUPERFICIE><IDGIS>11772</IDGIS><NAMESPACE>T1_MIR_0351</NAMESPACE><LOCALID>T1_MIR_0351</LOCALID><ORIG_FID>11933</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0350</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1973</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12465</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0350</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0350</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11934</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.899872500470844,43.17875605397907,-2.899872500470844</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0350</FINCA><SUPERFICIE>1973</SUPERFICIE><IDGIS>12465</IDGIS><NAMESPACE>T1_MIR_0350</NAMESPACE><LOCALID>T1_MIR_0350</LOCALID><ORIG_FID>11934</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0347-2U</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1096</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12464</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0347-2U</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0347-2U</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11997</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896902906453529,43.17939149364614,-2.896902906453529</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0347-2U</FINCA><SUPERFICIE>1096</SUPERFICIE><IDGIS>12464</IDGIS><NAMESPACE>T1_MIR_0347-2U</NAMESPACE><LOCALID>T1_MIR_0347-2U</LOCALID><ORIG_FID>11997</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0348-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>285</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12466</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0348-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0348-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11998</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.899083492122853,43.17880112139711,-2.899083492122853</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0348-1</FINCA><SUPERFICIE>285</SUPERFICIE><IDGIS>12466</IDGIS><NAMESPACE>T1_MIR_0348-1</NAMESPACE><LOCALID>T1_MIR_0348-1</LOCALID><ORIG_FID>11998</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0340-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>49</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12467</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0340-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0340-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11999</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898604055060397,43.18096962830198,-2.898604055060397</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0340-A</FINCA><SUPERFICIE>49</SUPERFICIE><IDGIS>12467</IDGIS><NAMESPACE>T1_MIR_0340-A</NAMESPACE><LOCALID>T1_MIR_0340-A</LOCALID><ORIG_FID>11999</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0339-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>54</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12468</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0339-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0339-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898605163711506,43.18101648398025,-2.898605163711506</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0339-A</FINCA><SUPERFICIE>54</SUPERFICIE><IDGIS>12468</IDGIS><NAMESPACE>T1_MIR_0339-A</NAMESPACE><LOCALID>T1_MIR_0339-A</LOCALID><ORIG_FID>12000</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0335-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>134</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12469</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0335-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0335-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12001</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.89738232657818,43.18256202170983,-2.897382326578179</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0335-1</FINCA><SUPERFICIE>134</SUPERFICIE><IDGIS>12469</IDGIS><NAMESPACE>T1_MIR_0335-1</NAMESPACE><LOCALID>T1_MIR_0335-1</LOCALID><ORIG_FID>12001</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0330-V-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1210</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12470</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0330-V-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0330-V-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12002</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895173011011978,43.18351016395212,-2.895173011011978</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0330-V-2</FINCA><SUPERFICIE>1210</SUPERFICIE><IDGIS>12470</IDGIS><NAMESPACE>T1_MIR_0330-V-2</NAMESPACE><LOCALID>T1_MIR_0330-V-2</LOCALID><ORIG_FID>12002</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0323</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>749</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11732</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0323</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0323</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12003</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896150277592397,43.18925714740296,-2.896150277592397</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0323</FINCA><SUPERFICIE>749</SUPERFICIE><IDGIS>11732</IDGIS><NAMESPACE>T1_MIR_0323</NAMESPACE><LOCALID>T1_MIR_0323</LOCALID><ORIG_FID>12003</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0323-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>193</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12471</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0323-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0323-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12004</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896350421105294,43.1892425187171,-2.896350421105294</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0323-A</FINCA><SUPERFICIE>193</SUPERFICIE><IDGIS>12471</IDGIS><NAMESPACE>T1_MIR_0323-A</NAMESPACE><LOCALID>T1_MIR_0323-A</LOCALID><ORIG_FID>12004</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0308</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>164</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12473</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0308</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0308</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12005</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.896822287550734,43.18987512922974,-2.896822287550734</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0308</FINCA><SUPERFICIE>164</SUPERFICIE><IDGIS>12473</IDGIS><NAMESPACE>T1_MIR_0308</NAMESPACE><LOCALID>T1_MIR_0308</LOCALID><ORIG_FID>12005</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0307-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>935</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12474</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0307-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0307-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12006</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897302520406053,43.18988579344753,-2.897302520406053</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0307-A</FINCA><SUPERFICIE>935</SUPERFICIE><IDGIS>12474</IDGIS><NAMESPACE>T1_MIR_0307-A</NAMESPACE><LOCALID>T1_MIR_0307-A</LOCALID><ORIG_FID>12006</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0306</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>57</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11748</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0306</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0306</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12007</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897191025969186,43.19012111723339,-2.897191025969185</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0306</FINCA><SUPERFICIE>57</SUPERFICIE><IDGIS>11748</IDGIS><NAMESPACE>T1_MIR_0306</NAMESPACE><LOCALID>T1_MIR_0306</LOCALID><ORIG_FID>12007</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0305</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1949</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11749</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0305</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0305</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12008</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897822749479077,43.19025755641938,-2.897822749479077</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0305</FINCA><SUPERFICIE>1949</SUPERFICIE><IDGIS>11749</IDGIS><NAMESPACE>T1_MIR_0305</NAMESPACE><LOCALID>T1_MIR_0305</LOCALID><ORIG_FID>12008</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0304</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>518</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11745</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0304</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0304</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12009</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897932362231115,43.1905216629658,-2.897932362231114</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0304</FINCA><SUPERFICIE>518</SUPERFICIE><IDGIS>11745</IDGIS><NAMESPACE>T1_MIR_0304</NAMESPACE><LOCALID>T1_MIR_0304</LOCALID><ORIG_FID>12009</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0303</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>470</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11744</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0303</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0303</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12010</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898196466867709,43.19065416781311,-2.898196466867709</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0303</FINCA><SUPERFICIE>470</SUPERFICIE><IDGIS>11744</IDGIS><NAMESPACE>T1_MIR_0303</NAMESPACE><LOCALID>T1_MIR_0303</LOCALID><ORIG_FID>12010</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0302-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>139</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11737</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0302-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0302-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12011</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898477185781582,43.19138875501389,-2.898477185781582</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0302-1</FINCA><SUPERFICIE>139</SUPERFICIE><IDGIS>11737</IDGIS><NAMESPACE>T1_MIR_0302-1</NAMESPACE><LOCALID>T1_MIR_0302-1</LOCALID><ORIG_FID>12011</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0302</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>966</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11743</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0302</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0302</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12012</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.898329432112993,43.1910388958643,-2.898329432112993</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0302</FINCA><SUPERFICIE>966</SUPERFICIE><IDGIS>11743</IDGIS><NAMESPACE>T1_MIR_0302</NAMESPACE><LOCALID>T1_MIR_0302</LOCALID><ORIG_FID>12012</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0301-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>71</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12451</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0301-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0301-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12013</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.897188908111672,43.19016210333045,-2.897188908111672</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0301-1A</FINCA><SUPERFICIE>71</SUPERFICIE><IDGIS>12451</IDGIS><NAMESPACE>T1_MIR_0301-1A</NAMESPACE><LOCALID>T1_MIR_0301-1A</LOCALID><ORIG_FID>12013</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0343-amp</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>136</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12503</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0343-amp</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0343-amp</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12045</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.899016080149492,43.18099082802375,-2.899016080149492</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0343-amp</FINCA><SUPERFICIE>136</SUPERFICIE><IDGIS>12503</IDGIS><NAMESPACE>T1_MIR_0343-amp</NAMESPACE><LOCALID>T1_MIR_0343-amp</LOCALID><ORIG_FID>12045</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0332-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>149</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12535</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0332-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0332-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12079</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.895710065510792,43.1826142268624,-2.895710065510792</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0332-A</FINCA><SUPERFICIE>149</SUPERFICIE><IDGIS>12535</IDGIS><NAMESPACE>T1_MIR_0332-A</NAMESPACE><LOCALID>T1_MIR_0332-A</LOCALID><ORIG_FID>12079</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0360-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>147</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12638</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0360-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0360-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12198</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902165596243433,43.17704944014556,-2.902165596243433</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0360-1</FINCA><SUPERFICIE>147</SUPERFICIE><IDGIS>12638</IDGIS><NAMESPACE>T1_MIR_0360-1</NAMESPACE><LOCALID>T1_MIR_0360-1</LOCALID><ORIG_FID>12198</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0360-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>159</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12640</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0360-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0360-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12199</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902169332628769,43.17688704068713,-2.902169332628769</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0360-A</FINCA><SUPERFICIE>159</SUPERFICIE><IDGIS>12640</IDGIS><NAMESPACE>T1_MIR_0360-A</NAMESPACE><LOCALID>T1_MIR_0360-A</LOCALID><ORIG_FID>12199</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0360-C</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>151</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12641</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0360-C</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0360-C</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12200</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902110146010536,43.1773271893015,-2.902110146010536</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0360-C</FINCA><SUPERFICIE>151</SUPERFICIE><IDGIS>12641</IDGIS><NAMESPACE>T1_MIR_0360-C</NAMESPACE><LOCALID>T1_MIR_0360-C</LOCALID><ORIG_FID>12200</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0360-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>158</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12639</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0360-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0360-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12201</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902144266088995,43.17720651891904,-2.902144266088995</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0360-B</FINCA><SUPERFICIE>158</SUPERFICIE><IDGIS>12639</IDGIS><NAMESPACE>T1_MIR_0360-B</NAMESPACE><LOCALID>T1_MIR_0360-B</LOCALID><ORIG_FID>12201</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>MIR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0359</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1789</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11761</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_MIR_0359</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_MIR_0359</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12202</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.901935640667621,43.17717858206881,-2.901935640667621</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>MIR</TERMINO><FINCA>0359</FINCA><SUPERFICIE>1789</SUPERFICIE><IDGIS>11761</IDGIS><NAMESPACE>T1_MIR_0359</NAMESPACE><LOCALID>T1_MIR_0359</LOCALID><ORIG_FID>12202</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

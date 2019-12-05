@@ -1,0 +1,5433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T6_VIL_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>42.44855226642566</north>
+			<south>42.43429935067987</south>
+			<east>-2.412314132953632</east>
+			<west>-2.432860370952394</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0004</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1210</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3306</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0004</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0004</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3238</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.431669663126278,42.43597898034321,-2.431669663126278</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0004</FINCA><SUPERFICIE>1210</SUPERFICIE><IDGIS>3306</IDGIS><NAMESPACE>T6_VIL_0004</NAMESPACE><LOCALID>T6_VIL_0004</LOCALID><ORIG_FID>3238</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>896</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3307</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0005</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0005</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3239</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.431317365247225,42.4359947082128,-2.431317365247225</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0005</FINCA><SUPERFICIE>896</SUPERFICIE><IDGIS>3307</IDGIS><NAMESPACE>T6_VIL_0005</NAMESPACE><LOCALID>T6_VIL_0005</LOCALID><ORIG_FID>3239</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1151</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3308</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0006</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0006</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3240</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.431250268387666,42.43553990493645,-2.431250268387666</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0006</FINCA><SUPERFICIE>1151</SUPERFICIE><IDGIS>3308</IDGIS><NAMESPACE>T6_VIL_0006</NAMESPACE><LOCALID>T6_VIL_0006</LOCALID><ORIG_FID>3240</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0007</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1803</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3309</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0007</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0007</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3241</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.431049063318974,42.43590775103808,-2.431049063318974</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0007</FINCA><SUPERFICIE>1803</SUPERFICIE><IDGIS>3309</IDGIS><NAMESPACE>T6_VIL_0007</NAMESPACE><LOCALID>T6_VIL_0007</LOCALID><ORIG_FID>3241</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>586</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3310</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0008</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0008</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3242</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.43078395618897,42.43620928933115,-2.43078395618897</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0008</FINCA><SUPERFICIE>586</SUPERFICIE><IDGIS>3310</IDGIS><NAMESPACE>T6_VIL_0008</NAMESPACE><LOCALID>T6_VIL_0008</LOCALID><ORIG_FID>3242</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>936</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3311</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0009</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0009</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3243</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.430442992112446,42.43621182125337,-2.430442992112446</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0009</FINCA><SUPERFICIE>936</SUPERFICIE><IDGIS>3311</IDGIS><NAMESPACE>T6_VIL_0009</NAMESPACE><LOCALID>T6_VIL_0009</LOCALID><ORIG_FID>3243</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1369</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3313</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0001</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0001</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3244</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.43240641250894,42.43560048804963,-2.43240641250894</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0001</FINCA><SUPERFICIE>1369</SUPERFICIE><IDGIS>3313</IDGIS><NAMESPACE>T6_VIL_0001</NAMESPACE><LOCALID>T6_VIL_0001</LOCALID><ORIG_FID>3244</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>891</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3314</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0010</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0010</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3245</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.430641093005602,42.43592226657114,-2.430641093005602</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0010</FINCA><SUPERFICIE>891</SUPERFICIE><IDGIS>3314</IDGIS><NAMESPACE>T6_VIL_0010</NAMESPACE><LOCALID>T6_VIL_0010</LOCALID><ORIG_FID>3245</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>276</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3315</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0011</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0011</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3246</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.430801717532436,42.4356437378386,-2.430801717532436</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0011</FINCA><SUPERFICIE>276</SUPERFICIE><IDGIS>3315</IDGIS><NAMESPACE>T6_VIL_0011</NAMESPACE><LOCALID>T6_VIL_0011</LOCALID><ORIG_FID>3246</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0012</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>314</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3316</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0012</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0012</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3247</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.430655814556439,42.43566270743634,-2.430655814556439</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0012</FINCA><SUPERFICIE>314</SUPERFICIE><IDGIS>3316</IDGIS><NAMESPACE>T6_VIL_0012</NAMESPACE><LOCALID>T6_VIL_0012</LOCALID><ORIG_FID>3247</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>903</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3317</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0013</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0013</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3248</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.430418709500135,42.43578790537288,-2.430418709500135</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0013</FINCA><SUPERFICIE>903</SUPERFICIE><IDGIS>3317</IDGIS><NAMESPACE>T6_VIL_0013</NAMESPACE><LOCALID>T6_VIL_0013</LOCALID><ORIG_FID>3248</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>40</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3318</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3249</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.430380977789232,42.43640644396199,-2.430380977789232</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0014</FINCA><SUPERFICIE>40</SUPERFICIE><IDGIS>3318</IDGIS><NAMESPACE>T6_VIL_0014</NAMESPACE><LOCALID>T6_VIL_0014</LOCALID><ORIG_FID>3249</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>132</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3319</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0015</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0015</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3250</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.430233933052076,42.43641703001974,-2.430233933052076</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0015</FINCA><SUPERFICIE>132</SUPERFICIE><IDGIS>3319</IDGIS><NAMESPACE>T6_VIL_0015</NAMESPACE><LOCALID>T6_VIL_0015</LOCALID><ORIG_FID>3250</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1112</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3320</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0016-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0016-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3251</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.43006104186522,42.43630841805398,-2.43006104186522</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0016-1</FINCA><SUPERFICIE>1112</SUPERFICIE><IDGIS>3320</IDGIS><NAMESPACE>T6_VIL_0016-1</NAMESPACE><LOCALID>T6_VIL_0016-1</LOCALID><ORIG_FID>3251</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>886</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3321</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0017</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0017</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3252</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.430180052389952,42.43589938715842,-2.430180052389952</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0017</FINCA><SUPERFICIE>886</SUPERFICIE><IDGIS>3321</IDGIS><NAMESPACE>T6_VIL_0017</NAMESPACE><LOCALID>T6_VIL_0017</LOCALID><ORIG_FID>3252</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>93</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3322</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0018</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0018</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3253</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.43029770909902,42.43568676084124,-2.43029770909902</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0018</FINCA><SUPERFICIE>93</SUPERFICIE><IDGIS>3322</IDGIS><NAMESPACE>T6_VIL_0018</NAMESPACE><LOCALID>T6_VIL_0018</LOCALID><ORIG_FID>3253</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>870</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3323</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0019</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0019</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3254</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429855963918222,42.43630966409618,-2.429855963918222</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0019</FINCA><SUPERFICIE>870</SUPERFICIE><IDGIS>3323</IDGIS><NAMESPACE>T6_VIL_0019</NAMESPACE><LOCALID>T6_VIL_0019</LOCALID><ORIG_FID>3254</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5171</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3324</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0002</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0002</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3255</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.431943725142041,42.43564961007473,-2.431943725142041</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0002</FINCA><SUPERFICIE>5171</SUPERFICIE><IDGIS>3324</IDGIS><NAMESPACE>T6_VIL_0002</NAMESPACE><LOCALID>T6_VIL_0002</LOCALID><ORIG_FID>3255</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>74</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3325</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0002-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0002-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3256</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.431549132060692,42.43539396106913,-2.431549132060692</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0002-1</FINCA><SUPERFICIE>74</SUPERFICIE><IDGIS>3325</IDGIS><NAMESPACE>T6_VIL_0002-1</NAMESPACE><LOCALID>T6_VIL_0002-1</LOCALID><ORIG_FID>3256</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>530</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3326</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0020</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0020</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3257</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429964031420433,42.43590301780506,-2.429964031420433</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0020</FINCA><SUPERFICIE>530</SUPERFICIE><IDGIS>3326</IDGIS><NAMESPACE>T6_VIL_0020</NAMESPACE><LOCALID>T6_VIL_0020</LOCALID><ORIG_FID>3257</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>33</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3327</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0021</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0021</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3258</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429861349736715,42.43577909692871,-2.429861349736715</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0021</FINCA><SUPERFICIE>33</SUPERFICIE><IDGIS>3327</IDGIS><NAMESPACE>T6_VIL_0021</NAMESPACE><LOCALID>T6_VIL_0021</LOCALID><ORIG_FID>3258</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>882</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3328</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0022</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0022</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3259</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429613180506414,42.4362108552913,-2.429613180506414</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0022</FINCA><SUPERFICIE>882</SUPERFICIE><IDGIS>3328</IDGIS><NAMESPACE>T6_VIL_0022</NAMESPACE><LOCALID>T6_VIL_0022</LOCALID><ORIG_FID>3259</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0023</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>986</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3329</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0023</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0023</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3260</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429624671809206,42.43642782952912,-2.429624671809206</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0023</FINCA><SUPERFICIE>986</SUPERFICIE><IDGIS>3329</IDGIS><NAMESPACE>T6_VIL_0023</NAMESPACE><LOCALID>T6_VIL_0023</LOCALID><ORIG_FID>3260</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0024</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>872</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3330</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0024</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0024</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3261</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429588201201169,42.43596947897537,-2.429588201201169</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0024</FINCA><SUPERFICIE>872</SUPERFICIE><IDGIS>3330</IDGIS><NAMESPACE>T6_VIL_0024</NAMESPACE><LOCALID>T6_VIL_0024</LOCALID><ORIG_FID>3261</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3331</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0025</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0025</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3262</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429619187212611,42.43678994635523,-2.429619187212611</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0025</FINCA><SUPERFICIE>12</SUPERFICIE><IDGIS>3331</IDGIS><NAMESPACE>T6_VIL_0025</NAMESPACE><LOCALID>T6_VIL_0025</LOCALID><ORIG_FID>3262</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1217</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3332</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0026</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0026</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3263</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429299571486189,42.43615690138667,-2.429299571486189</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0026</FINCA><SUPERFICIE>1217</SUPERFICIE><IDGIS>3332</IDGIS><NAMESPACE>T6_VIL_0026</NAMESPACE><LOCALID>T6_VIL_0026</LOCALID><ORIG_FID>3263</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>846</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3333</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0027</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0027</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3264</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429238365070933,42.43638537091717,-2.429238365070933</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0027</FINCA><SUPERFICIE>846</SUPERFICIE><IDGIS>3333</IDGIS><NAMESPACE>T6_VIL_0027</NAMESPACE><LOCALID>T6_VIL_0027</LOCALID><ORIG_FID>3264</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0028</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1006</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3334</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0028</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0028</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3265</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429018177433916,42.43634797499049,-2.429018177433916</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0028</FINCA><SUPERFICIE>1006</SUPERFICIE><IDGIS>3334</IDGIS><NAMESPACE>T6_VIL_0028</NAMESPACE><LOCALID>T6_VIL_0028</LOCALID><ORIG_FID>3265</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0029</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>262</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3335</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0029</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0029</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3266</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.428801396147719,42.43633152992103,-2.428801396147719</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0029</FINCA><SUPERFICIE>262</SUPERFICIE><IDGIS>3335</IDGIS><NAMESPACE>T6_VIL_0029</NAMESPACE><LOCALID>T6_VIL_0029</LOCALID><ORIG_FID>3266</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>468</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3336</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0003-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0003-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3267</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.432146513813232,42.43525893475996,-2.432146513813232</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0003-1</FINCA><SUPERFICIE>468</SUPERFICIE><IDGIS>3336</IDGIS><NAMESPACE>T6_VIL_0003-1</NAMESPACE><LOCALID>T6_VIL_0003-1</LOCALID><ORIG_FID>3267</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>97</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3337</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0003-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0003-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3268</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.432800557010482,42.43441718412168,-2.432800557010482</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0003-2</FINCA><SUPERFICIE>97</SUPERFICIE><IDGIS>3337</IDGIS><NAMESPACE>T6_VIL_0003-2</NAMESPACE><LOCALID>T6_VIL_0003-2</LOCALID><ORIG_FID>3268</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0030</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>631</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3338</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0030</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0030</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3269</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429005627585845,42.43603569996741,-2.429005627585845</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0030</FINCA><SUPERFICIE>631</SUPERFICIE><IDGIS>3338</IDGIS><NAMESPACE>T6_VIL_0030</NAMESPACE><LOCALID>T6_VIL_0030</LOCALID><ORIG_FID>3269</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0031</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>471</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3339</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0031</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0031</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3270</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.428891394216768,42.43594735268501,-2.428891394216768</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0031</FINCA><SUPERFICIE>471</SUPERFICIE><IDGIS>3339</IDGIS><NAMESPACE>T6_VIL_0031</NAMESPACE><LOCALID>T6_VIL_0031</LOCALID><ORIG_FID>3270</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0032</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>393</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3340</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0032</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0032</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3271</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.428905478944937,42.43665115506678,-2.428905478944937</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0032</FINCA><SUPERFICIE>393</SUPERFICIE><IDGIS>3340</IDGIS><NAMESPACE>T6_VIL_0032</NAMESPACE><LOCALID>T6_VIL_0032</LOCALID><ORIG_FID>3271</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0033-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3341</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0033-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0033-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3272</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.42617936464302,42.43645027924659,-2.42617936464302</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0033-1</FINCA><SUPERFICIE>6</SUPERFICIE><IDGIS>3341</IDGIS><NAMESPACE>T6_VIL_0033-1</NAMESPACE><LOCALID>T6_VIL_0033-1</LOCALID><ORIG_FID>3272</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0033-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>101</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3342</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0033-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0033-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3273</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.426254466621776,42.43640014987552,-2.426254466621776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0033-2</FINCA><SUPERFICIE>101</SUPERFICIE><IDGIS>3342</IDGIS><NAMESPACE>T6_VIL_0033-2</NAMESPACE><LOCALID>T6_VIL_0033-2</LOCALID><ORIG_FID>3273</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0033-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>44</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3343</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0033-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0033-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3274</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.42625633037693,42.4362656798221,-2.42625633037693</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0033-3</FINCA><SUPERFICIE>44</SUPERFICIE><IDGIS>3343</IDGIS><NAMESPACE>T6_VIL_0033-3</NAMESPACE><LOCALID>T6_VIL_0033-3</LOCALID><ORIG_FID>3274</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0034-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>97</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3344</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0034-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0034-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3275</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.42615416114433,42.43657297966954,-2.42615416114433</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0034-1</FINCA><SUPERFICIE>97</SUPERFICIE><IDGIS>3344</IDGIS><NAMESPACE>T6_VIL_0034-1</NAMESPACE><LOCALID>T6_VIL_0034-1</LOCALID><ORIG_FID>3275</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0034-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>149</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3345</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0034-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0034-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3276</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.426259457110993,42.43660517883775,-2.426259457110993</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0034-2</FINCA><SUPERFICIE>149</SUPERFICIE><IDGIS>3345</IDGIS><NAMESPACE>T6_VIL_0034-2</NAMESPACE><LOCALID>T6_VIL_0034-2</LOCALID><ORIG_FID>3276</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0035-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>67</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3346</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0035-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0035-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3277</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.426417749805539,42.43696221352317,-2.426417749805539</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0035-1</FINCA><SUPERFICIE>67</SUPERFICIE><IDGIS>3346</IDGIS><NAMESPACE>T6_VIL_0035-1</NAMESPACE><LOCALID>T6_VIL_0035-1</LOCALID><ORIG_FID>3277</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0035-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>300</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3347</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0035-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0035-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3278</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.426179807516391,42.43680458498969,-2.426179807516391</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0035-2</FINCA><SUPERFICIE>300</SUPERFICIE><IDGIS>3347</IDGIS><NAMESPACE>T6_VIL_0035-2</NAMESPACE><LOCALID>T6_VIL_0035-2</LOCALID><ORIG_FID>3278</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0035-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>123</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3348</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0035-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0035-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3279</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.426047476533958,42.43674758582149,-2.426047476533958</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0035-3</FINCA><SUPERFICIE>123</SUPERFICIE><IDGIS>3348</IDGIS><NAMESPACE>T6_VIL_0035-3</NAMESPACE><LOCALID>T6_VIL_0035-3</LOCALID><ORIG_FID>3279</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0036-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>254</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3349</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0036-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0036-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3280</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.425879549564024,42.43696145183425,-2.425879549564024</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0036-1</FINCA><SUPERFICIE>254</SUPERFICIE><IDGIS>3349</IDGIS><NAMESPACE>T6_VIL_0036-1</NAMESPACE><LOCALID>T6_VIL_0036-1</LOCALID><ORIG_FID>3280</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0036-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>855</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3350</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0036-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0036-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3281</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.426158369225056,42.43704988407519,-2.426158369225056</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0036-2</FINCA><SUPERFICIE>855</SUPERFICIE><IDGIS>3350</IDGIS><NAMESPACE>T6_VIL_0036-2</NAMESPACE><LOCALID>T6_VIL_0036-2</LOCALID><ORIG_FID>3281</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0037-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1048</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3351</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0037-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0037-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3282</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.425709529174489,42.43722669588377,-2.425709529174489</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0037-1</FINCA><SUPERFICIE>1048</SUPERFICIE><IDGIS>3351</IDGIS><NAMESPACE>T6_VIL_0037-1</NAMESPACE><LOCALID>T6_VIL_0037-1</LOCALID><ORIG_FID>3282</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0037-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1137</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3352</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0037-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0037-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3283</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.426085629490857,42.43733242972649,-2.426085629490857</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0037-2</FINCA><SUPERFICIE>1137</SUPERFICIE><IDGIS>3352</IDGIS><NAMESPACE>T6_VIL_0037-2</NAMESPACE><LOCALID>T6_VIL_0037-2</LOCALID><ORIG_FID>3283</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1553</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3353</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0038-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0038-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3284</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.425618975316832,42.43747608938028,-2.425618975316832</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0038-1</FINCA><SUPERFICIE>1553</SUPERFICIE><IDGIS>3353</IDGIS><NAMESPACE>T6_VIL_0038-1</NAMESPACE><LOCALID>T6_VIL_0038-1</LOCALID><ORIG_FID>3284</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>16</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3354</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0038-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0038-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3285</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.425881791149001,42.43781910296774,-2.425881791149001</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0038-2</FINCA><SUPERFICIE>16</SUPERFICIE><IDGIS>3354</IDGIS><NAMESPACE>T6_VIL_0038-2</NAMESPACE><LOCALID>T6_VIL_0038-2</LOCALID><ORIG_FID>3285</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>87</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3355</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0038-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0038-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3286</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.425925328422903,42.43787098627645,-2.425925328422903</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0038-3</FINCA><SUPERFICIE>87</SUPERFICIE><IDGIS>3355</IDGIS><NAMESPACE>T6_VIL_0038-3</NAMESPACE><LOCALID>T6_VIL_0038-3</LOCALID><ORIG_FID>3286</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>196</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3356</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0038-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0038-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3287</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.426041584069675,42.43762575501012,-2.426041584069675</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0038-4</FINCA><SUPERFICIE>196</SUPERFICIE><IDGIS>3356</IDGIS><NAMESPACE>T6_VIL_0038-4</NAMESPACE><LOCALID>T6_VIL_0038-4</LOCALID><ORIG_FID>3287</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0039</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1640</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3357</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0039</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0039</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3288</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.425330252041153,42.43760064162203,-2.425330252041153</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0039</FINCA><SUPERFICIE>1640</SUPERFICIE><IDGIS>3357</IDGIS><NAMESPACE>T6_VIL_0039</NAMESPACE><LOCALID>T6_VIL_0039</LOCALID><ORIG_FID>3288</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-01</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>167</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3359</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-01</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-01</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3290</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.432860370952394,42.43440216997295,-2.432860370952394</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-01</FINCA><SUPERFICIE>167</SUPERFICIE><IDGIS>3359</IDGIS><NAMESPACE>T6_VIL_C-01</NAMESPACE><LOCALID>T6_VIL_C-01</LOCALID><ORIG_FID>3290</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-03</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>639</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3360</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-03</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-03</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3291</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.43244379460748,42.43594014397548,-2.43244379460748</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-03</FINCA><SUPERFICIE>639</SUPERFICIE><IDGIS>3360</IDGIS><NAMESPACE>T6_VIL_C-03</NAMESPACE><LOCALID>T6_VIL_C-03</LOCALID><ORIG_FID>3291</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-04</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>491</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3361</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-04</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-04</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3292</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.4307599560481,42.43596280005254,-2.4307599560481</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-04</FINCA><SUPERFICIE>491</SUPERFICIE><IDGIS>3361</IDGIS><NAMESPACE>T6_VIL_C-04</NAMESPACE><LOCALID>T6_VIL_C-04</LOCALID><ORIG_FID>3292</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-05</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>72</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3362</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-05</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-05</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3293</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429590493485588,42.43675581065688,-2.429590493485588</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-05</FINCA><SUPERFICIE>72</SUPERFICIE><IDGIS>3362</IDGIS><NAMESPACE>T6_VIL_C-05</NAMESPACE><LOCALID>T6_VIL_C-05</LOCALID><ORIG_FID>3293</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-06</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>445</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3363</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-06</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-06</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3294</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.42883785818013,42.43628909550393,-2.42883785818013</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-06</FINCA><SUPERFICIE>445</SUPERFICIE><IDGIS>3363</IDGIS><NAMESPACE>T6_VIL_C-06</NAMESPACE><LOCALID>T6_VIL_C-06</LOCALID><ORIG_FID>3294</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-07</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>675</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3364</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-07</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-07</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3295</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.425989539765776,42.43721631504908,-2.425989539765776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-07</FINCA><SUPERFICIE>675</SUPERFICIE><IDGIS>3364</IDGIS><NAMESPACE>T6_VIL_C-07</NAMESPACE><LOCALID>T6_VIL_C-07</LOCALID><ORIG_FID>3295</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>R-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>19217</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3365</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_R-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_R-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3296</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.427900776331832,42.43638447839008,-2.427900776331832</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>R-1</FINCA><SUPERFICIE>19217</SUPERFICIE><IDGIS>3365</IDGIS><NAMESPACE>T6_VIL_R-1</NAMESPACE><LOCALID>T6_VIL_R-1</LOCALID><ORIG_FID>3296</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0040</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1819</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3366</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0040</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0040</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3297</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.425030318106274,42.43774628644182,-2.425030318106274</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0040</FINCA><SUPERFICIE>1819</SUPERFICIE><IDGIS>3366</IDGIS><NAMESPACE>T6_VIL_0040</NAMESPACE><LOCALID>T6_VIL_0040</LOCALID><ORIG_FID>3297</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0041</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2505</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3367</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0041</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0041</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3298</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.424604696095593,42.43790143400028,-2.424604696095593</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0041</FINCA><SUPERFICIE>2505</SUPERFICIE><IDGIS>3367</IDGIS><NAMESPACE>T6_VIL_0041</NAMESPACE><LOCALID>T6_VIL_0041</LOCALID><ORIG_FID>3298</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0042</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2149</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3368</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0042</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0042</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3299</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.42420647425178,42.43809818814574,-2.42420647425178</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0042</FINCA><SUPERFICIE>2149</SUPERFICIE><IDGIS>3368</IDGIS><NAMESPACE>T6_VIL_0042</NAMESPACE><LOCALID>T6_VIL_0042</LOCALID><ORIG_FID>3299</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0043</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>119</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3369</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0043</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0043</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3300</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.424210340699095,42.43832075504643,-2.424210340699095</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0043</FINCA><SUPERFICIE>119</SUPERFICIE><IDGIS>3369</IDGIS><NAMESPACE>T6_VIL_0043</NAMESPACE><LOCALID>T6_VIL_0043</LOCALID><ORIG_FID>3300</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0044</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1327</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3370</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0044</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0044</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3301</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.423904027140101,42.43830209118318,-2.4239040271401</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0044</FINCA><SUPERFICIE>1327</SUPERFICIE><IDGIS>3370</IDGIS><NAMESPACE>T6_VIL_0044</NAMESPACE><LOCALID>T6_VIL_0044</LOCALID><ORIG_FID>3301</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0045</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1359</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3371</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0045</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0045</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3302</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.423577513841351,42.43832413712263,-2.423577513841351</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0045</FINCA><SUPERFICIE>1359</SUPERFICIE><IDGIS>3371</IDGIS><NAMESPACE>T6_VIL_0045</NAMESPACE><LOCALID>T6_VIL_0045</LOCALID><ORIG_FID>3302</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0046</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>283</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3372</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0046</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0046</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3303</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.423269088362879,42.4383217995105,-2.423269088362879</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0046</FINCA><SUPERFICIE>283</SUPERFICIE><IDGIS>3372</IDGIS><NAMESPACE>T6_VIL_0046</NAMESPACE><LOCALID>T6_VIL_0046</LOCALID><ORIG_FID>3303</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0047</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2977</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3373</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0047</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0047</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3304</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.423196455872506,42.43860247055655,-2.423196455872506</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0047</FINCA><SUPERFICIE>2977</SUPERFICIE><IDGIS>3373</IDGIS><NAMESPACE>T6_VIL_0047</NAMESPACE><LOCALID>T6_VIL_0047</LOCALID><ORIG_FID>3304</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0048</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3354</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3374</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0048</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0048</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3305</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.422571088210787,42.4389881135819,-2.422571088210787</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0048</FINCA><SUPERFICIE>3354</SUPERFICIE><IDGIS>3374</IDGIS><NAMESPACE>T6_VIL_0048</NAMESPACE><LOCALID>T6_VIL_0048</LOCALID><ORIG_FID>3305</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0049</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>44</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3375</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0049</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0049</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3306</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.422476670381538,42.43866879180896,-2.422476670381538</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0049</FINCA><SUPERFICIE>44</SUPERFICIE><IDGIS>3375</IDGIS><NAMESPACE>T6_VIL_0049</NAMESPACE><LOCALID>T6_VIL_0049</LOCALID><ORIG_FID>3306</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1030</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3376</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0050</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0050</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3307</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.4220558061652,42.43896928259848,-2.4220558061652</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0050</FINCA><SUPERFICIE>1030</SUPERFICIE><IDGIS>3376</IDGIS><NAMESPACE>T6_VIL_0050</NAMESPACE><LOCALID>T6_VIL_0050</LOCALID><ORIG_FID>3307</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0051</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2690</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3377</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0051</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0051</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3308</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.42167130472873,42.43957304187676,-2.42167130472873</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0051</FINCA><SUPERFICIE>2690</SUPERFICIE><IDGIS>3377</IDGIS><NAMESPACE>T6_VIL_0051</NAMESPACE><LOCALID>T6_VIL_0051</LOCALID><ORIG_FID>3308</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0052</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>957</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3378</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0052</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0052</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3309</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.421583666815172,42.43928555986709,-2.421583666815172</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0052</FINCA><SUPERFICIE>957</SUPERFICIE><IDGIS>3378</IDGIS><NAMESPACE>T6_VIL_0052</NAMESPACE><LOCALID>T6_VIL_0052</LOCALID><ORIG_FID>3309</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0053</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>235</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3379</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0053</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0053</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3310</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.421136805400076,42.44001371317155,-2.421136805400076</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0053</FINCA><SUPERFICIE>235</SUPERFICIE><IDGIS>3379</IDGIS><NAMESPACE>T6_VIL_0053</NAMESPACE><LOCALID>T6_VIL_0053</LOCALID><ORIG_FID>3310</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0054-1,54-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4566</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3380</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0054-1,54-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0054-1,54-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3311</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.420841663634888,42.43985427717563,-2.420841663634888</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0054-1,54-2</FINCA><SUPERFICIE>4566</SUPERFICIE><IDGIS>3380</IDGIS><NAMESPACE>T6_VIL_0054-1,54-2</NAMESPACE><LOCALID>T6_VIL_0054-1,54-2</LOCALID><ORIG_FID>3311</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0055-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>140</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3382</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0055-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0055-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3312</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.421004101094949,42.44054349503367,-2.421004101094949</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0055-A</FINCA><SUPERFICIE>140</SUPERFICIE><IDGIS>3382</IDGIS><NAMESPACE>T6_VIL_0055-A</NAMESPACE><LOCALID>T6_VIL_0055-A</LOCALID><ORIG_FID>3312</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0056</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6018</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3383</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0056</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0056</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3313</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.419914673991901,42.44043157107004,-2.419914673991901</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0056</FINCA><SUPERFICIE>6018</SUPERFICIE><IDGIS>3383</IDGIS><NAMESPACE>T6_VIL_0056</NAMESPACE><LOCALID>T6_VIL_0056</LOCALID><ORIG_FID>3313</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0057</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5710</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3384</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0057</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0057</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3314</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.419085091079716,42.44082446923275,-2.419085091079716</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0057</FINCA><SUPERFICIE>5710</SUPERFICIE><IDGIS>3384</IDGIS><NAMESPACE>T6_VIL_0057</NAMESPACE><LOCALID>T6_VIL_0057</LOCALID><ORIG_FID>3314</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0058</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1357</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3385</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0058</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0058</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3315</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418744512960569,42.44128591590387,-2.418744512960569</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0058</FINCA><SUPERFICIE>1357</SUPERFICIE><IDGIS>3385</IDGIS><NAMESPACE>T6_VIL_0058</NAMESPACE><LOCALID>T6_VIL_0058</LOCALID><ORIG_FID>3315</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0059</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>49</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3386</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0059</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0059</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3316</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.419032558832706,42.44034008645379,-2.419032558832706</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0059</FINCA><SUPERFICIE>49</SUPERFICIE><IDGIS>3386</IDGIS><NAMESPACE>T6_VIL_0059</NAMESPACE><LOCALID>T6_VIL_0059</LOCALID><ORIG_FID>3316</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0060</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>517</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3387</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0060</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0060</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3317</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418894310739359,42.44020989658859,-2.418894310739359</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0060</FINCA><SUPERFICIE>517</SUPERFICIE><IDGIS>3387</IDGIS><NAMESPACE>T6_VIL_0060</NAMESPACE><LOCALID>T6_VIL_0060</LOCALID><ORIG_FID>3317</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0061</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3870</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3388</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0061</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0061</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3318</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418590396726486,42.43996046178579,-2.418590396726486</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0061</FINCA><SUPERFICIE>3870</SUPERFICIE><IDGIS>3388</IDGIS><NAMESPACE>T6_VIL_0061</NAMESPACE><LOCALID>T6_VIL_0061</LOCALID><ORIG_FID>3318</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0063</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>142</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3390</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0063</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0063</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3319</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418358949403687,42.43942068780005,-2.418358949403687</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0063</FINCA><SUPERFICIE>142</SUPERFICIE><IDGIS>3390</IDGIS><NAMESPACE>T6_VIL_0063</NAMESPACE><LOCALID>T6_VIL_0063</LOCALID><ORIG_FID>3319</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0068</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4855</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3393</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0068</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0068</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3320</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.419110800744854,42.44157571392599,-2.419110800744854</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0068</FINCA><SUPERFICIE>4855</SUPERFICIE><IDGIS>3393</IDGIS><NAMESPACE>T6_VIL_0068</NAMESPACE><LOCALID>T6_VIL_0068</LOCALID><ORIG_FID>3320</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0069</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1910</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3394</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0069</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0069</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3321</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418971878928712,42.44235085890965,-2.418971878928712</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0069</FINCA><SUPERFICIE>1910</SUPERFICIE><IDGIS>3394</IDGIS><NAMESPACE>T6_VIL_0069</NAMESPACE><LOCALID>T6_VIL_0069</LOCALID><ORIG_FID>3321</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0070</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>514</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3395</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0070</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0070</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3322</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418980818623187,42.44276838483172,-2.418980818623187</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0070</FINCA><SUPERFICIE>514</SUPERFICIE><IDGIS>3395</IDGIS><NAMESPACE>T6_VIL_0070</NAMESPACE><LOCALID>T6_VIL_0070</LOCALID><ORIG_FID>3322</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0071</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>528</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3396</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0071</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0071</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3323</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41892631844727,42.44303111497325,-2.41892631844727</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0071</FINCA><SUPERFICIE>528</SUPERFICIE><IDGIS>3396</IDGIS><NAMESPACE>T6_VIL_0071</NAMESPACE><LOCALID>T6_VIL_0071</LOCALID><ORIG_FID>3323</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0072</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>294</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3397</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0072</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0072</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3324</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418946412709025,42.44341156235591,-2.418946412709025</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0072</FINCA><SUPERFICIE>294</SUPERFICIE><IDGIS>3397</IDGIS><NAMESPACE>T6_VIL_0072</NAMESPACE><LOCALID>T6_VIL_0072</LOCALID><ORIG_FID>3324</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0075</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>115</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3398</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0075</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0075</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3325</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418951781593019,42.44458879467545,-2.418951781593019</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0075</FINCA><SUPERFICIE>115</SUPERFICIE><IDGIS>3398</IDGIS><NAMESPACE>T6_VIL_0075</NAMESPACE><LOCALID>T6_VIL_0075</LOCALID><ORIG_FID>3325</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0076</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>170</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3399</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0076</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0076</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3326</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418878886703732,42.44421199367067,-2.418878886703732</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0076</FINCA><SUPERFICIE>170</SUPERFICIE><IDGIS>3399</IDGIS><NAMESPACE>T6_VIL_0076</NAMESPACE><LOCALID>T6_VIL_0076</LOCALID><ORIG_FID>3326</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0077-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>102</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3400</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0077-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0077-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3327</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418838854095711,42.44395277397758,-2.418838854095711</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0077-1</FINCA><SUPERFICIE>102</SUPERFICIE><IDGIS>3400</IDGIS><NAMESPACE>T6_VIL_0077-1</NAMESPACE><LOCALID>T6_VIL_0077-1</LOCALID><ORIG_FID>3327</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0077-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>64</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3401</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0077-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0077-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3328</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418617773102975,42.44400112961119,-2.418617773102975</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0077-2</FINCA><SUPERFICIE>64</SUPERFICIE><IDGIS>3401</IDGIS><NAMESPACE>T6_VIL_0077-2</NAMESPACE><LOCALID>T6_VIL_0077-2</LOCALID><ORIG_FID>3328</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0078</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>255</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3402</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0078</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0078</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3329</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418702282443381,42.44383049695573,-2.418702282443381</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0078</FINCA><SUPERFICIE>255</SUPERFICIE><IDGIS>3402</IDGIS><NAMESPACE>T6_VIL_0078</NAMESPACE><LOCALID>T6_VIL_0078</LOCALID><ORIG_FID>3329</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>403</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3403</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0079</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0079</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3330</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41875513707735,42.44342894756484,-2.41875513707735</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0079</FINCA><SUPERFICIE>403</SUPERFICIE><IDGIS>3403</IDGIS><NAMESPACE>T6_VIL_0079</NAMESPACE><LOCALID>T6_VIL_0079</LOCALID><ORIG_FID>3330</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0080</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>99</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3404</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0080</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0080</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3331</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418702247088823,42.44297517148525,-2.418702247088823</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0080</FINCA><SUPERFICIE>99</SUPERFICIE><IDGIS>3404</IDGIS><NAMESPACE>T6_VIL_0080</NAMESPACE><LOCALID>T6_VIL_0080</LOCALID><ORIG_FID>3331</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0081</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>190</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3405</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0081</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0081</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3332</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418500695070026,42.44205880284761,-2.418500695070026</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0081</FINCA><SUPERFICIE>190</SUPERFICIE><IDGIS>3405</IDGIS><NAMESPACE>T6_VIL_0081</NAMESPACE><LOCALID>T6_VIL_0081</LOCALID><ORIG_FID>3332</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0083</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>790</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3406</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0083</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0083</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3333</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418194436019511,42.44157434184041,-2.418194436019511</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0083</FINCA><SUPERFICIE>790</SUPERFICIE><IDGIS>3406</IDGIS><NAMESPACE>T6_VIL_0083</NAMESPACE><LOCALID>T6_VIL_0083</LOCALID><ORIG_FID>3333</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0085</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>723</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3407</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0085</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0085</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3334</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418077226077147,42.44245505174776,-2.418077226077147</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0085</FINCA><SUPERFICIE>723</SUPERFICIE><IDGIS>3407</IDGIS><NAMESPACE>T6_VIL_0085</NAMESPACE><LOCALID>T6_VIL_0085</LOCALID><ORIG_FID>3334</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>62</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3408</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_A-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_A-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3335</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.42057289525397,42.44043017932324,-2.42057289525397</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>A-1</FINCA><SUPERFICIE>62</SUPERFICIE><IDGIS>3408</IDGIS><NAMESPACE>T6_VIL_A-1</NAMESPACE><LOCALID>T6_VIL_A-1</LOCALID><ORIG_FID>3335</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>581</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3409</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_A-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_A-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3336</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.419280633242528,42.441181074542,-2.419280633242528</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>A-2</FINCA><SUPERFICIE>581</SUPERFICIE><IDGIS>3409</IDGIS><NAMESPACE>T6_VIL_A-2</NAMESPACE><LOCALID>T6_VIL_A-2</LOCALID><ORIG_FID>3336</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>243</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3410</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3337</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.420453190889926,42.44018375364801,-2.420453190889926</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-10</FINCA><SUPERFICIE>243</SUPERFICIE><IDGIS>3410</IDGIS><NAMESPACE>T6_VIL_C-10</NAMESPACE><LOCALID>T6_VIL_C-10</LOCALID><ORIG_FID>3337</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-11</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>80</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3411</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-11</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-11</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3338</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.420071740737847,42.43990817285084,-2.420071740737847</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-11</FINCA><SUPERFICIE>80</SUPERFICIE><IDGIS>3411</IDGIS><NAMESPACE>T6_VIL_C-11</NAMESPACE><LOCALID>T6_VIL_C-11</LOCALID><ORIG_FID>3338</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-12</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>107</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3412</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-12</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-12</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3339</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.419095811487903,42.44351746198199,-2.419095811487903</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-12</FINCA><SUPERFICIE>107</SUPERFICIE><IDGIS>3412</IDGIS><NAMESPACE>T6_VIL_C-12</NAMESPACE><LOCALID>T6_VIL_C-12</LOCALID><ORIG_FID>3339</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-14</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>83</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3413</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-14</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-14</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3340</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418596020644108,42.44397721931905,-2.418596020644108</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-14</FINCA><SUPERFICIE>83</SUPERFICIE><IDGIS>3413</IDGIS><NAMESPACE>T6_VIL_C-14</NAMESPACE><LOCALID>T6_VIL_C-14</LOCALID><ORIG_FID>3340</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-08</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>21</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3414</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-08</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-08</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3341</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.425488291872893,42.43846299572012,-2.425488291872893</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-08</FINCA><SUPERFICIE>21</SUPERFICIE><IDGIS>3414</IDGIS><NAMESPACE>T6_VIL_C-08</NAMESPACE><LOCALID>T6_VIL_C-08</LOCALID><ORIG_FID>3341</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-09</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>398</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3415</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-09</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-09</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3342</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.422297737656898,42.43900199140724,-2.422297737656898</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-09</FINCA><SUPERFICIE>398</SUPERFICIE><IDGIS>3415</IDGIS><NAMESPACE>T6_VIL_C-09</NAMESPACE><LOCALID>T6_VIL_C-09</LOCALID><ORIG_FID>3342</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>CR-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3869</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3416</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_CR-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_CR-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3343</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418218931739403,42.43926344870989,-2.418218931739403</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>CR-1</FINCA><SUPERFICIE>3869</SUPERFICIE><IDGIS>3416</IDGIS><NAMESPACE>T6_VIL_CR-1</NAMESPACE><LOCALID>T6_VIL_CR-1</LOCALID><ORIG_FID>3343</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>R-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>936</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3417</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_R-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_R-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3344</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.421643074657062,42.43944294742723,-2.421643074657062</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>R-2</FINCA><SUPERFICIE>936</SUPERFICIE><IDGIS>3417</IDGIS><NAMESPACE>T6_VIL_R-2</NAMESPACE><LOCALID>T6_VIL_R-2</LOCALID><ORIG_FID>3344</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>R-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>238</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3418</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_R-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_R-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3345</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41842673904912,42.43934954176422,-2.41842673904912</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>R-3</FINCA><SUPERFICIE>238</SUPERFICIE><IDGIS>3418</IDGIS><NAMESPACE>T6_VIL_R-3</NAMESPACE><LOCALID>T6_VIL_R-3</LOCALID><ORIG_FID>3345</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0073</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1066</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3419</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0073</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0073</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3346</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.419080007975541,42.44391149834051,-2.419080007975541</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0073</FINCA><SUPERFICIE>1066</SUPERFICIE><IDGIS>3419</IDGIS><NAMESPACE>T6_VIL_0073</NAMESPACE><LOCALID>T6_VIL_0073</LOCALID><ORIG_FID>3346</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0074</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>104</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3420</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0074</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0074</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3347</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.419119938189077,42.4446818045936,-2.419119938189077</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0074</FINCA><SUPERFICIE>104</SUPERFICIE><IDGIS>3420</IDGIS><NAMESPACE>T6_VIL_0074</NAMESPACE><LOCALID>T6_VIL_0074</LOCALID><ORIG_FID>3347</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0064</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>468</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3421</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0064</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0064</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3348</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418350921321657,42.4391281568675,-2.418350921321657</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0064</FINCA><SUPERFICIE>468</SUPERFICIE><IDGIS>3421</IDGIS><NAMESPACE>T6_VIL_0064</NAMESPACE><LOCALID>T6_VIL_0064</LOCALID><ORIG_FID>3348</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0064-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>90</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3422</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0064-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0064-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3349</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418313934117149,42.43895458154032,-2.418313934117149</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0064-A</FINCA><SUPERFICIE>90</SUPERFICIE><IDGIS>3422</IDGIS><NAMESPACE>T6_VIL_0064-A</NAMESPACE><LOCALID>T6_VIL_0064-A</LOCALID><ORIG_FID>3349</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0082</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5064</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3423</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0082</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0082</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3350</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418023051833912,42.44204828781815,-2.418023051833912</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0082</FINCA><SUPERFICIE>5064</SUPERFICIE><IDGIS>3423</IDGIS><NAMESPACE>T6_VIL_0082</NAMESPACE><LOCALID>T6_VIL_0082</LOCALID><ORIG_FID>3350</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0084</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3424</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0084</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0084</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3351</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.417693653179017,42.44194405810033,-2.417693653179017</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0084</FINCA><SUPERFICIE>15</SUPERFICIE><IDGIS>3424</IDGIS><NAMESPACE>T6_VIL_0084</NAMESPACE><LOCALID>T6_VIL_0084</LOCALID><ORIG_FID>3351</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0087</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6214</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3425</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0087</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0087</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3352</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.417344112001843,42.44285165996901,-2.417344112001843</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0087</FINCA><SUPERFICIE>6214</SUPERFICIE><IDGIS>3425</IDGIS><NAMESPACE>T6_VIL_0087</NAMESPACE><LOCALID>T6_VIL_0087</LOCALID><ORIG_FID>3352</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0088</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>517</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3426</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0088</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0088</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3353</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.417129239438336,42.4424965652323,-2.417129239438336</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0088</FINCA><SUPERFICIE>517</SUPERFICIE><IDGIS>3426</IDGIS><NAMESPACE>T6_VIL_0088</NAMESPACE><LOCALID>T6_VIL_0088</LOCALID><ORIG_FID>3353</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0089</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>340</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3427</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0089</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0089</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3354</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416860866683499,42.44281642186539,-2.416860866683499</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0089</FINCA><SUPERFICIE>340</SUPERFICIE><IDGIS>3427</IDGIS><NAMESPACE>T6_VIL_0089</NAMESPACE><LOCALID>T6_VIL_0089</LOCALID><ORIG_FID>3354</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0090</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>419</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3428</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0090</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0090</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3355</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416673087464877,42.4430152809182,-2.416673087464877</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0090</FINCA><SUPERFICIE>419</SUPERFICIE><IDGIS>3428</IDGIS><NAMESPACE>T6_VIL_0090</NAMESPACE><LOCALID>T6_VIL_0090</LOCALID><ORIG_FID>3355</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0091</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>715</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3429</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0091</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0091</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3356</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416504629397902,42.44323787586689,-2.416504629397902</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0091</FINCA><SUPERFICIE>715</SUPERFICIE><IDGIS>3429</IDGIS><NAMESPACE>T6_VIL_0091</NAMESPACE><LOCALID>T6_VIL_0091</LOCALID><ORIG_FID>3356</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0092</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1054</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3430</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0092</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0092</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3357</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416916119981655,42.44342051702945,-2.416916119981655</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0092</FINCA><SUPERFICIE>1054</SUPERFICIE><IDGIS>3430</IDGIS><NAMESPACE>T6_VIL_0092</NAMESPACE><LOCALID>T6_VIL_0092</LOCALID><ORIG_FID>3357</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0094</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1118</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3431</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0094</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0094</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3358</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416423338848257,42.44346073335908,-2.416423338848257</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0094</FINCA><SUPERFICIE>1118</SUPERFICIE><IDGIS>3431</IDGIS><NAMESPACE>T6_VIL_0094</NAMESPACE><LOCALID>T6_VIL_0094</LOCALID><ORIG_FID>3358</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0095</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>319</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3432</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0095</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0095</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3359</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416402021423801,42.44360871737704,-2.416402021423801</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0095</FINCA><SUPERFICIE>319</SUPERFICIE><IDGIS>3432</IDGIS><NAMESPACE>T6_VIL_0095</NAMESPACE><LOCALID>T6_VIL_0095</LOCALID><ORIG_FID>3359</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>CR-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3872</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3433</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_CR-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_CR-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3360</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41881289287532,42.44317140523445,-2.41881289287532</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>CR-2</FINCA><SUPERFICIE>3872</SUPERFICIE><IDGIS>3433</IDGIS><NAMESPACE>T6_VIL_CR-2</NAMESPACE><LOCALID>T6_VIL_CR-2</LOCALID><ORIG_FID>3360</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0093</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1227</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3434</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0093</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0093</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3361</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416743409462257,42.44378809779837,-2.416743409462257</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0093</FINCA><SUPERFICIE>1227</SUPERFICIE><IDGIS>3434</IDGIS><NAMESPACE>T6_VIL_0093</NAMESPACE><LOCALID>T6_VIL_0093</LOCALID><ORIG_FID>3361</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0098-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>207</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3435</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0098-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0098-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3362</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.415744632619249,42.44375575662961,-2.415744632619249</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0098-B</FINCA><SUPERFICIE>207</SUPERFICIE><IDGIS>3435</IDGIS><NAMESPACE>T6_VIL_0098-B</NAMESPACE><LOCALID>T6_VIL_0098-B</LOCALID><ORIG_FID>3362</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0098</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>60</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3436</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0098</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0098</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3363</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.415608957454453,42.44397560930849,-2.415608957454453</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0098</FINCA><SUPERFICIE>60</SUPERFICIE><IDGIS>3436</IDGIS><NAMESPACE>T6_VIL_0098</NAMESPACE><LOCALID>T6_VIL_0098</LOCALID><ORIG_FID>3363</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0098-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>470</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3438</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0098-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0098-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3364</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.415648489414513,42.44372295327378,-2.415648489414513</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0098-A</FINCA><SUPERFICIE>470</SUPERFICIE><IDGIS>3438</IDGIS><NAMESPACE>T6_VIL_0098-A</NAMESPACE><LOCALID>T6_VIL_0098-A</LOCALID><ORIG_FID>3364</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-5A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>151</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3439</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_A-5A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_A-5A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3365</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41555849635014,42.44371097587824,-2.41555849635014</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>A-5A</FINCA><SUPERFICIE>151</SUPERFICIE><IDGIS>3439</IDGIS><NAMESPACE>T6_VIL_A-5A</NAMESPACE><LOCALID>T6_VIL_A-5A</LOCALID><ORIG_FID>3365</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-16</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>148</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3440</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-16</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-16</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3366</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.415548308756875,42.44393772286255,-2.415548308756875</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-16</FINCA><SUPERFICIE>148</SUPERFICIE><IDGIS>3440</IDGIS><NAMESPACE>T6_VIL_C-16</NAMESPACE><LOCALID>T6_VIL_C-16</LOCALID><ORIG_FID>3366</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0093-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>94</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3441</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0093-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0093-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3367</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41665619380167,42.44426940344847,-2.41665619380167</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0093-1</FINCA><SUPERFICIE>94</SUPERFICIE><IDGIS>3441</IDGIS><NAMESPACE>T6_VIL_0093-1</NAMESPACE><LOCALID>T6_VIL_0093-1</LOCALID><ORIG_FID>3367</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0096</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4754</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3442</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0096</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0096</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3368</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416126382958284,42.4440179217402,-2.416126382958284</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0096</FINCA><SUPERFICIE>4754</SUPERFICIE><IDGIS>3442</IDGIS><NAMESPACE>T6_VIL_0096</NAMESPACE><LOCALID>T6_VIL_0096</LOCALID><ORIG_FID>3368</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0096-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>586</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3443</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0096-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0096-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3369</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416421023342664,42.44435310613957,-2.416421023342664</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0096-A</FINCA><SUPERFICIE>586</SUPERFICIE><IDGIS>3443</IDGIS><NAMESPACE>T6_VIL_0096-A</NAMESPACE><LOCALID>T6_VIL_0096-A</LOCALID><ORIG_FID>3369</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1033</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3444</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_A-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_A-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3370</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.417227277573097,42.44269817869383,-2.417227277573097</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>A-3</FINCA><SUPERFICIE>1033</SUPERFICIE><IDGIS>3444</IDGIS><NAMESPACE>T6_VIL_A-3</NAMESPACE><LOCALID>T6_VIL_A-3</LOCALID><ORIG_FID>3370</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0110</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1840</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3445</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0110</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0110</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3371</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.416815993292904,42.44463776909372,-2.416815993292904</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0110</FINCA><SUPERFICIE>1840</SUPERFICIE><IDGIS>3445</IDGIS><NAMESPACE>T6_VIL_0110</NAMESPACE><LOCALID>T6_VIL_0110</LOCALID><ORIG_FID>3371</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0110-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>67</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3446</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0110-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0110-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3372</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.417227160597904,42.4450580134608,-2.417227160597904</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0110-A</FINCA><SUPERFICIE>67</SUPERFICIE><IDGIS>3446</IDGIS><NAMESPACE>T6_VIL_0110-A</NAMESPACE><LOCALID>T6_VIL_0110-A</LOCALID><ORIG_FID>3372</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0109</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>133</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3447</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0109</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0109</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3373</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41730595689392,42.44536979026295,-2.41730595689392</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0109</FINCA><SUPERFICIE>133</SUPERFICIE><IDGIS>3447</IDGIS><NAMESPACE>T6_VIL_0109</NAMESPACE><LOCALID>T6_VIL_0109</LOCALID><ORIG_FID>3373</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0109-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>699</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3448</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0109-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0109-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3374</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.417605972097574,42.4455460254167,-2.417605972097574</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0109-A</FINCA><SUPERFICIE>699</SUPERFICIE><IDGIS>3448</IDGIS><NAMESPACE>T6_VIL_0109-A</NAMESPACE><LOCALID>T6_VIL_0109-A</LOCALID><ORIG_FID>3374</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0112</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>115</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3449</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0112</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0112</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3375</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418088253900127,42.4461262408115,-2.418088253900127</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0112</FINCA><SUPERFICIE>115</SUPERFICIE><IDGIS>3449</IDGIS><NAMESPACE>T6_VIL_0112</NAMESPACE><LOCALID>T6_VIL_0112</LOCALID><ORIG_FID>3375</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0111</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>237</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3450</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0111</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0111</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3376</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41705063986748,42.44514966973718,-2.41705063986748</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0111</FINCA><SUPERFICIE>237</SUPERFICIE><IDGIS>3450</IDGIS><NAMESPACE>T6_VIL_0111</NAMESPACE><LOCALID>T6_VIL_0111</LOCALID><ORIG_FID>3376</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="138">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0108</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>753</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3451</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0108</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0108</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3377</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.417642843801134,42.44581588431287,-2.417642843801134</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0108</FINCA><SUPERFICIE>753</SUPERFICIE><IDGIS>3451</IDGIS><NAMESPACE>T6_VIL_0108</NAMESPACE><LOCALID>T6_VIL_0108</LOCALID><ORIG_FID>3377</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="139">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0111-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>458</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3452</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0111-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0111-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3378</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.417024734656284,42.44525484965701,-2.417024734656284</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0111-A</FINCA><SUPERFICIE>458</SUPERFICIE><IDGIS>3452</IDGIS><NAMESPACE>T6_VIL_0111-A</NAMESPACE><LOCALID>T6_VIL_0111-A</LOCALID><ORIG_FID>3378</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="140">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-15</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2363</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3453</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-15</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-15</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3379</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.417008735061708,42.44516315102003,-2.417008735061708</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-15</FINCA><SUPERFICIE>2363</SUPERFICIE><IDGIS>3453</IDGIS><NAMESPACE>T6_VIL_C-15</NAMESPACE><LOCALID>T6_VIL_C-15</LOCALID><ORIG_FID>3379</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="141">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0099</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4853</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3454</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0099</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0099</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3380</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.415569190158525,42.4447152180688,-2.415569190158525</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0099</FINCA><SUPERFICIE>4853</SUPERFICIE><IDGIS>3454</IDGIS><NAMESPACE>T6_VIL_0099</NAMESPACE><LOCALID>T6_VIL_0099</LOCALID><ORIG_FID>3380</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="142">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0100</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5933</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3455</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0100</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0100</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3381</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.414957380999304,42.44544089149061,-2.414957380999304</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0100</FINCA><SUPERFICIE>5933</SUPERFICIE><IDGIS>3455</IDGIS><NAMESPACE>T6_VIL_0100</NAMESPACE><LOCALID>T6_VIL_0100</LOCALID><ORIG_FID>3381</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="143">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0101</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2482</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3456</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0101</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0101</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3382</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.414486708708736,42.44599768214972,-2.414486708708736</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0101</FINCA><SUPERFICIE>2482</SUPERFICIE><IDGIS>3456</IDGIS><NAMESPACE>T6_VIL_0101</NAMESPACE><LOCALID>T6_VIL_0101</LOCALID><ORIG_FID>3382</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="144">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0102</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2342</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3457</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0102</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0102</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3383</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.414215100112019,42.44630808303327,-2.414215100112019</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0102</FINCA><SUPERFICIE>2342</SUPERFICIE><IDGIS>3457</IDGIS><NAMESPACE>T6_VIL_0102</NAMESPACE><LOCALID>T6_VIL_0102</LOCALID><ORIG_FID>3383</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="145">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3049</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3458</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0103</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0103</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3384</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.413917799446419,42.44664718344617,-2.413917799446419</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0103</FINCA><SUPERFICIE>3049</SUPERFICIE><IDGIS>3458</IDGIS><NAMESPACE>T6_VIL_0103</NAMESPACE><LOCALID>T6_VIL_0103</LOCALID><ORIG_FID>3384</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="146">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0104</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5711</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3459</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0104</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0104</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3385</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.413435622525966,42.44720016976966,-2.413435622525966</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0104</FINCA><SUPERFICIE>5711</SUPERFICIE><IDGIS>3459</IDGIS><NAMESPACE>T6_VIL_0104</NAMESPACE><LOCALID>T6_VIL_0104</LOCALID><ORIG_FID>3385</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="147">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0106</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>71</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3460</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0106</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0106</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3386</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.413291218063444,42.44688390199128,-2.413291218063444</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0106</FINCA><SUPERFICIE>71</SUPERFICIE><IDGIS>3460</IDGIS><NAMESPACE>T6_VIL_0106</NAMESPACE><LOCALID>T6_VIL_0106</LOCALID><ORIG_FID>3386</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="148">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0105</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2886</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3461</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0105</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0105</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3387</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41287789688126,42.44779617828472,-2.41287789688126</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0105</FINCA><SUPERFICIE>2886</SUPERFICIE><IDGIS>3461</IDGIS><NAMESPACE>T6_VIL_0105</NAMESPACE><LOCALID>T6_VIL_0105</LOCALID><ORIG_FID>3387</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="149">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0106-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1997</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3462</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0106-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0106-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3388</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.412318064390308,42.44802882403076,-2.412318064390308</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0106-2</FINCA><SUPERFICIE>1997</SUPERFICIE><IDGIS>3462</IDGIS><NAMESPACE>T6_VIL_0106-2</NAMESPACE><LOCALID>T6_VIL_0106-2</LOCALID><ORIG_FID>3388</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="150">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0107</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1597</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3463</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0107</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0107</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3389</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41275507015153,42.4482136011239,-2.41275507015153</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0107</FINCA><SUPERFICIE>1597</SUPERFICIE><IDGIS>3463</IDGIS><NAMESPACE>T6_VIL_0107</NAMESPACE><LOCALID>T6_VIL_0107</LOCALID><ORIG_FID>3389</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="151">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>363</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3464</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_A-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_A-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3390</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.412739488815825,42.44806001271177,-2.412739488815825</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>A-4</FINCA><SUPERFICIE>363</SUPERFICIE><IDGIS>3464</IDGIS><NAMESPACE>T6_VIL_A-4</NAMESPACE><LOCALID>T6_VIL_A-4</LOCALID><ORIG_FID>3390</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="152">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-17</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>130</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3465</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-17</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-17</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>3391</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.412486278588705,42.44845027895365,-2.412486278588705</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-17</FINCA><SUPERFICIE>130</SUPERFICIE><IDGIS>3465</IDGIS><NAMESPACE>T6_VIL_C-17</NAMESPACE><LOCALID>T6_VIL_C-17</LOCALID><ORIG_FID>3391</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="153">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0055</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>20</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5548</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0055</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0055</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5366</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.420581116051333,42.44044467539904,-2.420581116051333</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0055</FINCA><SUPERFICIE>20</SUPERFICIE><IDGIS>5548</IDGIS><NAMESPACE>T6_VIL_0055</NAMESPACE><LOCALID>T6_VIL_0055</LOCALID><ORIG_FID>5366</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="154">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5843</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0016-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0016-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6150</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.429641856293949,42.43674501414969,-2.429641856293949</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0016-2</FINCA><SUPERFICIE>3</SUPERFICIE><IDGIS>5843</IDGIS><NAMESPACE>T6_VIL_0016-2</NAMESPACE><LOCALID>T6_VIL_0016-2</LOCALID><ORIG_FID>6150</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="155">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0067</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>147</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3392</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0067</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0067</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6151</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418083038889089,42.43896772272993,-2.418083038889089</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0067</FINCA><SUPERFICIE>147</SUPERFICIE><IDGIS>3392</IDGIS><NAMESPACE>T6_VIL_0067</NAMESPACE><LOCALID>T6_VIL_0067</LOCALID><ORIG_FID>6151</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="156">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0067-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>144</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5845</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0067-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0067-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6152</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418089544974533,42.43913446909719,-2.418089544974533</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0067-A</FINCA><SUPERFICIE>144</SUPERFICIE><IDGIS>5845</IDGIS><NAMESPACE>T6_VIL_0067-A</NAMESPACE><LOCALID>T6_VIL_0067-A</LOCALID><ORIG_FID>6152</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="157">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0066</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>116</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>3391</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0066</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0066</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6153</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418163978625962,42.4395230954199,-2.418163978625962</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0066</FINCA><SUPERFICIE>116</SUPERFICIE><IDGIS>3391</IDGIS><NAMESPACE>T6_VIL_0066</NAMESPACE><LOCALID>T6_VIL_0066</LOCALID><ORIG_FID>6153</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="158">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0065</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>38</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5844</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0065</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0065</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6154</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418214443361566,42.43975558574847,-2.418214443361566</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0065</FINCA><SUPERFICIE>38</SUPERFICIE><IDGIS>5844</IDGIS><NAMESPACE>T6_VIL_0065</NAMESPACE><LOCALID>T6_VIL_0065</LOCALID><ORIG_FID>6154</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="159">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-02</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>197</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5846</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-02</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-02</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6155</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.432456511950033,42.43504399601945,-2.432456511950033</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-02</FINCA><SUPERFICIE>197</SUPERFICIE><IDGIS>5846</IDGIS><NAMESPACE>T6_VIL_C-02</NAMESPACE><LOCALID>T6_VIL_C-02</LOCALID><ORIG_FID>6155</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="160">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-13</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>17</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>5848</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_C-13</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_C-13</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6156</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.418825816400713,42.443828477428,-2.418825816400713</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>C-13</FINCA><SUPERFICIE>17</SUPERFICIE><IDGIS>5848</IDGIS><NAMESPACE>T6_VIL_C-13</NAMESPACE><LOCALID>T6_VIL_C-13</LOCALID><ORIG_FID>6156</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="161">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-3A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>151</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9685</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_A-3A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_A-3A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9376</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41653950086846,42.44436330959063,-2.41653950086846</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>A-3A</FINCA><SUPERFICIE>151</SUPERFICIE><IDGIS>9685</IDGIS><NAMESPACE>T6_VIL_A-3A</NAMESPACE><LOCALID>T6_VIL_A-3A</LOCALID><ORIG_FID>9376</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="162">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T6</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>VIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0086</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>0</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9686</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T6_VIL_0086</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T6_VIL_0086</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9377</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.41775163648789,42.44285514738601,-2.41775163648789</coordinates>
+		</Point>
+		<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0086</FINCA><SUPERFICIE>0</SUPERFICIE><IDGIS>9686</IDGIS><NAMESPACE>T6_VIL_0086</NAMESPACE><LOCALID>T6_VIL_0086</LOCALID><ORIG_FID>9377</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

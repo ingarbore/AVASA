@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T9_LUC_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>41.81970013187541</north>
+			<south>41.80498187253716</south>
+			<east>-1.261856300588146</east>
+			<west>-1.28612990717603</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4707</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7272</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0026</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0026</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7042</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.263810662472138,41.80544044048782,-1.263810662472138</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0026</FINCA><SUPERFICIE>4707</SUPERFICIE><IDGIS>7272</IDGIS><NAMESPACE>T9_LUC_0026</NAMESPACE><LOCALID>T9_LUC_0026</LOCALID><ORIG_FID>7042</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5695</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7273</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0025</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0025</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7043</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.263697288035236,41.80578066652992,-1.263697288035236</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0025</FINCA><SUPERFICIE>5695</SUPERFICIE><IDGIS>7273</IDGIS><NAMESPACE>T9_LUC_0025</NAMESPACE><LOCALID>T9_LUC_0025</LOCALID><ORIG_FID>7043</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0024</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9243</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7274</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0024</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0024</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7044</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.263313258678104,41.80583845466009,-1.263313258678104</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0024</FINCA><SUPERFICIE>9243</SUPERFICIE><IDGIS>7274</IDGIS><NAMESPACE>T9_LUC_0024</NAMESPACE><LOCALID>T9_LUC_0024</LOCALID><ORIG_FID>7044</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0029</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>478</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7275</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0029</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0029</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7045</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.264368043092889,41.80660151011778,-1.264368043092889</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0029</FINCA><SUPERFICIE>478</SUPERFICIE><IDGIS>7275</IDGIS><NAMESPACE>T9_LUC_0029</NAMESPACE><LOCALID>T9_LUC_0029</LOCALID><ORIG_FID>7045</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>49</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7276</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0015</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0015</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7046</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.266559869151234,41.8082793403815,-1.266559869151234</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0015</FINCA><SUPERFICIE>49</SUPERFICIE><IDGIS>7276</IDGIS><NAMESPACE>T9_LUC_0015</NAMESPACE><LOCALID>T9_LUC_0015</LOCALID><ORIG_FID>7046</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8658</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7277</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0016</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0016</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7047</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.265436161501979,41.80755167196291,-1.265436161501979</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0016</FINCA><SUPERFICIE>8658</SUPERFICIE><IDGIS>7277</IDGIS><NAMESPACE>T9_LUC_0016</NAMESPACE><LOCALID>T9_LUC_0016</LOCALID><ORIG_FID>7047</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5558</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7278</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0011-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0011-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7048</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.269451410240869,41.81134725132067,-1.269451410240869</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0011-1</FINCA><SUPERFICIE>5558</SUPERFICIE><IDGIS>7278</IDGIS><NAMESPACE>T9_LUC_0011-1</NAMESPACE><LOCALID>T9_LUC_0011-1</LOCALID><ORIG_FID>7048</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>530</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7279</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0010</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0010</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7049</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.268881455163657,41.81001100284771,-1.268881455163657</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0010</FINCA><SUPERFICIE>530</SUPERFICIE><IDGIS>7279</IDGIS><NAMESPACE>T9_LUC_0010</NAMESPACE><LOCALID>T9_LUC_0010</LOCALID><ORIG_FID>7049</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>33</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7280</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0010-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0010-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7050</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.26751282603258,41.8079403314938,-1.26751282603258</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0010-1</FINCA><SUPERFICIE>33</SUPERFICIE><IDGIS>7280</IDGIS><NAMESPACE>T9_LUC_0010-1</NAMESPACE><LOCALID>T9_LUC_0010-1</LOCALID><ORIG_FID>7050</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>896</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7281</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0019-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0019-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7051</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.264963813107419,41.80904872885441,-1.264963813107419</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0019-1</FINCA><SUPERFICIE>896</SUPERFICIE><IDGIS>7281</IDGIS><NAMESPACE>T9_LUC_0019-1</NAMESPACE><LOCALID>T9_LUC_0019-1</LOCALID><ORIG_FID>7051</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>269</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7282</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0021-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0021-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7052</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.264249995126272,41.80903107016391,-1.264249995126272</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0021-1</FINCA><SUPERFICIE>269</SUPERFICIE><IDGIS>7282</IDGIS><NAMESPACE>T9_LUC_0021-1</NAMESPACE><LOCALID>T9_LUC_0021-1</LOCALID><ORIG_FID>7052</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>331</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7283</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0022-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0022-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7053</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.263824568485338,41.80913162391749,-1.263824568485338</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0022-1</FINCA><SUPERFICIE>331</SUPERFICIE><IDGIS>7283</IDGIS><NAMESPACE>T9_LUC_0022-1</NAMESPACE><LOCALID>T9_LUC_0022-1</LOCALID><ORIG_FID>7053</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>635</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7284</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0020-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0020-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7054</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.264583267695896,41.80899796256912,-1.264583267695896</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0020-1</FINCA><SUPERFICIE>635</SUPERFICIE><IDGIS>7284</IDGIS><NAMESPACE>T9_LUC_0020-1</NAMESPACE><LOCALID>T9_LUC_0020-1</LOCALID><ORIG_FID>7054</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>17</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7285</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0020</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0020</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7055</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.264369164675787,41.80889133771512,-1.264369164675787</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0020</FINCA><SUPERFICIE>17</SUPERFICIE><IDGIS>7285</IDGIS><NAMESPACE>T9_LUC_0020</NAMESPACE><LOCALID>T9_LUC_0020</LOCALID><ORIG_FID>7055</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>73</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7286</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0021</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0021</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7056</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.26415492943096,41.80894548642091,-1.26415492943096</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0021</FINCA><SUPERFICIE>73</SUPERFICIE><IDGIS>7286</IDGIS><NAMESPACE>T9_LUC_0021</NAMESPACE><LOCALID>T9_LUC_0021</LOCALID><ORIG_FID>7056</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>128</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7287</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0022</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0022</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7057</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.263797349987963,41.80904823823062,-1.263797349987963</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0022</FINCA><SUPERFICIE>128</SUPERFICIE><IDGIS>7287</IDGIS><NAMESPACE>T9_LUC_0022</NAMESPACE><LOCALID>T9_LUC_0022</LOCALID><ORIG_FID>7057</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6182</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7288</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0011</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0011</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7058</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.268788456379222,41.81098313530153,-1.268788456379222</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0011</FINCA><SUPERFICIE>6182</SUPERFICIE><IDGIS>7288</IDGIS><NAMESPACE>T9_LUC_0011</NAMESPACE><LOCALID>T9_LUC_0011</LOCALID><ORIG_FID>7058</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6965</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7289</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0017</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0017</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7059</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.265055514877723,41.80763503419145,-1.265055514877723</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0017</FINCA><SUPERFICIE>6965</SUPERFICIE><IDGIS>7289</IDGIS><NAMESPACE>T9_LUC_0017</NAMESPACE><LOCALID>T9_LUC_0017</LOCALID><ORIG_FID>7059</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4746</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7290</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0018</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0018</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7060</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.26472740747858,41.80768327470951,-1.26472740747858</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0018</FINCA><SUPERFICIE>4746</SUPERFICIE><IDGIS>7290</IDGIS><NAMESPACE>T9_LUC_0018</NAMESPACE><LOCALID>T9_LUC_0018</LOCALID><ORIG_FID>7060</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2225</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7291</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7061</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.265533643004956,41.8090344816494,-1.265533643004956</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0014</FINCA><SUPERFICIE>2225</SUPERFICIE><IDGIS>7291</IDGIS><NAMESPACE>T9_LUC_0014</NAMESPACE><LOCALID>T9_LUC_0014</LOCALID><ORIG_FID>7061</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0028</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1115</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7292</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0028</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0028</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7062</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.265563538233222,41.8085785196535,-1.265563538233222</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0028</FINCA><SUPERFICIE>1115</SUPERFICIE><IDGIS>7292</IDGIS><NAMESPACE>T9_LUC_0028</NAMESPACE><LOCALID>T9_LUC_0028</LOCALID><ORIG_FID>7062</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0012</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>21964</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7293</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0012</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0012</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7063</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.267543648056802,41.81008094692925,-1.267543648056802</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0012</FINCA><SUPERFICIE>21964</SUPERFICIE><IDGIS>7293</IDGIS><NAMESPACE>T9_LUC_0012</NAMESPACE><LOCALID>T9_LUC_0012</LOCALID><ORIG_FID>7063</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5462</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7294</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0013</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0013</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7064</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.266310843818209,41.80931525679882,-1.266310843818209</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0013</FINCA><SUPERFICIE>5462</SUPERFICIE><IDGIS>7294</IDGIS><NAMESPACE>T9_LUC_0013</NAMESPACE><LOCALID>T9_LUC_0013</LOCALID><ORIG_FID>7064</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>23509</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7295</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0009</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0009</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7065</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.271741915519329,41.8131258660883,-1.271741915519329</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0009</FINCA><SUPERFICIE>23509</SUPERFICIE><IDGIS>7295</IDGIS><NAMESPACE>T9_LUC_0009</NAMESPACE><LOCALID>T9_LUC_0009</LOCALID><ORIG_FID>7065</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9898</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7296</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0008</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0008</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7066</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.273917931769875,41.81435093392548,-1.273917931769875</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0008</FINCA><SUPERFICIE>9898</SUPERFICIE><IDGIS>7296</IDGIS><NAMESPACE>T9_LUC_0008</NAMESPACE><LOCALID>T9_LUC_0008</LOCALID><ORIG_FID>7066</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0007</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9169</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7297</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0007</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0007</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7067</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.275271602600654,41.81501205946749,-1.275271602600654</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0007</FINCA><SUPERFICIE>9169</SUPERFICIE><IDGIS>7297</IDGIS><NAMESPACE>T9_LUC_0007</NAMESPACE><LOCALID>T9_LUC_0007</LOCALID><ORIG_FID>7067</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7550</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7298</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0005</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0005</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7068</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.276609735239752,41.81559174951811,-1.276609735239752</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0005</FINCA><SUPERFICIE>7550</SUPERFICIE><IDGIS>7298</IDGIS><NAMESPACE>T9_LUC_0005</NAMESPACE><LOCALID>T9_LUC_0005</LOCALID><ORIG_FID>7068</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0004</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7687</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7299</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0004</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0004</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7069</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.277845194694382,41.81608527367602,-1.277845194694382</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0004</FINCA><SUPERFICIE>7687</SUPERFICIE><IDGIS>7299</IDGIS><NAMESPACE>T9_LUC_0004</NAMESPACE><LOCALID>T9_LUC_0004</LOCALID><ORIG_FID>7069</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9790</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7300</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0003</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0003</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7070</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.279224888500458,41.81656601764798,-1.279224888500458</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0003</FINCA><SUPERFICIE>9790</SUPERFICIE><IDGIS>7300</IDGIS><NAMESPACE>T9_LUC_0003</NAMESPACE><LOCALID>T9_LUC_0003</LOCALID><ORIG_FID>7070</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14428</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7301</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0002</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0002</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7071</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.280152933875006,41.81712909762875,-1.280152933875006</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0002</FINCA><SUPERFICIE>14428</SUPERFICIE><IDGIS>7301</IDGIS><NAMESPACE>T9_LUC_0002</NAMESPACE><LOCALID>T9_LUC_0002</LOCALID><ORIG_FID>7071</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>72788</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7303</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0001</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0001</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7072</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.285746973328922,41.81970013187541,-1.285746973328922</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0001</FINCA><SUPERFICIE>72788</SUPERFICIE><IDGIS>7303</IDGIS><NAMESPACE>T9_LUC_0001</NAMESPACE><LOCALID>T9_LUC_0001</LOCALID><ORIG_FID>7072</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>152</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10072</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0019-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0019-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9740</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.265053020159064,41.80920437145879,-1.265053020159064</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0019-1A</FINCA><SUPERFICIE>152</SUPERFICIE><IDGIS>10072</IDGIS><NAMESPACE>T9_LUC_0019-1A</NAMESPACE><LOCALID>T9_LUC_0019-1A</LOCALID><ORIG_FID>9740</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>263</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10073</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0020-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0020-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9741</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.264653035487686,41.80912850691813,-1.264653035487686</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0020-1A</FINCA><SUPERFICIE>263</SUPERFICIE><IDGIS>10073</IDGIS><NAMESPACE>T9_LUC_0020-1A</NAMESPACE><LOCALID>T9_LUC_0020-1A</LOCALID><ORIG_FID>9741</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>171</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10074</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0021-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0021-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9742</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.264285367405515,41.8091046574218,-1.264285367405515</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0021-1A</FINCA><SUPERFICIE>171</SUPERFICIE><IDGIS>10074</IDGIS><NAMESPACE>T9_LUC_0021-1A</NAMESPACE><LOCALID>T9_LUC_0021-1A</LOCALID><ORIG_FID>9742</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>264</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10075</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0022-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0022-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9743</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.263731623112728,41.80919530149438,-1.263731623112728</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0022-1A</FINCA><SUPERFICIE>264</SUPERFICIE><IDGIS>10075</IDGIS><NAMESPACE>T9_LUC_0022-1A</NAMESPACE><LOCALID>T9_LUC_0022-1A</LOCALID><ORIG_FID>9743</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>44</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10076</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0027</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0027</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9744</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.262244564686772,41.80498187253716,-1.262244564686772</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0027</FINCA><SUPERFICIE>44</SUPERFICIE><IDGIS>10076</IDGIS><NAMESPACE>T9_LUC_0027</NAMESPACE><LOCALID>T9_LUC_0027</LOCALID><ORIG_FID>9744</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>LUC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>727</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12687</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_LUC_0014-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_LUC_0014-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11561</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.265829364996129,41.80928438921545,-1.265829364996129</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>LUC</TERMINO><FINCA>0014-1A</FINCA><SUPERFICIE>727</SUPERFICIE><IDGIS>12687</IDGIS><NAMESPACE>T9_LUC_0014-1A</NAMESPACE><LOCALID>T9_LUC_0014-1A</LOCALID><ORIG_FID>11561</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

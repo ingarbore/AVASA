@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T2_URC_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>43.01980837500322</north>
+			<south>42.94663025568509</south>
+			<east>-2.872624708722795</east>
+			<west>-2.914947960590675</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>3101</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>546</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12434</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_3101</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_3101</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10171</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884918394679375,42.94664310705453,-2.884918394679375</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>3101</FINCA><SUPERFICIE>546</SUPERFICIE><IDGIS>12434</IDGIS><NAMESPACE>T2_URC_3101</NAMESPACE><LOCALID>T2_URC_3101</LOCALID><ORIG_FID>10171</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1317</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>333</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10523</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1317</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1317</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10172</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884535610514908,42.94677161984729,-2.884535610514908</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1317</FINCA><SUPERFICIE>333</SUPERFICIE><IDGIS>10523</IDGIS><NAMESPACE>T2_URC_1317</NAMESPACE><LOCALID>T2_URC_1317</LOCALID><ORIG_FID>10172</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1320</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>391</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12433</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1320</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1320</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10174</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884852121992529,42.94693741412376,-2.884852121992529</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1320</FINCA><SUPERFICIE>391</SUPERFICIE><IDGIS>12433</IDGIS><NAMESPACE>T2_URC_1320</NAMESPACE><LOCALID>T2_URC_1320</LOCALID><ORIG_FID>10174</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1318</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>901</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10526</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1318</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1318</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10175</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884626615041255,42.94696899603795,-2.884626615041255</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1318</FINCA><SUPERFICIE>901</SUPERFICIE><IDGIS>10526</IDGIS><NAMESPACE>T2_URC_1318</NAMESPACE><LOCALID>T2_URC_1318</LOCALID><ORIG_FID>10175</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1316</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2209</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10527</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1316</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1316</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10176</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884210032609861,42.9471007092237,-2.884210032609861</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1316</FINCA><SUPERFICIE>2209</SUPERFICIE><IDGIS>10527</IDGIS><NAMESPACE>T2_URC_1316</NAMESPACE><LOCALID>T2_URC_1316</LOCALID><ORIG_FID>10176</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1315</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>639</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10528</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1315</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1315</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10177</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.883845981086704,42.9469728379622,-2.883845981086704</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1315</FINCA><SUPERFICIE>639</SUPERFICIE><IDGIS>10528</IDGIS><NAMESPACE>T2_URC_1315</NAMESPACE><LOCALID>T2_URC_1315</LOCALID><ORIG_FID>10177</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1314</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>49322</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10529</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1314</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1314</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10178</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.880778619449883,42.94910400550642,-2.880778619449883</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1314</FINCA><SUPERFICIE>49322</SUPERFICIE><IDGIS>10529</IDGIS><NAMESPACE>T2_URC_1314</NAMESPACE><LOCALID>T2_URC_1314</LOCALID><ORIG_FID>10178</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1313</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>19563</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10530</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1313</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1313</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10179</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.877466216240344,42.95230270912025,-2.877466216240344</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1313</FINCA><SUPERFICIE>19563</SUPERFICIE><IDGIS>10530</IDGIS><NAMESPACE>T2_URC_1313</NAMESPACE><LOCALID>T2_URC_1313</LOCALID><ORIG_FID>10179</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1312</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>502</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11045</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1312</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1312</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10613</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.876627550521909,42.96800546613169,-2.876627550521909</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1312</FINCA><SUPERFICIE>502</SUPERFICIE><IDGIS>11045</IDGIS><NAMESPACE>T2_URC_1312</NAMESPACE><LOCALID>T2_URC_1312</LOCALID><ORIG_FID>10613</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1311</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5789</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11046</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1311</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1311</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10614</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.876911017547783,42.96853854955796,-2.876911017547783</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1311</FINCA><SUPERFICIE>5789</SUPERFICIE><IDGIS>11046</IDGIS><NAMESPACE>T2_URC_1311</NAMESPACE><LOCALID>T2_URC_1311</LOCALID><ORIG_FID>10614</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1310</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1173</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11047</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1310</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1310</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10615</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.877674579336704,42.96900132178458,-2.877674579336704</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1310</FINCA><SUPERFICIE>1173</SUPERFICIE><IDGIS>11047</IDGIS><NAMESPACE>T2_URC_1310</NAMESPACE><LOCALID>T2_URC_1310</LOCALID><ORIG_FID>10615</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1309</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>231</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11048</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1309</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1309</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10616</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.877960521132968,42.96934767193454,-2.877960521132968</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1309</FINCA><SUPERFICIE>231</SUPERFICIE><IDGIS>11048</IDGIS><NAMESPACE>T2_URC_1309</NAMESPACE><LOCALID>T2_URC_1309</LOCALID><ORIG_FID>10616</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1308</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>107937</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11049</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1308</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1308</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10617</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.875093799066311,42.96764982694243,-2.875093799066311</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1308</FINCA><SUPERFICIE>107937</SUPERFICIE><IDGIS>11049</IDGIS><NAMESPACE>T2_URC_1308</NAMESPACE><LOCALID>T2_URC_1308</LOCALID><ORIG_FID>10617</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1307</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1825</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11121</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1307</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1307</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10688</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902451561567559,43.00902091124134,-2.902451561567559</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1307</FINCA><SUPERFICIE>1825</SUPERFICIE><IDGIS>11121</IDGIS><NAMESPACE>T2_URC_1307</NAMESPACE><LOCALID>T2_URC_1307</LOCALID><ORIG_FID>10688</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1307-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3017</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11122</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1307-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1307-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10689</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.902294321257507,43.00855969832771,-2.902294321257507</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1307-1</FINCA><SUPERFICIE>3017</SUPERFICIE><IDGIS>11122</IDGIS><NAMESPACE>T2_URC_1307-1</NAMESPACE><LOCALID>T2_URC_1307-1</LOCALID><ORIG_FID>10689</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1306</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12134</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11142</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1306</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1306</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10708</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.90468620278568,43.0124269627289,-2.904686202785681</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1306</FINCA><SUPERFICIE>12134</SUPERFICIE><IDGIS>11142</IDGIS><NAMESPACE>T2_URC_1306</NAMESPACE><LOCALID>T2_URC_1306</LOCALID><ORIG_FID>10708</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1303-C</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1668</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11143</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1303-C</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1303-C</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10709</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.910144707033318,43.01623698803602,-2.910144707033318</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1303-C</FINCA><SUPERFICIE>1668</SUPERFICIE><IDGIS>11143</IDGIS><NAMESPACE>T2_URC_1303-C</NAMESPACE><LOCALID>T2_URC_1303-C</LOCALID><ORIG_FID>10709</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1303-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>979</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11144</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1303-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1303-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10710</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911307255371936,43.01756591831462,-2.911307255371936</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1303-B</FINCA><SUPERFICIE>979</SUPERFICIE><IDGIS>11144</IDGIS><NAMESPACE>T2_URC_1303-B</NAMESPACE><LOCALID>T2_URC_1303-B</LOCALID><ORIG_FID>10710</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1304</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3589</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11145</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1304</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1304</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10711</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914297667072253,43.01924164936364,-2.914297667072253</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1304</FINCA><SUPERFICIE>3589</SUPERFICIE><IDGIS>11145</IDGIS><NAMESPACE>T2_URC_1304</NAMESPACE><LOCALID>T2_URC_1304</LOCALID><ORIG_FID>10711</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1301</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>16</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11146</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1301</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1301</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10712</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913824743522687,43.01980760982278,-2.913824743522687</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1301</FINCA><SUPERFICIE>16</SUPERFICIE><IDGIS>11146</IDGIS><NAMESPACE>T2_URC_1301</NAMESPACE><LOCALID>T2_URC_1301</LOCALID><ORIG_FID>10712</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1302</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4080</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11151</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1302</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1302</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10717</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914013426411757,43.0193837665399,-2.914013426411756</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1302</FINCA><SUPERFICIE>4080</SUPERFICIE><IDGIS>11151</IDGIS><NAMESPACE>T2_URC_1302</NAMESPACE><LOCALID>T2_URC_1302</LOCALID><ORIG_FID>10717</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1303</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>119</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11152</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1303</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1303</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10718</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914847978835724,43.01915808612959,-2.914847978835724</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1303</FINCA><SUPERFICIE>119</SUPERFICIE><IDGIS>11152</IDGIS><NAMESPACE>T2_URC_1303</NAMESPACE><LOCALID>T2_URC_1303</LOCALID><ORIG_FID>10718</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>3130</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>332</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12432</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_3130</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_3130</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11964</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.885231467229232,42.94708057929924,-2.885231467229232</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>3130</FINCA><SUPERFICIE>332</SUPERFICIE><IDGIS>12432</IDGIS><NAMESPACE>T2_URC_3130</NAMESPACE><LOCALID>T2_URC_3130</LOCALID><ORIG_FID>11964</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1319</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>90</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>10522</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1319</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1319</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11966</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.884711209619876,42.94671352435535,-2.884711209619876</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1319</FINCA><SUPERFICIE>90</SUPERFICIE><IDGIS>10522</IDGIS><NAMESPACE>T2_URC_1319</NAMESPACE><LOCALID>T2_URC_1319</LOCALID><ORIG_FID>11966</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1308-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8228</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12446</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1308-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1308-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11977</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.872738719428057,42.96453558598932,-2.872738719428057</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1308-B</FINCA><SUPERFICIE>8228</SUPERFICIE><IDGIS>12446</IDGIS><NAMESPACE>T2_URC_1308-B</NAMESPACE><LOCALID>T2_URC_1308-B</LOCALID><ORIG_FID>11977</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>URC</value>
+			</Data>
+			<Data name="FINCA">
+				<value>1308-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6142</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12445</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_URC_1308-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_URC_1308-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11978</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.874511172212122,42.96551957000771,-2.874511172212122</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>URC</TERMINO><FINCA>1308-A</FINCA><SUPERFICIE>6142</SUPERFICIE><IDGIS>12445</IDGIS><NAMESPACE>T2_URC_1308-A</NAMESPACE><LOCALID>T2_URC_1308-A</LOCALID><ORIG_FID>11978</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

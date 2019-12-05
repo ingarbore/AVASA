@@ -1,0 +1,5829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T2_ORO_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>43.13715222748558</north>
+			<south>43.06852358274591</south>
+			<east>-2.913411381803721</east>
+			<west>-2.934988372940056</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0837-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3736</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11384</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0837-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0837-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10999</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.925804201302388,43.06853221535374,-2.925804201302388</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0837-2</FINCA><SUPERFICIE>3736</SUPERFICIE><IDGIS>11384</IDGIS><NAMESPACE>T2_ORO_0837-2</NAMESPACE><LOCALID>T2_ORO_0837-2</LOCALID><ORIG_FID>10999</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0838</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2423</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11385</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0838</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0838</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.925596283523851,43.06864076419164,-2.925596283523851</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0838</FINCA><SUPERFICIE>2423</SUPERFICIE><IDGIS>11385</IDGIS><NAMESPACE>T2_ORO_0838</NAMESPACE><LOCALID>T2_ORO_0838</LOCALID><ORIG_FID>11000</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0839</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5902</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11386</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0839</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0839</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11001</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.925226649775413,43.06877596630493,-2.925226649775413</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0839</FINCA><SUPERFICIE>5902</SUPERFICIE><IDGIS>11386</IDGIS><NAMESPACE>T2_ORO_0839</NAMESPACE><LOCALID>T2_ORO_0839</LOCALID><ORIG_FID>11001</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0840</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>812</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11387</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0840</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0840</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11002</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.925905052266052,43.06865402444616,-2.925905052266052</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0840</FINCA><SUPERFICIE>812</SUPERFICIE><IDGIS>11387</IDGIS><NAMESPACE>T2_ORO_0840</NAMESPACE><LOCALID>T2_ORO_0840</LOCALID><ORIG_FID>11002</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0837-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>42381</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11388</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0837-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0837-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11003</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.925331690399275,43.069804698145,-2.925331690399275</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0837-1</FINCA><SUPERFICIE>42381</SUPERFICIE><IDGIS>11388</IDGIS><NAMESPACE>T2_ORO_0837-1</NAMESPACE><LOCALID>T2_ORO_0837-1</LOCALID><ORIG_FID>11003</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0835-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>23885</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11389</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0835-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0835-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11004</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.922825428267448,43.07260752227282,-2.922825428267448</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0835-1</FINCA><SUPERFICIE>23885</SUPERFICIE><IDGIS>11389</IDGIS><NAMESPACE>T2_ORO_0835-1</NAMESPACE><LOCALID>T2_ORO_0835-1</LOCALID><ORIG_FID>11004</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0836</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6654</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11390</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0836</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0836</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11005</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.921702288515605,43.07290865834739,-2.921702288515605</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0836</FINCA><SUPERFICIE>6654</SUPERFICIE><IDGIS>11390</IDGIS><NAMESPACE>T2_ORO_0836</NAMESPACE><LOCALID>T2_ORO_0836</LOCALID><ORIG_FID>11005</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0835-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>337</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11391</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0835-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0835-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11006</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.921282398973585,43.07280608998877,-2.921282398973585</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0835-2</FINCA><SUPERFICIE>337</SUPERFICIE><IDGIS>11391</IDGIS><NAMESPACE>T2_ORO_0835-2</NAMESPACE><LOCALID>T2_ORO_0835-2</LOCALID><ORIG_FID>11006</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0834</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>414</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11392</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0834</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0834</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11007</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.921224155725342,43.07380350749956,-2.921224155725341</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0834</FINCA><SUPERFICIE>414</SUPERFICIE><IDGIS>11392</IDGIS><NAMESPACE>T2_ORO_0834</NAMESPACE><LOCALID>T2_ORO_0834</LOCALID><ORIG_FID>11007</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0834-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>629</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11393</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0834-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0834-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11008</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.92117332398429,43.073904612757,-2.921173323984289</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0834-1</FINCA><SUPERFICIE>629</SUPERFICIE><IDGIS>11393</IDGIS><NAMESPACE>T2_ORO_0834-1</NAMESPACE><LOCALID>T2_ORO_0834-1</LOCALID><ORIG_FID>11008</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0833</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>919</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11394</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0833</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0833</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11009</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.921050133568548,43.07398313314846,-2.921050133568548</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0833</FINCA><SUPERFICIE>919</SUPERFICIE><IDGIS>11394</IDGIS><NAMESPACE>T2_ORO_0833</NAMESPACE><LOCALID>T2_ORO_0833</LOCALID><ORIG_FID>11009</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0829</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>815</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11395</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0829</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0829</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11010</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.921170712151384,43.07479714512361,-2.921170712151384</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0829</FINCA><SUPERFICIE>815</SUPERFICIE><IDGIS>11395</IDGIS><NAMESPACE>T2_ORO_0829</NAMESPACE><LOCALID>T2_ORO_0829</LOCALID><ORIG_FID>11010</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0828-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>815</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11396</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0828-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0828-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11011</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.921151735547262,43.07507092191167,-2.921151735547262</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0828-2</FINCA><SUPERFICIE>815</SUPERFICIE><IDGIS>11396</IDGIS><NAMESPACE>T2_ORO_0828-2</NAMESPACE><LOCALID>T2_ORO_0828-2</LOCALID><ORIG_FID>11011</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0824</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>149</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11397</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0824</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0824</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11012</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.920923070979286,43.07523492296082,-2.920923070979286</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0824</FINCA><SUPERFICIE>149</SUPERFICIE><IDGIS>11397</IDGIS><NAMESPACE>T2_ORO_0824</NAMESPACE><LOCALID>T2_ORO_0824</LOCALID><ORIG_FID>11012</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0823-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>70</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11398</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0823-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0823-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11013</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.92080263734792,43.0753537980485,-2.92080263734792</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0823-2</FINCA><SUPERFICIE>70</SUPERFICIE><IDGIS>11398</IDGIS><NAMESPACE>T2_ORO_0823-2</NAMESPACE><LOCALID>T2_ORO_0823-2</LOCALID><ORIG_FID>11013</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0828-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7761</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11399</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0828-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0828-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11014</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.920636874972813,43.07431142435673,-2.920636874972813</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0828-1</FINCA><SUPERFICIE>7761</SUPERFICIE><IDGIS>11399</IDGIS><NAMESPACE>T2_ORO_0828-1</NAMESPACE><LOCALID>T2_ORO_0828-1</LOCALID><ORIG_FID>11014</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0831</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1987</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11400</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0831</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0831</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11015</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.919403229850869,43.07580577195942,-2.919403229850869</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0831</FINCA><SUPERFICIE>1987</SUPERFICIE><IDGIS>11400</IDGIS><NAMESPACE>T2_ORO_0831</NAMESPACE><LOCALID>T2_ORO_0831</LOCALID><ORIG_FID>11015</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0841</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3329</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11401</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0841</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0841</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11016</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.919521983818578,43.07311882398962,-2.919521983818578</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0841</FINCA><SUPERFICIE>3329</SUPERFICIE><IDGIS>11401</IDGIS><NAMESPACE>T2_ORO_0841</NAMESPACE><LOCALID>T2_ORO_0841</LOCALID><ORIG_FID>11016</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0832</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1884</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11402</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0832</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0832</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11017</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918963426912495,43.07392369241708,-2.918963426912495</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0832</FINCA><SUPERFICIE>1884</SUPERFICIE><IDGIS>11402</IDGIS><NAMESPACE>T2_ORO_0832</NAMESPACE><LOCALID>T2_ORO_0832</LOCALID><ORIG_FID>11017</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0826</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4449</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11403</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0826</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0826</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11018</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.919795214368133,43.07477618482638,-2.919795214368133</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0826</FINCA><SUPERFICIE>4449</SUPERFICIE><IDGIS>11403</IDGIS><NAMESPACE>T2_ORO_0826</NAMESPACE><LOCALID>T2_ORO_0826</LOCALID><ORIG_FID>11018</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0825</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2480</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11404</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0825</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0825</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11019</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.920238546461967,43.07494932169811,-2.920238546461967</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0825</FINCA><SUPERFICIE>2480</SUPERFICIE><IDGIS>11404</IDGIS><NAMESPACE>T2_ORO_0825</NAMESPACE><LOCALID>T2_ORO_0825</LOCALID><ORIG_FID>11019</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0823-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>870</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11405</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0823-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0823-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11020</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.920427991321485,43.07531429449816,-2.920427991321484</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0823-1</FINCA><SUPERFICIE>870</SUPERFICIE><IDGIS>11405</IDGIS><NAMESPACE>T2_ORO_0823-1</NAMESPACE><LOCALID>T2_ORO_0823-1</LOCALID><ORIG_FID>11020</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0822-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2243</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11406</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0822-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0822-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11021</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91989882919902,43.07544556360452,-2.91989882919902</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0822-2</FINCA><SUPERFICIE>2243</SUPERFICIE><IDGIS>11406</IDGIS><NAMESPACE>T2_ORO_0822-2</NAMESPACE><LOCALID>T2_ORO_0822-2</LOCALID><ORIG_FID>11021</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0822-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10433</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11407</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0822-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0822-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11022</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.919423498652841,43.0756394085977,-2.919423498652841</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0822-1</FINCA><SUPERFICIE>10433</SUPERFICIE><IDGIS>11407</IDGIS><NAMESPACE>T2_ORO_0822-1</NAMESPACE><LOCALID>T2_ORO_0822-1</LOCALID><ORIG_FID>11022</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0821</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8396</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11408</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0821</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0821</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11023</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918529301104276,43.07636365397131,-2.918529301104276</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0821</FINCA><SUPERFICIE>8396</SUPERFICIE><IDGIS>11408</IDGIS><NAMESPACE>T2_ORO_0821</NAMESPACE><LOCALID>T2_ORO_0821</LOCALID><ORIG_FID>11023</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0820-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5396</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11409</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0820-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0820-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11024</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918614023117949,43.07688536580552,-2.91861402311795</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0820-1</FINCA><SUPERFICIE>5396</SUPERFICIE><IDGIS>11409</IDGIS><NAMESPACE>T2_ORO_0820-1</NAMESPACE><LOCALID>T2_ORO_0820-1</LOCALID><ORIG_FID>11024</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0820-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1200</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11410</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0820-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0820-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11025</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918633435715076,43.07733830429775,-2.918633435715076</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0820-2</FINCA><SUPERFICIE>1200</SUPERFICIE><IDGIS>11410</IDGIS><NAMESPACE>T2_ORO_0820-2</NAMESPACE><LOCALID>T2_ORO_0820-2</LOCALID><ORIG_FID>11025</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0818-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>603</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11411</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0818-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0818-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11026</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917896909221611,43.07771293240521,-2.917896909221611</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0818-2</FINCA><SUPERFICIE>603</SUPERFICIE><IDGIS>11411</IDGIS><NAMESPACE>T2_ORO_0818-2</NAMESPACE><LOCALID>T2_ORO_0818-2</LOCALID><ORIG_FID>11026</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0819</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3699</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11412</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0819</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0819</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11027</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91780428970419,43.0771012395038,-2.91780428970419</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0819</FINCA><SUPERFICIE>3699</SUPERFICIE><IDGIS>11412</IDGIS><NAMESPACE>T2_ORO_0819</NAMESPACE><LOCALID>T2_ORO_0819</LOCALID><ORIG_FID>11027</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0818-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>22756</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11413</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0818-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0818-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11028</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916795842957924,43.07818245847157,-2.916795842957924</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0818-1</FINCA><SUPERFICIE>22756</SUPERFICIE><IDGIS>11413</IDGIS><NAMESPACE>T2_ORO_0818-1</NAMESPACE><LOCALID>T2_ORO_0818-1</LOCALID><ORIG_FID>11028</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0817</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14599</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11414</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0817</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0817</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11029</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915987255205776,43.08000446454252,-2.915987255205776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0817</FINCA><SUPERFICIE>14599</SUPERFICIE><IDGIS>11414</IDGIS><NAMESPACE>T2_ORO_0817</NAMESPACE><LOCALID>T2_ORO_0817</LOCALID><ORIG_FID>11029</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0816</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>812</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11415</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0816</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0816</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11030</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915966146016416,43.08082283988968,-2.915966146016416</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0816</FINCA><SUPERFICIE>812</SUPERFICIE><IDGIS>11415</IDGIS><NAMESPACE>T2_ORO_0816</NAMESPACE><LOCALID>T2_ORO_0816</LOCALID><ORIG_FID>11030</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0814</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>23833</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11416</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0814</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0814</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11031</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914769780840773,43.08138607906181,-2.914769780840773</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0814</FINCA><SUPERFICIE>23833</SUPERFICIE><IDGIS>11416</IDGIS><NAMESPACE>T2_ORO_0814</NAMESPACE><LOCALID>T2_ORO_0814</LOCALID><ORIG_FID>11031</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0813-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2023</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11417</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0813-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0813-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11032</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915017234163079,43.08179696766066,-2.915017234163079</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0813-3</FINCA><SUPERFICIE>2023</SUPERFICIE><IDGIS>11417</IDGIS><NAMESPACE>T2_ORO_0813-3</NAMESPACE><LOCALID>T2_ORO_0813-3</LOCALID><ORIG_FID>11032</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0813-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2425</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11418</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0813-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0813-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11033</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916356793346401,43.08176696312208,-2.916356793346401</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0813-4</FINCA><SUPERFICIE>2425</SUPERFICIE><IDGIS>11418</IDGIS><NAMESPACE>T2_ORO_0813-4</NAMESPACE><LOCALID>T2_ORO_0813-4</LOCALID><ORIG_FID>11033</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0815</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1266</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11419</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0815</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0815</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11034</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915184404859431,43.08170861794145,-2.915184404859431</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0815</FINCA><SUPERFICIE>1266</SUPERFICIE><IDGIS>11419</IDGIS><NAMESPACE>T2_ORO_0815</NAMESPACE><LOCALID>T2_ORO_0815</LOCALID><ORIG_FID>11034</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0811-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3923</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11420</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0811-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0811-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11035</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915358723541051,43.0844046974936,-2.915358723541051</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0811-4</FINCA><SUPERFICIE>3923</SUPERFICIE><IDGIS>11420</IDGIS><NAMESPACE>T2_ORO_0811-4</NAMESPACE><LOCALID>T2_ORO_0811-4</LOCALID><ORIG_FID>11035</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0813-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>43475</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11421</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0813-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0813-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11036</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914575926487195,43.083898021038,-2.914575926487195</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0813-2</FINCA><SUPERFICIE>43475</SUPERFICIE><IDGIS>11421</IDGIS><NAMESPACE>T2_ORO_0813-2</NAMESPACE><LOCALID>T2_ORO_0813-2</LOCALID><ORIG_FID>11036</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0812-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7203</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11422</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0812-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0812-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11037</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915216686857559,43.08439416190902,-2.915216686857559</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0812-1</FINCA><SUPERFICIE>7203</SUPERFICIE><IDGIS>11422</IDGIS><NAMESPACE>T2_ORO_0812-1</NAMESPACE><LOCALID>T2_ORO_0812-1</LOCALID><ORIG_FID>11037</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0811-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>91404</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11423</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0811-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0811-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11038</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915734407971529,43.08817312643426,-2.91573440797153</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0811-3</FINCA><SUPERFICIE>91404</SUPERFICIE><IDGIS>11423</IDGIS><NAMESPACE>T2_ORO_0811-3</NAMESPACE><LOCALID>T2_ORO_0811-3</LOCALID><ORIG_FID>11038</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0813-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>363</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11424</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0813-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0813-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11039</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915692673020101,43.08644300847004,-2.915692673020101</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0813-1</FINCA><SUPERFICIE>363</SUPERFICIE><IDGIS>11424</IDGIS><NAMESPACE>T2_ORO_0813-1</NAMESPACE><LOCALID>T2_ORO_0813-1</LOCALID><ORIG_FID>11039</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0812</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1847</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11425</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0812</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0812</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11040</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917829520174621,43.09109442259311,-2.917829520174621</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0812</FINCA><SUPERFICIE>1847</SUPERFICIE><IDGIS>11425</IDGIS><NAMESPACE>T2_ORO_0812</NAMESPACE><LOCALID>T2_ORO_0812</LOCALID><ORIG_FID>11040</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0811-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>435</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11426</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0811-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0811-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11041</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917943665927138,43.09120968586331,-2.917943665927138</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0811-2</FINCA><SUPERFICIE>435</SUPERFICIE><IDGIS>11426</IDGIS><NAMESPACE>T2_ORO_0811-2</NAMESPACE><LOCALID>T2_ORO_0811-2</LOCALID><ORIG_FID>11041</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0813</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>595</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11427</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0813</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0813</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11042</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917935413869996,43.09138192564898,-2.917935413869996</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0813</FINCA><SUPERFICIE>595</SUPERFICIE><IDGIS>11427</IDGIS><NAMESPACE>T2_ORO_0813</NAMESPACE><LOCALID>T2_ORO_0813</LOCALID><ORIG_FID>11042</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0811-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9638</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11428</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0811-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0811-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11043</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91818542180678,43.09193105963378,-2.91818542180678</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0811-1</FINCA><SUPERFICIE>9638</SUPERFICIE><IDGIS>11428</IDGIS><NAMESPACE>T2_ORO_0811-1</NAMESPACE><LOCALID>T2_ORO_0811-1</LOCALID><ORIG_FID>11043</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0809</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13260</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11429</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0809</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0809</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11044</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918467042252803,43.09314475876124,-2.918467042252803</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0809</FINCA><SUPERFICIE>13260</SUPERFICIE><IDGIS>11429</IDGIS><NAMESPACE>T2_ORO_0809</NAMESPACE><LOCALID>T2_ORO_0809</LOCALID><ORIG_FID>11044</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0811</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>699</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11430</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0811</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0811</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11045</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91891427981967,43.09363850416423,-2.91891427981967</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0811</FINCA><SUPERFICIE>699</SUPERFICIE><IDGIS>11430</IDGIS><NAMESPACE>T2_ORO_0811</NAMESPACE><LOCALID>T2_ORO_0811</LOCALID><ORIG_FID>11045</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0805-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3349</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11431</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0805-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0805-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11046</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918446049444254,43.09380039725963,-2.918446049444254</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0805-2</FINCA><SUPERFICIE>3349</SUPERFICIE><IDGIS>11431</IDGIS><NAMESPACE>T2_ORO_0805-2</NAMESPACE><LOCALID>T2_ORO_0805-2</LOCALID><ORIG_FID>11046</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0808</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15142</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11432</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0808</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0808</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11047</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918783798241211,43.09437192265514,-2.918783798241211</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0808</FINCA><SUPERFICIE>15142</SUPERFICIE><IDGIS>11432</IDGIS><NAMESPACE>T2_ORO_0808</NAMESPACE><LOCALID>T2_ORO_0808</LOCALID><ORIG_FID>11047</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0807-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>473</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11433</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0807-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0807-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11048</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.919244260510128,43.09492428920395,-2.919244260510128</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0807-1</FINCA><SUPERFICIE>473</SUPERFICIE><IDGIS>11433</IDGIS><NAMESPACE>T2_ORO_0807-1</NAMESPACE><LOCALID>T2_ORO_0807-1</LOCALID><ORIG_FID>11048</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0807</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6733</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11434</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0807</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0807</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11049</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918855064078161,43.09539598258971,-2.918855064078161</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0807</FINCA><SUPERFICIE>6733</SUPERFICIE><IDGIS>11434</IDGIS><NAMESPACE>T2_ORO_0807</NAMESPACE><LOCALID>T2_ORO_0807</LOCALID><ORIG_FID>11049</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0806</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10063</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11435</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0806</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0806</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11050</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91877199030949,43.09663916975754,-2.918771990309489</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0806</FINCA><SUPERFICIE>10063</SUPERFICIE><IDGIS>11435</IDGIS><NAMESPACE>T2_ORO_0806</NAMESPACE><LOCALID>T2_ORO_0806</LOCALID><ORIG_FID>11050</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0805-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10068</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11436</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0805-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0805-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11051</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.9181391877956,43.09592225985038,-2.9181391877956</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0805-1</FINCA><SUPERFICIE>10068</SUPERFICIE><IDGIS>11436</IDGIS><NAMESPACE>T2_ORO_0805-1</NAMESPACE><LOCALID>T2_ORO_0805-1</LOCALID><ORIG_FID>11051</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0810</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1502</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11437</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0810</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0810</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11052</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917611352865467,43.09837565241883,-2.917611352865467</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0810</FINCA><SUPERFICIE>1502</SUPERFICIE><IDGIS>11437</IDGIS><NAMESPACE>T2_ORO_0810</NAMESPACE><LOCALID>T2_ORO_0810</LOCALID><ORIG_FID>11052</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0803</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>27940</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11438</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0803</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0803</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11053</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918366296368767,43.09831604050259,-2.918366296368767</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0803</FINCA><SUPERFICIE>27940</SUPERFICIE><IDGIS>11438</IDGIS><NAMESPACE>T2_ORO_0803</NAMESPACE><LOCALID>T2_ORO_0803</LOCALID><ORIG_FID>11053</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0698-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2896</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11439</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0698-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0698-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11054</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917812701930049,43.10015049935463,-2.917812701930049</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0698-3</FINCA><SUPERFICIE>2896</SUPERFICIE><IDGIS>11439</IDGIS><NAMESPACE>T2_ORO_0698-3</NAMESPACE><LOCALID>T2_ORO_0698-3</LOCALID><ORIG_FID>11054</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0800</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>42205</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11440</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0800</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0800</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11055</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916834424118462,43.10077143898881,-2.916834424118462</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0800</FINCA><SUPERFICIE>42205</SUPERFICIE><IDGIS>11440</IDGIS><NAMESPACE>T2_ORO_0800</NAMESPACE><LOCALID>T2_ORO_0800</LOCALID><ORIG_FID>11055</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0802</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>239</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11441</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0802</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0802</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11056</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917027028560541,43.09935727589802,-2.917027028560541</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0802</FINCA><SUPERFICIE>239</SUPERFICIE><IDGIS>11441</IDGIS><NAMESPACE>T2_ORO_0802</NAMESPACE><LOCALID>T2_ORO_0802</LOCALID><ORIG_FID>11056</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0801</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1288</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11442</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0801</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0801</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11057</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916798133977557,43.0997850295088,-2.916798133977558</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0801</FINCA><SUPERFICIE>1288</SUPERFICIE><IDGIS>11442</IDGIS><NAMESPACE>T2_ORO_0801</NAMESPACE><LOCALID>T2_ORO_0801</LOCALID><ORIG_FID>11057</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0699</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2563</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11443</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0699</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0699</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11058</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915991232159942,43.10222994766569,-2.915991232159942</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0699</FINCA><SUPERFICIE>2563</SUPERFICIE><IDGIS>11443</IDGIS><NAMESPACE>T2_ORO_0699</NAMESPACE><LOCALID>T2_ORO_0699</LOCALID><ORIG_FID>11058</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0697</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10469</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11444</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0697</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0697</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11059</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915794276766329,43.10271927928022,-2.915794276766329</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0697</FINCA><SUPERFICIE>10469</SUPERFICIE><IDGIS>11444</IDGIS><NAMESPACE>T2_ORO_0697</NAMESPACE><LOCALID>T2_ORO_0697</LOCALID><ORIG_FID>11059</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0698-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>313</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11445</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0698-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0698-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11060</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916330041653448,43.10334284925877,-2.916330041653448</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0698-1</FINCA><SUPERFICIE>313</SUPERFICIE><IDGIS>11445</IDGIS><NAMESPACE>T2_ORO_0698-1</NAMESPACE><LOCALID>T2_ORO_0698-1</LOCALID><ORIG_FID>11060</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0804-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>652</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11446</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0804-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0804-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11061</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915082945915835,43.10357852065373,-2.915082945915835</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0804-2</FINCA><SUPERFICIE>652</SUPERFICIE><IDGIS>11446</IDGIS><NAMESPACE>T2_ORO_0804-2</NAMESPACE><LOCALID>T2_ORO_0804-2</LOCALID><ORIG_FID>11061</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0696</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3221</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11447</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0696</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0696</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11062</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915354816044121,43.10327319032147,-2.915354816044121</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0696</FINCA><SUPERFICIE>3221</SUPERFICIE><IDGIS>11447</IDGIS><NAMESPACE>T2_ORO_0696</NAMESPACE><LOCALID>T2_ORO_0696</LOCALID><ORIG_FID>11062</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0696-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>360</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11448</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0696-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0696-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11063</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915718132072374,43.10346715986573,-2.915718132072374</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0696-1</FINCA><SUPERFICIE>360</SUPERFICIE><IDGIS>11448</IDGIS><NAMESPACE>T2_ORO_0696-1</NAMESPACE><LOCALID>T2_ORO_0696-1</LOCALID><ORIG_FID>11063</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0804-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5229</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11449</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0804-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0804-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11064</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915811409964349,43.10365677322521,-2.915811409964349</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0804-1</FINCA><SUPERFICIE>5229</SUPERFICIE><IDGIS>11449</IDGIS><NAMESPACE>T2_ORO_0804-1</NAMESPACE><LOCALID>T2_ORO_0804-1</LOCALID><ORIG_FID>11064</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0693</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8886</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11450</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0693</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0693</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11065</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915796616164715,43.10465290520656,-2.915796616164715</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0693</FINCA><SUPERFICIE>8886</SUPERFICIE><IDGIS>11450</IDGIS><NAMESPACE>T2_ORO_0693</NAMESPACE><LOCALID>T2_ORO_0693</LOCALID><ORIG_FID>11065</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0690</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>745</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11451</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0690</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0690</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11066</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915008008038559,43.10608098033593,-2.915008008038559</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0690</FINCA><SUPERFICIE>745</SUPERFICIE><IDGIS>11451</IDGIS><NAMESPACE>T2_ORO_0690</NAMESPACE><LOCALID>T2_ORO_0690</LOCALID><ORIG_FID>11066</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0692</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5154</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11452</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0692</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0692</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11067</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915441293128744,43.10577257476127,-2.915441293128744</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0692</FINCA><SUPERFICIE>5154</SUPERFICIE><IDGIS>11452</IDGIS><NAMESPACE>T2_ORO_0692</NAMESPACE><LOCALID>T2_ORO_0692</LOCALID><ORIG_FID>11067</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0695</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2012</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11453</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0695</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0695</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11068</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915361333688503,43.10522727744429,-2.915361333688503</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0695</FINCA><SUPERFICIE>2012</SUPERFICIE><IDGIS>11453</IDGIS><NAMESPACE>T2_ORO_0695</NAMESPACE><LOCALID>T2_ORO_0695</LOCALID><ORIG_FID>11068</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0691</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>313</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11454</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0691</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0691</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11069</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915025677632265,43.10571544402382,-2.915025677632265</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0691</FINCA><SUPERFICIE>313</SUPERFICIE><IDGIS>11454</IDGIS><NAMESPACE>T2_ORO_0691</NAMESPACE><LOCALID>T2_ORO_0691</LOCALID><ORIG_FID>11069</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0694</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3992</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11455</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0694</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0694</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11070</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915282497220345,43.10466984851587,-2.915282497220344</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0694</FINCA><SUPERFICIE>3992</SUPERFICIE><IDGIS>11455</IDGIS><NAMESPACE>T2_ORO_0694</NAMESPACE><LOCALID>T2_ORO_0694</LOCALID><ORIG_FID>11070</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0689</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>84</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11456</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0689</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0689</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11071</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915974483376344,43.10604807240963,-2.915974483376344</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0689</FINCA><SUPERFICIE>84</SUPERFICIE><IDGIS>11456</IDGIS><NAMESPACE>T2_ORO_0689</NAMESPACE><LOCALID>T2_ORO_0689</LOCALID><ORIG_FID>11071</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0688</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3343</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11457</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0688</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0688</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11072</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91541968865159,43.10634586168583,-2.91541968865159</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0688</FINCA><SUPERFICIE>3343</SUPERFICIE><IDGIS>11457</IDGIS><NAMESPACE>T2_ORO_0688</NAMESPACE><LOCALID>T2_ORO_0688</LOCALID><ORIG_FID>11072</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0686</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>590</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11458</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0686</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0686</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11073</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915846757779446,43.10649560602639,-2.915846757779447</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0686</FINCA><SUPERFICIE>590</SUPERFICIE><IDGIS>11458</IDGIS><NAMESPACE>T2_ORO_0686</NAMESPACE><LOCALID>T2_ORO_0686</LOCALID><ORIG_FID>11073</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0687</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>95</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11459</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0687</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0687</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11074</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914885294512429,43.10658353216766,-2.914885294512429</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0687</FINCA><SUPERFICIE>95</SUPERFICIE><IDGIS>11459</IDGIS><NAMESPACE>T2_ORO_0687</NAMESPACE><LOCALID>T2_ORO_0687</LOCALID><ORIG_FID>11074</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0684</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>301</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11460</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0684</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0684</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11075</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914917378514431,43.10671140790331,-2.914917378514431</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0684</FINCA><SUPERFICIE>301</SUPERFICIE><IDGIS>11460</IDGIS><NAMESPACE>T2_ORO_0684</NAMESPACE><LOCALID>T2_ORO_0684</LOCALID><ORIG_FID>11075</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0685</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>393</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11461</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0685</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0685</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11076</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915102344375248,43.10678213395908,-2.915102344375248</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0685</FINCA><SUPERFICIE>393</SUPERFICIE><IDGIS>11461</IDGIS><NAMESPACE>T2_ORO_0685</NAMESPACE><LOCALID>T2_ORO_0685</LOCALID><ORIG_FID>11076</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0683</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1320</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11462</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0683</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0683</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11077</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91585281003038,43.10725058396979,-2.915852810030381</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0683</FINCA><SUPERFICIE>1320</SUPERFICIE><IDGIS>11462</IDGIS><NAMESPACE>T2_ORO_0683</NAMESPACE><LOCALID>T2_ORO_0683</LOCALID><ORIG_FID>11077</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0681</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2296</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11463</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0681</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0681</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11078</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915075020835752,43.10723941688856,-2.915075020835752</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0681</FINCA><SUPERFICIE>2296</SUPERFICIE><IDGIS>11463</IDGIS><NAMESPACE>T2_ORO_0681</NAMESPACE><LOCALID>T2_ORO_0681</LOCALID><ORIG_FID>11078</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0682</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5146</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11464</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0682</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0682</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11079</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915508196073539,43.10697280017969,-2.915508196073539</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0682</FINCA><SUPERFICIE>5146</SUPERFICIE><IDGIS>11464</IDGIS><NAMESPACE>T2_ORO_0682</NAMESPACE><LOCALID>T2_ORO_0682</LOCALID><ORIG_FID>11079</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0680</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2776</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11465</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0680</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0680</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11080</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915648196377679,43.1077776497877,-2.915648196377679</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0680</FINCA><SUPERFICIE>2776</SUPERFICIE><IDGIS>11465</IDGIS><NAMESPACE>T2_ORO_0680</NAMESPACE><LOCALID>T2_ORO_0680</LOCALID><ORIG_FID>11080</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0679</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3207</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11466</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0679</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0679</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11081</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915140153435493,43.10790305127568,-2.915140153435493</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0679</FINCA><SUPERFICIE>3207</SUPERFICIE><IDGIS>11466</IDGIS><NAMESPACE>T2_ORO_0679</NAMESPACE><LOCALID>T2_ORO_0679</LOCALID><ORIG_FID>11081</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0677</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13782</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11467</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0677</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0677</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11082</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914936259331455,43.10894559653792,-2.914936259331456</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0677</FINCA><SUPERFICIE>13782</SUPERFICIE><IDGIS>11467</IDGIS><NAMESPACE>T2_ORO_0677</NAMESPACE><LOCALID>T2_ORO_0677</LOCALID><ORIG_FID>11082</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0665-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>321</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11468</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0665-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0665-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11083</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913708433227679,43.11005491055361,-2.913708433227679</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0665-1</FINCA><SUPERFICIE>321</SUPERFICIE><IDGIS>11468</IDGIS><NAMESPACE>T2_ORO_0665-1</NAMESPACE><LOCALID>T2_ORO_0665-1</LOCALID><ORIG_FID>11083</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0676-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>121</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11470</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0676-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0676-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11084</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913599812509629,43.11004773271756,-2.913599812509629</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0676-2</FINCA><SUPERFICIE>121</SUPERFICIE><IDGIS>11470</IDGIS><NAMESPACE>T2_ORO_0676-2</NAMESPACE><LOCALID>T2_ORO_0676-2</LOCALID><ORIG_FID>11084</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0673</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1481</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11471</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0673</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0673</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11085</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915143987497547,43.10978782669238,-2.915143987497547</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0673</FINCA><SUPERFICIE>1481</SUPERFICIE><IDGIS>11471</IDGIS><NAMESPACE>T2_ORO_0673</NAMESPACE><LOCALID>T2_ORO_0673</LOCALID><ORIG_FID>11085</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0672</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2005</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11472</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0672</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0672</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11086</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915632175818773,43.11060295066071,-2.915632175818773</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0672</FINCA><SUPERFICIE>2005</SUPERFICIE><IDGIS>11472</IDGIS><NAMESPACE>T2_ORO_0672</NAMESPACE><LOCALID>T2_ORO_0672</LOCALID><ORIG_FID>11086</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0664</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1025</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11473</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0664</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0664</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11087</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914626906557406,43.11153168154656,-2.914626906557406</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0664</FINCA><SUPERFICIE>1025</SUPERFICIE><IDGIS>11473</IDGIS><NAMESPACE>T2_ORO_0664</NAMESPACE><LOCALID>T2_ORO_0664</LOCALID><ORIG_FID>11087</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0663</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>267</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11474</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0663</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0663</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11088</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914430422473376,43.11166664721297,-2.914430422473376</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0663</FINCA><SUPERFICIE>267</SUPERFICIE><IDGIS>11474</IDGIS><NAMESPACE>T2_ORO_0663</NAMESPACE><LOCALID>T2_ORO_0663</LOCALID><ORIG_FID>11088</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0661-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>438</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11475</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0661-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0661-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11089</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915152289453294,43.11173311601693,-2.915152289453294</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0661-2</FINCA><SUPERFICIE>438</SUPERFICIE><IDGIS>11475</IDGIS><NAMESPACE>T2_ORO_0661-2</NAMESPACE><LOCALID>T2_ORO_0661-2</LOCALID><ORIG_FID>11089</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0671</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2729</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11476</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0671</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0671</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11090</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914761027882259,43.11056614942343,-2.914761027882259</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0671</FINCA><SUPERFICIE>2729</SUPERFICIE><IDGIS>11476</IDGIS><NAMESPACE>T2_ORO_0671</NAMESPACE><LOCALID>T2_ORO_0671</LOCALID><ORIG_FID>11090</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0670</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1009</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11477</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0670</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0670</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11091</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914826803508844,43.11086006930274,-2.914826803508844</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0670</FINCA><SUPERFICIE>1009</SUPERFICIE><IDGIS>11477</IDGIS><NAMESPACE>T2_ORO_0670</NAMESPACE><LOCALID>T2_ORO_0670</LOCALID><ORIG_FID>11091</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0669</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>411</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11478</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0669</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0669</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11092</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914895999253456,43.11105539686412,-2.914895999253456</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0669</FINCA><SUPERFICIE>411</SUPERFICIE><IDGIS>11478</IDGIS><NAMESPACE>T2_ORO_0669</NAMESPACE><LOCALID>T2_ORO_0669</LOCALID><ORIG_FID>11092</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0668</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2058</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11479</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0668</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0668</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11093</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915583735237819,43.11137584638451,-2.915583735237819</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0668</FINCA><SUPERFICIE>2058</SUPERFICIE><IDGIS>11479</IDGIS><NAMESPACE>T2_ORO_0668</NAMESPACE><LOCALID>T2_ORO_0668</LOCALID><ORIG_FID>11093</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0661-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>146</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11480</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0661-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0661-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11094</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915301399978078,43.11162875597767,-2.915301399978078</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0661-3</FINCA><SUPERFICIE>146</SUPERFICIE><IDGIS>11480</IDGIS><NAMESPACE>T2_ORO_0661-3</NAMESPACE><LOCALID>T2_ORO_0661-3</LOCALID><ORIG_FID>11094</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0662</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>118</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11481</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0662</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0662</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11095</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915254146870743,43.11163626981126,-2.915254146870743</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0662</FINCA><SUPERFICIE>118</SUPERFICIE><IDGIS>11481</IDGIS><NAMESPACE>T2_ORO_0662</NAMESPACE><LOCALID>T2_ORO_0662</LOCALID><ORIG_FID>11095</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0674</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6381</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11482</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0674</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0674</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11096</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91453478538374,43.11010905774214,-2.91453478538374</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0674</FINCA><SUPERFICIE>6381</SUPERFICIE><IDGIS>11482</IDGIS><NAMESPACE>T2_ORO_0674</NAMESPACE><LOCALID>T2_ORO_0674</LOCALID><ORIG_FID>11096</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0667</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1282</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11483</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0667</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0667</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11097</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914660327628055,43.11112329579973,-2.914660327628055</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0667</FINCA><SUPERFICIE>1282</SUPERFICIE><IDGIS>11483</IDGIS><NAMESPACE>T2_ORO_0667</NAMESPACE><LOCALID>T2_ORO_0667</LOCALID><ORIG_FID>11097</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0676-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>221</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11484</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0676-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0676-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11098</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914038223325653,43.1105166607053,-2.914038223325652</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0676-1</FINCA><SUPERFICIE>221</SUPERFICIE><IDGIS>11484</IDGIS><NAMESPACE>T2_ORO_0676-1</NAMESPACE><LOCALID>T2_ORO_0676-1</LOCALID><ORIG_FID>11098</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0675</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>588</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11485</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0675</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0675</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11099</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914110350184705,43.11070481313723,-2.914110350184705</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0675</FINCA><SUPERFICIE>588</SUPERFICIE><IDGIS>11485</IDGIS><NAMESPACE>T2_ORO_0675</NAMESPACE><LOCALID>T2_ORO_0675</LOCALID><ORIG_FID>11099</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0675-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>207</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11486</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0675-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0675-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11100</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91393904390898,43.11078726760423,-2.913939043908979</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0675-1</FINCA><SUPERFICIE>207</SUPERFICIE><IDGIS>11486</IDGIS><NAMESPACE>T2_ORO_0675-1</NAMESPACE><LOCALID>T2_ORO_0675-1</LOCALID><ORIG_FID>11100</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0666</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7129</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11487</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0666</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0666</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11101</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914165185883594,43.11132193947015,-2.914165185883593</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0666</FINCA><SUPERFICIE>7129</SUPERFICIE><IDGIS>11487</IDGIS><NAMESPACE>T2_ORO_0666</NAMESPACE><LOCALID>T2_ORO_0666</LOCALID><ORIG_FID>11101</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0661-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3209</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11489</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0661-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0661-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11102</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914594209914751,43.11180149928908,-2.914594209914751</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0661-1</FINCA><SUPERFICIE>3209</SUPERFICIE><IDGIS>11489</IDGIS><NAMESPACE>T2_ORO_0661-1</NAMESPACE><LOCALID>T2_ORO_0661-1</LOCALID><ORIG_FID>11102</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0660</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2435</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11490</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0660</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0660</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11103</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913998907484,43.11217769652728,-2.913998907484</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0660</FINCA><SUPERFICIE>2435</SUPERFICIE><IDGIS>11490</IDGIS><NAMESPACE>T2_ORO_0660</NAMESPACE><LOCALID>T2_ORO_0660</LOCALID><ORIG_FID>11103</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0653-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>261</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11491</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0653-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0653-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11104</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913842307310026,43.11256391558458,-2.913842307310026</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0653-1</FINCA><SUPERFICIE>261</SUPERFICIE><IDGIS>11491</IDGIS><NAMESPACE>T2_ORO_0653-1</NAMESPACE><LOCALID>T2_ORO_0653-1</LOCALID><ORIG_FID>11104</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0653-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>166</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11492</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0653-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0653-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11105</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914181762282411,43.11250272204697,-2.914181762282412</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0653-2</FINCA><SUPERFICIE>166</SUPERFICIE><IDGIS>11492</IDGIS><NAMESPACE>T2_ORO_0653-2</NAMESPACE><LOCALID>T2_ORO_0653-2</LOCALID><ORIG_FID>11105</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0654</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1022</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11493</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0654</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0654</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11106</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914349267150709,43.11282169347192,-2.914349267150709</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0654</FINCA><SUPERFICIE>1022</SUPERFICIE><IDGIS>11493</IDGIS><NAMESPACE>T2_ORO_0654</NAMESPACE><LOCALID>T2_ORO_0654</LOCALID><ORIG_FID>11106</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0652-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>387</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11494</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0652-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0652-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11107</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913984974392713,43.11264106534022,-2.913984974392712</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0652-1</FINCA><SUPERFICIE>387</SUPERFICIE><IDGIS>11494</IDGIS><NAMESPACE>T2_ORO_0652-1</NAMESPACE><LOCALID>T2_ORO_0652-1</LOCALID><ORIG_FID>11107</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0651</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>482</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11495</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0651</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0651</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11108</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913822562650329,43.11281983292137,-2.913822562650329</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0651</FINCA><SUPERFICIE>482</SUPERFICIE><IDGIS>11495</IDGIS><NAMESPACE>T2_ORO_0651</NAMESPACE><LOCALID>T2_ORO_0651</LOCALID><ORIG_FID>11108</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0652-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>121</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11496</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0652-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0652-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11109</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914281312196959,43.11260813882685,-2.914281312196958</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0652-2</FINCA><SUPERFICIE>121</SUPERFICIE><IDGIS>11496</IDGIS><NAMESPACE>T2_ORO_0652-2</NAMESPACE><LOCALID>T2_ORO_0652-2</LOCALID><ORIG_FID>11109</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0659</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1636</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11497</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0659</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0659</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11110</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914534342405605,43.11248382437368,-2.914534342405605</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0659</FINCA><SUPERFICIE>1636</SUPERFICIE><IDGIS>11497</IDGIS><NAMESPACE>T2_ORO_0659</NAMESPACE><LOCALID>T2_ORO_0659</LOCALID><ORIG_FID>11110</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0658</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>83</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11498</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0658</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0658</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11111</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914280976133289,43.11268248673089,-2.914280976133289</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0658</FINCA><SUPERFICIE>83</SUPERFICIE><IDGIS>11498</IDGIS><NAMESPACE>T2_ORO_0658</NAMESPACE><LOCALID>T2_ORO_0658</LOCALID><ORIG_FID>11111</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0657</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>304</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11499</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0657</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0657</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11112</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914719850570499,43.11275864861472,-2.914719850570499</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0657</FINCA><SUPERFICIE>304</SUPERFICIE><IDGIS>11499</IDGIS><NAMESPACE>T2_ORO_0657</NAMESPACE><LOCALID>T2_ORO_0657</LOCALID><ORIG_FID>11112</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0656</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2386</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11500</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0656</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0656</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11113</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914653226347765,43.11317960106948,-2.914653226347765</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0656</FINCA><SUPERFICIE>2386</SUPERFICIE><IDGIS>11500</IDGIS><NAMESPACE>T2_ORO_0656</NAMESPACE><LOCALID>T2_ORO_0656</LOCALID><ORIG_FID>11113</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0655</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>399</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11501</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0655</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0655</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11114</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914838986687421,43.11386926168575,-2.914838986687421</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0655</FINCA><SUPERFICIE>399</SUPERFICIE><IDGIS>11501</IDGIS><NAMESPACE>T2_ORO_0655</NAMESPACE><LOCALID>T2_ORO_0655</LOCALID><ORIG_FID>11114</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0650</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9254</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11502</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0650</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0650</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11115</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914177954964274,43.11346470488309,-2.914177954964274</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0650</FINCA><SUPERFICIE>9254</SUPERFICIE><IDGIS>11502</IDGIS><NAMESPACE>T2_ORO_0650</NAMESPACE><LOCALID>T2_ORO_0650</LOCALID><ORIG_FID>11115</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0649</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3244</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11503</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0649</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0649</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11116</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.9144007356827,43.11422806940407,-2.9144007356827</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0649</FINCA><SUPERFICIE>3244</SUPERFICIE><IDGIS>11503</IDGIS><NAMESPACE>T2_ORO_0649</NAMESPACE><LOCALID>T2_ORO_0649</LOCALID><ORIG_FID>11116</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0648</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3548</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11504</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0648</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0648</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11117</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914492413831789,43.11459023075196,-2.91449241383179</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0648</FINCA><SUPERFICIE>3548</SUPERFICIE><IDGIS>11504</IDGIS><NAMESPACE>T2_ORO_0648</NAMESPACE><LOCALID>T2_ORO_0648</LOCALID><ORIG_FID>11117</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0647</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>67393</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11505</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0647</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0647</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11118</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915609554517565,43.11841950486397,-2.915609554517565</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0647</FINCA><SUPERFICIE>67393</SUPERFICIE><IDGIS>11505</IDGIS><NAMESPACE>T2_ORO_0647</NAMESPACE><LOCALID>T2_ORO_0647</LOCALID><ORIG_FID>11118</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0646</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>796</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11506</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0646</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0646</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11119</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91446480942387,43.12217267702148,-2.91446480942387</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0646</FINCA><SUPERFICIE>796</SUPERFICIE><IDGIS>11506</IDGIS><NAMESPACE>T2_ORO_0646</NAMESPACE><LOCALID>T2_ORO_0646</LOCALID><ORIG_FID>11119</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0642</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1136</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11507</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0642</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0642</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11120</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915717691797463,43.12239188540062,-2.915717691797463</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0642</FINCA><SUPERFICIE>1136</SUPERFICIE><IDGIS>11507</IDGIS><NAMESPACE>T2_ORO_0642</NAMESPACE><LOCALID>T2_ORO_0642</LOCALID><ORIG_FID>11120</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0645</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1809</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11508</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0645</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0645</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11121</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91489917460451,43.12229715230233,-2.914899174604509</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0645</FINCA><SUPERFICIE>1809</SUPERFICIE><IDGIS>11508</IDGIS><NAMESPACE>T2_ORO_0645</NAMESPACE><LOCALID>T2_ORO_0645</LOCALID><ORIG_FID>11121</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0644</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>527</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11509</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0644</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0644</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11122</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916132689340182,43.12178932776173,-2.916132689340182</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0644</FINCA><SUPERFICIE>527</SUPERFICIE><IDGIS>11509</IDGIS><NAMESPACE>T2_ORO_0644</NAMESPACE><LOCALID>T2_ORO_0644</LOCALID><ORIG_FID>11122</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0643-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>548</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11510</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0643-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0643-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11123</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91535836373893,43.12236014355394,-2.91535836373893</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0643-4</FINCA><SUPERFICIE>548</SUPERFICIE><IDGIS>11510</IDGIS><NAMESPACE>T2_ORO_0643-4</NAMESPACE><LOCALID>T2_ORO_0643-4</LOCALID><ORIG_FID>11123</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0641</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>102</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11511</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0641</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0641</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11124</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917170600012314,43.12237968841897,-2.917170600012314</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0641</FINCA><SUPERFICIE>102</SUPERFICIE><IDGIS>11511</IDGIS><NAMESPACE>T2_ORO_0641</NAMESPACE><LOCALID>T2_ORO_0641</LOCALID><ORIG_FID>11124</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0643-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10632</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11512</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0643-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0643-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11125</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91656910597328,43.12197147818532,-2.91656910597328</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0643-2</FINCA><SUPERFICIE>10632</SUPERFICIE><IDGIS>11512</IDGIS><NAMESPACE>T2_ORO_0643-2</NAMESPACE><LOCALID>T2_ORO_0643-2</LOCALID><ORIG_FID>11125</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0640-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1149</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11513</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0640-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0640-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11126</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91723131724729,43.12261378942532,-2.91723131724729</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0640-1</FINCA><SUPERFICIE>1149</SUPERFICIE><IDGIS>11513</IDGIS><NAMESPACE>T2_ORO_0640-1</NAMESPACE><LOCALID>T2_ORO_0640-1</LOCALID><ORIG_FID>11126</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0643-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>178</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11515</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0643-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0643-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11127</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917612599434312,43.12131544221824,-2.917612599434312</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0643-3</FINCA><SUPERFICIE>178</SUPERFICIE><IDGIS>11515</IDGIS><NAMESPACE>T2_ORO_0643-3</NAMESPACE><LOCALID>T2_ORO_0643-3</LOCALID><ORIG_FID>11127</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0647-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>559</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11516</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0647-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0647-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11128</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917875565536521,43.12121693216049,-2.917875565536521</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0647-1</FINCA><SUPERFICIE>559</SUPERFICIE><IDGIS>11516</IDGIS><NAMESPACE>T2_ORO_0647-1</NAMESPACE><LOCALID>T2_ORO_0647-1</LOCALID><ORIG_FID>11128</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0643-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2674</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11517</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0643-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0643-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11129</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916614505881325,43.12273686266641,-2.916614505881326</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0643-1</FINCA><SUPERFICIE>2674</SUPERFICIE><IDGIS>11517</IDGIS><NAMESPACE>T2_ORO_0643-1</NAMESPACE><LOCALID>T2_ORO_0643-1</LOCALID><ORIG_FID>11129</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0639</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4078</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11518</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0639</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0639</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11130</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917178572097384,43.12309781844841,-2.917178572097384</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0639</FINCA><SUPERFICIE>4078</SUPERFICIE><IDGIS>11518</IDGIS><NAMESPACE>T2_ORO_0639</NAMESPACE><LOCALID>T2_ORO_0639</LOCALID><ORIG_FID>11130</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0638</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1994</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11519</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0638</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0638</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11131</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917693510625583,43.12344712699034,-2.917693510625583</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0638</FINCA><SUPERFICIE>1994</SUPERFICIE><IDGIS>11519</IDGIS><NAMESPACE>T2_ORO_0638</NAMESPACE><LOCALID>T2_ORO_0638</LOCALID><ORIG_FID>11131</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0637</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1576</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11520</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0637</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0637</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11132</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917097518711123,43.12357784223418,-2.917097518711123</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0637</FINCA><SUPERFICIE>1576</SUPERFICIE><IDGIS>11520</IDGIS><NAMESPACE>T2_ORO_0637</NAMESPACE><LOCALID>T2_ORO_0637</LOCALID><ORIG_FID>11132</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0636</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9439</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11521</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0636</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0636</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11133</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917910325603761,43.12406211892886,-2.917910325603761</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0636</FINCA><SUPERFICIE>9439</SUPERFICIE><IDGIS>11521</IDGIS><NAMESPACE>T2_ORO_0636</NAMESPACE><LOCALID>T2_ORO_0636</LOCALID><ORIG_FID>11133</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0634-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4957</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11522</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0634-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0634-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11134</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.918486684255865,43.1248239748435,-2.918486684255865</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0634-2</FINCA><SUPERFICIE>4957</SUPERFICIE><IDGIS>11522</IDGIS><NAMESPACE>T2_ORO_0634-2</NAMESPACE><LOCALID>T2_ORO_0634-2</LOCALID><ORIG_FID>11134</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0634-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1120</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11523</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0634-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0634-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11135</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.919572867550511,43.12615944311044,-2.919572867550511</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0634-1</FINCA><SUPERFICIE>1120</SUPERFICIE><IDGIS>11523</IDGIS><NAMESPACE>T2_ORO_0634-1</NAMESPACE><LOCALID>T2_ORO_0634-1</LOCALID><ORIG_FID>11135</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0635</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12306</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11525</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0635</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0635</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11136</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.919501730107163,43.12537298781721,-2.919501730107163</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0635</FINCA><SUPERFICIE>12306</SUPERFICIE><IDGIS>11525</IDGIS><NAMESPACE>T2_ORO_0635</NAMESPACE><LOCALID>T2_ORO_0635</LOCALID><ORIG_FID>11136</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="138">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0620</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>31984</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11527</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0620</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0620</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11137</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.921909537468659,43.1267838155358,-2.921909537468659</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0620</FINCA><SUPERFICIE>31984</SUPERFICIE><IDGIS>11527</IDGIS><NAMESPACE>T2_ORO_0620</NAMESPACE><LOCALID>T2_ORO_0620</LOCALID><ORIG_FID>11137</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="139">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0631</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>174</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11528</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0631</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0631</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11138</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.920940547432973,43.12686879925102,-2.920940547432973</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0631</FINCA><SUPERFICIE>174</SUPERFICIE><IDGIS>11528</IDGIS><NAMESPACE>T2_ORO_0631</NAMESPACE><LOCALID>T2_ORO_0631</LOCALID><ORIG_FID>11138</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="140">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0629</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1304</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11529</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0629</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0629</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11139</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.922014697193307,43.12735429927044,-2.922014697193307</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0629</FINCA><SUPERFICIE>1304</SUPERFICIE><IDGIS>11529</IDGIS><NAMESPACE>T2_ORO_0629</NAMESPACE><LOCALID>T2_ORO_0629</LOCALID><ORIG_FID>11139</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="141">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0630</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1522</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11530</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0630</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0630</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11140</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.921302263290881,43.12705740387105,-2.921302263290881</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0630</FINCA><SUPERFICIE>1522</SUPERFICIE><IDGIS>11530</IDGIS><NAMESPACE>T2_ORO_0630</NAMESPACE><LOCALID>T2_ORO_0630</LOCALID><ORIG_FID>11140</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="142">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0618</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3296</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11531</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0618</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0618</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11141</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.923620392220118,43.1280782317467,-2.923620392220118</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0618</FINCA><SUPERFICIE>3296</SUPERFICIE><IDGIS>11531</IDGIS><NAMESPACE>T2_ORO_0618</NAMESPACE><LOCALID>T2_ORO_0618</LOCALID><ORIG_FID>11141</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="143">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0619</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3319</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11532</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0619</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0619</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11142</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.923148164414611,43.12804846687393,-2.923148164414611</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0619</FINCA><SUPERFICIE>3319</SUPERFICIE><IDGIS>11532</IDGIS><NAMESPACE>T2_ORO_0619</NAMESPACE><LOCALID>T2_ORO_0619</LOCALID><ORIG_FID>11142</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="144">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0628</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>396</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11533</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0628</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0628</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11143</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.923324037175926,43.12814595020933,-2.923324037175926</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0628</FINCA><SUPERFICIE>396</SUPERFICIE><IDGIS>11533</IDGIS><NAMESPACE>T2_ORO_0628</NAMESPACE><LOCALID>T2_ORO_0628</LOCALID><ORIG_FID>11143</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="145">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0617</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4596</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11534</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0617</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0617</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11144</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.923851571907453,43.12844998151476,-2.923851571907453</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0617</FINCA><SUPERFICIE>4596</SUPERFICIE><IDGIS>11534</IDGIS><NAMESPACE>T2_ORO_0617</NAMESPACE><LOCALID>T2_ORO_0617</LOCALID><ORIG_FID>11144</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="146">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0627</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>928</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11535</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0627</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0627</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11145</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.923630881223013,43.12814776908797,-2.923630881223013</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0627</FINCA><SUPERFICIE>928</SUPERFICIE><IDGIS>11535</IDGIS><NAMESPACE>T2_ORO_0627</NAMESPACE><LOCALID>T2_ORO_0627</LOCALID><ORIG_FID>11145</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="147">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0625</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>135</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11536</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0625</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0625</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11146</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.922958407179575,43.12868563855995,-2.922958407179575</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0625</FINCA><SUPERFICIE>135</SUPERFICIE><IDGIS>11536</IDGIS><NAMESPACE>T2_ORO_0625</NAMESPACE><LOCALID>T2_ORO_0625</LOCALID><ORIG_FID>11146</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="148">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0626</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5025</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11537</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0626</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0626</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11147</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.926353645820353,43.13030380629226,-2.926353645820353</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0626</FINCA><SUPERFICIE>5025</SUPERFICIE><IDGIS>11537</IDGIS><NAMESPACE>T2_ORO_0626</NAMESPACE><LOCALID>T2_ORO_0626</LOCALID><ORIG_FID>11147</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="149">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0624</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4863</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11538</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0624</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0624</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11148</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.923988024588544,43.12950104964116,-2.923988024588544</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0624</FINCA><SUPERFICIE>4863</SUPERFICIE><IDGIS>11538</IDGIS><NAMESPACE>T2_ORO_0624</NAMESPACE><LOCALID>T2_ORO_0624</LOCALID><ORIG_FID>11148</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="150">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0623</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3267</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11539</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0623</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0623</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11149</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.924625516675583,43.12996888612206,-2.924625516675583</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0623</FINCA><SUPERFICIE>3267</SUPERFICIE><IDGIS>11539</IDGIS><NAMESPACE>T2_ORO_0623</NAMESPACE><LOCALID>T2_ORO_0623</LOCALID><ORIG_FID>11149</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="151">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0622</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2665</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11540</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0622</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0622</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11150</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.924974496589773,43.13026409297824,-2.924974496589773</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0622</FINCA><SUPERFICIE>2665</SUPERFICIE><IDGIS>11540</IDGIS><NAMESPACE>T2_ORO_0622</NAMESPACE><LOCALID>T2_ORO_0622</LOCALID><ORIG_FID>11150</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="152">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0621</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4445</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11541</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0621</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0621</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11151</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.925809187969271,43.13046221068154,-2.925809187969271</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0621</FINCA><SUPERFICIE>4445</SUPERFICIE><IDGIS>11541</IDGIS><NAMESPACE>T2_ORO_0621</NAMESPACE><LOCALID>T2_ORO_0621</LOCALID><ORIG_FID>11151</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="153">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0616</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10496</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11542</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0616</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0616</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11152</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.924698587636152,43.12920193501009,-2.924698587636152</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0616</FINCA><SUPERFICIE>10496</SUPERFICIE><IDGIS>11542</IDGIS><NAMESPACE>T2_ORO_0616</NAMESPACE><LOCALID>T2_ORO_0616</LOCALID><ORIG_FID>11152</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="154">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0615</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4098</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11543</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0615</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0615</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11153</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.925801624885215,43.12992160474042,-2.925801624885215</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0615</FINCA><SUPERFICIE>4098</SUPERFICIE><IDGIS>11543</IDGIS><NAMESPACE>T2_ORO_0615</NAMESPACE><LOCALID>T2_ORO_0615</LOCALID><ORIG_FID>11153</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="155">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0614</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1628</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11544</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0614</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0614</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11154</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.926468275456562,43.13028322550953,-2.926468275456562</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0614</FINCA><SUPERFICIE>1628</SUPERFICIE><IDGIS>11544</IDGIS><NAMESPACE>T2_ORO_0614</NAMESPACE><LOCALID>T2_ORO_0614</LOCALID><ORIG_FID>11154</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="156">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0613</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4045</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11545</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0613</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0613</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11155</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.927301669454313,43.1305035258295,-2.927301669454313</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0613</FINCA><SUPERFICIE>4045</SUPERFICIE><IDGIS>11545</IDGIS><NAMESPACE>T2_ORO_0613</NAMESPACE><LOCALID>T2_ORO_0613</LOCALID><ORIG_FID>11155</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="157">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0612</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4430</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11546</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0612</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0612</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11156</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.92659450224301,43.13090446254487,-2.92659450224301</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0612</FINCA><SUPERFICIE>4430</SUPERFICIE><IDGIS>11546</IDGIS><NAMESPACE>T2_ORO_0612</NAMESPACE><LOCALID>T2_ORO_0612</LOCALID><ORIG_FID>11156</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="158">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0611</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>58402</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11547</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0611</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0611</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11157</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.931007170658061,43.13332431026316,-2.931007170658061</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0611</FINCA><SUPERFICIE>58402</SUPERFICIE><IDGIS>11547</IDGIS><NAMESPACE>T2_ORO_0611</NAMESPACE><LOCALID>T2_ORO_0611</LOCALID><ORIG_FID>11157</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="159">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0611-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5769</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11548</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0611-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0611-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11158</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.928646497589658,43.13106980879495,-2.928646497589658</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0611-1</FINCA><SUPERFICIE>5769</SUPERFICIE><IDGIS>11548</IDGIS><NAMESPACE>T2_ORO_0611-1</NAMESPACE><LOCALID>T2_ORO_0611-1</LOCALID><ORIG_FID>11158</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="160">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0601-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2357</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11550</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0601-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0601-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11159</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.931588762630967,43.13421800197985,-2.931588762630967</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0601-2</FINCA><SUPERFICIE>2357</SUPERFICIE><IDGIS>11550</IDGIS><NAMESPACE>T2_ORO_0601-2</NAMESPACE><LOCALID>T2_ORO_0601-2</LOCALID><ORIG_FID>11159</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="161">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0610</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4705</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11551</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0610</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0610</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11160</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.932723994819863,43.13470986324472,-2.932723994819863</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0610</FINCA><SUPERFICIE>4705</SUPERFICIE><IDGIS>11551</IDGIS><NAMESPACE>T2_ORO_0610</NAMESPACE><LOCALID>T2_ORO_0610</LOCALID><ORIG_FID>11160</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="162">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0608</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>139</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11552</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0608</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0608</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11161</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.934485994863529,43.13701025453653,-2.934485994863529</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0608</FINCA><SUPERFICIE>139</SUPERFICIE><IDGIS>11552</IDGIS><NAMESPACE>T2_ORO_0608</NAMESPACE><LOCALID>T2_ORO_0608</LOCALID><ORIG_FID>11161</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="163">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0609</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3356</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11553</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0609</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0609</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11162</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.934025293311358,43.13679847074384,-2.934025293311358</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0609</FINCA><SUPERFICIE>3356</SUPERFICIE><IDGIS>11553</IDGIS><NAMESPACE>T2_ORO_0609</NAMESPACE><LOCALID>T2_ORO_0609</LOCALID><ORIG_FID>11162</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="164">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0607</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>127</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11554</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0607</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0607</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11163</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.934613456964757,43.1371520551525,-2.934613456964758</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0607</FINCA><SUPERFICIE>127</SUPERFICIE><IDGIS>11554</IDGIS><NAMESPACE>T2_ORO_0607</NAMESPACE><LOCALID>T2_ORO_0607</LOCALID><ORIG_FID>11163</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="165">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0606-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>357</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11556</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0606-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0606-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11164</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.934119730187226,43.1370459196603,-2.934119730187226</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0606-1</FINCA><SUPERFICIE>357</SUPERFICIE><IDGIS>11556</IDGIS><NAMESPACE>T2_ORO_0606-1</NAMESPACE><LOCALID>T2_ORO_0606-1</LOCALID><ORIG_FID>11164</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="166">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0606</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1199</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11557</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0606</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0606</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11165</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.933953924309576,43.13711663750262,-2.933953924309576</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0606</FINCA><SUPERFICIE>1199</SUPERFICIE><IDGIS>11557</IDGIS><NAMESPACE>T2_ORO_0606</NAMESPACE><LOCALID>T2_ORO_0606</LOCALID><ORIG_FID>11165</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="167">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0605</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4423</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11558</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0605</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0605</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11166</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.932574111144062,43.13510212472308,-2.932574111144062</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0605</FINCA><SUPERFICIE>4423</SUPERFICIE><IDGIS>11558</IDGIS><NAMESPACE>T2_ORO_0605</NAMESPACE><LOCALID>T2_ORO_0605</LOCALID><ORIG_FID>11166</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="168">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0640-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1839</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11514</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0640-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0640-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11928</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917499014073916,43.12167061531803,-2.917499014073916</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0640-2</FINCA><SUPERFICIE>1839</SUPERFICIE><IDGIS>11514</IDGIS><NAMESPACE>T2_ORO_0640-2</NAMESPACE><LOCALID>T2_ORO_0640-2</LOCALID><ORIG_FID>11928</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="169">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0640-2A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>212</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12399</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0640-2A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0640-2A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11929</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917178471548751,43.12214527954097,-2.91717847154875</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0640-2A</FINCA><SUPERFICIE>212</SUPERFICIE><IDGIS>12399</IDGIS><NAMESPACE>T2_ORO_0640-2A</NAMESPACE><LOCALID>T2_ORO_0640-2A</LOCALID><ORIG_FID>11929</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="170">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0617-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>301</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12400</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0617-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0617-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11930</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.923965654448846,43.12813645316674,-2.923965654448846</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0617-1</FINCA><SUPERFICIE>301</SUPERFICIE><IDGIS>12400</IDGIS><NAMESPACE>T2_ORO_0617-1</NAMESPACE><LOCALID>T2_ORO_0617-1</LOCALID><ORIG_FID>11930</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="171">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0607-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>116</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11555</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0607-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0607-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11931</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.934915802535329,43.13708473239615,-2.934915802535329</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0607-1</FINCA><SUPERFICIE>116</SUPERFICIE><IDGIS>11555</IDGIS><NAMESPACE>T2_ORO_0607-1</NAMESPACE><LOCALID>T2_ORO_0607-1</LOCALID><ORIG_FID>11931</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="172">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0814_COM</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6566</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12462</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0814_COM</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0814_COM</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11995</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914075856699219,43.08177824037957,-2.914075856699219</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0814_COM</FINCA><SUPERFICIE>6566</SUPERFICIE><IDGIS>12462</IDGIS><NAMESPACE>T2_ORO_0814_COM</NAMESPACE><LOCALID>T2_ORO_0814_COM</LOCALID><ORIG_FID>11995</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="173">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0813-2_COM</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7710</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12463</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0813-2_COM</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0813-2_COM</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11996</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913485265831989,43.08470395306943,-2.913485265831989</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0813-2_COM</FINCA><SUPERFICIE>7710</SUPERFICIE><IDGIS>12463</IDGIS><NAMESPACE>T2_ORO_0813-2_COM</NAMESPACE><LOCALID>T2_ORO_0813-2_COM</LOCALID><ORIG_FID>11996</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="174">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T2</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ORO</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0698-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2505</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12647</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T2_ORO_0698-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T2_ORO_0698-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12207</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917650357048114,43.10117704022959,-2.917650357048114</coordinates>
+		</Point>
+		<Metadata><TRAMO>T2</TRAMO><TERMINO>ORO</TERMINO><FINCA>0698-2</FINCA><SUPERFICIE>2505</SUPERFICIE><IDGIS>12647</IDGIS><NAMESPACE>T2_ORO_0698-2</NAMESPACE><LOCALID>T2_ORO_0698-2</LOCALID><ORIG_FID>12207</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

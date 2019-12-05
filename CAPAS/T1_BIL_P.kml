@@ -1,0 +1,3486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T1_BIL_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>43.23398154607937</north>
+			<south>43.21921158024053</south>
+			<east>-2.909679791988415</east>
+			<west>-2.917505588385157</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0187-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>612</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11919</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0187-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0187-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11592</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.910523253548247,43.21924789271669,-2.910523253548247</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0187-2</FINCA><SUPERFICIE>612</SUPERFICIE><IDGIS>11919</IDGIS><NAMESPACE>T1_BIL_0187-2</NAMESPACE><LOCALID>T1_BIL_0187-2</LOCALID><ORIG_FID>11592</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0185</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>35731</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11920</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0185</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0185</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11593</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911442455176613,43.22050808598676,-2.911442455176613</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0185</FINCA><SUPERFICIE>35731</SUPERFICIE><IDGIS>11920</IDGIS><NAMESPACE>T1_BIL_0185</NAMESPACE><LOCALID>T1_BIL_0185</LOCALID><ORIG_FID>11593</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0191,192</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1419</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11923</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0191,192</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0191,192</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11594</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.910042750484895,43.22006761295844,-2.910042750484895</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0191,192</FINCA><SUPERFICIE>1419</SUPERFICIE><IDGIS>11923</IDGIS><NAMESPACE>T1_BIL_0191,192</NAMESPACE><LOCALID>T1_BIL_0191,192</LOCALID><ORIG_FID>11594</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0184</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6699</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11924</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0184</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0184</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11595</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.909699870850193,43.2203747188027,-2.909699870850193</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0184</FINCA><SUPERFICIE>6699</SUPERFICIE><IDGIS>11924</IDGIS><NAMESPACE>T1_BIL_0184</NAMESPACE><LOCALID>T1_BIL_0184</LOCALID><ORIG_FID>11595</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0184-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1000</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11925</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0184-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0184-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11596</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.910074968137137,43.22068661433417,-2.910074968137137</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0184-1</FINCA><SUPERFICIE>1000</SUPERFICIE><IDGIS>11925</IDGIS><NAMESPACE>T1_BIL_0184-1</NAMESPACE><LOCALID>T1_BIL_0184-1</LOCALID><ORIG_FID>11596</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0184-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>443</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11926</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0184-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0184-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11597</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.910429890121129,43.22130602452676,-2.910429890121129</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0184-2</FINCA><SUPERFICIE>443</SUPERFICIE><IDGIS>11926</IDGIS><NAMESPACE>T1_BIL_0184-2</NAMESPACE><LOCALID>T1_BIL_0184-2</LOCALID><ORIG_FID>11597</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0183</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7420</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11928</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0183</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0183</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11598</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.911245006865557,43.22144111138259,-2.911245006865557</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0183</FINCA><SUPERFICIE>7420</SUPERFICIE><IDGIS>11928</IDGIS><NAMESPACE>T1_BIL_0183</NAMESPACE><LOCALID>T1_BIL_0183</LOCALID><ORIG_FID>11598</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0187-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>32</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11929</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0187-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0187-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11599</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912203858945959,43.21970847362316,-2.912203858945959</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0187-4</FINCA><SUPERFICIE>32</SUPERFICIE><IDGIS>11929</IDGIS><NAMESPACE>T1_BIL_0187-4</NAMESPACE><LOCALID>T1_BIL_0187-4</LOCALID><ORIG_FID>11599</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0187-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>418</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11930</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0187-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0187-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11600</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.912419853581885,43.21980645770015,-2.912419853581885</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0187-5</FINCA><SUPERFICIE>418</SUPERFICIE><IDGIS>11930</IDGIS><NAMESPACE>T1_BIL_0187-5</NAMESPACE><LOCALID>T1_BIL_0187-5</LOCALID><ORIG_FID>11600</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0178</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>236</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11932</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0178</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0178</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11601</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915695169693502,43.22345487164667,-2.915695169693503</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0178</FINCA><SUPERFICIE>236</SUPERFICIE><IDGIS>11932</IDGIS><NAMESPACE>T1_BIL_0178</NAMESPACE><LOCALID>T1_BIL_0178</LOCALID><ORIG_FID>11601</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0177</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>109</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11933</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0177</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0177</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11602</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915725762781514,43.22352873663213,-2.915725762781514</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0177</FINCA><SUPERFICIE>109</SUPERFICIE><IDGIS>11933</IDGIS><NAMESPACE>T1_BIL_0177</NAMESPACE><LOCALID>T1_BIL_0177</LOCALID><ORIG_FID>11602</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0179-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>125</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11934</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0179-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0179-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11603</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915567345106367,43.22341237587381,-2.915567345106368</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0179-1</FINCA><SUPERFICIE>125</SUPERFICIE><IDGIS>11934</IDGIS><NAMESPACE>T1_BIL_0179-1</NAMESPACE><LOCALID>T1_BIL_0179-1</LOCALID><ORIG_FID>11603</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0176</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>673</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11935</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0176</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0176</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11604</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91561151581832,43.22373276908703,-2.91561151581832</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0176</FINCA><SUPERFICIE>673</SUPERFICIE><IDGIS>11935</IDGIS><NAMESPACE>T1_BIL_0176</NAMESPACE><LOCALID>T1_BIL_0176</LOCALID><ORIG_FID>11604</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0179</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9330</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11936</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0179</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0179</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11605</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914383264055534,43.22276555901706,-2.914383264055534</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0179</FINCA><SUPERFICIE>9330</SUPERFICIE><IDGIS>11936</IDGIS><NAMESPACE>T1_BIL_0179</NAMESPACE><LOCALID>T1_BIL_0179</LOCALID><ORIG_FID>11605</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0182</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>457</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11937</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0182</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0182</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11606</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914957537755125,43.22481673684501,-2.914957537755125</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0182</FINCA><SUPERFICIE>457</SUPERFICIE><IDGIS>11937</IDGIS><NAMESPACE>T1_BIL_0182</NAMESPACE><LOCALID>T1_BIL_0182</LOCALID><ORIG_FID>11606</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0170</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5500</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11938</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0170</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0170</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11607</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915231191124962,43.22542955003164,-2.915231191124962</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0170</FINCA><SUPERFICIE>5500</SUPERFICIE><IDGIS>11938</IDGIS><NAMESPACE>T1_BIL_0170</NAMESPACE><LOCALID>T1_BIL_0170</LOCALID><ORIG_FID>11607</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0180</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>21311</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11939</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0180</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0180</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11608</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91370297732347,43.22286873203759,-2.91370297732347</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0180</FINCA><SUPERFICIE>21311</SUPERFICIE><IDGIS>11939</IDGIS><NAMESPACE>T1_BIL_0180</NAMESPACE><LOCALID>T1_BIL_0180</LOCALID><ORIG_FID>11608</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0181</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4205</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11940</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0181</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0181</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11609</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914826581124626,43.22431754746727,-2.914826581124627</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0181</FINCA><SUPERFICIE>4205</SUPERFICIE><IDGIS>11940</IDGIS><NAMESPACE>T1_BIL_0181</NAMESPACE><LOCALID>T1_BIL_0181</LOCALID><ORIG_FID>11609</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0169-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1492</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11941</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0169-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0169-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11610</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915258658964234,43.22441916530801,-2.915258658964234</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0169-1</FINCA><SUPERFICIE>1492</SUPERFICIE><IDGIS>11941</IDGIS><NAMESPACE>T1_BIL_0169-1</NAMESPACE><LOCALID>T1_BIL_0169-1</LOCALID><ORIG_FID>11610</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0169</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13001</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11942</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0169</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0169</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11611</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915717107989799,43.22578810024508,-2.915717107989799</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0169</FINCA><SUPERFICIE>13001</SUPERFICIE><IDGIS>11942</IDGIS><NAMESPACE>T1_BIL_0169</NAMESPACE><LOCALID>T1_BIL_0169</LOCALID><ORIG_FID>11611</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0175</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8523</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11943</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0175</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0175</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11612</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915873467844595,43.22463947778073,-2.915873467844595</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0175</FINCA><SUPERFICIE>8523</SUPERFICIE><IDGIS>11943</IDGIS><NAMESPACE>T1_BIL_0175</NAMESPACE><LOCALID>T1_BIL_0175</LOCALID><ORIG_FID>11612</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0166</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>165</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11944</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0166</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0166</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11613</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916824239611838,43.22699674051039,-2.916824239611838</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0166</FINCA><SUPERFICIE>165</SUPERFICIE><IDGIS>11944</IDGIS><NAMESPACE>T1_BIL_0166</NAMESPACE><LOCALID>T1_BIL_0166</LOCALID><ORIG_FID>11613</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0164</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>256</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11945</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0164</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0164</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11614</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916705661213776,43.22701912284258,-2.916705661213776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0164</FINCA><SUPERFICIE>256</SUPERFICIE><IDGIS>11945</IDGIS><NAMESPACE>T1_BIL_0164</NAMESPACE><LOCALID>T1_BIL_0164</LOCALID><ORIG_FID>11614</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0168</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1922</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11946</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0168</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0168</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11615</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916431577111526,43.22588441403206,-2.916431577111526</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0168</FINCA><SUPERFICIE>1922</SUPERFICIE><IDGIS>11946</IDGIS><NAMESPACE>T1_BIL_0168</NAMESPACE><LOCALID>T1_BIL_0168</LOCALID><ORIG_FID>11615</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0167</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1090</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11947</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0167</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0167</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11616</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916698595627346,43.22659481293669,-2.916698595627346</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0167</FINCA><SUPERFICIE>1090</SUPERFICIE><IDGIS>11947</IDGIS><NAMESPACE>T1_BIL_0167</NAMESPACE><LOCALID>T1_BIL_0167</LOCALID><ORIG_FID>11616</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0163</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>405</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11948</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0163</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0163</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11617</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916582341654712,43.22683119518892,-2.916582341654712</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0163</FINCA><SUPERFICIE>405</SUPERFICIE><IDGIS>11948</IDGIS><NAMESPACE>T1_BIL_0163</NAMESPACE><LOCALID>T1_BIL_0163</LOCALID><ORIG_FID>11617</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0162</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5526</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11949</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0162</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0162</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11618</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916041156593966,43.22674770003019,-2.916041156593966</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0162</FINCA><SUPERFICIE>5526</SUPERFICIE><IDGIS>11949</IDGIS><NAMESPACE>T1_BIL_0162</NAMESPACE><LOCALID>T1_BIL_0162</LOCALID><ORIG_FID>11618</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0162-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>151</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11950</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0162-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0162-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11619</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916195960174728,43.22712264088821,-2.916195960174728</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0162-2</FINCA><SUPERFICIE>151</SUPERFICIE><IDGIS>11950</IDGIS><NAMESPACE>T1_BIL_0162-2</NAMESPACE><LOCALID>T1_BIL_0162-2</LOCALID><ORIG_FID>11619</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0163-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>80</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11951</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0163-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0163-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11620</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91627570268136,43.2270642522656,-2.91627570268136</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0163-1</FINCA><SUPERFICIE>80</SUPERFICIE><IDGIS>11951</IDGIS><NAMESPACE>T1_BIL_0163-1</NAMESPACE><LOCALID>T1_BIL_0163-1</LOCALID><ORIG_FID>11620</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0162-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>354</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11952</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0162-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0162-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11621</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916035866425038,43.22720081063395,-2.916035866425038</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0162-1</FINCA><SUPERFICIE>354</SUPERFICIE><IDGIS>11952</IDGIS><NAMESPACE>T1_BIL_0162-1</NAMESPACE><LOCALID>T1_BIL_0162-1</LOCALID><ORIG_FID>11621</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0153-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>837</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11953</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0153-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0153-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11622</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915728633607833,43.22739010820414,-2.915728633607833</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0153-1</FINCA><SUPERFICIE>837</SUPERFICIE><IDGIS>11953</IDGIS><NAMESPACE>T1_BIL_0153-1</NAMESPACE><LOCALID>T1_BIL_0153-1</LOCALID><ORIG_FID>11622</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0161</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>183</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11954</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0161</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0161</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11623</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916076503835972,43.22732864550008,-2.916076503835972</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0161</FINCA><SUPERFICIE>183</SUPERFICIE><IDGIS>11954</IDGIS><NAMESPACE>T1_BIL_0161</NAMESPACE><LOCALID>T1_BIL_0161</LOCALID><ORIG_FID>11623</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0153</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1982</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11956</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0153</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0153</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11624</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915834220764817,43.22759299678095,-2.915834220764817</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0153</FINCA><SUPERFICIE>1982</SUPERFICIE><IDGIS>11956</IDGIS><NAMESPACE>T1_BIL_0153</NAMESPACE><LOCALID>T1_BIL_0153</LOCALID><ORIG_FID>11624</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0154-155</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>384</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11957</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0154-155</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0154-155</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11625</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916171301748564,43.22781771419358,-2.916171301748564</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0154-155</FINCA><SUPERFICIE>384</SUPERFICIE><IDGIS>11957</IDGIS><NAMESPACE>T1_BIL_0154-155</NAMESPACE><LOCALID>T1_BIL_0154-155</LOCALID><ORIG_FID>11625</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0160</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>54</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11958</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0160</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0160</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11626</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916486662038647,43.22762081328544,-2.916486662038647</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0160</FINCA><SUPERFICIE>54</SUPERFICIE><IDGIS>11958</IDGIS><NAMESPACE>T1_BIL_0160</NAMESPACE><LOCALID>T1_BIL_0160</LOCALID><ORIG_FID>11626</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0160-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>55</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11960</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0160-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0160-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11627</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916363017189776,43.22777399157258,-2.916363017189776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0160-2</FINCA><SUPERFICIE>55</SUPERFICIE><IDGIS>11960</IDGIS><NAMESPACE>T1_BIL_0160-2</NAMESPACE><LOCALID>T1_BIL_0160-2</LOCALID><ORIG_FID>11627</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0160-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>27</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11961</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0160-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0160-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11628</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916413987160744,43.22769919231199,-2.916413987160744</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0160-1</FINCA><SUPERFICIE>27</SUPERFICIE><IDGIS>11961</IDGIS><NAMESPACE>T1_BIL_0160-1</NAMESPACE><LOCALID>T1_BIL_0160-1</LOCALID><ORIG_FID>11628</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0156</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>575</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11962</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0156</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0156</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11629</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916340941175533,43.22793894028546,-2.916340941175533</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0156</FINCA><SUPERFICIE>575</SUPERFICIE><IDGIS>11962</IDGIS><NAMESPACE>T1_BIL_0156</NAMESPACE><LOCALID>T1_BIL_0156</LOCALID><ORIG_FID>11629</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0157</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>863</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11963</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0157</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0157</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11630</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916107680175489,43.22837164573249,-2.91610768017549</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0157</FINCA><SUPERFICIE>863</SUPERFICIE><IDGIS>11963</IDGIS><NAMESPACE>T1_BIL_0157</NAMESPACE><LOCALID>T1_BIL_0157</LOCALID><ORIG_FID>11630</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0159</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>100</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11964</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0159</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0159</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11631</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916473505737105,43.22788218848824,-2.916473505737105</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0159</FINCA><SUPERFICIE>100</SUPERFICIE><IDGIS>11964</IDGIS><NAMESPACE>T1_BIL_0159</NAMESPACE><LOCALID>T1_BIL_0159</LOCALID><ORIG_FID>11631</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0158</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>238</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11965</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0158</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0158</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11632</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916241818166678,43.22847068077981,-2.916241818166678</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0158</FINCA><SUPERFICIE>238</SUPERFICIE><IDGIS>11965</IDGIS><NAMESPACE>T1_BIL_0158</NAMESPACE><LOCALID>T1_BIL_0158</LOCALID><ORIG_FID>11632</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0133-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1154</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11967</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0133-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0133-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11633</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916036983486323,43.22901476652516,-2.916036983486323</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0133-1</FINCA><SUPERFICIE>1154</SUPERFICIE><IDGIS>11967</IDGIS><NAMESPACE>T1_BIL_0133-1</NAMESPACE><LOCALID>T1_BIL_0133-1</LOCALID><ORIG_FID>11633</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0131</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>107</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11968</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0131</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0131</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11634</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915927033558227,43.22932372173854,-2.915927033558227</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0131</FINCA><SUPERFICIE>107</SUPERFICIE><IDGIS>11968</IDGIS><NAMESPACE>T1_BIL_0131</NAMESPACE><LOCALID>T1_BIL_0131</LOCALID><ORIG_FID>11634</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0134</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1028</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11969</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0134</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0134</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11635</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915878777098508,43.22833731910551,-2.915878777098509</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0134</FINCA><SUPERFICIE>1028</SUPERFICIE><IDGIS>11969</IDGIS><NAMESPACE>T1_BIL_0134</NAMESPACE><LOCALID>T1_BIL_0134</LOCALID><ORIG_FID>11635</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0133</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>400</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11970</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0133</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0133</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11636</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915931017957273,43.22868081138036,-2.915931017957273</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0133</FINCA><SUPERFICIE>400</SUPERFICIE><IDGIS>11970</IDGIS><NAMESPACE>T1_BIL_0133</NAMESPACE><LOCALID>T1_BIL_0133</LOCALID><ORIG_FID>11636</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0113</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1303</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11971</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0113</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0113</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11637</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914922151130707,43.23077886213964,-2.914922151130706</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0113</FINCA><SUPERFICIE>1303</SUPERFICIE><IDGIS>11971</IDGIS><NAMESPACE>T1_BIL_0113</NAMESPACE><LOCALID>T1_BIL_0113</LOCALID><ORIG_FID>11637</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0113-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>142</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11972</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0113-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0113-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11638</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914990978270803,43.2305232628396,-2.914990978270803</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0113-1</FINCA><SUPERFICIE>142</SUPERFICIE><IDGIS>11972</IDGIS><NAMESPACE>T1_BIL_0113-1</NAMESPACE><LOCALID>T1_BIL_0113-1</LOCALID><ORIG_FID>11638</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0135</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6100</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11973</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0135</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0135</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11639</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91552479055145,43.22822131507626,-2.91552479055145</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0135</FINCA><SUPERFICIE>6100</SUPERFICIE><IDGIS>11973</IDGIS><NAMESPACE>T1_BIL_0135</NAMESPACE><LOCALID>T1_BIL_0135</LOCALID><ORIG_FID>11639</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0132</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1125</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11974</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0132</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0132</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11640</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915476014859056,43.22876745548853,-2.915476014859057</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0132</FINCA><SUPERFICIE>1125</SUPERFICIE><IDGIS>11974</IDGIS><NAMESPACE>T1_BIL_0132</NAMESPACE><LOCALID>T1_BIL_0132</LOCALID><ORIG_FID>11640</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0130</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4231</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11975</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0130</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0130</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11641</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915536856054528,43.22920063776047,-2.915536856054528</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0130</FINCA><SUPERFICIE>4231</SUPERFICIE><IDGIS>11975</IDGIS><NAMESPACE>T1_BIL_0130</NAMESPACE><LOCALID>T1_BIL_0130</LOCALID><ORIG_FID>11641</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0112</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4354</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11976</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0112</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0112</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11642</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915307659721732,43.23045941468806,-2.915307659721732</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0112</FINCA><SUPERFICIE>4354</SUPERFICIE><IDGIS>11976</IDGIS><NAMESPACE>T1_BIL_0112</NAMESPACE><LOCALID>T1_BIL_0112</LOCALID><ORIG_FID>11642</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0129</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4070</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11977</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0129</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0129</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11643</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915103619077986,43.22966198946251,-2.915103619077986</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0129</FINCA><SUPERFICIE>4070</SUPERFICIE><IDGIS>11977</IDGIS><NAMESPACE>T1_BIL_0129</NAMESPACE><LOCALID>T1_BIL_0129</LOCALID><ORIG_FID>11643</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0148</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>669</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11978</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0148</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0148</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11644</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.9140716362035,43.22640057210812,-2.9140716362035</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0148</FINCA><SUPERFICIE>669</SUPERFICIE><IDGIS>11978</IDGIS><NAMESPACE>T1_BIL_0148</NAMESPACE><LOCALID>T1_BIL_0148</LOCALID><ORIG_FID>11644</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0149</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>126</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11980</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0149</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0149</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11645</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913481047359932,43.22632054406282,-2.913481047359932</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0149</FINCA><SUPERFICIE>126</SUPERFICIE><IDGIS>11980</IDGIS><NAMESPACE>T1_BIL_0149</NAMESPACE><LOCALID>T1_BIL_0149</LOCALID><ORIG_FID>11645</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0147</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>605</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11981</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0147</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0147</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11646</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913289269140311,43.22603414201517,-2.913289269140311</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0147</FINCA><SUPERFICIE>605</SUPERFICIE><IDGIS>11981</IDGIS><NAMESPACE>T1_BIL_0147</NAMESPACE><LOCALID>T1_BIL_0147</LOCALID><ORIG_FID>11646</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0146</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>488</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11982</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0146</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0146</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11647</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.9136118023251,43.22664822062485,-2.9136118023251</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0146</FINCA><SUPERFICIE>488</SUPERFICIE><IDGIS>11982</IDGIS><NAMESPACE>T1_BIL_0146</NAMESPACE><LOCALID>T1_BIL_0146</LOCALID><ORIG_FID>11647</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0145</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2943</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11983</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0145</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0145</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11648</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913308703642108,43.22660978426711,-2.913308703642108</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0145</FINCA><SUPERFICIE>2943</SUPERFICIE><IDGIS>11983</IDGIS><NAMESPACE>T1_BIL_0145</NAMESPACE><LOCALID>T1_BIL_0145</LOCALID><ORIG_FID>11648</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0144</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1358</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11985</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0144</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0144</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11649</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913747712797645,43.22696145731653,-2.913747712797645</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0144</FINCA><SUPERFICIE>1358</SUPERFICIE><IDGIS>11985</IDGIS><NAMESPACE>T1_BIL_0144</NAMESPACE><LOCALID>T1_BIL_0144</LOCALID><ORIG_FID>11649</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0152</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>936</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11987</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0152</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0152</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11650</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915266807539819,43.22728498622925,-2.915266807539819</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0152</FINCA><SUPERFICIE>936</SUPERFICIE><IDGIS>11987</IDGIS><NAMESPACE>T1_BIL_0152</NAMESPACE><LOCALID>T1_BIL_0152</LOCALID><ORIG_FID>11650</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0136</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2673</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11989</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0136</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0136</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11651</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915080451802081,43.22804736321609,-2.915080451802081</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0136</FINCA><SUPERFICIE>2673</SUPERFICIE><IDGIS>11989</IDGIS><NAMESPACE>T1_BIL_0136</NAMESPACE><LOCALID>T1_BIL_0136</LOCALID><ORIG_FID>11651</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0143</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>658</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11990</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0143</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0143</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11652</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913896093314512,43.22718593097536,-2.913896093314512</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0143</FINCA><SUPERFICIE>658</SUPERFICIE><IDGIS>11990</IDGIS><NAMESPACE>T1_BIL_0143</NAMESPACE><LOCALID>T1_BIL_0143</LOCALID><ORIG_FID>11652</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0142</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1158</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11991</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0142</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0142</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11653</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914022206523152,43.22737231119616,-2.914022206523151</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0142</FINCA><SUPERFICIE>1158</SUPERFICIE><IDGIS>11991</IDGIS><NAMESPACE>T1_BIL_0142</NAMESPACE><LOCALID>T1_BIL_0142</LOCALID><ORIG_FID>11653</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0151</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1249</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11993</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0151</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0151</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11654</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91505172394216,43.22741316574901,-2.91505172394216</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0151</FINCA><SUPERFICIE>1249</SUPERFICIE><IDGIS>11993</IDGIS><NAMESPACE>T1_BIL_0151</NAMESPACE><LOCALID>T1_BIL_0151</LOCALID><ORIG_FID>11654</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0139-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>262</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12618</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0139-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0139-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11655</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91398386096423,43.22805920822088,-2.91398386096423</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0139-A</FINCA><SUPERFICIE>262</SUPERFICIE><IDGIS>12618</IDGIS><NAMESPACE>T1_BIL_0139-A</NAMESPACE><LOCALID>T1_BIL_0139-A</LOCALID><ORIG_FID>11655</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0140</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>793</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11995</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0140</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0140</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11656</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914066819874396,43.22767453266904,-2.914066819874397</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0140</FINCA><SUPERFICIE>793</SUPERFICIE><IDGIS>11995</IDGIS><NAMESPACE>T1_BIL_0140</NAMESPACE><LOCALID>T1_BIL_0140</LOCALID><ORIG_FID>11656</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0141</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2893</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11997</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0141</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0141</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11657</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914456609869408,43.22776536826017,-2.914456609869408</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0141</FINCA><SUPERFICIE>2893</SUPERFICIE><IDGIS>11997</IDGIS><NAMESPACE>T1_BIL_0141</NAMESPACE><LOCALID>T1_BIL_0141</LOCALID><ORIG_FID>11657</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0138</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3959</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11998</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0138</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0138</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11658</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914242444941711,43.22865180278037,-2.914242444941711</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0138</FINCA><SUPERFICIE>3959</SUPERFICIE><IDGIS>11998</IDGIS><NAMESPACE>T1_BIL_0138</NAMESPACE><LOCALID>T1_BIL_0138</LOCALID><ORIG_FID>11658</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0137</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4655</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11999</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0137</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0137</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11659</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91467554055234,43.22851203104462,-2.91467554055234</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0137</FINCA><SUPERFICIE>4655</SUPERFICIE><IDGIS>11999</IDGIS><NAMESPACE>T1_BIL_0137</NAMESPACE><LOCALID>T1_BIL_0137</LOCALID><ORIG_FID>11659</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0124</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1327</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12000</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0124</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0124</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11660</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913991588043092,43.22953245516072,-2.913991588043092</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0124</FINCA><SUPERFICIE>1327</SUPERFICIE><IDGIS>12000</IDGIS><NAMESPACE>T1_BIL_0124</NAMESPACE><LOCALID>T1_BIL_0124</LOCALID><ORIG_FID>11660</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0128</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2378</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12001</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0128</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0128</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11661</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914168909009888,43.22993594067813,-2.914168909009888</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0128</FINCA><SUPERFICIE>2378</SUPERFICIE><IDGIS>12001</IDGIS><NAMESPACE>T1_BIL_0128</NAMESPACE><LOCALID>T1_BIL_0128</LOCALID><ORIG_FID>11661</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0125</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1873</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12002</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0125</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0125</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11662</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913941184291453,43.23031585279901,-2.913941184291453</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0125</FINCA><SUPERFICIE>1873</SUPERFICIE><IDGIS>12002</IDGIS><NAMESPACE>T1_BIL_0125</NAMESPACE><LOCALID>T1_BIL_0125</LOCALID><ORIG_FID>11662</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0127</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6335</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12003</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0127</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0127</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11663</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914597762893492,43.22965502149161,-2.914597762893492</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0127</FINCA><SUPERFICIE>6335</SUPERFICIE><IDGIS>12003</IDGIS><NAMESPACE>T1_BIL_0127</NAMESPACE><LOCALID>T1_BIL_0127</LOCALID><ORIG_FID>11663</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0126</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>493</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12004</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0126</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0126</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11664</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91482509461988,43.23051660742659,-2.91482509461988</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0126</FINCA><SUPERFICIE>493</SUPERFICIE><IDGIS>12004</IDGIS><NAMESPACE>T1_BIL_0126</NAMESPACE><LOCALID>T1_BIL_0126</LOCALID><ORIG_FID>11664</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0115</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>686</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12005</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0115</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0115</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11665</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914386900151424,43.23105948499797,-2.914386900151424</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0115</FINCA><SUPERFICIE>686</SUPERFICIE><IDGIS>12005</IDGIS><NAMESPACE>T1_BIL_0115</NAMESPACE><LOCALID>T1_BIL_0115</LOCALID><ORIG_FID>11665</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0116</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6110</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12006</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0116</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0116</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11666</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914247290427217,43.23070396842992,-2.914247290427217</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0116</FINCA><SUPERFICIE>6110</SUPERFICIE><IDGIS>12006</IDGIS><NAMESPACE>T1_BIL_0116</NAMESPACE><LOCALID>T1_BIL_0116</LOCALID><ORIG_FID>11666</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0117</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>234</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12007</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0117</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0117</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11667</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913800981959727,43.23120968596287,-2.913800981959727</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0117</FINCA><SUPERFICIE>234</SUPERFICIE><IDGIS>12007</IDGIS><NAMESPACE>T1_BIL_0117</NAMESPACE><LOCALID>T1_BIL_0117</LOCALID><ORIG_FID>11667</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0118</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1846</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12008</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0118</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0118</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11668</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913807044853646,43.23152936455426,-2.913807044853646</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0118</FINCA><SUPERFICIE>1846</SUPERFICIE><IDGIS>12008</IDGIS><NAMESPACE>T1_BIL_0118</NAMESPACE><LOCALID>T1_BIL_0118</LOCALID><ORIG_FID>11668</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0114</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5859</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12011</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0114</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0114</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11669</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914275702212474,43.23166248414831,-2.914275702212474</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0114</FINCA><SUPERFICIE>5859</SUPERFICIE><IDGIS>12011</IDGIS><NAMESPACE>T1_BIL_0114</NAMESPACE><LOCALID>T1_BIL_0114</LOCALID><ORIG_FID>11669</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0111</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1180</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12013</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0111</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0111</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11670</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915422356455355,43.23104786740564,-2.915422356455355</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0111</FINCA><SUPERFICIE>1180</SUPERFICIE><IDGIS>12013</IDGIS><NAMESPACE>T1_BIL_0111</NAMESPACE><LOCALID>T1_BIL_0111</LOCALID><ORIG_FID>11670</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0111-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>622</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12014</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0111-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0111-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11671</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91631459086763,43.23032710906939,-2.91631459086763</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0111-1</FINCA><SUPERFICIE>622</SUPERFICIE><IDGIS>12014</IDGIS><NAMESPACE>T1_BIL_0111-1</NAMESPACE><LOCALID>T1_BIL_0111-1</LOCALID><ORIG_FID>11671</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0110-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1123</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12016</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0110-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0110-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11672</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.916487225752555,43.23062825150551,-2.916487225752555</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0110-1</FINCA><SUPERFICIE>1123</SUPERFICIE><IDGIS>12016</IDGIS><NAMESPACE>T1_BIL_0110-1</NAMESPACE><LOCALID>T1_BIL_0110-1</LOCALID><ORIG_FID>11672</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0110</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>988</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12017</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0110</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0110</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11673</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915702508501261,43.23108104588255,-2.915702508501261</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0110</FINCA><SUPERFICIE>988</SUPERFICIE><IDGIS>12017</IDGIS><NAMESPACE>T1_BIL_0110</NAMESPACE><LOCALID>T1_BIL_0110</LOCALID><ORIG_FID>11673</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0109</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>822</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12019</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0109</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0109</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11674</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915941592763343,43.23107855100289,-2.915941592763343</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0109</FINCA><SUPERFICIE>822</SUPERFICIE><IDGIS>12019</IDGIS><NAMESPACE>T1_BIL_0109</NAMESPACE><LOCALID>T1_BIL_0109</LOCALID><ORIG_FID>11674</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0108</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1052</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12020</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0108</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0108</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11675</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915715206132711,43.23144946013699,-2.915715206132711</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0108</FINCA><SUPERFICIE>1052</SUPERFICIE><IDGIS>12020</IDGIS><NAMESPACE>T1_BIL_0108</NAMESPACE><LOCALID>T1_BIL_0108</LOCALID><ORIG_FID>11675</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0106</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1949</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12021</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0106</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0106</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11676</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915429362440805,43.23170516344653,-2.915429362440805</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0106</FINCA><SUPERFICIE>1949</SUPERFICIE><IDGIS>12021</IDGIS><NAMESPACE>T1_BIL_0106</NAMESPACE><LOCALID>T1_BIL_0106</LOCALID><ORIG_FID>11676</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0107</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>474</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12022</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0107</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0107</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11677</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915937735534343,43.2315419529095,-2.915937735534343</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0107</FINCA><SUPERFICIE>474</SUPERFICIE><IDGIS>12022</IDGIS><NAMESPACE>T1_BIL_0107</NAMESPACE><LOCALID>T1_BIL_0107</LOCALID><ORIG_FID>11677</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0105</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>934</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12023</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0105</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0105</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11678</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915119312382056,43.23132094356316,-2.915119312382056</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0105</FINCA><SUPERFICIE>934</SUPERFICIE><IDGIS>12023</IDGIS><NAMESPACE>T1_BIL_0105</NAMESPACE><LOCALID>T1_BIL_0105</LOCALID><ORIG_FID>11678</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0104</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>778</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12024</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0104</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0104</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11679</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914803463511672,43.23152107650592,-2.914803463511672</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0104</FINCA><SUPERFICIE>778</SUPERFICIE><IDGIS>12024</IDGIS><NAMESPACE>T1_BIL_0104</NAMESPACE><LOCALID>T1_BIL_0104</LOCALID><ORIG_FID>11679</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>979</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12025</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0103</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0103</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11680</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914160297807393,43.23218027097646,-2.914160297807393</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0103</FINCA><SUPERFICIE>979</SUPERFICIE><IDGIS>12025</IDGIS><NAMESPACE>T1_BIL_0103</NAMESPACE><LOCALID>T1_BIL_0103</LOCALID><ORIG_FID>11680</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0102</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13852</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12027</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0102</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0102</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11681</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915338645840591,43.23243130658183,-2.915338645840591</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0102</FINCA><SUPERFICIE>13852</SUPERFICIE><IDGIS>12027</IDGIS><NAMESPACE>T1_BIL_0102</NAMESPACE><LOCALID>T1_BIL_0102</LOCALID><ORIG_FID>11681</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0101</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6487</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12028</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0101</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0101</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11682</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.917485676697162,43.23398154607937,-2.917485676697162</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0101</FINCA><SUPERFICIE>6487</SUPERFICIE><IDGIS>12028</IDGIS><NAMESPACE>T1_BIL_0101</NAMESPACE><LOCALID>T1_BIL_0101</LOCALID><ORIG_FID>11682</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0119</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>148</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12029</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0119</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0119</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11683</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913379977597865,43.23222734120585,-2.913379977597865</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0119</FINCA><SUPERFICIE>148</SUPERFICIE><IDGIS>12029</IDGIS><NAMESPACE>T1_BIL_0119</NAMESPACE><LOCALID>T1_BIL_0119</LOCALID><ORIG_FID>11683</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0187-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>194</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12030</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0187-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0187-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11684</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.910404111816511,43.21921213258322,-2.910404111816511</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0187-6</FINCA><SUPERFICIE>194</SUPERFICIE><IDGIS>12030</IDGIS><NAMESPACE>T1_BIL_0187-6</NAMESPACE><LOCALID>T1_BIL_0187-6</LOCALID><ORIG_FID>11684</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0187-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>655</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11916</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0187-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0187-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12034</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.910381015181367,43.2193438052652,-2.910381015181367</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0187-1</FINCA><SUPERFICIE>655</SUPERFICIE><IDGIS>11916</IDGIS><NAMESPACE>T1_BIL_0187-1</NAMESPACE><LOCALID>T1_BIL_0187-1</LOCALID><ORIG_FID>12034</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0146-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>221</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12493</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0146-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0146-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12035</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913672452374948,43.22651403736876,-2.913672452374948</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0146-A</FINCA><SUPERFICIE>221</SUPERFICIE><IDGIS>12493</IDGIS><NAMESPACE>T1_BIL_0146-A</NAMESPACE><LOCALID>T1_BIL_0146-A</LOCALID><ORIG_FID>12035</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0150</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12534</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0150</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0150</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12078</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914542419832174,43.22725904776424,-2.914542419832174</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0150</FINCA><SUPERFICIE>8</SUPERFICIE><IDGIS>12534</IDGIS><NAMESPACE>T1_BIL_0150</NAMESPACE><LOCALID>T1_BIL_0150</LOCALID><ORIG_FID>12078</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0139</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>22</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11994</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0139</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0139</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12168</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.91410331965988,43.22794262909532,-2.91410331965988</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0139</FINCA><SUPERFICIE>22</SUPERFICIE><IDGIS>11994</IDGIS><NAMESPACE>T1_BIL_0139</NAMESPACE><LOCALID>T1_BIL_0139</LOCALID><ORIG_FID>12168</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0140-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>529</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12619</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0140-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0140-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12169</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913922557004302,43.22776923231827,-2.913922557004302</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0140-A</FINCA><SUPERFICIE>529</SUPERFICIE><IDGIS>12619</IDGIS><NAMESPACE>T1_BIL_0140-A</NAMESPACE><LOCALID>T1_BIL_0140-A</LOCALID><ORIG_FID>12169</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0142-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>220</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12620</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0142-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0142-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12170</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913707876621142,43.22741718913391,-2.913707876621142</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0142-A</FINCA><SUPERFICIE>220</SUPERFICIE><IDGIS>12620</IDGIS><NAMESPACE>T1_BIL_0142-A</NAMESPACE><LOCALID>T1_BIL_0142-A</LOCALID><ORIG_FID>12170</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0143-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>372</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11992</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0143-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0143-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12171</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914163639100548,43.22704988864484,-2.914163639100548</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0143-A</FINCA><SUPERFICIE>372</SUPERFICIE><IDGIS>11992</IDGIS><NAMESPACE>T1_BIL_0143-A</NAMESPACE><LOCALID>T1_BIL_0143-A</LOCALID><ORIG_FID>12171</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0145-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>823</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12621</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0145-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0145-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12172</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.913361818107223,43.22703732053839,-2.913361818107223</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0145-A</FINCA><SUPERFICIE>823</SUPERFICIE><IDGIS>12621</IDGIS><NAMESPACE>T1_BIL_0145-A</NAMESPACE><LOCALID>T1_BIL_0145-A</LOCALID><ORIG_FID>12172</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0173-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>42</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12622</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0173-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0173-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12173</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914639482380463,43.22641370559168,-2.914639482380463</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0173-A</FINCA><SUPERFICIE>42</SUPERFICIE><IDGIS>12622</IDGIS><NAMESPACE>T1_BIL_0173-A</NAMESPACE><LOCALID>T1_BIL_0173-A</LOCALID><ORIG_FID>12173</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0173-174</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2204</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11984</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0173-174</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0173-174</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12174</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.915259568238493,43.22691326015732,-2.915259568238493</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0173-174</FINCA><SUPERFICIE>2204</SUPERFICIE><IDGIS>11984</IDGIS><NAMESPACE>T1_BIL_0173-174</NAMESPACE><LOCALID>T1_BIL_0173-174</LOCALID><ORIG_FID>12174</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>BIL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0172</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>303</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11979</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_BIL_0172</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_BIL_0172</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12175</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.914764415875154,43.22630982199703,-2.914764415875154</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>BIL</TERMINO><FINCA>0172</FINCA><SUPERFICIE>303</SUPERFICIE><IDGIS>11979</IDGIS><NAMESPACE>T1_BIL_0172</NAMESPACE><LOCALID>T1_BIL_0172</LOCALID><ORIG_FID>12175</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

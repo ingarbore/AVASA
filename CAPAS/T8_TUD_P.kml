@@ -1,0 +1,6496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T8_TUD_P.kml</name>
+	<Style>
+		<ListStyle>
+			<listItemType>check</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Region>
+		<LatLonAltBox>
+			<north>42.10301181132999</north>
+			<south>42.01498671295208</south>
+			<east>-1.604822303127834</east>
+			<west>-1.72214325682435</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-25</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>416</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8533</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-25</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-25</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8251</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.606718377391438,42.01500002983234,-1.606718377391438</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-25</FINCA><SUPERFICIE>416</SUPERFICIE><IDGIS>8533</IDGIS><NAMESPACE>T8_TUD_A-25</NAMESPACE><LOCALID>T8_TUD_A-25</LOCALID><ORIG_FID>8251</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-21</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1171</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8534</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-21</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-21</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8252</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.609624792169265,42.01614625529445,-1.609624792169265</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-21</FINCA><SUPERFICIE>1171</SUPERFICIE><IDGIS>8534</IDGIS><NAMESPACE>T8_TUD_C-21</NAMESPACE><LOCALID>T8_TUD_C-21</LOCALID><ORIG_FID>8252</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>19879</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8535</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0062-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0062-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8253</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.608215269122958,42.01551876073615,-1.608215269122958</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0062-9</FINCA><SUPERFICIE>19879</SUPERFICIE><IDGIS>8535</IDGIS><NAMESPACE>T8_TUD_0062-9</NAMESPACE><LOCALID>T8_TUD_0062-9</LOCALID><ORIG_FID>8253</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>39446</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8536</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0062-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0062-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8254</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.612201598246037,42.01704782597516,-1.612201598246037</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0062-7</FINCA><SUPERFICIE>39446</SUPERFICIE><IDGIS>8536</IDGIS><NAMESPACE>T8_TUD_0062-7</NAMESPACE><LOCALID>T8_TUD_0062-7</LOCALID><ORIG_FID>8254</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-20</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1604</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8537</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-20</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-20</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8255</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.614989666633289,42.01821243630212,-1.614989666633289</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-20</FINCA><SUPERFICIE>1604</SUPERFICIE><IDGIS>8537</IDGIS><NAMESPACE>T8_TUD_C-20</NAMESPACE><LOCALID>T8_TUD_C-20</LOCALID><ORIG_FID>8255</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4801</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8538</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0062-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0062-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8256</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.614331083194657,42.01856222454435,-1.614331083194657</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0062-6</FINCA><SUPERFICIE>4801</SUPERFICIE><IDGIS>8538</IDGIS><NAMESPACE>T8_TUD_0062-6</NAMESPACE><LOCALID>T8_TUD_0062-6</LOCALID><ORIG_FID>8256</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0068</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1711</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8539</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0068</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0068</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8257</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.619412687947935,42.02116167167838,-1.619412687947935</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0068</FINCA><SUPERFICIE>1711</SUPERFICIE><IDGIS>8539</IDGIS><NAMESPACE>T8_TUD_0068</NAMESPACE><LOCALID>T8_TUD_0068</LOCALID><ORIG_FID>8257</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0067</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>415</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8540</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0067</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0067</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8258</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.619813151028233,42.02147046203233,-1.619813151028233</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0067</FINCA><SUPERFICIE>415</SUPERFICIE><IDGIS>8540</IDGIS><NAMESPACE>T8_TUD_0067</NAMESPACE><LOCALID>T8_TUD_0067</LOCALID><ORIG_FID>8258</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>29119</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8541</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0062-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0062-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8259</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.617111253203569,42.01953639168252,-1.617111253203569</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0062-5</FINCA><SUPERFICIE>29119</SUPERFICIE><IDGIS>8541</IDGIS><NAMESPACE>T8_TUD_0062-5</NAMESPACE><LOCALID>T8_TUD_0062-5</LOCALID><ORIG_FID>8259</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-22</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>163</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8542</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-22</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-22</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8260</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.619230129287189,42.02077056644132,-1.619230129287189</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-22</FINCA><SUPERFICIE>163</SUPERFICIE><IDGIS>8542</IDGIS><NAMESPACE>T8_TUD_A-22</NAMESPACE><LOCALID>T8_TUD_A-22</LOCALID><ORIG_FID>8260</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0066</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2363</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8543</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0066</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0066</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8261</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.619991652387579,42.02096427893435,-1.619991652387579</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0066</FINCA><SUPERFICIE>2363</SUPERFICIE><IDGIS>8543</IDGIS><NAMESPACE>T8_TUD_0066</NAMESPACE><LOCALID>T8_TUD_0066</LOCALID><ORIG_FID>8261</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0065</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1143</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8544</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0065</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0065</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8262</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.620268550367483,42.02179106132754,-1.620268550367483</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0065</FINCA><SUPERFICIE>1143</SUPERFICIE><IDGIS>8544</IDGIS><NAMESPACE>T8_TUD_0065</NAMESPACE><LOCALID>T8_TUD_0065</LOCALID><ORIG_FID>8262</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0063</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>411</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8545</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0063</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0063</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8263</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.620825470895867,42.02155746941928,-1.620825470895868</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0063</FINCA><SUPERFICIE>411</SUPERFICIE><IDGIS>8545</IDGIS><NAMESPACE>T8_TUD_0063</NAMESPACE><LOCALID>T8_TUD_0063</LOCALID><ORIG_FID>8263</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-21</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>483</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8546</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-21</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-21</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8264</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.620262048261865,42.02154819607308,-1.620262048261865</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-21</FINCA><SUPERFICIE>483</SUPERFICIE><IDGIS>8546</IDGIS><NAMESPACE>T8_TUD_A-21</NAMESPACE><LOCALID>T8_TUD_A-21</LOCALID><ORIG_FID>8264</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>207</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8547</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0062-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0062-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8265</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.621042893039428,42.02159169889057,-1.621042893039427</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0062-4</FINCA><SUPERFICIE>207</SUPERFICIE><IDGIS>8547</IDGIS><NAMESPACE>T8_TUD_0062-4</NAMESPACE><LOCALID>T8_TUD_0062-4</LOCALID><ORIG_FID>8265</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0064</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5051</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8548</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0064</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0064</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8266</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.620061094818559,42.02129249596249,-1.620061094818559</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0064</FINCA><SUPERFICIE>5051</SUPERFICIE><IDGIS>8548</IDGIS><NAMESPACE>T8_TUD_0064</NAMESPACE><LOCALID>T8_TUD_0064</LOCALID><ORIG_FID>8266</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0052-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4647</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8549</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0052-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0052-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8267</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.621311872930745,42.02221348175703,-1.621311872930745</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0052-2</FINCA><SUPERFICIE>4647</SUPERFICIE><IDGIS>8549</IDGIS><NAMESPACE>T8_TUD_0052-2</NAMESPACE><LOCALID>T8_TUD_0052-2</LOCALID><ORIG_FID>8267</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2330</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8550</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0062-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0062-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8268</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.621789646378017,42.02249973686741,-1.621789646378017</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0062-2</FINCA><SUPERFICIE>2330</SUPERFICIE><IDGIS>8550</IDGIS><NAMESPACE>T8_TUD_0062-2</NAMESPACE><LOCALID>T8_TUD_0062-2</LOCALID><ORIG_FID>8268</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2211</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8551</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0062-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0062-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8269</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.622064071026288,42.02274360812982,-1.622064071026288</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0062-1</FINCA><SUPERFICIE>2211</SUPERFICIE><IDGIS>8551</IDGIS><NAMESPACE>T8_TUD_0062-1</NAMESPACE><LOCALID>T8_TUD_0062-1</LOCALID><ORIG_FID>8269</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0061</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4361</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8552</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0061</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0061</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8270</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.622478956252067,42.02306557920984,-1.622478956252067</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0061</FINCA><SUPERFICIE>4361</SUPERFICIE><IDGIS>8552</IDGIS><NAMESPACE>T8_TUD_0061</NAMESPACE><LOCALID>T8_TUD_0061</LOCALID><ORIG_FID>8270</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0058</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>799</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8553</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0058</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0058</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8271</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62303280133829,42.02382886320836,-1.623032801338289</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0058</FINCA><SUPERFICIE>799</SUPERFICIE><IDGIS>8553</IDGIS><NAMESPACE>T8_TUD_0058</NAMESPACE><LOCALID>T8_TUD_0058</LOCALID><ORIG_FID>8271</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0060</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2933</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8554</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0060</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0060</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8272</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.622958662534775,42.0234077659042,-1.622958662534775</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0060</FINCA><SUPERFICIE>2933</SUPERFICIE><IDGIS>8554</IDGIS><NAMESPACE>T8_TUD_0060</NAMESPACE><LOCALID>T8_TUD_0060</LOCALID><ORIG_FID>8272</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-20</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>122</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8555</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-20</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-20</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8273</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623108124650382,42.02356766036776,-1.623108124650382</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-20</FINCA><SUPERFICIE>122</SUPERFICIE><IDGIS>8555</IDGIS><NAMESPACE>T8_TUD_A-20</NAMESPACE><LOCALID>T8_TUD_A-20</LOCALID><ORIG_FID>8273</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0054</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1853</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8556</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0054</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0054</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8274</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623641237055486,42.02424460270672,-1.623641237055486</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0054</FINCA><SUPERFICIE>1853</SUPERFICIE><IDGIS>8556</IDGIS><NAMESPACE>T8_TUD_0054</NAMESPACE><LOCALID>T8_TUD_0054</LOCALID><ORIG_FID>8274</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0057</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>51</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8557</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0057</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0057</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8275</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623436198748317,42.02424855241974,-1.623436198748317</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0057</FINCA><SUPERFICIE>51</SUPERFICIE><IDGIS>8557</IDGIS><NAMESPACE>T8_TUD_0057</NAMESPACE><LOCALID>T8_TUD_0057</LOCALID><ORIG_FID>8275</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0059</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1086</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8558</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0059</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0059</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8276</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62357331820333,42.02363004733329,-1.62357331820333</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0059</FINCA><SUPERFICIE>1086</SUPERFICIE><IDGIS>8558</IDGIS><NAMESPACE>T8_TUD_0059</NAMESPACE><LOCALID>T8_TUD_0059</LOCALID><ORIG_FID>8276</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0056</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1614</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8559</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0056</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0056</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8277</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623749801085307,42.02388493804405,-1.623749801085306</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0056</FINCA><SUPERFICIE>1614</SUPERFICIE><IDGIS>8559</IDGIS><NAMESPACE>T8_TUD_0056</NAMESPACE><LOCALID>T8_TUD_0056</LOCALID><ORIG_FID>8277</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0053</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>525</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8560</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0053</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0053</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8278</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623824403359605,42.02453222507538,-1.623824403359605</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0053</FINCA><SUPERFICIE>525</SUPERFICIE><IDGIS>8560</IDGIS><NAMESPACE>T8_TUD_0053</NAMESPACE><LOCALID>T8_TUD_0053</LOCALID><ORIG_FID>8278</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0055</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1979</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8561</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0055</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0055</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8279</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62355948913656,42.02397008215134,-1.62355948913656</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0055</FINCA><SUPERFICIE>1979</SUPERFICIE><IDGIS>8561</IDGIS><NAMESPACE>T8_TUD_0055</NAMESPACE><LOCALID>T8_TUD_0055</LOCALID><ORIG_FID>8279</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0036-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>29</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8562</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0036-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0036-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8280</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623950224716632,42.02666935539003,-1.623950224716632</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0036-2</FINCA><SUPERFICIE>29</SUPERFICIE><IDGIS>8562</IDGIS><NAMESPACE>T8_TUD_0036-2</NAMESPACE><LOCALID>T8_TUD_0036-2</LOCALID><ORIG_FID>8280</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-18</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8563</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-18</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-18</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8281</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623016987504791,42.02672289123826,-1.623016987504791</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-18</FINCA><SUPERFICIE>15</SUPERFICIE><IDGIS>8563</IDGIS><NAMESPACE>T8_TUD_C-18</NAMESPACE><LOCALID>T8_TUD_C-18</LOCALID><ORIG_FID>8281</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>47</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8564</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0038-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0038-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8282</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623070794450709,42.02670289157223,-1.623070794450709</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0038-2</FINCA><SUPERFICIE>47</SUPERFICIE><IDGIS>8564</IDGIS><NAMESPACE>T8_TUD_0038-2</NAMESPACE><LOCALID>T8_TUD_0038-2</LOCALID><ORIG_FID>8282</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-18</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>20</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8565</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-18</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-18</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8283</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623061145351322,42.0267429675441,-1.623061145351321</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-18</FINCA><SUPERFICIE>20</SUPERFICIE><IDGIS>8565</IDGIS><NAMESPACE>T8_TUD_A-18</NAMESPACE><LOCALID>T8_TUD_A-18</LOCALID><ORIG_FID>8283</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0036-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>459</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8566</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0036-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0036-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8284</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623265531706165,42.02690875790819,-1.623265531706165</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0036-1</FINCA><SUPERFICIE>459</SUPERFICIE><IDGIS>8566</IDGIS><NAMESPACE>T8_TUD_0036-1</NAMESPACE><LOCALID>T8_TUD_0036-1</LOCALID><ORIG_FID>8284</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-17</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>20</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8567</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-17</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-17</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8285</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623484861622471,42.02705908761964,-1.623484861622471</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-17</FINCA><SUPERFICIE>20</SUPERFICIE><IDGIS>8567</IDGIS><NAMESPACE>T8_TUD_A-17</NAMESPACE><LOCALID>T8_TUD_A-17</LOCALID><ORIG_FID>8285</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-17</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>327</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8568</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-17</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-17</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8286</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624123111974158,42.0244179098387,-1.624123111974158</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-17</FINCA><SUPERFICIE>327</SUPERFICIE><IDGIS>8568</IDGIS><NAMESPACE>T8_TUD_C-17</NAMESPACE><LOCALID>T8_TUD_C-17</LOCALID><ORIG_FID>8286</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0042</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2095</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8569</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0042</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0042</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8287</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624367286411371,42.02432926482412,-1.624367286411371</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0042</FINCA><SUPERFICIE>2095</SUPERFICIE><IDGIS>8569</IDGIS><NAMESPACE>T8_TUD_0042</NAMESPACE><LOCALID>T8_TUD_0042</LOCALID><ORIG_FID>8287</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0044</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>476</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8570</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0044</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0044</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8288</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624836834471001,42.02369692155907,-1.624836834471001</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0044</FINCA><SUPERFICIE>476</SUPERFICIE><IDGIS>8570</IDGIS><NAMESPACE>T8_TUD_0044</NAMESPACE><LOCALID>T8_TUD_0044</LOCALID><ORIG_FID>8288</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>227</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8571</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8289</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624201414758676,42.02483917064438,-1.624201414758676</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-10</FINCA><SUPERFICIE>227</SUPERFICIE><IDGIS>8571</IDGIS><NAMESPACE>T8_TUD_A-10</NAMESPACE><LOCALID>T8_TUD_A-10</LOCALID><ORIG_FID>8289</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0039</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3354</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8572</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0039</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0039</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8290</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624222691531846,42.02581639984275,-1.624222691531846</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0039</FINCA><SUPERFICIE>3354</SUPERFICIE><IDGIS>8572</IDGIS><NAMESPACE>T8_TUD_0039</NAMESPACE><LOCALID>T8_TUD_0039</LOCALID><ORIG_FID>8290</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1117</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8573</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0038-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0038-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8291</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62407449761731,42.02640381607892,-1.62407449761731</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0038-1</FINCA><SUPERFICIE>1117</SUPERFICIE><IDGIS>8573</IDGIS><NAMESPACE>T8_TUD_0038-1</NAMESPACE><LOCALID>T8_TUD_0038-1</LOCALID><ORIG_FID>8291</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>63</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8574</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8292</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624041736293335,42.02663360222678,-1.624041736293335</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-9</FINCA><SUPERFICIE>63</SUPERFICIE><IDGIS>8574</IDGIS><NAMESPACE>T8_TUD_A-9</NAMESPACE><LOCALID>T8_TUD_A-9</LOCALID><ORIG_FID>8292</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0023-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>181</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8575</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0023-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0023-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8293</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624130379539051,42.02665769603389,-1.62413037953905</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0023-3</FINCA><SUPERFICIE>181</SUPERFICIE><IDGIS>8575</IDGIS><NAMESPACE>T8_TUD_0023-3</NAMESPACE><LOCALID>T8_TUD_0023-3</LOCALID><ORIG_FID>8293</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0037</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>821</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8576</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0037</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0037</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8294</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623990522560241,42.02691595874072,-1.623990522560241</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0037</FINCA><SUPERFICIE>821</SUPERFICIE><IDGIS>8576</IDGIS><NAMESPACE>T8_TUD_0037</NAMESPACE><LOCALID>T8_TUD_0037</LOCALID><ORIG_FID>8294</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0035</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>741</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8577</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0035</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0035</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8295</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623793097888875,42.02722060893357,-1.623793097888875</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0035</FINCA><SUPERFICIE>741</SUPERFICIE><IDGIS>8577</IDGIS><NAMESPACE>T8_TUD_0035</NAMESPACE><LOCALID>T8_TUD_0035</LOCALID><ORIG_FID>8295</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-15</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>40</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8578</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-15</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-15</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8296</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62516653013957,42.02327150082571,-1.62516653013957</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-15</FINCA><SUPERFICIE>40</SUPERFICIE><IDGIS>8578</IDGIS><NAMESPACE>T8_TUD_A-15</NAMESPACE><LOCALID>T8_TUD_A-15</LOCALID><ORIG_FID>8296</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-19</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>108</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8579</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-19</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-19</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8297</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625202266806535,42.02317786203513,-1.625202266806535</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-19</FINCA><SUPERFICIE>108</SUPERFICIE><IDGIS>8579</IDGIS><NAMESPACE>T8_TUD_C-19</NAMESPACE><LOCALID>T8_TUD_C-19</LOCALID><ORIG_FID>8297</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>440</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8580</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0050</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0050</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8298</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625690765882735,42.02203296058182,-1.625690765882735</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0050</FINCA><SUPERFICIE>440</SUPERFICIE><IDGIS>8580</IDGIS><NAMESPACE>T8_TUD_0050</NAMESPACE><LOCALID>T8_TUD_0050</LOCALID><ORIG_FID>8298</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0048-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>599</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8581</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0048-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0048-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8299</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625288088249429,42.02297381532773,-1.625288088249429</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0048-2</FINCA><SUPERFICIE>599</SUPERFICIE><IDGIS>8581</IDGIS><NAMESPACE>T8_TUD_0048-2</NAMESPACE><LOCALID>T8_TUD_0048-2</LOCALID><ORIG_FID>8299</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-16</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>213</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8582</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-16</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-16</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8300</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625459542467083,42.02273868564443,-1.625459542467083</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-16</FINCA><SUPERFICIE>213</SUPERFICIE><IDGIS>8582</IDGIS><NAMESPACE>T8_TUD_A-16</NAMESPACE><LOCALID>T8_TUD_A-16</LOCALID><ORIG_FID>8300</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0049</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>154</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8583</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0049</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0049</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8301</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625431124625024,42.02264977855295,-1.625431124625024</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0049</FINCA><SUPERFICIE>154</SUPERFICIE><IDGIS>8583</IDGIS><NAMESPACE>T8_TUD_0049</NAMESPACE><LOCALID>T8_TUD_0049</LOCALID><ORIG_FID>8301</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0040</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3601</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8584</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0040</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0040</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8302</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624398795609422,42.02506458267477,-1.624398795609422</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0040</FINCA><SUPERFICIE>3601</SUPERFICIE><IDGIS>8584</IDGIS><NAMESPACE>T8_TUD_0040</NAMESPACE><LOCALID>T8_TUD_0040</LOCALID><ORIG_FID>8302</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0041</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1389</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8585</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0041</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0041</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8303</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624633022079037,42.02458720086707,-1.624633022079037</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0041</FINCA><SUPERFICIE>1389</SUPERFICIE><IDGIS>8585</IDGIS><NAMESPACE>T8_TUD_0041</NAMESPACE><LOCALID>T8_TUD_0041</LOCALID><ORIG_FID>8303</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0043-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1495</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8586</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0043-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0043-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8304</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624807988717821,42.02418746824657,-1.624807988717821</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0043-1</FINCA><SUPERFICIE>1495</SUPERFICIE><IDGIS>8586</IDGIS><NAMESPACE>T8_TUD_0043-1</NAMESPACE><LOCALID>T8_TUD_0043-1</LOCALID><ORIG_FID>8304</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0046</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>231</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8587</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0046</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0046</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8305</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625127795960867,42.02352229344179,-1.625127795960867</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0046</FINCA><SUPERFICIE>231</SUPERFICIE><IDGIS>8587</IDGIS><NAMESPACE>T8_TUD_0046</NAMESPACE><LOCALID>T8_TUD_0046</LOCALID><ORIG_FID>8305</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0043-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>414</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8588</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0043-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0043-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8306</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624960842036894,42.02384841278887,-1.624960842036893</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0043-2</FINCA><SUPERFICIE>414</SUPERFICIE><IDGIS>8588</IDGIS><NAMESPACE>T8_TUD_0043-2</NAMESPACE><LOCALID>T8_TUD_0043-2</LOCALID><ORIG_FID>8306</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0045</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>252</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8589</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0045</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0045</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8307</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625040782075993,42.02368094629306,-1.625040782075993</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0045</FINCA><SUPERFICIE>252</SUPERFICIE><IDGIS>8589</IDGIS><NAMESPACE>T8_TUD_0045</NAMESPACE><LOCALID>T8_TUD_0045</LOCALID><ORIG_FID>8307</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-13</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>31</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8590</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-13</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-13</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8308</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625014424893617,42.02375481857043,-1.625014424893617</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-13</FINCA><SUPERFICIE>31</SUPERFICIE><IDGIS>8590</IDGIS><NAMESPACE>T8_TUD_A-13</NAMESPACE><LOCALID>T8_TUD_A-13</LOCALID><ORIG_FID>8308</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0047</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>466</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8591</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0047</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0047</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8309</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625073738444638,42.02337818175884,-1.625073738444638</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0047</FINCA><SUPERFICIE>466</SUPERFICIE><IDGIS>8591</IDGIS><NAMESPACE>T8_TUD_0047</NAMESPACE><LOCALID>T8_TUD_0047</LOCALID><ORIG_FID>8309</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0032</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>229</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8592</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0032</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0032</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8310</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625613184496751,42.02268220415348,-1.625613184496751</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0032</FINCA><SUPERFICIE>229</SUPERFICIE><IDGIS>8592</IDGIS><NAMESPACE>T8_TUD_0032</NAMESPACE><LOCALID>T8_TUD_0032</LOCALID><ORIG_FID>8310</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0033</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1114</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8593</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0033</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0033</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8311</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625813968596419,42.02208935665286,-1.625813968596419</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0033</FINCA><SUPERFICIE>1114</SUPERFICIE><IDGIS>8593</IDGIS><NAMESPACE>T8_TUD_0033</NAMESPACE><LOCALID>T8_TUD_0033</LOCALID><ORIG_FID>8311</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>Cr-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1371</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8594</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_Cr-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_Cr-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8312</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62547819740916,42.02282657336151,-1.62547819740916</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>Cr-5</FINCA><SUPERFICIE>1371</SUPERFICIE><IDGIS>8594</IDGIS><NAMESPACE>T8_TUD_Cr-5</NAMESPACE><LOCALID>T8_TUD_Cr-5</LOCALID><ORIG_FID>8312</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0034</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>663</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8595</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0034</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0034</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8313</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623783643694343,42.02769918848901,-1.623783643694343</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0034</FINCA><SUPERFICIE>663</SUPERFICIE><IDGIS>8595</IDGIS><NAMESPACE>T8_TUD_0034</NAMESPACE><LOCALID>T8_TUD_0034</LOCALID><ORIG_FID>8313</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>Cr-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1685</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8596</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_Cr-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_Cr-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8314</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62424408065522,42.02658234842145,-1.62424408065522</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>Cr-3</FINCA><SUPERFICIE>1685</SUPERFICIE><IDGIS>8596</IDGIS><NAMESPACE>T8_TUD_Cr-3</NAMESPACE><LOCALID>T8_TUD_Cr-3</LOCALID><ORIG_FID>8314</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>287</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8597</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0021</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0021</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8315</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623923604479057,42.02768286761036,-1.623923604479057</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0021</FINCA><SUPERFICIE>287</SUPERFICIE><IDGIS>8597</IDGIS><NAMESPACE>T8_TUD_0021</NAMESPACE><LOCALID>T8_TUD_0021</LOCALID><ORIG_FID>8315</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>208</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8598</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0022</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0022</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8316</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624129207844794,42.02705542948591,-1.624129207844793</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0022</FINCA><SUPERFICIE>208</SUPERFICIE><IDGIS>8598</IDGIS><NAMESPACE>T8_TUD_0022</NAMESPACE><LOCALID>T8_TUD_0022</LOCALID><ORIG_FID>8316</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>66</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8599</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0017-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0017-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8317</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624232068767276,42.02671668006413,-1.624232068767276</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0017-2</FINCA><SUPERFICIE>66</SUPERFICIE><IDGIS>8599</IDGIS><NAMESPACE>T8_TUD_0017-2</NAMESPACE><LOCALID>T8_TUD_0017-2</LOCALID><ORIG_FID>8317</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8600</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8318</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624273804072549,42.02656723902999,-1.624273804072549</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-7</FINCA><SUPERFICIE>2</SUPERFICIE><IDGIS>8600</IDGIS><NAMESPACE>T8_TUD_A-7</NAMESPACE><LOCALID>T8_TUD_A-7</LOCALID><ORIG_FID>8318</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0023-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>351</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8602</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0023-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0023-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8319</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624794114293063,42.02510835129476,-1.624794114293063</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0023-2</FINCA><SUPERFICIE>351</SUPERFICIE><IDGIS>8602</IDGIS><NAMESPACE>T8_TUD_0023-2</NAMESPACE><LOCALID>T8_TUD_0023-2</LOCALID><ORIG_FID>8319</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>123</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8603</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8320</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624839066515548,42.02512382698682,-1.624839066515548</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-8</FINCA><SUPERFICIE>123</SUPERFICIE><IDGIS>8603</IDGIS><NAMESPACE>T8_TUD_A-8</NAMESPACE><LOCALID>T8_TUD_A-8</LOCALID><ORIG_FID>8320</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>513</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8604</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0027</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0027</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8321</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624946925731529,42.02471205372168,-1.624946925731529</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0027</FINCA><SUPERFICIE>513</SUPERFICIE><IDGIS>8604</IDGIS><NAMESPACE>T8_TUD_0027</NAMESPACE><LOCALID>T8_TUD_0027</LOCALID><ORIG_FID>8321</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-12</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>524</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8605</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-12</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-12</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8322</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62497113402305,42.02403759572798,-1.62497113402305</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-12</FINCA><SUPERFICIE>524</SUPERFICIE><IDGIS>8605</IDGIS><NAMESPACE>T8_TUD_A-12</NAMESPACE><LOCALID>T8_TUD_A-12</LOCALID><ORIG_FID>8322</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>294</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8606</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0027-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0027-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8323</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625085529164218,42.02421822338935,-1.625085529164218</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0027-1</FINCA><SUPERFICIE>294</SUPERFICIE><IDGIS>8606</IDGIS><NAMESPACE>T8_TUD_0027-1</NAMESPACE><LOCALID>T8_TUD_0027-1</LOCALID><ORIG_FID>8323</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0048-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>162</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8607</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0048-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0048-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8324</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625164437986958,42.02322638003115,-1.625164437986958</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0048-1</FINCA><SUPERFICIE>162</SUPERFICIE><IDGIS>8607</IDGIS><NAMESPACE>T8_TUD_0048-1</NAMESPACE><LOCALID>T8_TUD_0048-1</LOCALID><ORIG_FID>8324</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0028</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>383</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8608</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0028</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0028</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8325</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625225721188809,42.02380388216167,-1.625225721188809</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0028</FINCA><SUPERFICIE>383</SUPERFICIE><IDGIS>8608</IDGIS><NAMESPACE>T8_TUD_0028</NAMESPACE><LOCALID>T8_TUD_0028</LOCALID><ORIG_FID>8325</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0031</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>452</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8609</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0031</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0031</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8326</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625506903898706,42.02298210122294,-1.625506903898706</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0031</FINCA><SUPERFICIE>452</SUPERFICIE><IDGIS>8609</IDGIS><NAMESPACE>T8_TUD_0031</NAMESPACE><LOCALID>T8_TUD_0031</LOCALID><ORIG_FID>8326</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-14</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>72</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8610</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-14</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-14</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8327</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62546815054117,42.02317587989553,-1.62546815054117</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-14</FINCA><SUPERFICIE>72</SUPERFICIE><IDGIS>8610</IDGIS><NAMESPACE>T8_TUD_A-14</NAMESPACE><LOCALID>T8_TUD_A-14</LOCALID><ORIG_FID>8327</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0030</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>66</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8612</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0030</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0030</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8328</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625477695034198,42.02320683648091,-1.625477695034198</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0030</FINCA><SUPERFICIE>66</SUPERFICIE><IDGIS>8612</IDGIS><NAMESPACE>T8_TUD_0030</NAMESPACE><LOCALID>T8_TUD_0030</LOCALID><ORIG_FID>8328</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0029</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>283</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8613</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0029</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0029</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8329</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62535701697443,42.02342259737826,-1.62535701697443</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0029</FINCA><SUPERFICIE>283</SUPERFICIE><IDGIS>8613</IDGIS><NAMESPACE>T8_TUD_0029</NAMESPACE><LOCALID>T8_TUD_0029</LOCALID><ORIG_FID>8329</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>52</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8614</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8330</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625563137018684,42.02543483976439,-1.625563137018684</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-6</FINCA><SUPERFICIE>52</SUPERFICIE><IDGIS>8614</IDGIS><NAMESPACE>T8_TUD_A-6</NAMESPACE><LOCALID>T8_TUD_A-6</LOCALID><ORIG_FID>8330</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>219</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8615</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0026</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0026</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8331</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625556774250309,42.02528818964964,-1.625556774250309</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0026</FINCA><SUPERFICIE>219</SUPERFICIE><IDGIS>8615</IDGIS><NAMESPACE>T8_TUD_0026</NAMESPACE><LOCALID>T8_TUD_0026</LOCALID><ORIG_FID>8331</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0024</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1236</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8616</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0024</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0024</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8332</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625111765875667,42.02554012300843,-1.625111765875667</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0024</FINCA><SUPERFICIE>1236</SUPERFICIE><IDGIS>8616</IDGIS><NAMESPACE>T8_TUD_0024</NAMESPACE><LOCALID>T8_TUD_0024</LOCALID><ORIG_FID>8332</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3257</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8617</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0025</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0025</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8333</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625175233699666,42.02519167728216,-1.625175233699666</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0025</FINCA><SUPERFICIE>3257</SUPERFICIE><IDGIS>8617</IDGIS><NAMESPACE>T8_TUD_0025</NAMESPACE><LOCALID>T8_TUD_0025</LOCALID><ORIG_FID>8333</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1807</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8618</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0017-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0017-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8334</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.626014141607229,42.02631202375837,-1.626014141607229</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0017-1</FINCA><SUPERFICIE>1807</SUPERFICIE><IDGIS>8618</IDGIS><NAMESPACE>T8_TUD_0017-1</NAMESPACE><LOCALID>T8_TUD_0017-1</LOCALID><ORIG_FID>8334</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>837</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8619</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0018</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0018</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8335</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.626105191518863,42.02580463490882,-1.626105191518863</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0018</FINCA><SUPERFICIE>837</SUPERFICIE><IDGIS>8619</IDGIS><NAMESPACE>T8_TUD_0018</NAMESPACE><LOCALID>T8_TUD_0018</LOCALID><ORIG_FID>8335</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>110</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8620</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0019</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0019</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8336</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625586034684311,42.02605856171301,-1.625586034684311</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0019</FINCA><SUPERFICIE>110</SUPERFICIE><IDGIS>8620</IDGIS><NAMESPACE>T8_TUD_0019</NAMESPACE><LOCALID>T8_TUD_0019</LOCALID><ORIG_FID>8336</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2483</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8621</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0020</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0020</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8337</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.625624279306193,42.02569827474297,-1.625624279306193</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0020</FINCA><SUPERFICIE>2483</SUPERFICIE><IDGIS>8621</IDGIS><NAMESPACE>T8_TUD_0020</NAMESPACE><LOCALID>T8_TUD_0020</LOCALID><ORIG_FID>8337</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2803</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8622</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0016</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0016</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8338</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.626275731967263,42.02612189159537,-1.626275731967263</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0016</FINCA><SUPERFICIE>2803</SUPERFICIE><IDGIS>8622</IDGIS><NAMESPACE>T8_TUD_0016</NAMESPACE><LOCALID>T8_TUD_0016</LOCALID><ORIG_FID>8338</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1547</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8623</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0015</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0015</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8339</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.626412904549422,42.02655625182776,-1.626412904549422</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0015</FINCA><SUPERFICIE>1547</SUPERFICIE><IDGIS>8623</IDGIS><NAMESPACE>T8_TUD_0015</NAMESPACE><LOCALID>T8_TUD_0015</LOCALID><ORIG_FID>8339</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1639</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8624</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8340</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.626674124177588,42.0268111560478,-1.626674124177588</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0014</FINCA><SUPERFICIE>1639</SUPERFICIE><IDGIS>8624</IDGIS><NAMESPACE>T8_TUD_0014</NAMESPACE><LOCALID>T8_TUD_0014</LOCALID><ORIG_FID>8340</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>931</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8625</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8341</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.626809613168269,42.02664408293092,-1.626809613168269</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-5</FINCA><SUPERFICIE>931</SUPERFICIE><IDGIS>8625</IDGIS><NAMESPACE>T8_TUD_A-5</NAMESPACE><LOCALID>T8_TUD_A-5</LOCALID><ORIG_FID>8341</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0012</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2830</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8626</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0012</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0012</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8342</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.627358757071423,42.0268630447097,-1.627358757071423</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0012</FINCA><SUPERFICIE>2830</SUPERFICIE><IDGIS>8626</IDGIS><NAMESPACE>T8_TUD_0012</NAMESPACE><LOCALID>T8_TUD_0012</LOCALID><ORIG_FID>8342</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4453</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8627</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0013</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0013</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8343</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.627229209662865,42.02726045134998,-1.627229209662865</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0013</FINCA><SUPERFICIE>4453</SUPERFICIE><IDGIS>8627</IDGIS><NAMESPACE>T8_TUD_0013</NAMESPACE><LOCALID>T8_TUD_0013</LOCALID><ORIG_FID>8343</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2445</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8628</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0011</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0011</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8344</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.627894360938669,42.02758435230177,-1.627894360938669</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0011</FINCA><SUPERFICIE>2445</SUPERFICIE><IDGIS>8628</IDGIS><NAMESPACE>T8_TUD_0011</NAMESPACE><LOCALID>T8_TUD_0011</LOCALID><ORIG_FID>8344</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1822</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8629</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0010</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0010</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8345</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.627723421067349,42.02790660550918,-1.62772342106735</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0010</FINCA><SUPERFICIE>1822</SUPERFICIE><IDGIS>8629</IDGIS><NAMESPACE>T8_TUD_0010</NAMESPACE><LOCALID>T8_TUD_0010</LOCALID><ORIG_FID>8345</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>656</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8630</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0002</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0002</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8346</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.647764280379756,42.03926256753507,-1.647764280379756</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0002</FINCA><SUPERFICIE>656</SUPERFICIE><IDGIS>8630</IDGIS><NAMESPACE>T8_TUD_0002</NAMESPACE><LOCALID>T8_TUD_0002</LOCALID><ORIG_FID>8346</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>158</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8631</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8347</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.647799836541478,42.0392401455155,-1.647799836541478</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-1</FINCA><SUPERFICIE>158</SUPERFICIE><IDGIS>8631</IDGIS><NAMESPACE>T8_TUD_A-1</NAMESPACE><LOCALID>T8_TUD_A-1</LOCALID><ORIG_FID>8347</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>608</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8633</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0005</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0005</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8349</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.643785261138774,42.03649265445669,-1.643785261138774</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0005</FINCA><SUPERFICIE>608</SUPERFICIE><IDGIS>8633</IDGIS><NAMESPACE>T8_TUD_0005</NAMESPACE><LOCALID>T8_TUD_0005</LOCALID><ORIG_FID>8349</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2615</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8634</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0006</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0006</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8350</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.643565415873471,42.03613547002152,-1.643565415873471</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0006</FINCA><SUPERFICIE>2615</SUPERFICIE><IDGIS>8634</IDGIS><NAMESPACE>T8_TUD_0006</NAMESPACE><LOCALID>T8_TUD_0006</LOCALID><ORIG_FID>8350</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0007</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3754</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8635</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0007</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0007</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8351</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.643265701603514,42.03572385044451,-1.643265701603514</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0007</FINCA><SUPERFICIE>3754</SUPERFICIE><IDGIS>8635</IDGIS><NAMESPACE>T8_TUD_0007</NAMESPACE><LOCALID>T8_TUD_0007</LOCALID><ORIG_FID>8351</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>427</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8636</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_A-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_A-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8352</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.643706378057086,42.03584711013963,-1.643706378057086</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>A-4</FINCA><SUPERFICIE>427</SUPERFICIE><IDGIS>8636</IDGIS><NAMESPACE>T8_TUD_A-4</NAMESPACE><LOCALID>T8_TUD_A-4</LOCALID><ORIG_FID>8352</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2003</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8637</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0008-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0008-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8353</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.64275736001129,42.0356031157575,-1.64275736001129</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0008-1</FINCA><SUPERFICIE>2003</SUPERFICIE><IDGIS>8637</IDGIS><NAMESPACE>T8_TUD_0008-1</NAMESPACE><LOCALID>T8_TUD_0008-1</LOCALID><ORIG_FID>8353</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2087</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8638</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0008-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0008-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8354</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.64229146909479,42.03535931399267,-1.64229146909479</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0008-2</FINCA><SUPERFICIE>2087</SUPERFICIE><IDGIS>8638</IDGIS><NAMESPACE>T8_TUD_0008-2</NAMESPACE><LOCALID>T8_TUD_0008-2</LOCALID><ORIG_FID>8354</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>306</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8639</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0008-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0008-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8355</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.64195407029837,42.03519784940872,-1.64195407029837</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0008-3</FINCA><SUPERFICIE>306</SUPERFICIE><IDGIS>8639</IDGIS><NAMESPACE>T8_TUD_0008-3</NAMESPACE><LOCALID>T8_TUD_0008-3</LOCALID><ORIG_FID>8355</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7761</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8640</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0009-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0009-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8356</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.64257174794175,42.03501966793176,-1.64257174794175</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0009-1</FINCA><SUPERFICIE>7761</SUPERFICIE><IDGIS>8640</IDGIS><NAMESPACE>T8_TUD_0009-1</NAMESPACE><LOCALID>T8_TUD_0009-1</LOCALID><ORIG_FID>8356</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>25</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8642</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0009-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0009-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8357</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.641945001617315,42.03451022551077,-1.641945001617315</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0009-2</FINCA><SUPERFICIE>25</SUPERFICIE><IDGIS>8642</IDGIS><NAMESPACE>T8_TUD_0009-2</NAMESPACE><LOCALID>T8_TUD_0009-2</LOCALID><ORIG_FID>8357</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-62</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1219</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8987</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-62</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-62</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8691</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.692291096403756,42.07081302594359,-1.692291096403756</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-62</FINCA><SUPERFICIE>1219</SUPERFICIE><IDGIS>8987</IDGIS><NAMESPACE>T8_TUD_0001-62</NAMESPACE><LOCALID>T8_TUD_0001-62</LOCALID><ORIG_FID>8691</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-65</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>224</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8988</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-65</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-65</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8692</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.692212616812636,42.07044795857868,-1.692212616812636</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-65</FINCA><SUPERFICIE>224</SUPERFICIE><IDGIS>8988</IDGIS><NAMESPACE>T8_TUD_0001-65</NAMESPACE><LOCALID>T8_TUD_0001-65</LOCALID><ORIG_FID>8692</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-11</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1840</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8989</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-11</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-11</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8693</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.692042001088982,42.07045006316021,-1.692042001088981</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-11</FINCA><SUPERFICIE>1840</SUPERFICIE><IDGIS>8989</IDGIS><NAMESPACE>T8_TUD_C-11</NAMESPACE><LOCALID>T8_TUD_C-11</LOCALID><ORIG_FID>8693</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-74</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3849</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9093</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-74</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-74</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8694</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.691191132636611,42.06631696112924,-1.691191132636611</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-74</FINCA><SUPERFICIE>3849</SUPERFICIE><IDGIS>9093</IDGIS><NAMESPACE>T8_TUD_0001-74</NAMESPACE><LOCALID>T8_TUD_0001-74</LOCALID><ORIG_FID>8694</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>Cr-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>719</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9018</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_Cr-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_Cr-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8721</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.692043029858654,42.07102103906093,-1.692043029858654</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>Cr-1</FINCA><SUPERFICIE>719</SUPERFICIE><IDGIS>9018</IDGIS><NAMESPACE>T8_TUD_Cr-1</NAMESPACE><LOCALID>T8_TUD_Cr-1</LOCALID><ORIG_FID>8721</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-163</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>415</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9019</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-163</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-163</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8722</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.692488866833384,42.07121268317516,-1.692488866833384</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-163</FINCA><SUPERFICIE>415</SUPERFICIE><IDGIS>9019</IDGIS><NAMESPACE>T8_TUD_0001-163</NAMESPACE><LOCALID>T8_TUD_0001-163</LOCALID><ORIG_FID>8722</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-164</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2101</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9020</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-164</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-164</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8723</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.692205507281921,42.07124242521927,-1.69220550728192</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-164</FINCA><SUPERFICIE>2101</SUPERFICIE><IDGIS>9020</IDGIS><NAMESPACE>T8_TUD_0001-164</NAMESPACE><LOCALID>T8_TUD_0001-164</LOCALID><ORIG_FID>8723</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4770</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9021</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8724</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.69235562020088,42.07156554512764,-1.69235562020088</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-10</FINCA><SUPERFICIE>4770</SUPERFICIE><IDGIS>9021</IDGIS><NAMESPACE>T8_TUD_C-10</NAMESPACE><LOCALID>T8_TUD_C-10</LOCALID><ORIG_FID>8724</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-56</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2683</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9022</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-56</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-56</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8725</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.693027056923336,42.07215517992093,-1.693027056923336</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-56</FINCA><SUPERFICIE>2683</SUPERFICIE><IDGIS>9022</IDGIS><NAMESPACE>T8_TUD_0001-56</NAMESPACE><LOCALID>T8_TUD_0001-56</LOCALID><ORIG_FID>8725</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-58</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>145</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9023</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-58</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-58</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8726</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.693316393523268,42.07219794438403,-1.693316393523268</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-58</FINCA><SUPERFICIE>145</SUPERFICIE><IDGIS>9023</IDGIS><NAMESPACE>T8_TUD_0001-58</NAMESPACE><LOCALID>T8_TUD_0001-58</LOCALID><ORIG_FID>8726</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-57</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2856</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9024</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-57</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-57</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8727</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.692553882047116,42.07242211954163,-1.692553882047116</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-57</FINCA><SUPERFICIE>2856</SUPERFICIE><IDGIS>9024</IDGIS><NAMESPACE>T8_TUD_0001-57</NAMESPACE><LOCALID>T8_TUD_0001-57</LOCALID><ORIG_FID>8727</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-55</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4713</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9025</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-55</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-55</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8728</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.692886617205931,42.07227891202826,-1.692886617205931</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-55</FINCA><SUPERFICIE>4713</SUPERFICIE><IDGIS>9025</IDGIS><NAMESPACE>T8_TUD_0001-55</NAMESPACE><LOCALID>T8_TUD_0001-55</LOCALID><ORIG_FID>8728</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-54</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1663</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9026</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-54</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-54</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8729</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.693186331968853,42.07297255586665,-1.693186331968853</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-54</FINCA><SUPERFICIE>1663</SUPERFICIE><IDGIS>9026</IDGIS><NAMESPACE>T8_TUD_0001-54</NAMESPACE><LOCALID>T8_TUD_0001-54</LOCALID><ORIG_FID>8729</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-53</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4697</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9027</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-53</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-53</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8730</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.693572988902756,42.07304353879448,-1.693572988902756</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-53</FINCA><SUPERFICIE>4697</SUPERFICIE><IDGIS>9027</IDGIS><NAMESPACE>T8_TUD_0001-53</NAMESPACE><LOCALID>T8_TUD_0001-53</LOCALID><ORIG_FID>8730</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-51</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3578</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9028</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-51</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-51</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8731</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.694082590210459,42.07345854853181,-1.694082590210459</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-51</FINCA><SUPERFICIE>3578</SUPERFICIE><IDGIS>9028</IDGIS><NAMESPACE>T8_TUD_0001-51</NAMESPACE><LOCALID>T8_TUD_0001-51</LOCALID><ORIG_FID>8731</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-52</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>597</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9029</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-52</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-52</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8732</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.694332327514231,42.07309393308568,-1.694332327514231</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-52</FINCA><SUPERFICIE>597</SUPERFICIE><IDGIS>9029</IDGIS><NAMESPACE>T8_TUD_0001-52</NAMESPACE><LOCALID>T8_TUD_0001-52</LOCALID><ORIG_FID>8732</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-49</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2830</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9030</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-49</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-49</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8733</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.694890849373822,42.07417052292266,-1.694890849373822</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-49</FINCA><SUPERFICIE>2830</SUPERFICIE><IDGIS>9030</IDGIS><NAMESPACE>T8_TUD_0001-49</NAMESPACE><LOCALID>T8_TUD_0001-49</LOCALID><ORIG_FID>8733</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-48</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1219</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9031</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-48</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-48</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8734</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.695103793584739,42.0744601072682,-1.695103793584739</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-48</FINCA><SUPERFICIE>1219</SUPERFICIE><IDGIS>9031</IDGIS><NAMESPACE>T8_TUD_0001-48</NAMESPACE><LOCALID>T8_TUD_0001-48</LOCALID><ORIG_FID>8734</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-50</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6493</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9032</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-50</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-50</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8735</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.694827829894971,42.07375775490309,-1.694827829894971</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-50</FINCA><SUPERFICIE>6493</SUPERFICIE><IDGIS>9032</IDGIS><NAMESPACE>T8_TUD_0001-50</NAMESPACE><LOCALID>T8_TUD_0001-50</LOCALID><ORIG_FID>8735</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-47</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4107</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9033</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-47</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-47</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8736</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.696152695373788,42.07449173377289,-1.696152695373788</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-47</FINCA><SUPERFICIE>4107</SUPERFICIE><IDGIS>9033</IDGIS><NAMESPACE>T8_TUD_0001-47</NAMESPACE><LOCALID>T8_TUD_0001-47</LOCALID><ORIG_FID>8736</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-46</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4332</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9034</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-46</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-46</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8737</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.695981710246798,42.07475473381572,-1.695981710246798</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-46</FINCA><SUPERFICIE>4332</SUPERFICIE><IDGIS>9034</IDGIS><NAMESPACE>T8_TUD_0001-46</NAMESPACE><LOCALID>T8_TUD_0001-46</LOCALID><ORIG_FID>8737</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-45</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1172</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9035</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-45</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-45</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8738</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.696334234703391,42.07511562886724,-1.696334234703391</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-45</FINCA><SUPERFICIE>1172</SUPERFICIE><IDGIS>9035</IDGIS><NAMESPACE>T8_TUD_0001-45</NAMESPACE><LOCALID>T8_TUD_0001-45</LOCALID><ORIG_FID>8738</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-43</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>621</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9036</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-43</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-43</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8739</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.696840903123496,42.07548564880248,-1.696840903123496</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-43</FINCA><SUPERFICIE>621</SUPERFICIE><IDGIS>9036</IDGIS><NAMESPACE>T8_TUD_0001-43</NAMESPACE><LOCALID>T8_TUD_0001-43</LOCALID><ORIG_FID>8739</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-44</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1493</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9037</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-44</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-44</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8740</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.697117901821301,42.07512845017853,-1.6971179018213</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-44</FINCA><SUPERFICIE>1493</SUPERFICIE><IDGIS>9037</IDGIS><NAMESPACE>T8_TUD_0001-44</NAMESPACE><LOCALID>T8_TUD_0001-44</LOCALID><ORIG_FID>8740</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-41</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3002</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9038</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-41</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-41</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8741</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.697023110685265,42.07547427156906,-1.697023110685265</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-41</FINCA><SUPERFICIE>3002</SUPERFICIE><IDGIS>9038</IDGIS><NAMESPACE>T8_TUD_0001-41</NAMESPACE><LOCALID>T8_TUD_0001-41</LOCALID><ORIG_FID>8741</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-42</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1705</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9039</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-42</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-42</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8742</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.697518125105695,42.07540916775435,-1.697518125105695</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-42</FINCA><SUPERFICIE>1705</SUPERFICIE><IDGIS>9039</IDGIS><NAMESPACE>T8_TUD_0001-42</NAMESPACE><LOCALID>T8_TUD_0001-42</LOCALID><ORIG_FID>8742</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-40</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2907</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9040</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-40</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-40</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8743</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.697990147263417,42.07574024955216,-1.697990147263416</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-40</FINCA><SUPERFICIE>2907</SUPERFICIE><IDGIS>9040</IDGIS><NAMESPACE>T8_TUD_0001-40</NAMESPACE><LOCALID>T8_TUD_0001-40</LOCALID><ORIG_FID>8743</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-39</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>530</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9041</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-39</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-39</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8744</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.697686112930815,42.07594988309455,-1.697686112930815</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-39</FINCA><SUPERFICIE>530</SUPERFICIE><IDGIS>9041</IDGIS><NAMESPACE>T8_TUD_0001-39</NAMESPACE><LOCALID>T8_TUD_0001-39</LOCALID><ORIG_FID>8744</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-37</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2146</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9042</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-37</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-37</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8745</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.698480253705657,42.07606556424766,-1.698480253705657</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-37</FINCA><SUPERFICIE>2146</SUPERFICIE><IDGIS>9042</IDGIS><NAMESPACE>T8_TUD_0001-37</NAMESPACE><LOCALID>T8_TUD_0001-37</LOCALID><ORIG_FID>8745</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-38</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1055</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9043</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-38</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-38</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8746</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.698226836155312,42.076244879901,-1.698226836155312</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-38</FINCA><SUPERFICIE>1055</SUPERFICIE><IDGIS>9043</IDGIS><NAMESPACE>T8_TUD_0001-38</NAMESPACE><LOCALID>T8_TUD_0001-38</LOCALID><ORIG_FID>8746</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-35</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1261</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9044</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-35</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-35</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8747</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.699038116570951,42.07665739775832,-1.699038116570951</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-35</FINCA><SUPERFICIE>1261</SUPERFICIE><IDGIS>9044</IDGIS><NAMESPACE>T8_TUD_0001-35</NAMESPACE><LOCALID>T8_TUD_0001-35</LOCALID><ORIG_FID>8747</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-36</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2721</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9045</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-36</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-36</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8748</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.698955804523985,42.0762688943048,-1.698955804523985</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-36</FINCA><SUPERFICIE>2721</SUPERFICIE><IDGIS>9045</IDGIS><NAMESPACE>T8_TUD_0001-36</NAMESPACE><LOCALID>T8_TUD_0001-36</LOCALID><ORIG_FID>8748</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="138">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-34</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>448</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9046</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-34</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-34</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8749</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.699687339446615,42.07641141112694,-1.699687339446615</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-34</FINCA><SUPERFICIE>448</SUPERFICIE><IDGIS>9046</IDGIS><NAMESPACE>T8_TUD_0001-34</NAMESPACE><LOCALID>T8_TUD_0001-34</LOCALID><ORIG_FID>8749</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="139">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-33</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2997</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9047</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-33</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-33</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8750</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.699806068382909,42.07663545816921,-1.699806068382908</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-33</FINCA><SUPERFICIE>2997</SUPERFICIE><IDGIS>9047</IDGIS><NAMESPACE>T8_TUD_0001-33</NAMESPACE><LOCALID>T8_TUD_0001-33</LOCALID><ORIG_FID>8750</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="140">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-32</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>709</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9048</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-32</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-32</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8751</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.700961703423426,42.07708371106448,-1.700961703423426</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-32</FINCA><SUPERFICIE>709</SUPERFICIE><IDGIS>9048</IDGIS><NAMESPACE>T8_TUD_0001-32</NAMESPACE><LOCALID>T8_TUD_0001-32</LOCALID><ORIG_FID>8751</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="141">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-31</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8355</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9049</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-31</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-31</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8752</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.700433678612586,42.07722951258806,-1.700433678612586</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-31</FINCA><SUPERFICIE>8355</SUPERFICIE><IDGIS>9049</IDGIS><NAMESPACE>T8_TUD_0001-31</NAMESPACE><LOCALID>T8_TUD_0001-31</LOCALID><ORIG_FID>8752</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="142">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-30</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2451</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9050</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-30</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-30</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8753</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.701446422230194,42.07765523041369,-1.701446422230194</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-30</FINCA><SUPERFICIE>2451</SUPERFICIE><IDGIS>9050</IDGIS><NAMESPACE>T8_TUD_0001-30</NAMESPACE><LOCALID>T8_TUD_0001-30</LOCALID><ORIG_FID>8753</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="143">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1903</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9051</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8754</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.703991102592807,42.0782968900425,-1.703991102592807</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-9</FINCA><SUPERFICIE>1903</SUPERFICIE><IDGIS>9051</IDGIS><NAMESPACE>T8_TUD_C-9</NAMESPACE><LOCALID>T8_TUD_C-9</LOCALID><ORIG_FID>8754</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="144">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-27</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>41</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9052</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-27</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-27</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8755</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.704284355887919,42.0785684943238,-1.704284355887919</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-27</FINCA><SUPERFICIE>41</SUPERFICIE><IDGIS>9052</IDGIS><NAMESPACE>T8_TUD_0001-27</NAMESPACE><LOCALID>T8_TUD_0001-27</LOCALID><ORIG_FID>8755</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="145">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-28</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3583</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9053</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-28</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-28</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8756</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.703931068944084,42.07873341583638,-1.703931068944084</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-28</FINCA><SUPERFICIE>3583</SUPERFICIE><IDGIS>9053</IDGIS><NAMESPACE>T8_TUD_0001-28</NAMESPACE><LOCALID>T8_TUD_0001-28</LOCALID><ORIG_FID>8756</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="146">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-29</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1393</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9054</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-29</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-29</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8757</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.702639351214618,42.07854058706776,-1.702639351214618</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-29</FINCA><SUPERFICIE>1393</SUPERFICIE><IDGIS>9054</IDGIS><NAMESPACE>T8_TUD_0001-29</NAMESPACE><LOCALID>T8_TUD_0001-29</LOCALID><ORIG_FID>8757</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="147">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-25</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>347</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9055</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-25</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-25</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8758</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.704463971752612,42.08014102732754,-1.704463971752612</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-25</FINCA><SUPERFICIE>347</SUPERFICIE><IDGIS>9055</IDGIS><NAMESPACE>T8_TUD_0001-25</NAMESPACE><LOCALID>T8_TUD_0001-25</LOCALID><ORIG_FID>8758</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="148">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-22</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>738</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9056</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-22</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-22</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8759</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.705586642009069,42.08095031134518,-1.705586642009069</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-22</FINCA><SUPERFICIE>738</SUPERFICIE><IDGIS>9056</IDGIS><NAMESPACE>T8_TUD_0001-22</NAMESPACE><LOCALID>T8_TUD_0001-22</LOCALID><ORIG_FID>8759</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="149">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>248</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9057</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8760</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.705663357059778,42.08115737331864,-1.705663357059778</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-7</FINCA><SUPERFICIE>248</SUPERFICIE><IDGIS>9057</IDGIS><NAMESPACE>T8_TUD_C-7</NAMESPACE><LOCALID>T8_TUD_C-7</LOCALID><ORIG_FID>8760</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="150">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-21</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>485</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9058</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-21</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-21</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8761</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.705726512602365,42.081173683728,-1.705726512602365</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-21</FINCA><SUPERFICIE>485</SUPERFICIE><IDGIS>9058</IDGIS><NAMESPACE>T8_TUD_0001-21</NAMESPACE><LOCALID>T8_TUD_0001-21</LOCALID><ORIG_FID>8761</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="151">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-26</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>23904</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9059</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-26</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-26</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8762</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.70294646248869,42.07852355166967,-1.70294646248869</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-26</FINCA><SUPERFICIE>23904</SUPERFICIE><IDGIS>9059</IDGIS><NAMESPACE>T8_TUD_0001-26</NAMESPACE><LOCALID>T8_TUD_0001-26</LOCALID><ORIG_FID>8762</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="152">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-23</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9272</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9060</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-23</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-23</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8763</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.704672433441013,42.07991477652811,-1.704672433441012</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-23</FINCA><SUPERFICIE>9272</SUPERFICIE><IDGIS>9060</IDGIS><NAMESPACE>T8_TUD_0001-23</NAMESPACE><LOCALID>T8_TUD_0001-23</LOCALID><ORIG_FID>8763</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="153">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2081</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9061</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8764</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.705877841391549,42.07966578199707,-1.705877841391549</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-8</FINCA><SUPERFICIE>2081</SUPERFICIE><IDGIS>9061</IDGIS><NAMESPACE>T8_TUD_C-8</NAMESPACE><LOCALID>T8_TUD_C-8</LOCALID><ORIG_FID>8764</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="154">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-20</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>121</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9062</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-20</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-20</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8765</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.706020320796466,42.08056791741645,-1.706020320796466</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-20</FINCA><SUPERFICIE>121</SUPERFICIE><IDGIS>9062</IDGIS><NAMESPACE>T8_TUD_0001-20</NAMESPACE><LOCALID>T8_TUD_0001-20</LOCALID><ORIG_FID>8765</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="155">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-24</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8797</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9063</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-24</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-24</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8766</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.705469823819245,42.07983655565374,-1.705469823819245</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-24</FINCA><SUPERFICIE>8797</SUPERFICIE><IDGIS>9063</IDGIS><NAMESPACE>T8_TUD_0001-24</NAMESPACE><LOCALID>T8_TUD_0001-24</LOCALID><ORIG_FID>8766</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="156">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>274</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9064</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8767</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.706264540088304,42.08035895468588,-1.706264540088304</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-6</FINCA><SUPERFICIE>274</SUPERFICIE><IDGIS>9064</IDGIS><NAMESPACE>T8_TUD_C-6</NAMESPACE><LOCALID>T8_TUD_C-6</LOCALID><ORIG_FID>8767</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="157">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-18</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>21558</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9065</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-18</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-18</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8768</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.708131348882265,42.08177880081094,-1.708131348882265</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-18</FINCA><SUPERFICIE>21558</SUPERFICIE><IDGIS>9065</IDGIS><NAMESPACE>T8_TUD_0001-18</NAMESPACE><LOCALID>T8_TUD_0001-18</LOCALID><ORIG_FID>8768</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="158">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-72</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9066</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-72</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-72</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8769</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.707784835751981,42.08181351798817,-1.707784835751981</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-72</FINCA><SUPERFICIE>8</SUPERFICIE><IDGIS>9066</IDGIS><NAMESPACE>T8_TUD_0001-72</NAMESPACE><LOCALID>T8_TUD_0001-72</LOCALID><ORIG_FID>8769</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="159">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-19</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1205</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9067</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-19</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-19</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8770</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.7071676039818,42.08138429661642,-1.7071676039818</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-19</FINCA><SUPERFICIE>1205</SUPERFICIE><IDGIS>9067</IDGIS><NAMESPACE>T8_TUD_0001-19</NAMESPACE><LOCALID>T8_TUD_0001-19</LOCALID><ORIG_FID>8770</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="160">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-71</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>144</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9068</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-71</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-71</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8771</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.708471080199797,42.08226689950883,-1.708471080199797</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-71</FINCA><SUPERFICIE>144</SUPERFICIE><IDGIS>9068</IDGIS><NAMESPACE>T8_TUD_0001-71</NAMESPACE><LOCALID>T8_TUD_0001-71</LOCALID><ORIG_FID>8771</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="161">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-70</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>22</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9069</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-70</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-70</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8772</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.709285871284959,42.08285733805209,-1.709285871284959</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-70</FINCA><SUPERFICIE>22</SUPERFICIE><IDGIS>9069</IDGIS><NAMESPACE>T8_TUD_0001-70</NAMESPACE><LOCALID>T8_TUD_0001-70</LOCALID><ORIG_FID>8772</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="162">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-17</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4677</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9070</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-17</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-17</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8773</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.710153023247572,42.0827160048684,-1.710153023247571</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-17</FINCA><SUPERFICIE>4677</SUPERFICIE><IDGIS>9070</IDGIS><NAMESPACE>T8_TUD_0001-17</NAMESPACE><LOCALID>T8_TUD_0001-17</LOCALID><ORIG_FID>8773</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="163">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-16</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2577</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9071</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-16</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-16</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8774</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.710941893340337,42.08372013287236,-1.710941893340336</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-16</FINCA><SUPERFICIE>2577</SUPERFICIE><IDGIS>9071</IDGIS><NAMESPACE>T8_TUD_0001-16</NAMESPACE><LOCALID>T8_TUD_0001-16</LOCALID><ORIG_FID>8774</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="164">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-15</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>17255</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9072</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-15</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-15</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8775</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.712242079112629,42.08472120757428,-1.712242079112629</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-15</FINCA><SUPERFICIE>17255</SUPERFICIE><IDGIS>9072</IDGIS><NAMESPACE>T8_TUD_0001-15</NAMESPACE><LOCALID>T8_TUD_0001-15</LOCALID><ORIG_FID>8775</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="165">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10753</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9073</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8776</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.70935426650272,42.08227410281102,-1.70935426650272</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-5</FINCA><SUPERFICIE>10753</SUPERFICIE><IDGIS>9073</IDGIS><NAMESPACE>T8_TUD_C-5</NAMESPACE><LOCALID>T8_TUD_C-5</LOCALID><ORIG_FID>8776</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="166">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-14</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14789</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9074</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-14</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-14</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8777</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.713894693888741,42.08608688899012,-1.713894693888741</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-14</FINCA><SUPERFICIE>14789</SUPERFICIE><IDGIS>9074</IDGIS><NAMESPACE>T8_TUD_0001-14</NAMESPACE><LOCALID>T8_TUD_0001-14</LOCALID><ORIG_FID>8777</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="167">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>252</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9075</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8778</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.714685620456625,42.0860835353934,-1.714685620456625</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-4</FINCA><SUPERFICIE>252</SUPERFICIE><IDGIS>9075</IDGIS><NAMESPACE>T8_TUD_C-4</NAMESPACE><LOCALID>T8_TUD_C-4</LOCALID><ORIG_FID>8778</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="168">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-13</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>23512</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9076</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-13</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-13</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8779</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.715588849012358,42.08772643090893,-1.715588849012358</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-13</FINCA><SUPERFICIE>23512</SUPERFICIE><IDGIS>9076</IDGIS><NAMESPACE>T8_TUD_0001-13</NAMESPACE><LOCALID>T8_TUD_0001-13</LOCALID><ORIG_FID>8779</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="169">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>193</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9077</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8780</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.716695395931058,42.08923621596085,-1.716695395931058</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-3</FINCA><SUPERFICIE>193</SUPERFICIE><IDGIS>9077</IDGIS><NAMESPACE>T8_TUD_C-3</NAMESPACE><LOCALID>T8_TUD_C-3</LOCALID><ORIG_FID>8780</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="170">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1596</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9078</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8781</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.716950402364322,42.08965085262741,-1.716950402364323</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-9</FINCA><SUPERFICIE>1596</SUPERFICIE><IDGIS>9078</IDGIS><NAMESPACE>T8_TUD_0001-9</NAMESPACE><LOCALID>T8_TUD_0001-9</LOCALID><ORIG_FID>8781</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="171">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>309</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9079</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8782</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.717607542797761,42.08927495871744,-1.717607542797761</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-10</FINCA><SUPERFICIE>309</SUPERFICIE><IDGIS>9079</IDGIS><NAMESPACE>T8_TUD_0001-10</NAMESPACE><LOCALID>T8_TUD_0001-10</LOCALID><ORIG_FID>8782</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="172">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8016</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9080</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8783</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.717654351285241,42.09052697022816,-1.717654351285241</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-1</FINCA><SUPERFICIE>8016</SUPERFICIE><IDGIS>9080</IDGIS><NAMESPACE>T8_TUD_C-1</NAMESPACE><LOCALID>T8_TUD_C-1</LOCALID><ORIG_FID>8783</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="173">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12988</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9081</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8784</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.71775315343015,42.08973636093363,-1.71775315343015</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-8</FINCA><SUPERFICIE>12988</SUPERFICIE><IDGIS>9081</IDGIS><NAMESPACE>T8_TUD_0001-8</NAMESPACE><LOCALID>T8_TUD_0001-8</LOCALID><ORIG_FID>8784</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="174">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2433</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9082</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8785</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.718893759627622,42.09153591237429,-1.718893759627622</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-5</FINCA><SUPERFICIE>2433</SUPERFICIE><IDGIS>9082</IDGIS><NAMESPACE>T8_TUD_0001-5</NAMESPACE><LOCALID>T8_TUD_0001-5</LOCALID><ORIG_FID>8785</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="175">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1436</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9083</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8786</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.718385979098662,42.09312740091045,-1.718385979098662</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-2</FINCA><SUPERFICIE>1436</SUPERFICIE><IDGIS>9083</IDGIS><NAMESPACE>T8_TUD_0001-2</NAMESPACE><LOCALID>T8_TUD_0001-2</LOCALID><ORIG_FID>8786</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="176">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1817</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9084</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8787</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.718171348295464,42.09276180761569,-1.718171348295464</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-3</FINCA><SUPERFICIE>1817</SUPERFICIE><IDGIS>9084</IDGIS><NAMESPACE>T8_TUD_0001-3</NAMESPACE><LOCALID>T8_TUD_0001-3</LOCALID><ORIG_FID>8787</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="177">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1070</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9085</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8788</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719116956695739,42.09156030212543,-1.719116956695739</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-2</FINCA><SUPERFICIE>1070</SUPERFICIE><IDGIS>9085</IDGIS><NAMESPACE>T8_TUD_C-2</NAMESPACE><LOCALID>T8_TUD_C-2</LOCALID><ORIG_FID>8788</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="178">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3499</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9086</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8789</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.718604788703236,42.09288407125352,-1.718604788703236</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-1</FINCA><SUPERFICIE>3499</SUPERFICIE><IDGIS>9086</IDGIS><NAMESPACE>T8_TUD_0001-1</NAMESPACE><LOCALID>T8_TUD_0001-1</LOCALID><ORIG_FID>8789</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="179">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3897</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9087</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8790</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.71805555418042,42.09215672779769,-1.718055554180421</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-4</FINCA><SUPERFICIE>3897</SUPERFICIE><IDGIS>9087</IDGIS><NAMESPACE>T8_TUD_0001-4</NAMESPACE><LOCALID>T8_TUD_0001-4</LOCALID><ORIG_FID>8790</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="180">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11823</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9088</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8791</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.718592254011179,42.09119155567023,-1.718592254011179</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-6</FINCA><SUPERFICIE>11823</SUPERFICIE><IDGIS>9088</IDGIS><NAMESPACE>T8_TUD_0001-6</NAMESPACE><LOCALID>T8_TUD_0001-6</LOCALID><ORIG_FID>8791</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="181">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025-COMP</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1564</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9090</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0025-COMP</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0025-COMP</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8792</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.62534841140748,42.02480526895894,-1.62534841140748</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0025-COMP</FINCA><SUPERFICIE>1564</SUPERFICIE><IDGIS>9090</IDGIS><NAMESPACE>T8_TUD_0025-COMP</NAMESPACE><LOCALID>T8_TUD_0025-COMP</LOCALID><ORIG_FID>8792</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="182">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0034-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>139</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9091</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0034-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0034-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8793</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.623677090357528,42.02807093475452,-1.623677090357528</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0034-1</FINCA><SUPERFICIE>139</SUPERFICIE><IDGIS>9091</IDGIS><NAMESPACE>T8_TUD_0034-1</NAMESPACE><LOCALID>T8_TUD_0034-1</LOCALID><ORIG_FID>8793</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="183">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1943</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9092</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0062-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0062-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8794</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.620884800245578,42.02189975931685,-1.620884800245578</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0062-3</FINCA><SUPERFICIE>1943</SUPERFICIE><IDGIS>9092</IDGIS><NAMESPACE>T8_TUD_0062-3</NAMESPACE><LOCALID>T8_TUD_0062-3</LOCALID><ORIG_FID>8794</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="184">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-13</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2480</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8990</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-13</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-13</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8795</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.691398601125038,42.06791298436739,-1.691398601125038</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-13</FINCA><SUPERFICIE>2480</SUPERFICIE><IDGIS>8990</IDGIS><NAMESPACE>T8_TUD_C-13</NAMESPACE><LOCALID>T8_TUD_C-13</LOCALID><ORIG_FID>8795</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="185">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-73</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>90</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9099</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-73</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-73</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9154</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719946448248092,42.10135186061586,-1.719946448248092</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-73</FINCA><SUPERFICIE>90</SUPERFICIE><IDGIS>9099</IDGIS><NAMESPACE>T8_TUD_0001-73</NAMESPACE><LOCALID>T8_TUD_0001-73</LOCALID><ORIG_FID>9154</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="186">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-69</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>839</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9098</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-69</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-69</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9155</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720214392589432,42.09998589539769,-1.720214392589432</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-69</FINCA><SUPERFICIE>839</SUPERFICIE><IDGIS>9098</IDGIS><NAMESPACE>T8_TUD_0001-69</NAMESPACE><LOCALID>T8_TUD_0001-69</LOCALID><ORIG_FID>9155</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="187">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-68</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1482</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9097</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-68</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-68</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9156</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720420603879439,42.10218042229687,-1.720420603879439</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-68</FINCA><SUPERFICIE>1482</SUPERFICIE><IDGIS>9097</IDGIS><NAMESPACE>T8_TUD_0001-68</NAMESPACE><LOCALID>T8_TUD_0001-68</LOCALID><ORIG_FID>9156</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="188">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-66</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>28854</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9095</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-66</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-66</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9157</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719646460000378,42.10300336156221,-1.719646460000378</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-66</FINCA><SUPERFICIE>28854</SUPERFICIE><IDGIS>9095</IDGIS><NAMESPACE>T8_TUD_0001-66</NAMESPACE><LOCALID>T8_TUD_0001-66</LOCALID><ORIG_FID>9157</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="189">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-67</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6721</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9096</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0001-67</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0001-67</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9158</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719598768442119,42.10270510173417,-1.719598768442119</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0001-67</FINCA><SUPERFICIE>6721</SUPERFICIE><IDGIS>9096</IDGIS><NAMESPACE>T8_TUD_0001-67</NAMESPACE><LOCALID>T8_TUD_0001-67</LOCALID><ORIG_FID>9158</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="190">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>Cr-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>644</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8611</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_Cr-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_Cr-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9371</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624849954973521,42.0247185679277,-1.624849954973521</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>Cr-4</FINCA><SUPERFICIE>644</SUPERFICIE><IDGIS>8611</IDGIS><NAMESPACE>T8_TUD_Cr-4</NAMESPACE><LOCALID>T8_TUD_Cr-4</LOCALID><ORIG_FID>9371</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="191">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-23</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>266</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11890</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-23</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-23</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11582</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.610328111517998,42.01503047527048,-1.610328111517998</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-23</FINCA><SUPERFICIE>266</SUPERFICIE><IDGIS>11890</IDGIS><NAMESPACE>T8_TUD_C-23</NAMESPACE><LOCALID>T8_TUD_C-23</LOCALID><ORIG_FID>11582</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="192">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-22</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>198</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11891</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-22</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-22</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11583</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.609324240506513,42.0173758420989,-1.609324240506513</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-22</FINCA><SUPERFICIE>198</SUPERFICIE><IDGIS>11891</IDGIS><NAMESPACE>T8_TUD_C-22</NAMESPACE><LOCALID>T8_TUD_C-22</LOCALID><ORIG_FID>11583</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="193">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-14</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1513</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9100</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_C-14</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_C-14</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11584</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720446403265874,42.10079038946428,-1.720446403265875</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>C-14</FINCA><SUPERFICIE>1513</SUPERFICIE><IDGIS>9100</IDGIS><NAMESPACE>T8_TUD_C-14</NAMESPACE><LOCALID>T8_TUD_C-14</LOCALID><ORIG_FID>11584</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="194">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>TUD</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0023-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8601</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_TUD_0023-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_TUD_0023-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11685</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.624283454879034,42.02654956627377,-1.624283454879034</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>TUD</TERMINO><FINCA>0023-1</FINCA><SUPERFICIE>3</SUPERFICIE><IDGIS>8601</IDGIS><NAMESPACE>T8_TUD_0023-1</NAMESPACE><LOCALID>T8_TUD_0023-1</LOCALID><ORIG_FID>11685</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

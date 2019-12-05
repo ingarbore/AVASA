@@ -1,0 +1,6126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T8_COR_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>42.11790760151934</north>
+			<south>41.92381939206594</south>
+			<east>-1.482690098351039</east>
+			<west>-1.743469825936261</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-01</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>422</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8146</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-01</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-01</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7864</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.508479325400786,41.9372883405422,-1.508479325400786</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-01</FINCA><SUPERFICIE>422</SUPERFICIE><IDGIS>8146</IDGIS><NAMESPACE>T8_COR_C-01</NAMESPACE><LOCALID>T8_COR_C-01</LOCALID><ORIG_FID>7864</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2491</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8147</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7865</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.508267486655196,41.93743802096039,-1.508267486655196</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-1</FINCA><SUPERFICIE>2491</SUPERFICIE><IDGIS>8147</IDGIS><NAMESPACE>T8_COR_0001-1</NAMESPACE><LOCALID>T8_COR_0001-1</LOCALID><ORIG_FID>7865</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3177</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8148</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7866</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.507717304003686,41.93708041177746,-1.507717304003686</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-3</FINCA><SUPERFICIE>3177</SUPERFICIE><IDGIS>8148</IDGIS><NAMESPACE>T8_COR_0001-3</NAMESPACE><LOCALID>T8_COR_0001-3</LOCALID><ORIG_FID>7866</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-02</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>45</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8149</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-02</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-02</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7867</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.507281650338731,41.93664866673093,-1.507281650338731</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-02</FINCA><SUPERFICIE>45</SUPERFICIE><IDGIS>8149</IDGIS><NAMESPACE>T8_COR_C-02</NAMESPACE><LOCALID>T8_COR_C-02</LOCALID><ORIG_FID>7867</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1784</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8150</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7868</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.507650944428689,41.9370335748683,-1.507650944428689</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-2</FINCA><SUPERFICIE>1784</SUPERFICIE><IDGIS>8150</IDGIS><NAMESPACE>T8_COR_0001-2</NAMESPACE><LOCALID>T8_COR_0001-2</LOCALID><ORIG_FID>7868</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4666</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8151</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7869</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.506984994353352,41.93698361472008,-1.506984994353352</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-4</FINCA><SUPERFICIE>4666</SUPERFICIE><IDGIS>8151</IDGIS><NAMESPACE>T8_COR_0001-4</NAMESPACE><LOCALID>T8_COR_0001-4</LOCALID><ORIG_FID>7869</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12535</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8152</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7870</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.504410734277071,41.93612827628466,-1.504410734277071</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-6</FINCA><SUPERFICIE>12535</SUPERFICIE><IDGIS>8152</IDGIS><NAMESPACE>T8_COR_0001-6</NAMESPACE><LOCALID>T8_COR_0001-6</LOCALID><ORIG_FID>7870</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4185</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8153</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7871</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.506296267329478,41.93681507283418,-1.506296267329478</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-5</FINCA><SUPERFICIE>4185</SUPERFICIE><IDGIS>8153</IDGIS><NAMESPACE>T8_COR_0001-5</NAMESPACE><LOCALID>T8_COR_0001-5</LOCALID><ORIG_FID>7871</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-03</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1140</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8154</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-03</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-03</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7872</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.504887209654146,41.9360496099082,-1.504887209654146</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-03</FINCA><SUPERFICIE>1140</SUPERFICIE><IDGIS>8154</IDGIS><NAMESPACE>T8_COR_C-03</NAMESPACE><LOCALID>T8_COR_C-03</LOCALID><ORIG_FID>7872</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2953</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8155</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7873</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.50235676186091,41.93486905581248,-1.50235676186091</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-8</FINCA><SUPERFICIE>2953</SUPERFICIE><IDGIS>8155</IDGIS><NAMESPACE>T8_COR_0001-8</NAMESPACE><LOCALID>T8_COR_0001-8</LOCALID><ORIG_FID>7873</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>549</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8156</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7874</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.503258373738935,41.93585593617902,-1.503258373738936</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-7</FINCA><SUPERFICIE>549</SUPERFICIE><IDGIS>8156</IDGIS><NAMESPACE>T8_COR_0001-7</NAMESPACE><LOCALID>T8_COR_0001-7</LOCALID><ORIG_FID>7874</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4571</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8157</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7875</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.502312463971818,41.93505220827576,-1.502312463971818</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-9</FINCA><SUPERFICIE>4571</SUPERFICIE><IDGIS>8157</IDGIS><NAMESPACE>T8_COR_0001-9</NAMESPACE><LOCALID>T8_COR_0001-9</LOCALID><ORIG_FID>7875</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>38235</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8158</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7876</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.499453989505204,41.93286783437914,-1.499453989505204</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-10</FINCA><SUPERFICIE>38235</SUPERFICIE><IDGIS>8158</IDGIS><NAMESPACE>T8_COR_0001-10</NAMESPACE><LOCALID>T8_COR_0001-10</LOCALID><ORIG_FID>7876</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-06</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>350</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8159</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-06</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-06</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7877</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.49732779800928,41.93097321401624,-1.49732779800928</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-06</FINCA><SUPERFICIE>350</SUPERFICIE><IDGIS>8159</IDGIS><NAMESPACE>T8_COR_C-06</NAMESPACE><LOCALID>T8_COR_C-06</LOCALID><ORIG_FID>7877</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-04</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>515</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8160</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-04</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-04</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7878</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.498001475485844,41.93025121534268,-1.498001475485844</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-04</FINCA><SUPERFICIE>515</SUPERFICIE><IDGIS>8160</IDGIS><NAMESPACE>T8_COR_C-04</NAMESPACE><LOCALID>T8_COR_C-04</LOCALID><ORIG_FID>7878</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-12</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>43</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8161</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-12</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-12</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7879</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.498172232454635,41.93012503464168,-1.498172232454635</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-12</FINCA><SUPERFICIE>43</SUPERFICIE><IDGIS>8161</IDGIS><NAMESPACE>T8_COR_0001-12</NAMESPACE><LOCALID>T8_COR_0001-12</LOCALID><ORIG_FID>7879</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-11</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>23</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8162</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-11</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-11</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7880</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.497992310128263,41.93033927208017,-1.497992310128263</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-11</FINCA><SUPERFICIE>23</SUPERFICIE><IDGIS>8162</IDGIS><NAMESPACE>T8_COR_0001-11</NAMESPACE><LOCALID>T8_COR_0001-11</LOCALID><ORIG_FID>7880</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-13</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>44</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8163</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-13</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-13</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7881</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.496458734675276,41.93195113808986,-1.496458734675276</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-13</FINCA><SUPERFICIE>44</SUPERFICIE><IDGIS>8163</IDGIS><NAMESPACE>T8_COR_0001-13</NAMESPACE><LOCALID>T8_COR_0001-13</LOCALID><ORIG_FID>7881</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-05</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>247</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8164</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-05</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-05</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7882</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.496433079259436,41.93193920627986,-1.496433079259436</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-05</FINCA><SUPERFICIE>247</SUPERFICIE><IDGIS>8164</IDGIS><NAMESPACE>T8_COR_C-05</NAMESPACE><LOCALID>T8_COR_C-05</LOCALID><ORIG_FID>7882</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-14</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>62629</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8165</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-14</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-14</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7883</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.494245848032193,41.92862884375884,-1.494245848032193</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-14</FINCA><SUPERFICIE>62629</SUPERFICIE><IDGIS>8165</IDGIS><NAMESPACE>T8_COR_0001-14</NAMESPACE><LOCALID>T8_COR_0001-14</LOCALID><ORIG_FID>7883</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-07</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2203</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8166</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-07</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-07</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7884</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.490682780650635,41.92604890343657,-1.490682780650635</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-07</FINCA><SUPERFICIE>2203</SUPERFICIE><IDGIS>8166</IDGIS><NAMESPACE>T8_COR_C-07</NAMESPACE><LOCALID>T8_COR_C-07</LOCALID><ORIG_FID>7884</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-15</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>29645</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8167</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-15</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-15</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7885</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.488405218354153,41.92485493316431,-1.488405218354153</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-15</FINCA><SUPERFICIE>29645</SUPERFICIE><IDGIS>8167</IDGIS><NAMESPACE>T8_COR_0001-15</NAMESPACE><LOCALID>T8_COR_0001-15</LOCALID><ORIG_FID>7885</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-08</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3057</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>8168</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-08</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-08</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7886</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.487224341659776,41.92381939206594,-1.487224341659776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-08</FINCA><SUPERFICIE>3057</SUPERFICIE><IDGIS>8168</IDGIS><NAMESPACE>T8_COR_C-08</NAMESPACE><LOCALID>T8_COR_C-08</LOCALID><ORIG_FID>7886</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0130</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>219</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9108</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0130</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0130</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8798</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719511100286346,42.09086348956522,-1.719511100286346</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0130</FINCA><SUPERFICIE>219</SUPERFICIE><IDGIS>9108</IDGIS><NAMESPACE>T8_COR_0130</NAMESPACE><LOCALID>T8_COR_0130</LOCALID><ORIG_FID>8798</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0122-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>286</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9109</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0122-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0122-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8799</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721279420124879,42.09195484645377,-1.721279420124879</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0122-1</FINCA><SUPERFICIE>286</SUPERFICIE><IDGIS>9109</IDGIS><NAMESPACE>T8_COR_0122-1</NAMESPACE><LOCALID>T8_COR_0122-1</LOCALID><ORIG_FID>8799</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0121</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>952</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9110</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0121</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0121</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8800</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721090045075836,42.09201719202049,-1.721090045075836</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0121</FINCA><SUPERFICIE>952</SUPERFICIE><IDGIS>9110</IDGIS><NAMESPACE>T8_COR_0121</NAMESPACE><LOCALID>T8_COR_0121</LOCALID><ORIG_FID>8800</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0125</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1538</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9111</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0125</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0125</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8801</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719584315338687,42.09179937313723,-1.719584315338687</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0125</FINCA><SUPERFICIE>1538</SUPERFICIE><IDGIS>9111</IDGIS><NAMESPACE>T8_COR_0125</NAMESPACE><LOCALID>T8_COR_0125</LOCALID><ORIG_FID>8801</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0124</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>645</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9112</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0124</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0124</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8802</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719907253214474,42.09189373645075,-1.719907253214474</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0124</FINCA><SUPERFICIE>645</SUPERFICIE><IDGIS>9112</IDGIS><NAMESPACE>T8_COR_0124</NAMESPACE><LOCALID>T8_COR_0124</LOCALID><ORIG_FID>8802</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0128</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>971</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9113</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0128</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0128</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8803</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719535690568817,42.09112517521971,-1.719535690568817</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0128</FINCA><SUPERFICIE>971</SUPERFICIE><IDGIS>9113</IDGIS><NAMESPACE>T8_COR_0128</NAMESPACE><LOCALID>T8_COR_0128</LOCALID><ORIG_FID>8803</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0129</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3028</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9114</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0129</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0129</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8804</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720231811252748,42.09126890691677,-1.720231811252748</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0129</FINCA><SUPERFICIE>3028</SUPERFICIE><IDGIS>9114</IDGIS><NAMESPACE>T8_COR_0129</NAMESPACE><LOCALID>T8_COR_0129</LOCALID><ORIG_FID>8804</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0123</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2234</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9115</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0123</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0123</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8805</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720876643210841,42.09164899655769,-1.720876643210841</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0123</FINCA><SUPERFICIE>2234</SUPERFICIE><IDGIS>9115</IDGIS><NAMESPACE>T8_COR_0123</NAMESPACE><LOCALID>T8_COR_0123</LOCALID><ORIG_FID>8805</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0120</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>698</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9116</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0120</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0120</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8806</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721395673302034,42.0923105593535,-1.721395673302034</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0120</FINCA><SUPERFICIE>698</SUPERFICIE><IDGIS>9116</IDGIS><NAMESPACE>T8_COR_0120</NAMESPACE><LOCALID>T8_COR_0120</LOCALID><ORIG_FID>8806</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>277</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9117</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0103-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0103-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8807</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721858228812571,42.09399278855594,-1.721858228812571</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0103-1</FINCA><SUPERFICIE>277</SUPERFICIE><IDGIS>9117</IDGIS><NAMESPACE>T8_COR_0103-1</NAMESPACE><LOCALID>T8_COR_0103-1</LOCALID><ORIG_FID>8807</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0115</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2507</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9118</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0115</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0115</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8808</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719468677276208,42.09376923696262,-1.719468677276208</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0115</FINCA><SUPERFICIE>2507</SUPERFICIE><IDGIS>9118</IDGIS><NAMESPACE>T8_COR_0115</NAMESPACE><LOCALID>T8_COR_0115</LOCALID><ORIG_FID>8808</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0127</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>750</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9119</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0127</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0127</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8809</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719404181686149,42.09138848080757,-1.719404181686149</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0127</FINCA><SUPERFICIE>750</SUPERFICIE><IDGIS>9119</IDGIS><NAMESPACE>T8_COR_0127</NAMESPACE><LOCALID>T8_COR_0127</LOCALID><ORIG_FID>8809</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0119</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9298</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9120</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0119</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0119</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8810</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720478090151837,42.09199479843083,-1.720478090151837</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0119</FINCA><SUPERFICIE>9298</SUPERFICIE><IDGIS>9120</IDGIS><NAMESPACE>T8_COR_0119</NAMESPACE><LOCALID>T8_COR_0119</LOCALID><ORIG_FID>8810</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0113</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6358</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9121</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0113</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0113</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8811</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721004792024627,42.0932375145055,-1.721004792024627</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0113</FINCA><SUPERFICIE>6358</SUPERFICIE><IDGIS>9121</IDGIS><NAMESPACE>T8_COR_0113</NAMESPACE><LOCALID>T8_COR_0113</LOCALID><ORIG_FID>8811</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0114</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3955</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9122</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0114</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0114</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8812</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721274591616315,42.09293404391438,-1.721274591616315</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0114</FINCA><SUPERFICIE>3955</SUPERFICIE><IDGIS>9122</IDGIS><NAMESPACE>T8_COR_0114</NAMESPACE><LOCALID>T8_COR_0114</LOCALID><ORIG_FID>8812</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0112</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>17447</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9123</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0112</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0112</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8813</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719846922117117,42.09272074772933,-1.719846922117117</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0112</FINCA><SUPERFICIE>17447</SUPERFICIE><IDGIS>9123</IDGIS><NAMESPACE>T8_COR_0112</NAMESPACE><LOCALID>T8_COR_0112</LOCALID><ORIG_FID>8813</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0111</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1278</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9124</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0111</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0111</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8814</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720951975183811,42.09386488472735,-1.720951975183811</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0111</FINCA><SUPERFICIE>1278</SUPERFICIE><IDGIS>9124</IDGIS><NAMESPACE>T8_COR_0111</NAMESPACE><LOCALID>T8_COR_0111</LOCALID><ORIG_FID>8814</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0118</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2420</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9125</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0118</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0118</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8815</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720086120838111,42.09323808694791,-1.720086120838112</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0118</FINCA><SUPERFICIE>2420</SUPERFICIE><IDGIS>9125</IDGIS><NAMESPACE>T8_COR_0118</NAMESPACE><LOCALID>T8_COR_0118</LOCALID><ORIG_FID>8815</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0117</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5850</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9126</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0117</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0117</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8816</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719586270062872,42.09330921657757,-1.719586270062872</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0117</FINCA><SUPERFICIE>5850</SUPERFICIE><IDGIS>9126</IDGIS><NAMESPACE>T8_COR_0117</NAMESPACE><LOCALID>T8_COR_0117</LOCALID><ORIG_FID>8816</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0106</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>510</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9127</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0106</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0106</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8817</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720129716264366,42.0946952322366,-1.720129716264366</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0106</FINCA><SUPERFICIE>510</SUPERFICIE><IDGIS>9127</IDGIS><NAMESPACE>T8_COR_0106</NAMESPACE><LOCALID>T8_COR_0106</LOCALID><ORIG_FID>8817</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0107</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1430</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9128</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0107</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0107</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8818</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720567673912965,42.09463819485659,-1.720567673912965</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0107</FINCA><SUPERFICIE>1430</SUPERFICIE><IDGIS>9128</IDGIS><NAMESPACE>T8_COR_0107</NAMESPACE><LOCALID>T8_COR_0107</LOCALID><ORIG_FID>8818</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0109-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3425</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9129</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0109-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0109-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8819</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720752842029879,42.09401601749003,-1.720752842029879</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0109-1</FINCA><SUPERFICIE>3425</SUPERFICIE><IDGIS>9129</IDGIS><NAMESPACE>T8_COR_0109-1</NAMESPACE><LOCALID>T8_COR_0109-1</LOCALID><ORIG_FID>8819</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0110</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4931</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9130</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0110</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0110</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8820</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72008131823634,42.09412918398573,-1.720081318236341</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0110</FINCA><SUPERFICIE>4931</SUPERFICIE><IDGIS>9130</IDGIS><NAMESPACE>T8_COR_0110</NAMESPACE><LOCALID>T8_COR_0110</LOCALID><ORIG_FID>8820</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0108</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1020</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9131</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0108</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0108</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8821</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720737702467117,42.09461867914975,-1.720737702467117</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0108</FINCA><SUPERFICIE>1020</SUPERFICIE><IDGIS>9131</IDGIS><NAMESPACE>T8_COR_0108</NAMESPACE><LOCALID>T8_COR_0108</LOCALID><ORIG_FID>8821</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0109-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2366</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9132</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0109-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0109-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8822</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720983467111228,42.09464925654444,-1.720983467111228</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0109-2</FINCA><SUPERFICIE>2366</SUPERFICIE><IDGIS>9132</IDGIS><NAMESPACE>T8_COR_0109-2</NAMESPACE><LOCALID>T8_COR_0109-2</LOCALID><ORIG_FID>8822</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0105</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1957</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9133</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0105</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0105</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8823</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720329070534862,42.09479821633367,-1.720329070534862</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0105</FINCA><SUPERFICIE>1957</SUPERFICIE><IDGIS>9133</IDGIS><NAMESPACE>T8_COR_0105</NAMESPACE><LOCALID>T8_COR_0105</LOCALID><ORIG_FID>8823</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0104</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>949</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9134</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0104</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0104</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8824</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720348174117424,42.09514115732032,-1.720348174117424</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0104</FINCA><SUPERFICIE>949</SUPERFICIE><IDGIS>9134</IDGIS><NAMESPACE>T8_COR_0104</NAMESPACE><LOCALID>T8_COR_0104</LOCALID><ORIG_FID>8824</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0102</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>558</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9135</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0102</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0102</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8825</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721283727864736,42.09435539304226,-1.721283727864736</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0102</FINCA><SUPERFICIE>558</SUPERFICIE><IDGIS>9135</IDGIS><NAMESPACE>T8_COR_0102</NAMESPACE><LOCALID>T8_COR_0102</LOCALID><ORIG_FID>8825</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0101</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>571</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9136</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0101</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0101</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8826</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721369374372231,42.09458025372383,-1.721369374372231</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0101</FINCA><SUPERFICIE>571</SUPERFICIE><IDGIS>9136</IDGIS><NAMESPACE>T8_COR_0101</NAMESPACE><LOCALID>T8_COR_0101</LOCALID><ORIG_FID>8826</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0100</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>514</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9137</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0100</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0100</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8827</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721431284084078,42.09474293430748,-1.721431284084078</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0100</FINCA><SUPERFICIE>514</SUPERFICIE><IDGIS>9137</IDGIS><NAMESPACE>T8_COR_0100</NAMESPACE><LOCALID>T8_COR_0100</LOCALID><ORIG_FID>8827</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0099</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>532</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9138</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0099</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0099</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8828</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721455955637955,42.09488412069567,-1.721455955637955</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0099</FINCA><SUPERFICIE>532</SUPERFICIE><IDGIS>9138</IDGIS><NAMESPACE>T8_COR_0099</NAMESPACE><LOCALID>T8_COR_0099</LOCALID><ORIG_FID>8828</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0098</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>495</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9139</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0098</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0098</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8829</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721467173972742,42.09500372130332,-1.721467173972742</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0098</FINCA><SUPERFICIE>495</SUPERFICIE><IDGIS>9139</IDGIS><NAMESPACE>T8_COR_0098</NAMESPACE><LOCALID>T8_COR_0098</LOCALID><ORIG_FID>8829</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0097</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>525</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9140</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0097</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0097</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8830</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72151311739431,42.09510795144304,-1.72151311739431</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0097</FINCA><SUPERFICIE>525</SUPERFICIE><IDGIS>9140</IDGIS><NAMESPACE>T8_COR_0097</NAMESPACE><LOCALID>T8_COR_0097</LOCALID><ORIG_FID>8830</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0096</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>501</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9141</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0096</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0096</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8831</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721608746924687,42.09521619177988,-1.721608746924687</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0096</FINCA><SUPERFICIE>501</SUPERFICIE><IDGIS>9141</IDGIS><NAMESPACE>T8_COR_0096</NAMESPACE><LOCALID>T8_COR_0096</LOCALID><ORIG_FID>8831</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0095</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>543</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9142</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0095</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0095</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8832</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721773099512161,42.09536905016702,-1.721773099512161</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0095</FINCA><SUPERFICIE>543</SUPERFICIE><IDGIS>9142</IDGIS><NAMESPACE>T8_COR_0095</NAMESPACE><LOCALID>T8_COR_0095</LOCALID><ORIG_FID>8832</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0091</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>643</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9143</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0091</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0091</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8833</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722218605384895,42.09565476627412,-1.722218605384895</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0091</FINCA><SUPERFICIE>643</SUPERFICIE><IDGIS>9143</IDGIS><NAMESPACE>T8_COR_0091</NAMESPACE><LOCALID>T8_COR_0091</LOCALID><ORIG_FID>8833</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0092</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1122</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9144</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0092</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0092</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8834</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722195281113277,42.09547432405631,-1.722195281113278</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0092</FINCA><SUPERFICIE>1122</SUPERFICIE><IDGIS>9144</IDGIS><NAMESPACE>T8_COR_0092</NAMESPACE><LOCALID>T8_COR_0092</LOCALID><ORIG_FID>8834</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0093</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2333</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9145</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0093</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0093</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8835</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722323822095896,42.09516084889403,-1.722323822095896</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0093</FINCA><SUPERFICIE>2333</SUPERFICIE><IDGIS>9145</IDGIS><NAMESPACE>T8_COR_0093</NAMESPACE><LOCALID>T8_COR_0093</LOCALID><ORIG_FID>8835</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1037</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9146</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0103</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0103</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8836</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721931495283497,42.09433075869401,-1.721931495283497</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0103</FINCA><SUPERFICIE>1037</SUPERFICIE><IDGIS>9146</IDGIS><NAMESPACE>T8_COR_0103</NAMESPACE><LOCALID>T8_COR_0103</LOCALID><ORIG_FID>8836</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0088</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2673</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9147</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0088</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0088</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8837</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720589843408592,42.0955288890945,-1.720589843408592</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0088</FINCA><SUPERFICIE>2673</SUPERFICIE><IDGIS>9147</IDGIS><NAMESPACE>T8_COR_0088</NAMESPACE><LOCALID>T8_COR_0088</LOCALID><ORIG_FID>8837</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0080-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1631</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9148</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0080-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0080-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8838</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722808263570348,42.09578701512032,-1.722808263570348</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0080-1</FINCA><SUPERFICIE>1631</SUPERFICIE><IDGIS>9148</IDGIS><NAMESPACE>T8_COR_0080-1</NAMESPACE><LOCALID>T8_COR_0080-1</LOCALID><ORIG_FID>8838</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0080-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1166</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9149</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0080-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0080-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8839</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722764316409843,42.09612790648284,-1.722764316409843</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0080-2</FINCA><SUPERFICIE>1166</SUPERFICIE><IDGIS>9149</IDGIS><NAMESPACE>T8_COR_0080-2</NAMESPACE><LOCALID>T8_COR_0080-2</LOCALID><ORIG_FID>8839</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0089</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5668</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9150</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0089</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0089</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8840</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72118321067731,42.09541324189232,-1.72118321067731</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0089</FINCA><SUPERFICIE>5668</SUPERFICIE><IDGIS>9150</IDGIS><NAMESPACE>T8_COR_0089</NAMESPACE><LOCALID>T8_COR_0089</LOCALID><ORIG_FID>8840</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0082</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>330</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9151</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0082</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0082</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8841</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721291352031589,42.09585300642039,-1.721291352031589</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0082</FINCA><SUPERFICIE>330</SUPERFICIE><IDGIS>9151</IDGIS><NAMESPACE>T8_COR_0082</NAMESPACE><LOCALID>T8_COR_0082</LOCALID><ORIG_FID>8841</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0090</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1718</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9152</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0090</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0090</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8842</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722252831570045,42.09581959140422,-1.722252831570045</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0090</FINCA><SUPERFICIE>1718</SUPERFICIE><IDGIS>9152</IDGIS><NAMESPACE>T8_COR_0090</NAMESPACE><LOCALID>T8_COR_0090</LOCALID><ORIG_FID>8842</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0081</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1548</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9153</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0081</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0081</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8843</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721841554635681,42.09589901492382,-1.721841554635681</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0081</FINCA><SUPERFICIE>1548</SUPERFICIE><IDGIS>9153</IDGIS><NAMESPACE>T8_COR_0081</NAMESPACE><LOCALID>T8_COR_0081</LOCALID><ORIG_FID>8843</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>42</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9154</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0079</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0079</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8844</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723160295570385,42.09631880600544,-1.723160295570384</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0079</FINCA><SUPERFICIE>42</SUPERFICIE><IDGIS>9154</IDGIS><NAMESPACE>T8_COR_0079</NAMESPACE><LOCALID>T8_COR_0079</LOCALID><ORIG_FID>8844</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1129</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9155</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8845</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721724607273292,42.09600052244404,-1.721724607273292</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-9</FINCA><SUPERFICIE>1129</SUPERFICIE><IDGIS>9155</IDGIS><NAMESPACE>T8_COR_C-9</NAMESPACE><LOCALID>T8_COR_C-9</LOCALID><ORIG_FID>8845</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0085</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3748</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9156</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0085</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0085</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8846</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720724516680974,42.09613681092634,-1.720724516680975</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0085</FINCA><SUPERFICIE>3748</SUPERFICIE><IDGIS>9156</IDGIS><NAMESPACE>T8_COR_0085</NAMESPACE><LOCALID>T8_COR_0085</LOCALID><ORIG_FID>8846</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0086</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>881</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9157</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0086</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0086</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8847</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720694143172836,42.09649447838718,-1.720694143172836</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0086</FINCA><SUPERFICIE>881</SUPERFICIE><IDGIS>9157</IDGIS><NAMESPACE>T8_COR_0086</NAMESPACE><LOCALID>T8_COR_0086</LOCALID><ORIG_FID>8847</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0087</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>97</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9158</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0087</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0087</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8848</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720498122900444,42.09652966600304,-1.720498122900444</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0087</FINCA><SUPERFICIE>97</SUPERFICIE><IDGIS>9158</IDGIS><NAMESPACE>T8_COR_0087</NAMESPACE><LOCALID>T8_COR_0087</LOCALID><ORIG_FID>8848</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1372</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9159</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0062</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0062</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8849</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.7207895605577,42.09679210926478,-1.7207895605577</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0062</FINCA><SUPERFICIE>1372</SUPERFICIE><IDGIS>9159</IDGIS><NAMESPACE>T8_COR_0062</NAMESPACE><LOCALID>T8_COR_0062</LOCALID><ORIG_FID>8849</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0084</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>359</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9160</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0084</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0084</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8850</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721316532169608,42.0963634777809,-1.721316532169608</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0084</FINCA><SUPERFICIE>359</SUPERFICIE><IDGIS>9160</IDGIS><NAMESPACE>T8_COR_0084</NAMESPACE><LOCALID>T8_COR_0084</LOCALID><ORIG_FID>8850</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0083</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2450</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9161</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0083</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0083</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8851</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721147620385134,42.09612974013995,-1.721147620385134</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0083</FINCA><SUPERFICIE>2450</SUPERFICIE><IDGIS>9161</IDGIS><NAMESPACE>T8_COR_0083</NAMESPACE><LOCALID>T8_COR_0083</LOCALID><ORIG_FID>8851</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0060</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2598</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9162</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0060</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0060</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8852</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721808710942434,42.09675421009232,-1.721808710942434</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0060</FINCA><SUPERFICIE>2598</SUPERFICIE><IDGIS>9162</IDGIS><NAMESPACE>T8_COR_0060</NAMESPACE><LOCALID>T8_COR_0060</LOCALID><ORIG_FID>8852</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0059</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6257</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9163</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0059</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0059</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8853</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722211752927162,42.09637035012747,-1.722211752927161</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0059</FINCA><SUPERFICIE>6257</SUPERFICIE><IDGIS>9163</IDGIS><NAMESPACE>T8_COR_0059</NAMESPACE><LOCALID>T8_COR_0059</LOCALID><ORIG_FID>8853</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0058</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6660</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9164</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0058</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0058</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8854</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722742350799025,42.09685479429471,-1.722742350799025</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0058</FINCA><SUPERFICIE>6660</SUPERFICIE><IDGIS>9164</IDGIS><NAMESPACE>T8_COR_0058</NAMESPACE><LOCALID>T8_COR_0058</LOCALID><ORIG_FID>8854</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0061</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>122</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9165</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0061</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0061</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8855</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723306753422783,42.09657512988946,-1.723306753422783</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0061</FINCA><SUPERFICIE>122</SUPERFICIE><IDGIS>9165</IDGIS><NAMESPACE>T8_COR_0061</NAMESPACE><LOCALID>T8_COR_0061</LOCALID><ORIG_FID>8855</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0056-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>742</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9166</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0056-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0056-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8856</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723635711493626,42.09727627066719,-1.723635711493626</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0056-2</FINCA><SUPERFICIE>742</SUPERFICIE><IDGIS>9166</IDGIS><NAMESPACE>T8_COR_0056-2</NAMESPACE><LOCALID>T8_COR_0056-2</LOCALID><ORIG_FID>8856</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0057</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>966</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9167</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0057</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0057</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8857</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723316598100098,42.09702983796048,-1.723316598100098</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0057</FINCA><SUPERFICIE>966</SUPERFICIE><IDGIS>9167</IDGIS><NAMESPACE>T8_COR_0057</NAMESPACE><LOCALID>T8_COR_0057</LOCALID><ORIG_FID>8857</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0056-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>276</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9168</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0056-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0056-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8858</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.724043851711304,42.0979880925637,-1.724043851711304</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0056-1</FINCA><SUPERFICIE>276</SUPERFICIE><IDGIS>9168</IDGIS><NAMESPACE>T8_COR_0056-1</NAMESPACE><LOCALID>T8_COR_0056-1</LOCALID><ORIG_FID>8858</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0055</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3113</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9169</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0055</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0055</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8859</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723467731121609,42.09744561045168,-1.723467731121609</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0055</FINCA><SUPERFICIE>3113</SUPERFICIE><IDGIS>9169</IDGIS><NAMESPACE>T8_COR_0055</NAMESPACE><LOCALID>T8_COR_0055</LOCALID><ORIG_FID>8859</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0053</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3259</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9170</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0053</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0053</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8860</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723186260772274,42.0978140724074,-1.723186260772274</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0053</FINCA><SUPERFICIE>3259</SUPERFICIE><IDGIS>9170</IDGIS><NAMESPACE>T8_COR_0053</NAMESPACE><LOCALID>T8_COR_0053</LOCALID><ORIG_FID>8860</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0052</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2881</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9171</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0052</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0052</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8861</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722806152053746,42.09778608239123,-1.722806152053746</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0052</FINCA><SUPERFICIE>2881</SUPERFICIE><IDGIS>9171</IDGIS><NAMESPACE>T8_COR_0052</NAMESPACE><LOCALID>T8_COR_0052</LOCALID><ORIG_FID>8861</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0051</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2251</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9172</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0051</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0051</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8862</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722520862696846,42.09776390218767,-1.722520862696846</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0051</FINCA><SUPERFICIE>2251</SUPERFICIE><IDGIS>9172</IDGIS><NAMESPACE>T8_COR_0051</NAMESPACE><LOCALID>T8_COR_0051</LOCALID><ORIG_FID>8862</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0054</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3304</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9173</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0054</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0054</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8863</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723460054759568,42.09773510318448,-1.723460054759568</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0054</FINCA><SUPERFICIE>3304</SUPERFICIE><IDGIS>9173</IDGIS><NAMESPACE>T8_COR_0054</NAMESPACE><LOCALID>T8_COR_0054</LOCALID><ORIG_FID>8863</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9534</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9175</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0050-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0050-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8864</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72184683239484,42.09741695507582,-1.72184683239484</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0050-1</FINCA><SUPERFICIE>9534</SUPERFICIE><IDGIS>9175</IDGIS><NAMESPACE>T8_COR_0050-1</NAMESPACE><LOCALID>T8_COR_0050-1</LOCALID><ORIG_FID>8864</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0064</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>768</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9176</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0064</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0064</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8865</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720713889827672,42.09739485769366,-1.720713889827672</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0064</FINCA><SUPERFICIE>768</SUPERFICIE><IDGIS>9176</IDGIS><NAMESPACE>T8_COR_0064</NAMESPACE><LOCALID>T8_COR_0064</LOCALID><ORIG_FID>8865</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0063</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10320</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9177</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0063</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0063</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8866</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721034024731324,42.09765232637829,-1.721034024731323</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0063</FINCA><SUPERFICIE>10320</SUPERFICIE><IDGIS>9177</IDGIS><NAMESPACE>T8_COR_0063</NAMESPACE><LOCALID>T8_COR_0063</LOCALID><ORIG_FID>8866</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0065</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8184</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9178</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0065</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0065</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8867</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721224215387289,42.09854185324763,-1.721224215387288</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0065</FINCA><SUPERFICIE>8184</SUPERFICIE><IDGIS>9178</IDGIS><NAMESPACE>T8_COR_0065</NAMESPACE><LOCALID>T8_COR_0065</LOCALID><ORIG_FID>8867</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1855</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9179</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0050-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0050-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8868</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723344928257352,42.09835096968863,-1.723344928257351</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0050-2</FINCA><SUPERFICIE>1855</SUPERFICIE><IDGIS>9179</IDGIS><NAMESPACE>T8_COR_0050-2</NAMESPACE><LOCALID>T8_COR_0050-2</LOCALID><ORIG_FID>8868</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0066</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>505</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9180</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0066</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0066</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8869</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721271090437426,42.09899095061691,-1.721271090437426</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0066</FINCA><SUPERFICIE>505</SUPERFICIE><IDGIS>9180</IDGIS><NAMESPACE>T8_COR_0066</NAMESPACE><LOCALID>T8_COR_0066</LOCALID><ORIG_FID>8869</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0049-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5224</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9181</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0049-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0049-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8870</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721974864806359,42.09819669881858,-1.721974864806359</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0049-1</FINCA><SUPERFICIE>5224</SUPERFICIE><IDGIS>9181</IDGIS><NAMESPACE>T8_COR_0049-1</NAMESPACE><LOCALID>T8_COR_0049-1</LOCALID><ORIG_FID>8870</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0047-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3453</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9182</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0047-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0047-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8871</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722418452158332,42.09923028060901,-1.722418452158332</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0047-2</FINCA><SUPERFICIE>3453</SUPERFICIE><IDGIS>9182</IDGIS><NAMESPACE>T8_COR_0047-2</NAMESPACE><LOCALID>T8_COR_0047-2</LOCALID><ORIG_FID>8871</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0048</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5275</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9183</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0048</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0048</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8872</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722894763136706,42.09862743954832,-1.722894763136706</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0048</FINCA><SUPERFICIE>5275</SUPERFICIE><IDGIS>9183</IDGIS><NAMESPACE>T8_COR_0048</NAMESPACE><LOCALID>T8_COR_0048</LOCALID><ORIG_FID>8872</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0046</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3101</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9184</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0046</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0046</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8873</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723734802110527,42.09872477899896,-1.723734802110527</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0046</FINCA><SUPERFICIE>3101</SUPERFICIE><IDGIS>9184</IDGIS><NAMESPACE>T8_COR_0046</NAMESPACE><LOCALID>T8_COR_0046</LOCALID><ORIG_FID>8873</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0070</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8333</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9185</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0070</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0070</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8874</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721708505534324,42.09945234588945,-1.721708505534324</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0070</FINCA><SUPERFICIE>8333</SUPERFICIE><IDGIS>9185</IDGIS><NAMESPACE>T8_COR_0070</NAMESPACE><LOCALID>T8_COR_0070</LOCALID><ORIG_FID>8874</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0044</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>261</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9186</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0044</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0044</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8875</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72318031553565,42.09940440667896,-1.72318031553565</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0044</FINCA><SUPERFICIE>261</SUPERFICIE><IDGIS>9186</IDGIS><NAMESPACE>T8_COR_0044</NAMESPACE><LOCALID>T8_COR_0044</LOCALID><ORIG_FID>8875</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0047-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5019</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9187</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0047-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0047-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8876</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722901384606719,42.09898692693127,-1.722901384606719</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0047-1</FINCA><SUPERFICIE>5019</SUPERFICIE><IDGIS>9187</IDGIS><NAMESPACE>T8_COR_0047-1</NAMESPACE><LOCALID>T8_COR_0047-1</LOCALID><ORIG_FID>8876</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0043</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3417</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9188</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0043</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0043</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8877</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.723850069349303,42.09952518215948,-1.723850069349303</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0043</FINCA><SUPERFICIE>3417</SUPERFICIE><IDGIS>9188</IDGIS><NAMESPACE>T8_COR_0043</NAMESPACE><LOCALID>T8_COR_0043</LOCALID><ORIG_FID>8877</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0042</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3117</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9189</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0042</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0042</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8878</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.724341135140676,42.09953573690996,-1.724341135140676</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0042</FINCA><SUPERFICIE>3117</SUPERFICIE><IDGIS>9189</IDGIS><NAMESPACE>T8_COR_0042</NAMESPACE><LOCALID>T8_COR_0042</LOCALID><ORIG_FID>8878</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0045</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4067</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9190</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0045</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0045</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8879</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.724020522829924,42.09897730745723,-1.724020522829924</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0045</FINCA><SUPERFICIE>4067</SUPERFICIE><IDGIS>9190</IDGIS><NAMESPACE>T8_COR_0045</NAMESPACE><LOCALID>T8_COR_0045</LOCALID><ORIG_FID>8879</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0041</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3033</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9191</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0041</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0041</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8880</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.724737105304622,42.09952500272896,-1.724737105304622</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0041</FINCA><SUPERFICIE>3033</SUPERFICIE><IDGIS>9191</IDGIS><NAMESPACE>T8_COR_0041</NAMESPACE><LOCALID>T8_COR_0041</LOCALID><ORIG_FID>8880</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0040</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>197</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9192</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0040</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0040</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8881</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72492006091142,42.09948734089573,-1.724920060911419</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0040</FINCA><SUPERFICIE>197</SUPERFICIE><IDGIS>9192</IDGIS><NAMESPACE>T8_COR_0040</NAMESPACE><LOCALID>T8_COR_0040</LOCALID><ORIG_FID>8881</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0069</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1769</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9193</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0069</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0069</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8882</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721390092958273,42.09991365350744,-1.721390092958274</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0069</FINCA><SUPERFICIE>1769</SUPERFICIE><IDGIS>9193</IDGIS><NAMESPACE>T8_COR_0069</NAMESPACE><LOCALID>T8_COR_0069</LOCALID><ORIG_FID>8882</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0068</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1639</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9194</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0068</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0068</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8883</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72154610593356,42.10018108533919,-1.721546105933559</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0068</FINCA><SUPERFICIE>1639</SUPERFICIE><IDGIS>9194</IDGIS><NAMESPACE>T8_COR_0068</NAMESPACE><LOCALID>T8_COR_0068</LOCALID><ORIG_FID>8883</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0067</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>984</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9195</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0067</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0067</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8884</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721513400285972,42.10043824194557,-1.721513400285972</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0067</FINCA><SUPERFICIE>984</SUPERFICIE><IDGIS>9195</IDGIS><NAMESPACE>T8_COR_0067</NAMESPACE><LOCALID>T8_COR_0067</LOCALID><ORIG_FID>8884</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0073</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2370</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9489</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0073</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0073</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8885</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720793584887055,42.09968341643857,-1.720793584887055</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0073</FINCA><SUPERFICIE>2370</SUPERFICIE><IDGIS>9489</IDGIS><NAMESPACE>T8_COR_0073</NAMESPACE><LOCALID>T8_COR_0073</LOCALID><ORIG_FID>8885</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0071</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3252</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9197</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0071</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0071</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8886</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72069170751049,42.09929606335489,-1.72069170751049</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0071</FINCA><SUPERFICIE>3252</SUPERFICIE><IDGIS>9197</IDGIS><NAMESPACE>T8_COR_0071</NAMESPACE><LOCALID>T8_COR_0071</LOCALID><ORIG_FID>8886</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0074</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1968</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9198</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0074</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0074</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8887</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720885733836403,42.100385508753,-1.720885733836403</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0074</FINCA><SUPERFICIE>1968</SUPERFICIE><IDGIS>9198</IDGIS><NAMESPACE>T8_COR_0074</NAMESPACE><LOCALID>T8_COR_0074</LOCALID><ORIG_FID>8887</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0075</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2882</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9199</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0075</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0075</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8888</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721094426034384,42.10072323343933,-1.721094426034384</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0075</FINCA><SUPERFICIE>2882</SUPERFICIE><IDGIS>9199</IDGIS><NAMESPACE>T8_COR_0075</NAMESPACE><LOCALID>T8_COR_0075</LOCALID><ORIG_FID>8888</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0077</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>999</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9200</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0077</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0077</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8889</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720948350605828,42.10097113575201,-1.720948350605828</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0077</FINCA><SUPERFICIE>999</SUPERFICIE><IDGIS>9200</IDGIS><NAMESPACE>T8_COR_0077</NAMESPACE><LOCALID>T8_COR_0077</LOCALID><ORIG_FID>8889</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0076</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2231</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9201</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0076</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0076</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8890</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721000076346058,42.10129180987956,-1.721000076346058</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0076</FINCA><SUPERFICIE>2231</SUPERFICIE><IDGIS>9201</IDGIS><NAMESPACE>T8_COR_0076</NAMESPACE><LOCALID>T8_COR_0076</LOCALID><ORIG_FID>8890</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0078</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4313</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9202</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0078</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0078</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8891</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.720600798812846,42.10096073123893,-1.720600798812846</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0078</FINCA><SUPERFICIE>4313</SUPERFICIE><IDGIS>9202</IDGIS><NAMESPACE>T8_COR_0078</NAMESPACE><LOCALID>T8_COR_0078</LOCALID><ORIG_FID>8891</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1274</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9203</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0038</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0038</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8892</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.725094273342813,42.10014153238358,-1.725094273342813</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0038</FINCA><SUPERFICIE>1274</SUPERFICIE><IDGIS>9203</IDGIS><NAMESPACE>T8_COR_0038</NAMESPACE><LOCALID>T8_COR_0038</LOCALID><ORIG_FID>8892</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0037</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2879</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9204</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0037</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0037</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8893</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.725046628348448,42.10037310470955,-1.725046628348448</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0037</FINCA><SUPERFICIE>2879</SUPERFICIE><IDGIS>9204</IDGIS><NAMESPACE>T8_COR_0037</NAMESPACE><LOCALID>T8_COR_0037</LOCALID><ORIG_FID>8893</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0039</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2698</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9205</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0039</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0039</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8894</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.724710265148168,42.10042843332161,-1.724710265148168</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0039</FINCA><SUPERFICIE>2698</SUPERFICIE><IDGIS>9205</IDGIS><NAMESPACE>T8_COR_0039</NAMESPACE><LOCALID>T8_COR_0039</LOCALID><ORIG_FID>8894</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0036</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11077</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9206</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0036</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0036</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8895</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.725526023447347,42.10140942730745,-1.725526023447347</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0036</FINCA><SUPERFICIE>11077</SUPERFICIE><IDGIS>9206</IDGIS><NAMESPACE>T8_COR_0036</NAMESPACE><LOCALID>T8_COR_0036</LOCALID><ORIG_FID>8895</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0035</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1872</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9207</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0035</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0035</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8896</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.727420918572828,42.10289598136701,-1.727420918572828</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0035</FINCA><SUPERFICIE>1872</SUPERFICIE><IDGIS>9207</IDGIS><NAMESPACE>T8_COR_0035</NAMESPACE><LOCALID>T8_COR_0035</LOCALID><ORIG_FID>8896</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-8</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>84</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9208</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-8</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-8</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8897</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.727814579619372,42.10313525858329,-1.727814579619372</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-8</FINCA><SUPERFICIE>84</SUPERFICIE><IDGIS>9208</IDGIS><NAMESPACE>T8_COR_C-8</NAMESPACE><LOCALID>T8_COR_C-8</LOCALID><ORIG_FID>8897</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0031-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>53</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9209</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0031-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0031-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8898</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72781673593352,42.10315703625376,-1.72781673593352</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0031-2</FINCA><SUPERFICIE>53</SUPERFICIE><IDGIS>9209</IDGIS><NAMESPACE>T8_COR_0031-2</NAMESPACE><LOCALID>T8_COR_0031-2</LOCALID><ORIG_FID>8898</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0032</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>147</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9210</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0032</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0032</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8899</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.725106893338534,42.10342568308523,-1.725106893338534</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0032</FINCA><SUPERFICIE>147</SUPERFICIE><IDGIS>9210</IDGIS><NAMESPACE>T8_COR_0032</NAMESPACE><LOCALID>T8_COR_0032</LOCALID><ORIG_FID>8899</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>224</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9211</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8900</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.726554273009836,42.10307931982528,-1.726554273009836</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-6</FINCA><SUPERFICIE>224</SUPERFICIE><IDGIS>9211</IDGIS><NAMESPACE>T8_COR_C-6</NAMESPACE><LOCALID>T8_COR_C-6</LOCALID><ORIG_FID>8900</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0034</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8213</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9212</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0034</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0034</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8901</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.726356202250708,42.10257347135206,-1.726356202250708</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0034</FINCA><SUPERFICIE>8213</SUPERFICIE><IDGIS>9212</IDGIS><NAMESPACE>T8_COR_0034</NAMESPACE><LOCALID>T8_COR_0034</LOCALID><ORIG_FID>8901</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0033</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9213</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0033</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0033</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8902</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.725385559692749,42.10323233339651,-1.725385559692748</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0033</FINCA><SUPERFICIE>10</SUPERFICIE><IDGIS>9213</IDGIS><NAMESPACE>T8_COR_0033</NAMESPACE><LOCALID>T8_COR_0033</LOCALID><ORIG_FID>8902</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>191</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9214</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8903</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72532417885222,42.10328293502445,-1.72532417885222</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-7</FINCA><SUPERFICIE>191</SUPERFICIE><IDGIS>9214</IDGIS><NAMESPACE>T8_COR_C-7</NAMESPACE><LOCALID>T8_COR_C-7</LOCALID><ORIG_FID>8903</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0031-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>31451</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9215</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0031-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0031-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8904</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.727970733564606,42.10507511068603,-1.727970733564606</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0031-1</FINCA><SUPERFICIE>31451</SUPERFICIE><IDGIS>9215</IDGIS><NAMESPACE>T8_COR_0031-1</NAMESPACE><LOCALID>T8_COR_0031-1</LOCALID><ORIG_FID>8904</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0031-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>214</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9216</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0031-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0031-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8905</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.725390787356987,42.10331265720313,-1.725390787356987</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0031-3</FINCA><SUPERFICIE>214</SUPERFICIE><IDGIS>9216</IDGIS><NAMESPACE>T8_COR_0031-3</NAMESPACE><LOCALID>T8_COR_0031-3</LOCALID><ORIG_FID>8905</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>420</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9217</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0027-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0027-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8906</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.729857623701324,42.10803973728167,-1.729857623701324</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0027-3</FINCA><SUPERFICIE>420</SUPERFICIE><IDGIS>9217</IDGIS><NAMESPACE>T8_COR_0027-3</NAMESPACE><LOCALID>T8_COR_0027-3</LOCALID><ORIG_FID>8906</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0029</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5109</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9218</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0029</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0029</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8907</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.729941883877335,42.10753738522569,-1.729941883877335</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0029</FINCA><SUPERFICIE>5109</SUPERFICIE><IDGIS>9218</IDGIS><NAMESPACE>T8_COR_0029</NAMESPACE><LOCALID>T8_COR_0029</LOCALID><ORIG_FID>8907</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0030</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>240</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9219</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0030</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0030</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8908</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.729737398171793,42.10783177721476,-1.729737398171793</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0030</FINCA><SUPERFICIE>240</SUPERFICIE><IDGIS>9219</IDGIS><NAMESPACE>T8_COR_0030</NAMESPACE><LOCALID>T8_COR_0030</LOCALID><ORIG_FID>8908</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>956</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9220</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8909</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.730360228906344,42.10813910772465,-1.730360228906344</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-5</FINCA><SUPERFICIE>956</SUPERFICIE><IDGIS>9220</IDGIS><NAMESPACE>T8_COR_C-5</NAMESPACE><LOCALID>T8_COR_C-5</LOCALID><ORIG_FID>8909</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4251</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9221</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0027-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0027-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8910</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.73038503926192,42.10828273777882,-1.73038503926192</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0027-2</FINCA><SUPERFICIE>4251</SUPERFICIE><IDGIS>9221</IDGIS><NAMESPACE>T8_COR_0027-2</NAMESPACE><LOCALID>T8_COR_0027-2</LOCALID><ORIG_FID>8910</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1926</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9222</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0027-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0027-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8911</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.73080042633783,42.10886657456168,-1.730800426337829</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0027-1</FINCA><SUPERFICIE>1926</SUPERFICIE><IDGIS>9222</IDGIS><NAMESPACE>T8_COR_0027-1</NAMESPACE><LOCALID>T8_COR_0027-1</LOCALID><ORIG_FID>8911</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0028</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2133</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9223</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0028</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0028</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8912</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.731074398720562,42.10862396977247,-1.731074398720562</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0028</FINCA><SUPERFICIE>2133</SUPERFICIE><IDGIS>9223</IDGIS><NAMESPACE>T8_COR_0028</NAMESPACE><LOCALID>T8_COR_0028</LOCALID><ORIG_FID>8912</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="138">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>557</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9224</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8913</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.731245718141565,42.10900247327604,-1.731245718141565</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-4</FINCA><SUPERFICIE>557</SUPERFICIE><IDGIS>9224</IDGIS><NAMESPACE>T8_COR_C-4</NAMESPACE><LOCALID>T8_COR_C-4</LOCALID><ORIG_FID>8913</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="139">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3110</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9225</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0026</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0026</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8914</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.731436958072471,42.10962406340487,-1.731436958072471</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0026</FINCA><SUPERFICIE>3110</SUPERFICIE><IDGIS>9225</IDGIS><NAMESPACE>T8_COR_0026</NAMESPACE><LOCALID>T8_COR_0026</LOCALID><ORIG_FID>8914</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="140">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7928</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9226</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0025</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0025</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8915</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.73192394296627,42.10961044357764,-1.73192394296627</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0025</FINCA><SUPERFICIE>7928</SUPERFICIE><IDGIS>9226</IDGIS><NAMESPACE>T8_COR_0025</NAMESPACE><LOCALID>T8_COR_0025</LOCALID><ORIG_FID>8915</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="141">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0024</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4738</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9227</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0024</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0024</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8916</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.732986311317334,42.11062951260379,-1.732986311317334</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0024</FINCA><SUPERFICIE>4738</SUPERFICIE><IDGIS>9227</IDGIS><NAMESPACE>T8_COR_0024</NAMESPACE><LOCALID>T8_COR_0024</LOCALID><ORIG_FID>8916</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="142">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0023</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4005</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9228</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0023</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0023</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8917</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.73253123946681,42.11069413982073,-1.73253123946681</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0023</FINCA><SUPERFICIE>4005</SUPERFICIE><IDGIS>9228</IDGIS><NAMESPACE>T8_COR_0023</NAMESPACE><LOCALID>T8_COR_0023</LOCALID><ORIG_FID>8917</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="143">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>14569</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9229</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0020-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0020-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8918</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.734000522123284,42.11181193995846,-1.734000522123284</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0020-2</FINCA><SUPERFICIE>14569</SUPERFICIE><IDGIS>9229</IDGIS><NAMESPACE>T8_COR_0020-2</NAMESPACE><LOCALID>T8_COR_0020-2</LOCALID><ORIG_FID>8918</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="144">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>24</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9230</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0022</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0022</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8919</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.733856308355113,42.11252187325388,-1.733856308355113</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0022</FINCA><SUPERFICIE>24</SUPERFICIE><IDGIS>9230</IDGIS><NAMESPACE>T8_COR_0022</NAMESPACE><LOCALID>T8_COR_0022</LOCALID><ORIG_FID>8919</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="145">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>16</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9231</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0021</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0021</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8920</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.733907906438439,42.11254599764825,-1.733907906438439</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0021</FINCA><SUPERFICIE>16</SUPERFICIE><IDGIS>9231</IDGIS><NAMESPACE>T8_COR_0021</NAMESPACE><LOCALID>T8_COR_0021</LOCALID><ORIG_FID>8920</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="146">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4925</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9232</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0020-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0020-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8921</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.735048491172702,42.11267905271369,-1.735048491172702</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0020-1</FINCA><SUPERFICIE>4925</SUPERFICIE><IDGIS>9232</IDGIS><NAMESPACE>T8_COR_0020-1</NAMESPACE><LOCALID>T8_COR_0020-1</LOCALID><ORIG_FID>8921</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="147">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3192</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9233</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0019</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0019</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8922</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.735387583902496,42.11313798545675,-1.735387583902496</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0019</FINCA><SUPERFICIE>3192</SUPERFICIE><IDGIS>9233</IDGIS><NAMESPACE>T8_COR_0019</NAMESPACE><LOCALID>T8_COR_0019</LOCALID><ORIG_FID>8922</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="148">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6242</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9234</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0016</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0016</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8923</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.735800743359345,42.11362913456347,-1.735800743359345</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0016</FINCA><SUPERFICIE>6242</SUPERFICIE><IDGIS>9234</IDGIS><NAMESPACE>T8_COR_0016</NAMESPACE><LOCALID>T8_COR_0016</LOCALID><ORIG_FID>8923</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="149">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9235</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_A-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_A-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8924</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737653446031941,42.11356784099511,-1.737653446031941</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>A-3</FINCA><SUPERFICIE>12</SUPERFICIE><IDGIS>9235</IDGIS><NAMESPACE>T8_COR_A-3</NAMESPACE><LOCALID>T8_COR_A-3</LOCALID><ORIG_FID>8924</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="150">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>13</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9236</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0011-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0011-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8925</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737678345275992,42.11358717580822,-1.737678345275992</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0011-2</FINCA><SUPERFICIE>13</SUPERFICIE><IDGIS>9236</IDGIS><NAMESPACE>T8_COR_0011-2</NAMESPACE><LOCALID>T8_COR_0011-2</LOCALID><ORIG_FID>8925</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="151">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>133</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9237</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0011-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0011-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8926</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737464117440473,42.11324031183958,-1.737464117440473</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0011-4</FINCA><SUPERFICIE>133</SUPERFICIE><IDGIS>9237</IDGIS><NAMESPACE>T8_COR_0011-4</NAMESPACE><LOCALID>T8_COR_0011-4</LOCALID><ORIG_FID>8926</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="152">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3899</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9238</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0015-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0015-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8927</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.736677455831844,42.11357588816031,-1.736677455831844</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0015-3</FINCA><SUPERFICIE>3899</SUPERFICIE><IDGIS>9238</IDGIS><NAMESPACE>T8_COR_0015-3</NAMESPACE><LOCALID>T8_COR_0015-3</LOCALID><ORIG_FID>8927</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="153">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>111</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9239</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8928</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737500226188363,42.11328022327196,-1.737500226188363</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-3</FINCA><SUPERFICIE>111</SUPERFICIE><IDGIS>9239</IDGIS><NAMESPACE>T8_COR_C-3</NAMESPACE><LOCALID>T8_COR_C-3</LOCALID><ORIG_FID>8928</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="154">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>49</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9240</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0015-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0015-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8929</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737507259423634,42.11347227280685,-1.737507259423634</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0015-2</FINCA><SUPERFICIE>49</SUPERFICIE><IDGIS>9240</IDGIS><NAMESPACE>T8_COR_0015-2</NAMESPACE><LOCALID>T8_COR_0015-2</LOCALID><ORIG_FID>8929</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="155">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>169</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9241</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0011-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0011-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8930</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737549843476778,42.1133610988279,-1.737549843476778</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0011-3</FINCA><SUPERFICIE>169</SUPERFICIE><IDGIS>9241</IDGIS><NAMESPACE>T8_COR_0011-3</NAMESPACE><LOCALID>T8_COR_0011-3</LOCALID><ORIG_FID>8930</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="156">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>365</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9242</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0015-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0015-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8931</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.736901145998849,42.11375443610179,-1.73690114599885</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0015-1</FINCA><SUPERFICIE>365</SUPERFICIE><IDGIS>9242</IDGIS><NAMESPACE>T8_COR_0015-1</NAMESPACE><LOCALID>T8_COR_0015-1</LOCALID><ORIG_FID>8931</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="157">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>718</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9243</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0018</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0018</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8932</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.734772579131429,42.1146420570069,-1.734772579131429</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0018</FINCA><SUPERFICIE>718</SUPERFICIE><IDGIS>9243</IDGIS><NAMESPACE>T8_COR_0018</NAMESPACE><LOCALID>T8_COR_0018</LOCALID><ORIG_FID>8932</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="158">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>310</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9244</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8933</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.734974075089182,42.11481328859669,-1.734974075089182</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0014</FINCA><SUPERFICIE>310</SUPERFICIE><IDGIS>9244</IDGIS><NAMESPACE>T8_COR_0014</NAMESPACE><LOCALID>T8_COR_0014</LOCALID><ORIG_FID>8933</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="159">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3842</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9245</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0017</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0017</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8934</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.73527322948975,42.11426362559102,-1.73527322948975</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0017</FINCA><SUPERFICIE>3842</SUPERFICIE><IDGIS>9245</IDGIS><NAMESPACE>T8_COR_0017</NAMESPACE><LOCALID>T8_COR_0017</LOCALID><ORIG_FID>8934</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="160">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>917</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9246</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8935</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.73587526149691,42.11421030936028,-1.735875261496909</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-2</FINCA><SUPERFICIE>917</SUPERFICIE><IDGIS>9246</IDGIS><NAMESPACE>T8_COR_C-2</NAMESPACE><LOCALID>T8_COR_C-2</LOCALID><ORIG_FID>8935</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="161">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>598</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9247</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_A-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_A-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8936</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.735682174334196,42.11434283797556,-1.735682174334196</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>A-2</FINCA><SUPERFICIE>598</SUPERFICIE><IDGIS>9247</IDGIS><NAMESPACE>T8_COR_A-2</NAMESPACE><LOCALID>T8_COR_A-2</LOCALID><ORIG_FID>8936</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="162">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1113</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9248</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0013</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0013</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8937</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.735416046509478,42.1146228889581,-1.735416046509478</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0013</FINCA><SUPERFICIE>1113</SUPERFICIE><IDGIS>9248</IDGIS><NAMESPACE>T8_COR_0013</NAMESPACE><LOCALID>T8_COR_0013</LOCALID><ORIG_FID>8937</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="163">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0012</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3380</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9249</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0012</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0012</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8938</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.736211639194208,42.11425826560057,-1.736211639194208</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0012</FINCA><SUPERFICIE>3380</SUPERFICIE><IDGIS>9249</IDGIS><NAMESPACE>T8_COR_0012</NAMESPACE><LOCALID>T8_COR_0012</LOCALID><ORIG_FID>8938</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="164">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1794</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9250</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0010</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0010</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8939</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.738309441574434,42.11558386333992,-1.738309441574434</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0010</FINCA><SUPERFICIE>1794</SUPERFICIE><IDGIS>9250</IDGIS><NAMESPACE>T8_COR_0010</NAMESPACE><LOCALID>T8_COR_0010</LOCALID><ORIG_FID>8939</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="165">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11438</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9251</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0011-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0011-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8940</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.736990884021582,42.11482767011202,-1.736990884021582</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0011-1</FINCA><SUPERFICIE>11438</SUPERFICIE><IDGIS>9251</IDGIS><NAMESPACE>T8_COR_0011-1</NAMESPACE><LOCALID>T8_COR_0011-1</LOCALID><ORIG_FID>8940</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="166">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5520</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9252</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0009</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0009</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8941</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737974585238066,42.1158210898384,-1.737974585238066</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0009</FINCA><SUPERFICIE>5520</SUPERFICIE><IDGIS>9252</IDGIS><NAMESPACE>T8_COR_0009</NAMESPACE><LOCALID>T8_COR_0009</LOCALID><ORIG_FID>8941</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="167">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10203</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9253</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0008</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0008</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8942</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737254616287033,42.11596624290518,-1.737254616287032</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0008</FINCA><SUPERFICIE>10203</SUPERFICIE><IDGIS>9253</IDGIS><NAMESPACE>T8_COR_0008</NAMESPACE><LOCALID>T8_COR_0008</LOCALID><ORIG_FID>8942</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="168">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>996</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9254</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_A-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_A-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8943</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737789957925171,42.11655683368867,-1.737789957925171</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>A-1</FINCA><SUPERFICIE>996</SUPERFICIE><IDGIS>9254</IDGIS><NAMESPACE>T8_COR_A-1</NAMESPACE><LOCALID>T8_COR_A-1</LOCALID><ORIG_FID>8943</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="169">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0007</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1361</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9255</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0007</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0007</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8944</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.737447888838675,42.11683767221066,-1.737447888838675</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0007</FINCA><SUPERFICIE>1361</SUPERFICIE><IDGIS>9255</IDGIS><NAMESPACE>T8_COR_0007</NAMESPACE><LOCALID>T8_COR_0007</LOCALID><ORIG_FID>8944</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="170">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5555</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9256</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0006</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0006</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8945</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.738059105625569,42.11704904688409,-1.738059105625569</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0006</FINCA><SUPERFICIE>5555</SUPERFICIE><IDGIS>9256</IDGIS><NAMESPACE>T8_COR_0006</NAMESPACE><LOCALID>T8_COR_0006</LOCALID><ORIG_FID>8945</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="171">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0004</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1743</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9257</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0004</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0004</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8946</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.738750909159237,42.11627352191373,-1.738750909159237</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0004</FINCA><SUPERFICIE>1743</SUPERFICIE><IDGIS>9257</IDGIS><NAMESPACE>T8_COR_0004</NAMESPACE><LOCALID>T8_COR_0004</LOCALID><ORIG_FID>8946</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="172">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4539</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9258</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0005</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0005</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8947</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.738458150002805,42.11658125785672,-1.738458150002804</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0005</FINCA><SUPERFICIE>4539</SUPERFICIE><IDGIS>9258</IDGIS><NAMESPACE>T8_COR_0005</NAMESPACE><LOCALID>T8_COR_0005</LOCALID><ORIG_FID>8947</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="173">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1442</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9259</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0003</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0003</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8948</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.739086439681646,42.11689415413657,-1.739086439681646</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0003</FINCA><SUPERFICIE>1442</SUPERFICIE><IDGIS>9259</IDGIS><NAMESPACE>T8_COR_0003</NAMESPACE><LOCALID>T8_COR_0003</LOCALID><ORIG_FID>8948</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="174">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1682</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9260</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0002</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0002</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8949</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.738771923438757,42.11789736904157,-1.738771923438757</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0002</FINCA><SUPERFICIE>1682</SUPERFICIE><IDGIS>9260</IDGIS><NAMESPACE>T8_COR_0002</NAMESPACE><LOCALID>T8_COR_0002</LOCALID><ORIG_FID>8949</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="175">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8105</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9266</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>8955</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.738998741439716,42.11750339770413,-1.738998741439716</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001</FINCA><SUPERFICIE>8105</SUPERFICIE><IDGIS>9266</IDGIS><NAMESPACE>T8_COR_0001</NAMESPACE><LOCALID>T8_COR_0001</LOCALID><ORIG_FID>8955</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="176">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>C-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>65</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9466</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_C-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_C-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9159</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.739661081423432,42.11782516787018,-1.739661081423432</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>C-1</FINCA><SUPERFICIE>65</SUPERFICIE><IDGIS>9466</IDGIS><NAMESPACE>T8_COR_C-1</NAMESPACE><LOCALID>T8_COR_C-1</LOCALID><ORIG_FID>9159</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="177">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001-01</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>41</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9467</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0001-01</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0001-01</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9160</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.739704665366153,42.11782770637508,-1.739704665366153</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0001-01</FINCA><SUPERFICIE>41</SUPERFICIE><IDGIS>9467</IDGIS><NAMESPACE>T8_COR_0001-01</NAMESPACE><LOCALID>T8_COR_0001-01</LOCALID><ORIG_FID>9160</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="178">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017-N</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>234</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9487</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0017-N</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0017-N</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9188</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.735140777426999,42.11402561144023,-1.735140777426999</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0017-N</FINCA><SUPERFICIE>234</SUPERFICIE><IDGIS>9487</IDGIS><NAMESPACE>T8_COR_0017-N</NAMESPACE><LOCALID>T8_COR_0017-N</LOCALID><ORIG_FID>9188</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="179">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0039-N</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>244</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9488</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0039-N</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0039-N</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9189</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.724461526910268,42.10040448826485,-1.724461526910268</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0039-N</FINCA><SUPERFICIE>244</SUPERFICIE><IDGIS>9488</IDGIS><NAMESPACE>T8_COR_0039-N</NAMESPACE><LOCALID>T8_COR_0039-N</LOCALID><ORIG_FID>9189</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="180">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0072</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2199</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9196</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0072</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0072</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9190</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.72083918619053,42.10003591095283,-1.72083918619053</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0072</FINCA><SUPERFICIE>2199</SUPERFICIE><IDGIS>9196</IDGIS><NAMESPACE>T8_COR_0072</NAMESPACE><LOCALID>T8_COR_0072</LOCALID><ORIG_FID>9190</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="181">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0093-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1176</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9490</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0093-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0093-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9191</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.722375161149432,42.09490919950252,-1.722375161149432</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0093-1</FINCA><SUPERFICIE>1176</SUPERFICIE><IDGIS>9490</IDGIS><NAMESPACE>T8_COR_0093-1</NAMESPACE><LOCALID>T8_COR_0093-1</LOCALID><ORIG_FID>9191</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="182">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0126</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1464</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>9491</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0126</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0126</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>9192</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.719207944905197,42.09175494317667,-1.719207944905196</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0126</FINCA><SUPERFICIE>1464</SUPERFICIE><IDGIS>9491</IDGIS><NAMESPACE>T8_COR_0126</NAMESPACE><LOCALID>T8_COR_0126</LOCALID><ORIG_FID>9192</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="183">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T8</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>COR</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0094</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4605</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12626</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T8_COR_0094</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T8_COR_0094</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12178</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.721775805546155,42.09467295828059,-1.721775805546155</coordinates>
+		</Point>
+		<Metadata><TRAMO>T8</TRAMO><TERMINO>COR</TERMINO><FINCA>0094</FINCA><SUPERFICIE>4605</SUPERFICIE><IDGIS>12626</IDGIS><NAMESPACE>T8_COR_0094</NAMESPACE><LOCALID>T8_COR_0094</LOCALID><ORIG_FID>12178</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

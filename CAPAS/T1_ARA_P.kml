@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T1_ARA_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>43.15833166083309</north>
+			<south>43.14466562960308</south>
+			<east>-2.926806132817601</east>
+			<west>-2.939094663542663</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0542</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>17161</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11565</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0542</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0542</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11173</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937391887259657,43.14467190105662,-2.937391887259657</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0542</FINCA><SUPERFICIE>17161</SUPERFICIE><IDGIS>11565</IDGIS><NAMESPACE>T1_ARA_0542</NAMESPACE><LOCALID>T1_ARA_0542</LOCALID><ORIG_FID>11173</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0542-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3693</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11566</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0542-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0542-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11174</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937885232883299,43.14572718935077,-2.937885232883299</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0542-1</FINCA><SUPERFICIE>3693</SUPERFICIE><IDGIS>11566</IDGIS><NAMESPACE>T1_ARA_0542-1</NAMESPACE><LOCALID>T1_ARA_0542-1</LOCALID><ORIG_FID>11174</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0540-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8916</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11567</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0540-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0540-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11175</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937911034661652,43.1465439450089,-2.937911034661652</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0540-1</FINCA><SUPERFICIE>8916</SUPERFICIE><IDGIS>11567</IDGIS><NAMESPACE>T1_ARA_0540-1</NAMESPACE><LOCALID>T1_ARA_0540-1</LOCALID><ORIG_FID>11175</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0540</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1880</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11568</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0540</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0540</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11176</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938143064123647,43.1469765299101,-2.938143064123647</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0540</FINCA><SUPERFICIE>1880</SUPERFICIE><IDGIS>11568</IDGIS><NAMESPACE>T1_ARA_0540</NAMESPACE><LOCALID>T1_ARA_0540</LOCALID><ORIG_FID>11176</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0536</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>630</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11569</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0536</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0536</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11177</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938689018768196,43.14814487260113,-2.938689018768196</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0536</FINCA><SUPERFICIE>630</SUPERFICIE><IDGIS>11569</IDGIS><NAMESPACE>T1_ARA_0536</NAMESPACE><LOCALID>T1_ARA_0536</LOCALID><ORIG_FID>11177</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0541</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>963</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11571</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0541</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0541</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11178</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938413330851854,43.14705472260513,-2.938413330851854</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0541</FINCA><SUPERFICIE>963</SUPERFICIE><IDGIS>11571</IDGIS><NAMESPACE>T1_ARA_0541</NAMESPACE><LOCALID>T1_ARA_0541</LOCALID><ORIG_FID>11178</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0537</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1303</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11572</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0537</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0537</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11179</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938561825557959,43.1481321921738,-2.938561825557959</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0537</FINCA><SUPERFICIE>1303</SUPERFICIE><IDGIS>11572</IDGIS><NAMESPACE>T1_ARA_0537</NAMESPACE><LOCALID>T1_ARA_0537</LOCALID><ORIG_FID>11179</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0551</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>379</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11573</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0551</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0551</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11180</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.939089862070172,43.14950884949835,-2.939089862070172</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0551</FINCA><SUPERFICIE>379</SUPERFICIE><IDGIS>11573</IDGIS><NAMESPACE>T1_ARA_0551</NAMESPACE><LOCALID>T1_ARA_0551</LOCALID><ORIG_FID>11180</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0535</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>428</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11574</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0535</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0535</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11181</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938376061370401,43.14873952023073,-2.938376061370401</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0535</FINCA><SUPERFICIE>428</SUPERFICIE><IDGIS>11574</IDGIS><NAMESPACE>T1_ARA_0535</NAMESPACE><LOCALID>T1_ARA_0535</LOCALID><ORIG_FID>11181</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0533</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3115</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11575</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0533</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0533</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11182</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938794928280537,43.14911195173407,-2.938794928280537</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0533</FINCA><SUPERFICIE>3115</SUPERFICIE><IDGIS>11575</IDGIS><NAMESPACE>T1_ARA_0533</NAMESPACE><LOCALID>T1_ARA_0533</LOCALID><ORIG_FID>11182</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0538</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4546</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11576</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0538</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0538</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11183</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938203190711013,43.14792606788075,-2.938203190711013</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0538</FINCA><SUPERFICIE>4546</SUPERFICIE><IDGIS>11576</IDGIS><NAMESPACE>T1_ARA_0538</NAMESPACE><LOCALID>T1_ARA_0538</LOCALID><ORIG_FID>11183</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0539</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4064</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11577</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0539</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0539</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11184</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.93786358395375,43.14810201355114,-2.937863583953751</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0539</FINCA><SUPERFICIE>4064</SUPERFICIE><IDGIS>11577</IDGIS><NAMESPACE>T1_ARA_0539</NAMESPACE><LOCALID>T1_ARA_0539</LOCALID><ORIG_FID>11184</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0534</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4446</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11578</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0534</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0534</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11185</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938213327549287,43.14907195385458,-2.938213327549287</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0534</FINCA><SUPERFICIE>4446</SUPERFICIE><IDGIS>11578</IDGIS><NAMESPACE>T1_ARA_0534</NAMESPACE><LOCALID>T1_ARA_0534</LOCALID><ORIG_FID>11185</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0532</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5310</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11579</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0532</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0532</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11186</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938180203198227,43.14981360997706,-2.938180203198227</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0532</FINCA><SUPERFICIE>5310</SUPERFICIE><IDGIS>11579</IDGIS><NAMESPACE>T1_ARA_0532</NAMESPACE><LOCALID>T1_ARA_0532</LOCALID><ORIG_FID>11186</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0515-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>97</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11580</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0515-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0515-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11187</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.939009590755615,43.15150763817781,-2.939009590755615</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0515-1</FINCA><SUPERFICIE>97</SUPERFICIE><IDGIS>11580</IDGIS><NAMESPACE>T1_ARA_0515-1</NAMESPACE><LOCALID>T1_ARA_0515-1</LOCALID><ORIG_FID>11187</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0522</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>480</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11581</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0522</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0522</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11188</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938276430325221,43.15203883557285,-2.938276430325221</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0522</FINCA><SUPERFICIE>480</SUPERFICIE><IDGIS>11581</IDGIS><NAMESPACE>T1_ARA_0522</NAMESPACE><LOCALID>T1_ARA_0522</LOCALID><ORIG_FID>11188</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0528</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11881</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11582</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0528</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0528</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11189</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938487343756067,43.15092946956466,-2.938487343756067</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0528</FINCA><SUPERFICIE>11881</SUPERFICIE><IDGIS>11582</IDGIS><NAMESPACE>T1_ARA_0528</NAMESPACE><LOCALID>T1_ARA_0528</LOCALID><ORIG_FID>11189</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0530</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1358</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11584</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0530</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0530</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11190</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937787521341101,43.15077375840094,-2.937787521341101</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0530</FINCA><SUPERFICIE>1358</SUPERFICIE><IDGIS>11584</IDGIS><NAMESPACE>T1_ARA_0530</NAMESPACE><LOCALID>T1_ARA_0530</LOCALID><ORIG_FID>11190</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0529</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>914</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11585</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0529</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0529</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11191</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.93775164752172,43.15124950212864,-2.93775164752172</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0529</FINCA><SUPERFICIE>914</SUPERFICIE><IDGIS>11585</IDGIS><NAMESPACE>T1_ARA_0529</NAMESPACE><LOCALID>T1_ARA_0529</LOCALID><ORIG_FID>11191</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0523</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>848</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11587</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0523</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0523</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11192</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937797539301173,43.15184405886078,-2.937797539301172</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0523</FINCA><SUPERFICIE>848</SUPERFICIE><IDGIS>11587</IDGIS><NAMESPACE>T1_ARA_0523</NAMESPACE><LOCALID>T1_ARA_0523</LOCALID><ORIG_FID>11192</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0520</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5979</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11588</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0520</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0520</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11193</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937539915680634,43.15222082552594,-2.937539915680634</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0520</FINCA><SUPERFICIE>5979</SUPERFICIE><IDGIS>11588</IDGIS><NAMESPACE>T1_ARA_0520</NAMESPACE><LOCALID>T1_ARA_0520</LOCALID><ORIG_FID>11193</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0524</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2153</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11591</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0524</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0524</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11194</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937949979900346,43.15159067129384,-2.937949979900346</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0524</FINCA><SUPERFICIE>2153</SUPERFICIE><IDGIS>11591</IDGIS><NAMESPACE>T1_ARA_0524</NAMESPACE><LOCALID>T1_ARA_0524</LOCALID><ORIG_FID>11194</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0519</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>351</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11592</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0519</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0519</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11195</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937264417183182,43.15186630423521,-2.937264417183182</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0519</FINCA><SUPERFICIE>351</SUPERFICIE><IDGIS>11592</IDGIS><NAMESPACE>T1_ARA_0519</NAMESPACE><LOCALID>T1_ARA_0519</LOCALID><ORIG_FID>11195</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0521</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2602</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11593</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0521</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0521</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11196</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938185443930168,43.15251038214326,-2.938185443930168</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0521</FINCA><SUPERFICIE>2602</SUPERFICIE><IDGIS>11593</IDGIS><NAMESPACE>T1_ARA_0521</NAMESPACE><LOCALID>T1_ARA_0521</LOCALID><ORIG_FID>11196</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0515</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1548</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11594</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0515</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0515</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11197</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937972401674102,43.15347497159303,-2.937972401674102</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0515</FINCA><SUPERFICIE>1548</SUPERFICIE><IDGIS>11594</IDGIS><NAMESPACE>T1_ARA_0515</NAMESPACE><LOCALID>T1_ARA_0515</LOCALID><ORIG_FID>11197</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0518</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2012</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11595</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0518</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0518</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11198</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.936779693027674,43.15246918948996,-2.936779693027674</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0518</FINCA><SUPERFICIE>2012</SUPERFICIE><IDGIS>11595</IDGIS><NAMESPACE>T1_ARA_0518</NAMESPACE><LOCALID>T1_ARA_0518</LOCALID><ORIG_FID>11198</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0516</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3790</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11596</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0516</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0516</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11199</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937244534673865,43.15278100236123,-2.937244534673865</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0516</FINCA><SUPERFICIE>3790</SUPERFICIE><IDGIS>11596</IDGIS><NAMESPACE>T1_ARA_0516</NAMESPACE><LOCALID>T1_ARA_0516</LOCALID><ORIG_FID>11199</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0514</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>822</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11597</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0514</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0514</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11200</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.936793785189184,43.15322126694372,-2.936793785189184</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0514</FINCA><SUPERFICIE>822</SUPERFICIE><IDGIS>11597</IDGIS><NAMESPACE>T1_ARA_0514</NAMESPACE><LOCALID>T1_ARA_0514</LOCALID><ORIG_FID>11200</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0517</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2600</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11598</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0517</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0517</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11201</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.93657260418231,43.152894670163,-2.93657260418231</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0517</FINCA><SUPERFICIE>2600</SUPERFICIE><IDGIS>11598</IDGIS><NAMESPACE>T1_ARA_0517</NAMESPACE><LOCALID>T1_ARA_0517</LOCALID><ORIG_FID>11201</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0513</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>15198</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11599</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0513</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0513</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11202</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.93725171374246,43.15362851740638,-2.93725171374246</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0513</FINCA><SUPERFICIE>15198</SUPERFICIE><IDGIS>11599</IDGIS><NAMESPACE>T1_ARA_0513</NAMESPACE><LOCALID>T1_ARA_0513</LOCALID><ORIG_FID>11202</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0512</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4502</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11600</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0512</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0512</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11203</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.93634777032936,43.153596648821,-2.93634777032936</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0512</FINCA><SUPERFICIE>4502</SUPERFICIE><IDGIS>11600</IDGIS><NAMESPACE>T1_ARA_0512</NAMESPACE><LOCALID>T1_ARA_0512</LOCALID><ORIG_FID>11203</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0510</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1289</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11601</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0510</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0510</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11204</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.935824252745779,43.15413986825525,-2.935824252745779</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0510</FINCA><SUPERFICIE>1289</SUPERFICIE><IDGIS>11601</IDGIS><NAMESPACE>T1_ARA_0510</NAMESPACE><LOCALID>T1_ARA_0510</LOCALID><ORIG_FID>11204</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0511</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2326</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11602</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0511</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0511</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11205</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.936100433365165,43.15446125361803,-2.936100433365166</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0511</FINCA><SUPERFICIE>2326</SUPERFICIE><IDGIS>11602</IDGIS><NAMESPACE>T1_ARA_0511</NAMESPACE><LOCALID>T1_ARA_0511</LOCALID><ORIG_FID>11205</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0511-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1266</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11603</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0511-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0511-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11206</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.936275080268272,43.15479657982569,-2.936275080268272</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0511-1</FINCA><SUPERFICIE>1266</SUPERFICIE><IDGIS>11603</IDGIS><NAMESPACE>T1_ARA_0511-1</NAMESPACE><LOCALID>T1_ARA_0511-1</LOCALID><ORIG_FID>11206</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0508</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2490</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11604</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0508</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0508</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11207</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.935542026248358,43.15453578958509,-2.935542026248358</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0508</FINCA><SUPERFICIE>2490</SUPERFICIE><IDGIS>11604</IDGIS><NAMESPACE>T1_ARA_0508</NAMESPACE><LOCALID>T1_ARA_0508</LOCALID><ORIG_FID>11207</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0506</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>340</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11605</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0506</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0506</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11208</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.93458486873896,43.15515308233704,-2.93458486873896</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0506</FINCA><SUPERFICIE>340</SUPERFICIE><IDGIS>11605</IDGIS><NAMESPACE>T1_ARA_0506</NAMESPACE><LOCALID>T1_ARA_0506</LOCALID><ORIG_FID>11208</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0509</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1484</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11606</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0509</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0509</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11209</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.935613600291993,43.15490435410205,-2.935613600291993</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0509</FINCA><SUPERFICIE>1484</SUPERFICIE><IDGIS>11606</IDGIS><NAMESPACE>T1_ARA_0509</NAMESPACE><LOCALID>T1_ARA_0509</LOCALID><ORIG_FID>11209</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0507</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2950</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11607</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0507</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0507</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11210</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.935051866449784,43.1549184641858,-2.935051866449784</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0507</FINCA><SUPERFICIE>2950</SUPERFICIE><IDGIS>11607</IDGIS><NAMESPACE>T1_ARA_0507</NAMESPACE><LOCALID>T1_ARA_0507</LOCALID><ORIG_FID>11210</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0505</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2175</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11608</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0505</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0505</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11211</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.934859674686365,43.15528926630748,-2.934859674686365</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0505</FINCA><SUPERFICIE>2175</SUPERFICIE><IDGIS>11608</IDGIS><NAMESPACE>T1_ARA_0505</NAMESPACE><LOCALID>T1_ARA_0505</LOCALID><ORIG_FID>11211</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0504</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3340</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11609</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0504</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0504</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11212</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.934270451904761,43.1556112370433,-2.934270451904761</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0504</FINCA><SUPERFICIE>3340</SUPERFICIE><IDGIS>11609</IDGIS><NAMESPACE>T1_ARA_0504</NAMESPACE><LOCALID>T1_ARA_0504</LOCALID><ORIG_FID>11212</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0503</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5985</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11610</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0503</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0503</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11213</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.933322563944947,43.15604599896275,-2.933322563944947</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0503</FINCA><SUPERFICIE>5985</SUPERFICIE><IDGIS>11610</IDGIS><NAMESPACE>T1_ARA_0503</NAMESPACE><LOCALID>T1_ARA_0503</LOCALID><ORIG_FID>11213</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0501</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>11075</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11612</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0501</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0501</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11214</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.926806132817601,43.15832446692849,-2.926806132817601</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0501</FINCA><SUPERFICIE>11075</SUPERFICIE><IDGIS>11612</IDGIS><NAMESPACE>T1_ARA_0501</NAMESPACE><LOCALID>T1_ARA_0501</LOCALID><ORIG_FID>11214</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0526</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>719</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11613</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0526</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0526</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11215</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.9375674477448,43.1513104258461,-2.9375674477448</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0526</FINCA><SUPERFICIE>719</SUPERFICIE><IDGIS>11613</IDGIS><NAMESPACE>T1_ARA_0526</NAMESPACE><LOCALID>T1_ARA_0526</LOCALID><ORIG_FID>11215</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0525</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>202</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11614</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0525</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0525</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11216</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937350230395568,43.15169600829698,-2.937350230395568</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0525</FINCA><SUPERFICIE>202</SUPERFICIE><IDGIS>11614</IDGIS><NAMESPACE>T1_ARA_0525</NAMESPACE><LOCALID>T1_ARA_0525</LOCALID><ORIG_FID>11216</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0502</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>7522</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11611</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0502</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0502</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11217</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.927783082062909,43.15805427975052,-2.927783082062909</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0502</FINCA><SUPERFICIE>7522</SUPERFICIE><IDGIS>11611</IDGIS><NAMESPACE>T1_ARA_0502</NAMESPACE><LOCALID>T1_ARA_0502</LOCALID><ORIG_FID>11217</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0531</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>779</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11583</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0531</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0531</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12016</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937957689234352,43.15043885678116,-2.937957689234352</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0531</FINCA><SUPERFICIE>779</SUPERFICIE><IDGIS>11583</IDGIS><NAMESPACE>T1_ARA_0531</NAMESPACE><LOCALID>T1_ARA_0531</LOCALID><ORIG_FID>12016</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0530-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>51</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11615</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0530-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0530-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12017</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.93756910179351,43.15087436410675,-2.93756910179351</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0530-A</FINCA><SUPERFICIE>51</SUPERFICIE><IDGIS>11615</IDGIS><NAMESPACE>T1_ARA_0530-A</NAMESPACE><LOCALID>T1_ARA_0530-A</LOCALID><ORIG_FID>12017</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0527</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>143</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11590</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0527</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0527</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12018</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937026877071381,43.15193640077413,-2.937026877071381</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0527</FINCA><SUPERFICIE>143</SUPERFICIE><IDGIS>11590</IDGIS><NAMESPACE>T1_ARA_0527</NAMESPACE><LOCALID>T1_ARA_0527</LOCALID><ORIG_FID>12018</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0526-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>717</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11586</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0526-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0526-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12019</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937457024424134,43.15131170906489,-2.937457024424134</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0526-A</FINCA><SUPERFICIE>717</SUPERFICIE><IDGIS>11586</IDGIS><NAMESPACE>T1_ARA_0526-A</NAMESPACE><LOCALID>T1_ARA_0526-A</LOCALID><ORIG_FID>12019</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0525-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>78</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11589</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0525-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0525-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12020</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.937259083532093,43.15167831424949,-2.937259083532093</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0525-A</FINCA><SUPERFICIE>78</SUPERFICIE><IDGIS>11589</IDGIS><NAMESPACE>T1_ARA_0525-A</NAMESPACE><LOCALID>T1_ARA_0525-A</LOCALID><ORIG_FID>12020</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T1</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>ARA</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0550</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>338</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>12482</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T1_ARA_0550</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T1_ARA_0550</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>12021</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-2.938951548306488,43.14949345942895,-2.938951548306487</coordinates>
+		</Point>
+		<Metadata><TRAMO>T1</TRAMO><TERMINO>ARA</TERMINO><FINCA>0550</FINCA><SUPERFICIE>338</SUPERFICIE><IDGIS>12482</IDGIS><NAMESPACE>T1_ARA_0550</NAMESPACE><LOCALID>T1_ARA_0550</LOCALID><ORIG_FID>12021</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

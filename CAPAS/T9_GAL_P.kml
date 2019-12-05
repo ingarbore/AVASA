@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T9_GAL_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>41.84457996135823</north>
+			<south>41.83194934790505</south>
+			<east>-1.311497705389325</east>
+			<west>-1.355080584783628</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>396</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7305</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0010</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0010</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7073</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.354779761218012,41.84432023637726,-1.354779761218012</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0010</FINCA><SUPERFICIE>396</SUPERFICIE><IDGIS>7305</IDGIS><NAMESPACE>T9_GAL_0010</NAMESPACE><LOCALID>T9_GAL_0010</LOCALID><ORIG_FID>7073</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2950</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7306</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0001</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0001</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7074</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.354745334348045,41.84457956345646,-1.354745334348045</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0001</FINCA><SUPERFICIE>2950</SUPERFICIE><IDGIS>7306</IDGIS><NAMESPACE>T9_GAL_0001</NAMESPACE><LOCALID>T9_GAL_0001</LOCALID><ORIG_FID>7074</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>82990</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7307</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0002</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0002</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7075</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.34792416264603,41.84213499615359,-1.34792416264603</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0002</FINCA><SUPERFICIE>82990</SUPERFICIE><IDGIS>7307</IDGIS><NAMESPACE>T9_GAL_0002</NAMESPACE><LOCALID>T9_GAL_0002</LOCALID><ORIG_FID>7075</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0012</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1139</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7308</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0012</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0012</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7076</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.340769728326739,41.83932974811151,-1.340769728326739</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0012</FINCA><SUPERFICIE>1139</SUPERFICIE><IDGIS>7308</IDGIS><NAMESPACE>T9_GAL_0012</NAMESPACE><LOCALID>T9_GAL_0012</LOCALID><ORIG_FID>7076</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0004</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5184</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7309</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0004</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0004</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7077</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.341175296279049,41.83955819418616,-1.341175296279049</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0004</FINCA><SUPERFICIE>5184</SUPERFICIE><IDGIS>7309</IDGIS><NAMESPACE>T9_GAL_0004</NAMESPACE><LOCALID>T9_GAL_0004</LOCALID><ORIG_FID>7077</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3095</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7310</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0003</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0003</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7078</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.340653049112466,41.83999359721927,-1.340653049112466</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0003</FINCA><SUPERFICIE>3095</SUPERFICIE><IDGIS>7310</IDGIS><NAMESPACE>T9_GAL_0003</NAMESPACE><LOCALID>T9_GAL_0003</LOCALID><ORIG_FID>7078</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>103393</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7311</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0005</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0005</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7079</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.333210966622424,41.8368680352921,-1.333210966622424</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0005</FINCA><SUPERFICIE>103393</SUPERFICIE><IDGIS>7311</IDGIS><NAMESPACE>T9_GAL_0005</NAMESPACE><LOCALID>T9_GAL_0005</LOCALID><ORIG_FID>7079</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>279</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7312</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0013</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0013</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7080</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.330789152023322,41.83601000978014,-1.330789152023322</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0013</FINCA><SUPERFICIE>279</SUPERFICIE><IDGIS>7312</IDGIS><NAMESPACE>T9_GAL_0013</NAMESPACE><LOCALID>T9_GAL_0013</LOCALID><ORIG_FID>7080</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>81303</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7313</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0006</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0006</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7081</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.319336120106412,41.83360341316986,-1.319336120106412</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0006</FINCA><SUPERFICIE>81303</SUPERFICIE><IDGIS>7313</IDGIS><NAMESPACE>T9_GAL_0006</NAMESPACE><LOCALID>T9_GAL_0006</LOCALID><ORIG_FID>7081</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>555</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7314</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7082</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.325140751434363,41.83474131655019,-1.325140751434363</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0014</FINCA><SUPERFICIE>555</SUPERFICIE><IDGIS>7314</IDGIS><NAMESPACE>T9_GAL_0014</NAMESPACE><LOCALID>T9_GAL_0014</LOCALID><ORIG_FID>7082</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1271</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7316</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0015</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0015</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7083</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.312840993379669,41.83222226224542,-1.312840993379669</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0015</FINCA><SUPERFICIE>1271</SUPERFICIE><IDGIS>7316</IDGIS><NAMESPACE>T9_GAL_0015</NAMESPACE><LOCALID>T9_GAL_0015</LOCALID><ORIG_FID>7083</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>8203</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7317</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0008</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0008</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7084</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.312794238057836,41.83222272451913,-1.312794238057836</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0008</FINCA><SUPERFICIE>8203</SUPERFICIE><IDGIS>7317</IDGIS><NAMESPACE>T9_GAL_0008</NAMESPACE><LOCALID>T9_GAL_0008</LOCALID><ORIG_FID>7084</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0007</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4551</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7318</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0007</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0007</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7085</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.314546207046409,41.83241203555078,-1.314546207046409</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0007</FINCA><SUPERFICIE>4551</SUPERFICIE><IDGIS>7318</IDGIS><NAMESPACE>T9_GAL_0007</NAMESPACE><LOCALID>T9_GAL_0007</LOCALID><ORIG_FID>7085</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10912</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7319</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0009</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0009</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>7086</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.311813263015543,41.83194934790505,-1.311813263015543</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0009</FINCA><SUPERFICIE>10912</SUPERFICIE><IDGIS>7319</IDGIS><NAMESPACE>T9_GAL_0009</NAMESPACE><LOCALID>T9_GAL_0009</LOCALID><ORIG_FID>7086</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>22</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11872</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0005-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0005-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11562</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.325195038805157,41.83517266477998,-1.325195038805157</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0005-1</FINCA><SUPERFICIE>22</SUPERFICIE><IDGIS>11872</IDGIS><NAMESPACE>T9_GAL_0005-1</NAMESPACE><LOCALID>T9_GAL_0005-1</LOCALID><ORIG_FID>11562</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>224</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11871</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0006-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0006-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11563</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.324863296916343,41.83419249439565,-1.324863296916343</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0006-3</FINCA><SUPERFICIE>224</SUPERFICIE><IDGIS>11871</IDGIS><NAMESPACE>T9_GAL_0006-3</NAMESPACE><LOCALID>T9_GAL_0006-3</LOCALID><ORIG_FID>11563</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>48700</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11873</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0006-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0006-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11564</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.32003913789572,41.83473840608107,-1.32003913789572</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0006-1</FINCA><SUPERFICIE>48700</SUPERFICIE><IDGIS>11873</IDGIS><NAMESPACE>T9_GAL_0006-1</NAMESPACE><LOCALID>T9_GAL_0006-1</LOCALID><ORIG_FID>11564</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>46206</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11874</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0006-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0006-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11565</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.320518519410461,41.8329835479099,-1.320518519410461</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0006-2</FINCA><SUPERFICIE>46206</SUPERFICIE><IDGIS>11874</IDGIS><NAMESPACE>T9_GAL_0006-2</NAMESPACE><LOCALID>T9_GAL_0006-2</LOCALID><ORIG_FID>11565</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1030</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11875</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0011</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0011</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11566</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.341663120084241,41.83974076061196,-1.341663120084241</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0011</FINCA><SUPERFICIE>1030</SUPERFICIE><IDGIS>11875</IDGIS><NAMESPACE>T9_GAL_0011</NAMESPACE><LOCALID>T9_GAL_0011</LOCALID><ORIG_FID>11566</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>140</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>7315</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0014-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0014-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11567</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.324799640490373,41.83418685718061,-1.324799640490373</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0014-2</FINCA><SUPERFICIE>140</SUPERFICIE><IDGIS>7315</IDGIS><NAMESPACE>T9_GAL_0014-2</NAMESPACE><LOCALID>T9_GAL_0014-2</LOCALID><ORIG_FID>11567</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T9</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>GAL</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>66</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11876</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T9_GAL_0014-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T9_GAL_0014-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11568</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.325158599455229,41.835202931924,-1.325158599455229</coordinates>
+		</Point>
+		<Metadata><TRAMO>T9</TRAMO><TERMINO>GAL</TERMINO><FINCA>0014-1</FINCA><SUPERFICIE>66</SUPERFICIE><IDGIS>11876</IDGIS><NAMESPACE>T9_GAL_0014-1</NAMESPACE><LOCALID>T9_GAL_0014-1</LOCALID><ORIG_FID>11568</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>

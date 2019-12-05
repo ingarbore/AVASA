@@ -1,0 +1,6060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T10_UTE_P.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>41.72214956225733</north>
+			<south>41.70246228745367</south>
+			<east>-0.9784639723626285</east>
+			<west>-1.010298359209932</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark id="0">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0141</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1329</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6115</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0141</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0141</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5813</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9792535965177374,41.70246562515102,-0.9792535965177374</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0141</FINCA><SUPERFICIE>1329</SUPERFICIE><IDGIS>6115</IDGIS><NAMESPACE>T10_UTE_0141</NAMESPACE><LOCALID>T10_UTE_0141</LOCALID><ORIG_FID>5813</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="1">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0140-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>6230</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6117</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0140-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0140-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5815</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.979470326848319,41.70325682820029,-0.9794703268483191</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0140-1</FINCA><SUPERFICIE>6230</SUPERFICIE><IDGIS>6117</IDGIS><NAMESPACE>T10_UTE_0140-1</NAMESPACE><LOCALID>T10_UTE_0140-1</LOCALID><ORIG_FID>5815</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="2">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0140</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>9511</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6118</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0140</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0140</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5816</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.979819697066629,41.70412334656223,-0.979819697066629</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0140</FINCA><SUPERFICIE>9511</SUPERFICIE><IDGIS>6118</IDGIS><NAMESPACE>T10_UTE_0140</NAMESPACE><LOCALID>T10_UTE_0140</LOCALID><ORIG_FID>5816</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="3">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0138</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>864</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6119</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0138</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0138</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5817</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9800065954412912,41.70512812765694,-0.9800065954412912</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0138</FINCA><SUPERFICIE>864</SUPERFICIE><IDGIS>6119</IDGIS><NAMESPACE>T10_UTE_0138</NAMESPACE><LOCALID>T10_UTE_0138</LOCALID><ORIG_FID>5817</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="4">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0139</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3188</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6120</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0139</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0139</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5818</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9800193057589938,41.70480615065917,-0.9800193057589938</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0139</FINCA><SUPERFICIE>3188</SUPERFICIE><IDGIS>6120</IDGIS><NAMESPACE>T10_UTE_0139</NAMESPACE><LOCALID>T10_UTE_0139</LOCALID><ORIG_FID>5818</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="5">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0137</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>322</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6121</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0137</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0137</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5819</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.980611719065174,41.70506883059397,-0.9806117190651739</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0137</FINCA><SUPERFICIE>322</SUPERFICIE><IDGIS>6121</IDGIS><NAMESPACE>T10_UTE_0137</NAMESPACE><LOCALID>T10_UTE_0137</LOCALID><ORIG_FID>5819</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="6">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-24</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>309</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6122</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-24</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-24</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5820</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.980378580967378,41.70522194549308,-0.9803785809673781</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-24</FINCA><SUPERFICIE>309</SUPERFICIE><IDGIS>6122</IDGIS><NAMESPACE>T10_UTE_A-24</NAMESPACE><LOCALID>T10_UTE_A-24</LOCALID><ORIG_FID>5820</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="7">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0135</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>854</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6123</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0135</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0135</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5821</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9802525450127867,41.70542420275888,-0.9802525450127867</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0135</FINCA><SUPERFICIE>854</SUPERFICIE><IDGIS>6123</IDGIS><NAMESPACE>T10_UTE_0135</NAMESPACE><LOCALID>T10_UTE_0135</LOCALID><ORIG_FID>5821</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="8">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0134</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1451</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6124</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0134</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0134</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5822</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9804324770285435,41.70562638240303,-0.9804324770285433</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0134</FINCA><SUPERFICIE>1451</SUPERFICIE><IDGIS>6124</IDGIS><NAMESPACE>T10_UTE_0134</NAMESPACE><LOCALID>T10_UTE_0134</LOCALID><ORIG_FID>5822</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="9">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0136</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1290</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6125</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0136</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0136</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5823</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9807073743875362,41.70534481884057,-0.9807073743875362</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0136</FINCA><SUPERFICIE>1290</SUPERFICIE><IDGIS>6125</IDGIS><NAMESPACE>T10_UTE_0136</NAMESPACE><LOCALID>T10_UTE_0136</LOCALID><ORIG_FID>5823</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="10">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0133</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1965</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6126</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0133</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0133</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5824</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9806224886457959,41.70584707884738,-0.9806224886457958</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0133</FINCA><SUPERFICIE>1965</SUPERFICIE><IDGIS>6126</IDGIS><NAMESPACE>T10_UTE_0133</NAMESPACE><LOCALID>T10_UTE_0133</LOCALID><ORIG_FID>5824</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="11">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0132</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2181</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6127</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0132</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0132</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5825</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9807740436168931,41.70609750937357,-0.9807740436168932</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0132</FINCA><SUPERFICIE>2181</SUPERFICIE><IDGIS>6127</IDGIS><NAMESPACE>T10_UTE_0132</NAMESPACE><LOCALID>T10_UTE_0132</LOCALID><ORIG_FID>5825</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="12">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0131</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2461</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6128</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0131</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0131</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5826</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.980915555516648,41.70639114287513,-0.980915555516648</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0131</FINCA><SUPERFICIE>2461</SUPERFICIE><IDGIS>6128</IDGIS><NAMESPACE>T10_UTE_0131</NAMESPACE><LOCALID>T10_UTE_0131</LOCALID><ORIG_FID>5826</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="13">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0130</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>162</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6129</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0130</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0130</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5827</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9807065963227144,41.70682534052443,-0.9807065963227143</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0130</FINCA><SUPERFICIE>162</SUPERFICIE><IDGIS>6129</IDGIS><NAMESPACE>T10_UTE_0130</NAMESPACE><LOCALID>T10_UTE_0130</LOCALID><ORIG_FID>5827</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="14">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0128</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>683</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6130</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0128</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0128</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5828</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9808533607920028,41.70698841304584,-0.9808533607920028</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0128</FINCA><SUPERFICIE>683</SUPERFICIE><IDGIS>6130</IDGIS><NAMESPACE>T10_UTE_0128</NAMESPACE><LOCALID>T10_UTE_0128</LOCALID><ORIG_FID>5828</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="15">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0129</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1941</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6131</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0129</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0129</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5829</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9811432934352348,41.70666820570886,-0.9811432934352348</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0129</FINCA><SUPERFICIE>1941</SUPERFICIE><IDGIS>6131</IDGIS><NAMESPACE>T10_UTE_0129</NAMESPACE><LOCALID>T10_UTE_0129</LOCALID><ORIG_FID>5829</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="16">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0127</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1558</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6132</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0127</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0127</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5830</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9814098628628666,41.70704074182994,-0.9814098628628665</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0127</FINCA><SUPERFICIE>1558</SUPERFICIE><IDGIS>6132</IDGIS><NAMESPACE>T10_UTE_0127</NAMESPACE><LOCALID>T10_UTE_0127</LOCALID><ORIG_FID>5830</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="17">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0126</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1430</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6133</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0126</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0126</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5831</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9810329592381705,41.70724840744856,-0.9810329592381704</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0126</FINCA><SUPERFICIE>1430</SUPERFICIE><IDGIS>6133</IDGIS><NAMESPACE>T10_UTE_0126</NAMESPACE><LOCALID>T10_UTE_0126</LOCALID><ORIG_FID>5831</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="18">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0125</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>94</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6134</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0125</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0125</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5832</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9816656643463161,41.70738983250632,-0.981665664346316</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0125</FINCA><SUPERFICIE>94</SUPERFICIE><IDGIS>6134</IDGIS><NAMESPACE>T10_UTE_0125</NAMESPACE><LOCALID>T10_UTE_0125</LOCALID><ORIG_FID>5832</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="19">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0124</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1619</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6135</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0124</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0124</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5833</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.981217844153059,41.70750485855653,-0.9812178441530589</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0124</FINCA><SUPERFICIE>1619</SUPERFICIE><IDGIS>6135</IDGIS><NAMESPACE>T10_UTE_0124</NAMESPACE><LOCALID>T10_UTE_0124</LOCALID><ORIG_FID>5833</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="20">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-23-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>279</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6136</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-23-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-23-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5834</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9811308457955013,41.70703962573595,-0.9811308457955014</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-23-1</FINCA><SUPERFICIE>279</SUPERFICIE><IDGIS>6136</IDGIS><NAMESPACE>T10_UTE_A-23-1</NAMESPACE><LOCALID>T10_UTE_A-23-1</LOCALID><ORIG_FID>5834</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="21">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0122</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>53</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6137</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0122</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0122</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5835</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.981101402854486,41.70795320262363,-0.981101402854486</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0122</FINCA><SUPERFICIE>53</SUPERFICIE><IDGIS>6137</IDGIS><NAMESPACE>T10_UTE_0122</NAMESPACE><LOCALID>T10_UTE_0122</LOCALID><ORIG_FID>5835</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="22">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0117-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>311</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11022</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0117-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0117-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5836</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9823117295945442,41.70868195626723,-0.9823117295945442</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0117-A</FINCA><SUPERFICIE>311</SUPERFICIE><IDGIS>11022</IDGIS><NAMESPACE>T10_UTE_0117-A</NAMESPACE><LOCALID>T10_UTE_0117-A</LOCALID><ORIG_FID>5836</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="23">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0123</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3329</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6139</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0123</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0123</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5837</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9814580378779754,41.7078012324705,-0.9814580378779754</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0123</FINCA><SUPERFICIE>3329</SUPERFICIE><IDGIS>6139</IDGIS><NAMESPACE>T10_UTE_0123</NAMESPACE><LOCALID>T10_UTE_0123</LOCALID><ORIG_FID>5837</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="24">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0121</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>160</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6140</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0121</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0121</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5838</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9812052091689671,41.70815335318546,-0.9812052091689673</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0121</FINCA><SUPERFICIE>160</SUPERFICIE><IDGIS>6140</IDGIS><NAMESPACE>T10_UTE_0121</NAMESPACE><LOCALID>T10_UTE_0121</LOCALID><ORIG_FID>5838</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="25">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0120</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2381</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6141</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0120</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0120</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5839</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9817093990371177,41.70816514981598,-0.9817093990371177</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0120</FINCA><SUPERFICIE>2381</SUPERFICIE><IDGIS>6141</IDGIS><NAMESPACE>T10_UTE_0120</NAMESPACE><LOCALID>T10_UTE_0120</LOCALID><ORIG_FID>5839</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="26">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0121-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>56</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6142</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0121-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0121-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5840</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9806469033035039,41.7085770073012,-0.9806469033035039</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0121-A</FINCA><SUPERFICIE>56</SUPERFICIE><IDGIS>6142</IDGIS><NAMESPACE>T10_UTE_0121-A</NAMESPACE><LOCALID>T10_UTE_0121-A</LOCALID><ORIG_FID>5840</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="27">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-23</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>333</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6143</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-23</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-23</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5841</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9815978789650365,41.70873142064077,-0.9815978789650364</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-23</FINCA><SUPERFICIE>333</SUPERFICIE><IDGIS>6143</IDGIS><NAMESPACE>T10_UTE_A-23</NAMESPACE><LOCALID>T10_UTE_A-23</LOCALID><ORIG_FID>5841</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="28">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0118</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1611</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6144</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0118</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0118</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5842</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9819350904963742,41.70850692444864,-0.9819350904963742</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0118</FINCA><SUPERFICIE>1611</SUPERFICIE><IDGIS>6144</IDGIS><NAMESPACE>T10_UTE_0118</NAMESPACE><LOCALID>T10_UTE_0118</LOCALID><ORIG_FID>5842</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="29">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0119</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1327</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6145</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0119</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0119</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5843</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.981474408397617,41.70854025831662,-0.981474408397617</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0119</FINCA><SUPERFICIE>1327</SUPERFICIE><IDGIS>6145</IDGIS><NAMESPACE>T10_UTE_0119</NAMESPACE><LOCALID>T10_UTE_0119</LOCALID><ORIG_FID>5843</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="30">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0143</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>722</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6146</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0143</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0143</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5844</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9815306771238774,41.70881373345902,-0.9815306771238773</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0143</FINCA><SUPERFICIE>722</SUPERFICIE><IDGIS>6146</IDGIS><NAMESPACE>T10_UTE_0143</NAMESPACE><LOCALID>T10_UTE_0143</LOCALID><ORIG_FID>5844</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="31">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0116</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>513</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6147</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0116</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0116</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5845</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9821492327976563,41.70885207403129,-0.9821492327976564</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0116</FINCA><SUPERFICIE>513</SUPERFICIE><IDGIS>6147</IDGIS><NAMESPACE>T10_UTE_0116</NAMESPACE><LOCALID>T10_UTE_0116</LOCALID><ORIG_FID>5845</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="32">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0115</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>646</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6148</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0115</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0115</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5846</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9817175501522125,41.70888143123774,-0.9817175501522125</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0115</FINCA><SUPERFICIE>646</SUPERFICIE><IDGIS>6148</IDGIS><NAMESPACE>T10_UTE_0115</NAMESPACE><LOCALID>T10_UTE_0115</LOCALID><ORIG_FID>5846</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="33">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0113-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>201</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11019</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0113-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0113-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5847</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9815016031062334,41.70911034259128,-0.9815016031062334</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0113-A</FINCA><SUPERFICIE>201</SUPERFICIE><IDGIS>11019</IDGIS><NAMESPACE>T10_UTE_0113-A</NAMESPACE><LOCALID>T10_UTE_0113-A</LOCALID><ORIG_FID>5847</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="34">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-22</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>840</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6150</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-22</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-22</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5848</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9818531764838439,41.7090076170897,-0.9818531764838439</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-22</FINCA><SUPERFICIE>840</SUPERFICIE><IDGIS>6150</IDGIS><NAMESPACE>T10_UTE_A-22</NAMESPACE><LOCALID>T10_UTE_A-22</LOCALID><ORIG_FID>5848</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="35">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0114</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>169</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6151</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0114</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0114</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5849</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9823891338613084,41.70914168688147,-0.9823891338613084</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0114</FINCA><SUPERFICIE>169</SUPERFICIE><IDGIS>6151</IDGIS><NAMESPACE>T10_UTE_0114</NAMESPACE><LOCALID>T10_UTE_0114</LOCALID><ORIG_FID>5849</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="36">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0111-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4190</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6152</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0111-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0111-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5850</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9821843010172821,41.7093724528183,-0.9821843010172821</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0111-1</FINCA><SUPERFICIE>4190</SUPERFICIE><IDGIS>6152</IDGIS><NAMESPACE>T10_UTE_0111-1</NAMESPACE><LOCALID>T10_UTE_0111-1</LOCALID><ORIG_FID>5850</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="37">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0112</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5230</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6153</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0112</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0112</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5851</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9822929124314732,41.70995159186321,-0.9822929124314732</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0112</FINCA><SUPERFICIE>5230</SUPERFICIE><IDGIS>6153</IDGIS><NAMESPACE>T10_UTE_0112</NAMESPACE><LOCALID>T10_UTE_0112</LOCALID><ORIG_FID>5851</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="38">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0111</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1275</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6154</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0111</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0111</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5852</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9828693531808365,41.71032781606888,-0.9828693531808364</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0111</FINCA><SUPERFICIE>1275</SUPERFICIE><IDGIS>6154</IDGIS><NAMESPACE>T10_UTE_0111</NAMESPACE><LOCALID>T10_UTE_0111</LOCALID><ORIG_FID>5852</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="39">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0109</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>474</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6155</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0109</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0109</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5853</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9825849610739993,41.71088212924102,-0.9825849610739992</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0109</FINCA><SUPERFICIE>474</SUPERFICIE><IDGIS>6155</IDGIS><NAMESPACE>T10_UTE_0109</NAMESPACE><LOCALID>T10_UTE_0109</LOCALID><ORIG_FID>5853</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="40">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-20-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>31</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6156</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-20-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-20-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5854</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9827767824013081,41.71168569148174,-0.9827767824013081</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-20-1</FINCA><SUPERFICIE>31</SUPERFICIE><IDGIS>6156</IDGIS><NAMESPACE>T10_UTE_A-20-1</NAMESPACE><LOCALID>T10_UTE_A-20-1</LOCALID><ORIG_FID>5854</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="41">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0108</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1915</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6157</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0108</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0108</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5855</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9829007662198295,41.71115743156399,-0.9829007662198295</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0108</FINCA><SUPERFICIE>1915</SUPERFICIE><IDGIS>6157</IDGIS><NAMESPACE>T10_UTE_0108</NAMESPACE><LOCALID>T10_UTE_0108</LOCALID><ORIG_FID>5855</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="42">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0110</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3857</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6158</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0110</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0110</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5856</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9828885890907662,41.71071622388568,-0.9828885890907662</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0110</FINCA><SUPERFICIE>3857</SUPERFICIE><IDGIS>6158</IDGIS><NAMESPACE>T10_UTE_0110</NAMESPACE><LOCALID>T10_UTE_0110</LOCALID><ORIG_FID>5856</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="43">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-21</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>232</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6159</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-21</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-21</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5857</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9830039435574463,41.71097323078321,-0.9830039435574461</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-21</FINCA><SUPERFICIE>232</SUPERFICIE><IDGIS>6159</IDGIS><NAMESPACE>T10_UTE_A-21</NAMESPACE><LOCALID>T10_UTE_A-21</LOCALID><ORIG_FID>5857</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="44">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0107</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2276</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6160</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0107</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0107</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5858</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9832259646231352,41.71143512973858,-0.9832259646231352</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0107</FINCA><SUPERFICIE>2276</SUPERFICIE><IDGIS>6160</IDGIS><NAMESPACE>T10_UTE_0107</NAMESPACE><LOCALID>T10_UTE_0107</LOCALID><ORIG_FID>5858</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="45">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0106</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3594</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6161</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0106</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0106</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5859</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9836147562963745,41.71173554981834,-0.9836147562963744</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0106</FINCA><SUPERFICIE>3594</SUPERFICIE><IDGIS>6161</IDGIS><NAMESPACE>T10_UTE_0106</NAMESPACE><LOCALID>T10_UTE_0106</LOCALID><ORIG_FID>5859</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="46">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-20</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>603</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6162</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-20</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-20</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5860</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.983860923793875,41.71205706058678,-0.983860923793875</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-20</FINCA><SUPERFICIE>603</SUPERFICIE><IDGIS>6162</IDGIS><NAMESPACE>T10_UTE_A-20</NAMESPACE><LOCALID>T10_UTE_A-20</LOCALID><ORIG_FID>5860</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="47">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0142-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>187</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6164</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0142-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0142-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5862</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9821742963991585,41.71137675601243,-0.9821742963991587</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0142-2</FINCA><SUPERFICIE>187</SUPERFICIE><IDGIS>6164</IDGIS><NAMESPACE>T10_UTE_0142-2</NAMESPACE><LOCALID>T10_UTE_0142-2</LOCALID><ORIG_FID>5862</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="48">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0102</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3173</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6165</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0102</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0102</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5863</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9828287541504809,41.71214737612794,-0.9828287541504809</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0102</FINCA><SUPERFICIE>3173</SUPERFICIE><IDGIS>6165</IDGIS><NAMESPACE>T10_UTE_0102</NAMESPACE><LOCALID>T10_UTE_0102</LOCALID><ORIG_FID>5863</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="49">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0105</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2060</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6167</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0105</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0105</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5864</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9841589534903487,41.71193309496611,-0.9841589534903488</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0105</FINCA><SUPERFICIE>2060</SUPERFICIE><IDGIS>6167</IDGIS><NAMESPACE>T10_UTE_0105</NAMESPACE><LOCALID>T10_UTE_0105</LOCALID><ORIG_FID>5864</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="50">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0142</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1078</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6169</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0142</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0142</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5865</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.983710322194816,41.71216711251486,-0.983710322194816</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0142</FINCA><SUPERFICIE>1078</SUPERFICIE><IDGIS>6169</IDGIS><NAMESPACE>T10_UTE_0142</NAMESPACE><LOCALID>T10_UTE_0142</LOCALID><ORIG_FID>5865</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="51">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0071</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>12996</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6170</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0071</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0071</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5866</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9848753417092667,41.71331484361748,-0.9848753417092668</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0071</FINCA><SUPERFICIE>12996</SUPERFICIE><IDGIS>6170</IDGIS><NAMESPACE>T10_UTE_0071</NAMESPACE><LOCALID>T10_UTE_0071</LOCALID><ORIG_FID>5866</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="52">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0101</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2963</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6171</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0101</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0101</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5867</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9839053307166475,41.71243554529479,-0.9839053307166475</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0101</FINCA><SUPERFICIE>2963</SUPERFICIE><IDGIS>6171</IDGIS><NAMESPACE>T10_UTE_0101</NAMESPACE><LOCALID>T10_UTE_0101</LOCALID><ORIG_FID>5867</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="53">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-7</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>187</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6172</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-7</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-7</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5868</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9854260437744576,41.71371961961598,-0.9854260437744574</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-7</FINCA><SUPERFICIE>187</SUPERFICIE><IDGIS>6172</IDGIS><NAMESPACE>T10_UTE_A-7</NAMESPACE><LOCALID>T10_UTE_A-7</LOCALID><ORIG_FID>5868</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="54">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0070</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5849</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6173</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0070</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0070</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5869</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.986087697346143,41.71428939048473,-0.9860876973461429</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0070</FINCA><SUPERFICIE>5849</SUPERFICIE><IDGIS>6173</IDGIS><NAMESPACE>T10_UTE_0070</NAMESPACE><LOCALID>T10_UTE_0070</LOCALID><ORIG_FID>5869</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="55">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0068</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>589</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6174</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0068</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0068</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5870</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9866062557343632,41.71512580787272,-0.9866062557343632</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0068</FINCA><SUPERFICIE>589</SUPERFICIE><IDGIS>6174</IDGIS><NAMESPACE>T10_UTE_0068</NAMESPACE><LOCALID>T10_UTE_0068</LOCALID><ORIG_FID>5870</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="56">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0069</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5422</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6175</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0069</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0069</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5871</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9865855323224131,41.71485284851555,-0.9865855323224131</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0069</FINCA><SUPERFICIE>5422</SUPERFICIE><IDGIS>6175</IDGIS><NAMESPACE>T10_UTE_0069</NAMESPACE><LOCALID>T10_UTE_0069</LOCALID><ORIG_FID>5871</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="57">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0067</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1479</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6176</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0067</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0067</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5872</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9874010734819055,41.71509710154405,-0.9874010734819054</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0067</FINCA><SUPERFICIE>1479</SUPERFICIE><IDGIS>6176</IDGIS><NAMESPACE>T10_UTE_0067</NAMESPACE><LOCALID>T10_UTE_0067</LOCALID><ORIG_FID>5872</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="58">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0081-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>209</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6177</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0081-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0081-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5873</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9872943647085217,41.71527353837712,-0.9872943647085216</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0081-1</FINCA><SUPERFICIE>209</SUPERFICIE><IDGIS>6177</IDGIS><NAMESPACE>T10_UTE_0081-1</NAMESPACE><LOCALID>T10_UTE_0081-1</LOCALID><ORIG_FID>5873</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="59">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0065</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>260</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6178</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0065</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0065</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5874</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9882461706038906,41.71553189664366,-0.9882461706038905</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0065</FINCA><SUPERFICIE>260</SUPERFICIE><IDGIS>6178</IDGIS><NAMESPACE>T10_UTE_0065</NAMESPACE><LOCALID>T10_UTE_0065</LOCALID><ORIG_FID>5874</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="60">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0066</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4875</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6179</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0066</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0066</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5875</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9875883664837037,41.71551562349538,-0.9875883664837036</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0066</FINCA><SUPERFICIE>4875</SUPERFICIE><IDGIS>6179</IDGIS><NAMESPACE>T10_UTE_0066</NAMESPACE><LOCALID>T10_UTE_0066</LOCALID><ORIG_FID>5875</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="61">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0064</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>916</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6180</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0064</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0064</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5876</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9879363202123662,41.7159307106942,-0.9879363202123661</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0064</FINCA><SUPERFICIE>916</SUPERFICIE><IDGIS>6180</IDGIS><NAMESPACE>T10_UTE_0064</NAMESPACE><LOCALID>T10_UTE_0064</LOCALID><ORIG_FID>5876</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="62">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0081</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>204</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6181</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0081</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0081</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5877</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9881400374346396,41.71579766150114,-0.9881400374346396</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0081</FINCA><SUPERFICIE>204</SUPERFICIE><IDGIS>6181</IDGIS><NAMESPACE>T10_UTE_0081</NAMESPACE><LOCALID>T10_UTE_0081</LOCALID><ORIG_FID>5877</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="63">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0063</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2023</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6182</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0063</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0063</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5878</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.988597656527931,41.7158325309541,-0.9885976565279309</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0063</FINCA><SUPERFICIE>2023</SUPERFICIE><IDGIS>6182</IDGIS><NAMESPACE>T10_UTE_0063</NAMESPACE><LOCALID>T10_UTE_0063</LOCALID><ORIG_FID>5878</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="64">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-6</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>366</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6183</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-6</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-6</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5879</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9884148225429412,41.71592857702539,-0.9884148225429413</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-6</FINCA><SUPERFICIE>366</SUPERFICIE><IDGIS>6183</IDGIS><NAMESPACE>T10_UTE_A-6</NAMESPACE><LOCALID>T10_UTE_A-6</LOCALID><ORIG_FID>5879</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="65">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0062</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1576</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6184</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0062</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0062</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5880</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9883509113182776,41.71609983172242,-0.9883509113182776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0062</FINCA><SUPERFICIE>1576</SUPERFICIE><IDGIS>6184</IDGIS><NAMESPACE>T10_UTE_0062</NAMESPACE><LOCALID>T10_UTE_0062</LOCALID><ORIG_FID>5880</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="66">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0061-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>120</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6185</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0061-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0061-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5881</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9888340046474969,41.71676905769471,-0.9888340046474969</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0061-1</FINCA><SUPERFICIE>120</SUPERFICIE><IDGIS>6185</IDGIS><NAMESPACE>T10_UTE_0061-1</NAMESPACE><LOCALID>T10_UTE_0061-1</LOCALID><ORIG_FID>5881</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="67">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0061</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3460</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6186</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0061</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0061</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5882</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9889366156539653,41.71632657407055,-0.9889366156539654</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0061</FINCA><SUPERFICIE>3460</SUPERFICIE><IDGIS>6186</IDGIS><NAMESPACE>T10_UTE_0061</NAMESPACE><LOCALID>T10_UTE_0061</LOCALID><ORIG_FID>5882</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="68">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0080</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>558</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6187</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0080</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0080</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5883</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9893609522881396,41.71663864614629,-0.9893609522881396</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0080</FINCA><SUPERFICIE>558</SUPERFICIE><IDGIS>6187</IDGIS><NAMESPACE>T10_UTE_0080</NAMESPACE><LOCALID>T10_UTE_0080</LOCALID><ORIG_FID>5883</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="69">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0060</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1956</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6188</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0060</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0060</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5884</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9895144536710133,41.71636872956493,-0.9895144536710132</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0060</FINCA><SUPERFICIE>1956</SUPERFICIE><IDGIS>6188</IDGIS><NAMESPACE>T10_UTE_0060</NAMESPACE><LOCALID>T10_UTE_0060</LOCALID><ORIG_FID>5884</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="70">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0058</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4042</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6189</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0058</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0058</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5885</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9898810353973329,41.71672652974279,-0.9898810353973327</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0058</FINCA><SUPERFICIE>4042</SUPERFICIE><IDGIS>6189</IDGIS><NAMESPACE>T10_UTE_0058</NAMESPACE><LOCALID>T10_UTE_0058</LOCALID><ORIG_FID>5885</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="71">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-5</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>603</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6190</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-5</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-5</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5886</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9900302352283186,41.71689416696447,-0.9900302352283187</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-5</FINCA><SUPERFICIE>603</SUPERFICIE><IDGIS>6190</IDGIS><NAMESPACE>T10_UTE_A-5</NAMESPACE><LOCALID>T10_UTE_A-5</LOCALID><ORIG_FID>5886</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="72">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0057</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>4243</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6191</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0057</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0057</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5887</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9904958951621473,41.71709360069612,-0.9904958951621472</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0057</FINCA><SUPERFICIE>4243</SUPERFICIE><IDGIS>6191</IDGIS><NAMESPACE>T10_UTE_0057</NAMESPACE><LOCALID>T10_UTE_0057</LOCALID><ORIG_FID>5887</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="73">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-14</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>179</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6192</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-14</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-14</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5888</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9908925154692649,41.71718500110033,-0.9908925154692649</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-14</FINCA><SUPERFICIE>179</SUPERFICIE><IDGIS>6192</IDGIS><NAMESPACE>T10_UTE_A-14</NAMESPACE><LOCALID>T10_UTE_A-14</LOCALID><ORIG_FID>5888</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="74">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0055</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>5430</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6193</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0055</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0055</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5889</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9915578986625423,41.71749844829914,-0.9915578986625422</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0055</FINCA><SUPERFICIE>5430</SUPERFICIE><IDGIS>6193</IDGIS><NAMESPACE>T10_UTE_0055</NAMESPACE><LOCALID>T10_UTE_0055</LOCALID><ORIG_FID>5889</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="75">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0056</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2166</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6194</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0056</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0056</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5890</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9915856150831567,41.71721068894477,-0.9915856150831567</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0056</FINCA><SUPERFICIE>2166</SUPERFICIE><IDGIS>6194</IDGIS><NAMESPACE>T10_UTE_0056</NAMESPACE><LOCALID>T10_UTE_0056</LOCALID><ORIG_FID>5890</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="76">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0054</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1401</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6195</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0054</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0054</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5891</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9916328179104056,41.71778978544103,-0.9916328179104056</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0054</FINCA><SUPERFICIE>1401</SUPERFICIE><IDGIS>6195</IDGIS><NAMESPACE>T10_UTE_0054</NAMESPACE><LOCALID>T10_UTE_0054</LOCALID><ORIG_FID>5891</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="77">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0079</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>187</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6196</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0079</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0079</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5892</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.992806208250528,41.71780513698626,-0.992806208250528</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0079</FINCA><SUPERFICIE>187</SUPERFICIE><IDGIS>6196</IDGIS><NAMESPACE>T10_UTE_0079</NAMESPACE><LOCALID>T10_UTE_0079</LOCALID><ORIG_FID>5892</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="78">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0053</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3458</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6197</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0053</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0053</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5893</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9927751547088605,41.7177789916673,-0.9927751547088605</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0053</FINCA><SUPERFICIE>3458</SUPERFICIE><IDGIS>6197</IDGIS><NAMESPACE>T10_UTE_0053</NAMESPACE><LOCALID>T10_UTE_0053</LOCALID><ORIG_FID>5893</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="79">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0052</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2948</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6198</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0052</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0052</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5894</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9927622776993892,41.71811036865971,-0.9927622776993891</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0052</FINCA><SUPERFICIE>2948</SUPERFICIE><IDGIS>6198</IDGIS><NAMESPACE>T10_UTE_0052</NAMESPACE><LOCALID>T10_UTE_0052</LOCALID><ORIG_FID>5894</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="80">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-11</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>163</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6199</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-11</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-11</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5895</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9932846750587019,41.71809591519364,-0.9932846750587019</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-11</FINCA><SUPERFICIE>163</SUPERFICIE><IDGIS>6199</IDGIS><NAMESPACE>T10_UTE_A-11</NAMESPACE><LOCALID>T10_UTE_A-11</LOCALID><ORIG_FID>5895</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="81">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0051</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2728</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6200</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0051</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0051</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5896</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9935150407510293,41.71817531090883,-0.9935150407510293</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0051</FINCA><SUPERFICIE>2728</SUPERFICIE><IDGIS>6200</IDGIS><NAMESPACE>T10_UTE_0051</NAMESPACE><LOCALID>T10_UTE_0051</LOCALID><ORIG_FID>5896</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="82">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-10</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>208</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6201</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-10</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-10</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5897</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9937545702954506,41.71824753044534,-0.9937545702954506</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-10</FINCA><SUPERFICIE>208</SUPERFICIE><IDGIS>6201</IDGIS><NAMESPACE>T10_UTE_A-10</NAMESPACE><LOCALID>T10_UTE_A-10</LOCALID><ORIG_FID>5897</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="83">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2034</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6202</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0050</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0050</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5898</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9942035249752882,41.71821924945227,-0.9942035249752882</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0050</FINCA><SUPERFICIE>2034</SUPERFICIE><IDGIS>6202</IDGIS><NAMESPACE>T10_UTE_0050</NAMESPACE><LOCALID>T10_UTE_0050</LOCALID><ORIG_FID>5898</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="84">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0078</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2841</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6203</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0078</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0078</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5899</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9945120587455353,41.71852165641992,-0.9945120587455354</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0078</FINCA><SUPERFICIE>2841</SUPERFICIE><IDGIS>6203</IDGIS><NAMESPACE>T10_UTE_0078</NAMESPACE><LOCALID>T10_UTE_0078</LOCALID><ORIG_FID>5899</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="85">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0048</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>663</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6204</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0048</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0048</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5900</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9941449479040181,41.7187878038497,-0.9941449479040181</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0048</FINCA><SUPERFICIE>663</SUPERFICIE><IDGIS>6204</IDGIS><NAMESPACE>T10_UTE_0048</NAMESPACE><LOCALID>T10_UTE_0048</LOCALID><ORIG_FID>5900</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="86">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0049</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2418</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6205</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0049</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0049</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5901</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9940801341791282,41.71850582510037,-0.9940801341791282</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0049</FINCA><SUPERFICIE>2418</SUPERFICIE><IDGIS>6205</IDGIS><NAMESPACE>T10_UTE_0049</NAMESPACE><LOCALID>T10_UTE_0049</LOCALID><ORIG_FID>5901</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="87">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0047</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>721</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6206</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0047</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0047</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5902</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9940815280823987,41.71906363180528,-0.9940815280823986</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0047</FINCA><SUPERFICIE>721</SUPERFICIE><IDGIS>6206</IDGIS><NAMESPACE>T10_UTE_0047</NAMESPACE><LOCALID>T10_UTE_0047</LOCALID><ORIG_FID>5902</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="88">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0046</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>522</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6207</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0046</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0046</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5903</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9939182003829511,41.71937726054767,-0.9939182003829511</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0046</FINCA><SUPERFICIE>522</SUPERFICIE><IDGIS>6207</IDGIS><NAMESPACE>T10_UTE_0046</NAMESPACE><LOCALID>T10_UTE_0046</LOCALID><ORIG_FID>5903</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="89">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0041</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>471</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6209</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0041</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0041</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5904</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9941912279471786,41.71942228644232,-0.9941912279471786</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0041</FINCA><SUPERFICIE>471</SUPERFICIE><IDGIS>6209</IDGIS><NAMESPACE>T10_UTE_0041</NAMESPACE><LOCALID>T10_UTE_0041</LOCALID><ORIG_FID>5904</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="90">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0042</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>257</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6210</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0042</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0042</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5905</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9943779812226252,41.71914448426488,-0.9943779812226252</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0042</FINCA><SUPERFICIE>257</SUPERFICIE><IDGIS>6210</IDGIS><NAMESPACE>T10_UTE_0042</NAMESPACE><LOCALID>T10_UTE_0042</LOCALID><ORIG_FID>5905</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="91">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0043</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>822</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6211</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0043</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0043</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5906</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9945946368422793,41.7189283208136,-0.9945946368422792</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0043</FINCA><SUPERFICIE>822</SUPERFICIE><IDGIS>6211</IDGIS><NAMESPACE>T10_UTE_0043</NAMESPACE><LOCALID>T10_UTE_0043</LOCALID><ORIG_FID>5906</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="92">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0044</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1333</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6212</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0044</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0044</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5907</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9947662561823677,41.71866249444938,-0.9947662561823677</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0044</FINCA><SUPERFICIE>1333</SUPERFICIE><IDGIS>6212</IDGIS><NAMESPACE>T10_UTE_0044</NAMESPACE><LOCALID>T10_UTE_0044</LOCALID><ORIG_FID>5907</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="93">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0045</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>800</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6213</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0045</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0045</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5908</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9949030298453575,41.7183970196561,-0.9949030298453575</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0045</FINCA><SUPERFICIE>800</SUPERFICIE><IDGIS>6213</IDGIS><NAMESPACE>T10_UTE_0045</NAMESPACE><LOCALID>T10_UTE_0045</LOCALID><ORIG_FID>5908</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="94">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>113</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6214</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0050-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0050-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5909</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9945877072026716,41.71814715874267,-0.9945877072026715</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0050-1</FINCA><SUPERFICIE>113</SUPERFICIE><IDGIS>6214</IDGIS><NAMESPACE>T10_UTE_0050-1</NAMESPACE><LOCALID>T10_UTE_0050-1</LOCALID><ORIG_FID>5909</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="95">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050-3C</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>232</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11001</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0050-3C</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0050-3C</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5910</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9948874910091619,41.71738594314347,-0.9948874910091619</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0050-3C</FINCA><SUPERFICIE>232</SUPERFICIE><IDGIS>11001</IDGIS><NAMESPACE>T10_UTE_0050-3C</NAMESPACE><LOCALID>T10_UTE_0050-3C</LOCALID><ORIG_FID>5910</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="96">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>463</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6217</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0050-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0050-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5911</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9947164233742222,41.71789187029898,-0.9947164233742222</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0050-2</FINCA><SUPERFICIE>463</SUPERFICIE><IDGIS>6217</IDGIS><NAMESPACE>T10_UTE_0050-2</NAMESPACE><LOCALID>T10_UTE_0050-2</LOCALID><ORIG_FID>5911</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="97">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0045-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>499</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6218</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0045-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0045-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5912</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9948783657501881,41.71808472656912,-0.994878365750188</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0045-1</FINCA><SUPERFICIE>499</SUPERFICIE><IDGIS>6218</IDGIS><NAMESPACE>T10_UTE_0045-1</NAMESPACE><LOCALID>T10_UTE_0045-1</LOCALID><ORIG_FID>5912</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="98">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0045-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>17</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6219</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0045-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0045-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5913</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9949585974659353,41.71776871918436,-0.9949585974659354</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0045-2</FINCA><SUPERFICIE>17</SUPERFICIE><IDGIS>6219</IDGIS><NAMESPACE>T10_UTE_0045-2</NAMESPACE><LOCALID>T10_UTE_0045-2</LOCALID><ORIG_FID>5913</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="99">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-13</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>110</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6221</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-13</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-13</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5914</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9950132860328655,41.71872336265181,-0.9950132860328654</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-13</FINCA><SUPERFICIE>110</SUPERFICIE><IDGIS>6221</IDGIS><NAMESPACE>T10_UTE_A-13</NAMESPACE><LOCALID>T10_UTE_A-13</LOCALID><ORIG_FID>5914</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="100">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0039</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1301</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6222</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0039</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0039</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5915</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9951188438256601,41.71880344517968,-0.99511884382566</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0039</FINCA><SUPERFICIE>1301</SUPERFICIE><IDGIS>6222</IDGIS><NAMESPACE>T10_UTE_0039</NAMESPACE><LOCALID>T10_UTE_0039</LOCALID><ORIG_FID>5915</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="101">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0040</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>622</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6223</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0040</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0040</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5916</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9952621044767993,41.71851097100205,-0.9952621044767992</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0040</FINCA><SUPERFICIE>622</SUPERFICIE><IDGIS>6223</IDGIS><NAMESPACE>T10_UTE_0040</NAMESPACE><LOCALID>T10_UTE_0040</LOCALID><ORIG_FID>5916</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="102">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0038</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1188</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6224</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0038</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0038</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5917</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9954241800996737,41.71890635732158,-0.9954241800996736</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0038</FINCA><SUPERFICIE>1188</SUPERFICIE><IDGIS>6224</IDGIS><NAMESPACE>T10_UTE_0038</NAMESPACE><LOCALID>T10_UTE_0038</LOCALID><ORIG_FID>5917</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="103">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0037</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1261</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6225</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0037</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0037</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5918</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9957257575382589,41.71864066279958,-0.9957257575382587</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0037</FINCA><SUPERFICIE>1261</SUPERFICIE><IDGIS>6225</IDGIS><NAMESPACE>T10_UTE_0037</NAMESPACE><LOCALID>T10_UTE_0037</LOCALID><ORIG_FID>5918</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="104">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0035</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>588</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6226</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0035</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0035</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5919</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.995875944594647,41.71918925726334,-0.995875944594647</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0035</FINCA><SUPERFICIE>588</SUPERFICIE><IDGIS>6226</IDGIS><NAMESPACE>T10_UTE_0035</NAMESPACE><LOCALID>T10_UTE_0035</LOCALID><ORIG_FID>5919</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="105">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0036</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2316</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6227</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0036</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0036</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5920</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9959186962656674,41.71895461814801,-0.9959186962656672</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0036</FINCA><SUPERFICIE>2316</SUPERFICIE><IDGIS>6227</IDGIS><NAMESPACE>T10_UTE_0036</NAMESPACE><LOCALID>T10_UTE_0036</LOCALID><ORIG_FID>5920</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="106">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-4</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>184</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6228</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-4</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-4</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5921</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9962129037825402,41.71897143572505,-0.9962129037825402</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-4</FINCA><SUPERFICIE>184</SUPERFICIE><IDGIS>6228</IDGIS><NAMESPACE>T10_UTE_A-4</NAMESPACE><LOCALID>T10_UTE_A-4</LOCALID><ORIG_FID>5921</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="107">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0034</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1601</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6229</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0034</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0034</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5922</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.996640795487164,41.71887211932364,-0.9966407954871639</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0034</FINCA><SUPERFICIE>1601</SUPERFICIE><IDGIS>6229</IDGIS><NAMESPACE>T10_UTE_0034</NAMESPACE><LOCALID>T10_UTE_0034</LOCALID><ORIG_FID>5922</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="108">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0033</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3659</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6230</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0033</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0033</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5923</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9966607070250094,41.71921442607125,-0.9966607070250092</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0033</FINCA><SUPERFICIE>3659</SUPERFICIE><IDGIS>6230</IDGIS><NAMESPACE>T10_UTE_0033</NAMESPACE><LOCALID>T10_UTE_0033</LOCALID><ORIG_FID>5923</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="109">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0077</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>204</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6231</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0077</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0077</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5924</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9971063540298836,41.71924814866087,-0.9971063540298836</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0077</FINCA><SUPERFICIE>204</SUPERFICIE><IDGIS>6231</IDGIS><NAMESPACE>T10_UTE_0077</NAMESPACE><LOCALID>T10_UTE_0077</LOCALID><ORIG_FID>5924</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="110">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0032</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2219</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6232</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0032</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0032</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5925</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9974551266806225,41.71948983154274,-0.9974551266806225</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0032</FINCA><SUPERFICIE>2219</SUPERFICIE><IDGIS>6232</IDGIS><NAMESPACE>T10_UTE_0032</NAMESPACE><LOCALID>T10_UTE_0032</LOCALID><ORIG_FID>5925</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="111">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0029</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>152</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6233</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0029</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0029</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5926</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9979649374811401,41.71973105265958,-0.9979649374811402</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0029</FINCA><SUPERFICIE>152</SUPERFICIE><IDGIS>6233</IDGIS><NAMESPACE>T10_UTE_0029</NAMESPACE><LOCALID>T10_UTE_0029</LOCALID><ORIG_FID>5926</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="112">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0030</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3882</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6234</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0030</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0030</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5927</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9977595760637783,41.71930471040164,-0.9977595760637783</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0030</FINCA><SUPERFICIE>3882</SUPERFICIE><IDGIS>6234</IDGIS><NAMESPACE>T10_UTE_0030</NAMESPACE><LOCALID>T10_UTE_0030</LOCALID><ORIG_FID>5927</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="113">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-9</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>152</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6235</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-9</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-9</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5928</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9981451843969303,41.71964950708889,-0.9981451843969303</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-9</FINCA><SUPERFICIE>152</SUPERFICIE><IDGIS>6235</IDGIS><NAMESPACE>T10_UTE_A-9</NAMESPACE><LOCALID>T10_UTE_A-9</LOCALID><ORIG_FID>5928</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="114">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0031</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>772</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6236</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0031</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0031</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5929</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9982463792598634,41.71925884694642,-0.9982463792598633</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0031</FINCA><SUPERFICIE>772</SUPERFICIE><IDGIS>6236</IDGIS><NAMESPACE>T10_UTE_0031</NAMESPACE><LOCALID>T10_UTE_0031</LOCALID><ORIG_FID>5929</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="115">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0024</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>104</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6237</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0024</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0024</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5930</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9991775102082439,41.71940367200812,-0.9991775102082439</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0024</FINCA><SUPERFICIE>104</SUPERFICIE><IDGIS>6237</IDGIS><NAMESPACE>T10_UTE_0024</NAMESPACE><LOCALID>T10_UTE_0024</LOCALID><ORIG_FID>5930</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="116">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0028</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3317</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6238</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0028</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0028</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5931</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9985970220926522,41.71959982469197,-0.9985970220926522</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0028</FINCA><SUPERFICIE>3317</SUPERFICIE><IDGIS>6238</IDGIS><NAMESPACE>T10_UTE_0028</NAMESPACE><LOCALID>T10_UTE_0028</LOCALID><ORIG_FID>5931</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="117">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0027</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2206</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6239</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0027</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0027</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5932</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9991156391825289,41.71980903744687,-0.9991156391825289</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0027</FINCA><SUPERFICIE>2206</SUPERFICIE><IDGIS>6239</IDGIS><NAMESPACE>T10_UTE_0027</NAMESPACE><LOCALID>T10_UTE_0027</LOCALID><ORIG_FID>5932</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="118">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0074-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>37</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6240</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0074-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0074-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5933</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9992695379061046,41.71943824943841,-0.9992695379061046</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0074-1</FINCA><SUPERFICIE>37</SUPERFICIE><IDGIS>6240</IDGIS><NAMESPACE>T10_UTE_0074-1</NAMESPACE><LOCALID>T10_UTE_0074-1</LOCALID><ORIG_FID>5933</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="119">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0025</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>33</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6241</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0025</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0025</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5934</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.000135066358653,41.7202177035467,-1.000135066358653</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0025</FINCA><SUPERFICIE>33</SUPERFICIE><IDGIS>6241</IDGIS><NAMESPACE>T10_UTE_0025</NAMESPACE><LOCALID>T10_UTE_0025</LOCALID><ORIG_FID>5934</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="120">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0026</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1083</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6242</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0026</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0026</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5935</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9996477179685795,41.72002935580642,-0.9996477179685794</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0026</FINCA><SUPERFICIE>1083</SUPERFICIE><IDGIS>6242</IDGIS><NAMESPACE>T10_UTE_0026</NAMESPACE><LOCALID>T10_UTE_0026</LOCALID><ORIG_FID>5935</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="121">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0076</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2051</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6243</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0076</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0076</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5936</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9997854720956442,41.71991292863648,-0.9997854720956443</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0076</FINCA><SUPERFICIE>2051</SUPERFICIE><IDGIS>6243</IDGIS><NAMESPACE>T10_UTE_0076</NAMESPACE><LOCALID>T10_UTE_0076</LOCALID><ORIG_FID>5936</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="122">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0023</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1480</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6244</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0023</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0023</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5937</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.999635197080411,41.71959206720594,-0.9996351970804109</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0023</FINCA><SUPERFICIE>1480</SUPERFICIE><IDGIS>6244</IDGIS><NAMESPACE>T10_UTE_0023</NAMESPACE><LOCALID>T10_UTE_0023</LOCALID><ORIG_FID>5937</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="123">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0022</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2702</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6245</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0022</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0022</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5938</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.00020150934575,41.71981458050648,-1.00020150934575</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0022</FINCA><SUPERFICIE>2702</SUPERFICIE><IDGIS>6245</IDGIS><NAMESPACE>T10_UTE_0022</NAMESPACE><LOCALID>T10_UTE_0022</LOCALID><ORIG_FID>5938</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="124">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0020</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1497</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6246</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0020</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0020</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5939</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.000803822247718,41.72001789975086,-1.000803822247718</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0020</FINCA><SUPERFICIE>1497</SUPERFICIE><IDGIS>6246</IDGIS><NAMESPACE>T10_UTE_0020</NAMESPACE><LOCALID>T10_UTE_0020</LOCALID><ORIG_FID>5939</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="125">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0021</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1357</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6247</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0021</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0021</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5940</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.00056729376185,41.71995139687884,-1.00056729376185</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0021</FINCA><SUPERFICIE>1357</SUPERFICIE><IDGIS>6247</IDGIS><NAMESPACE>T10_UTE_0021</NAMESPACE><LOCALID>T10_UTE_0021</LOCALID><ORIG_FID>5940</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="126">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0019</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2692</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6248</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0019</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0019</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5941</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.001159255946185,41.72009183103721,-1.001159255946185</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0019</FINCA><SUPERFICIE>2692</SUPERFICIE><IDGIS>6248</IDGIS><NAMESPACE>T10_UTE_0019</NAMESPACE><LOCALID>T10_UTE_0019</LOCALID><ORIG_FID>5941</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="127">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0018</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1814</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6249</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0018</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0018</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5942</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.001544719760961,41.72016743111183,-1.001544719760961</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0018</FINCA><SUPERFICIE>1814</SUPERFICIE><IDGIS>6249</IDGIS><NAMESPACE>T10_UTE_0018</NAMESPACE><LOCALID>T10_UTE_0018</LOCALID><ORIG_FID>5942</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="128">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0017</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3486</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6250</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0017</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0017</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5943</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.001988849402737,41.72026667369746,-1.001988849402737</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0017</FINCA><SUPERFICIE>3486</SUPERFICIE><IDGIS>6250</IDGIS><NAMESPACE>T10_UTE_0017</NAMESPACE><LOCALID>T10_UTE_0017</LOCALID><ORIG_FID>5943</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="129">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0016</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1221</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6251</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0016</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0016</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5944</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.002372932554618,41.72041208407103,-1.002372932554618</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0016</FINCA><SUPERFICIE>1221</SUPERFICIE><IDGIS>6251</IDGIS><NAMESPACE>T10_UTE_0016</NAMESPACE><LOCALID>T10_UTE_0016</LOCALID><ORIG_FID>5944</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="130">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0015</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1037</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6252</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0015</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0015</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5945</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.002615345729259,41.72050760534221,-1.002615345729259</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0015</FINCA><SUPERFICIE>1037</SUPERFICIE><IDGIS>6252</IDGIS><NAMESPACE>T10_UTE_0015</NAMESPACE><LOCALID>T10_UTE_0015</LOCALID><ORIG_FID>5945</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="131">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0014</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>818</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6253</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0014</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0014</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5946</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.002863757009874,41.72059400956182,-1.002863757009874</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0014</FINCA><SUPERFICIE>818</SUPERFICIE><IDGIS>6253</IDGIS><NAMESPACE>T10_UTE_0014</NAMESPACE><LOCALID>T10_UTE_0014</LOCALID><ORIG_FID>5946</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="132">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>670</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6254</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0011</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0011</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5947</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.003138013990582,41.7207298604616,-1.003138013990582</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0011</FINCA><SUPERFICIE>670</SUPERFICIE><IDGIS>6254</IDGIS><NAMESPACE>T10_UTE_0011</NAMESPACE><LOCALID>T10_UTE_0011</LOCALID><ORIG_FID>5947</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="133">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0013</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2198</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6255</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0013</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0013</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5948</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.002977048238093,41.72027512362906,-1.002977048238093</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0013</FINCA><SUPERFICIE>2198</SUPERFICIE><IDGIS>6255</IDGIS><NAMESPACE>T10_UTE_0013</NAMESPACE><LOCALID>T10_UTE_0013</LOCALID><ORIG_FID>5948</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="134">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0011-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>22</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6256</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0011-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0011-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5949</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.003707243157355,41.72092484472255,-1.003707243157355</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0011-1</FINCA><SUPERFICIE>22</SUPERFICIE><IDGIS>6256</IDGIS><NAMESPACE>T10_UTE_0011-1</NAMESPACE><LOCALID>T10_UTE_0011-1</LOCALID><ORIG_FID>5949</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="135">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0012</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2524</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6257</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0012</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0012</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5950</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.003534563715066,41.72054380680719,-1.003534563715066</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0012</FINCA><SUPERFICIE>2524</SUPERFICIE><IDGIS>6257</IDGIS><NAMESPACE>T10_UTE_0012</NAMESPACE><LOCALID>T10_UTE_0012</LOCALID><ORIG_FID>5950</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="136">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0010</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2782</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6258</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0010</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0010</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5951</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.003978949048122,41.72075321693681,-1.003978949048122</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0010</FINCA><SUPERFICIE>2782</SUPERFICIE><IDGIS>6258</IDGIS><NAMESPACE>T10_UTE_0010</NAMESPACE><LOCALID>T10_UTE_0010</LOCALID><ORIG_FID>5951</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="137">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>552</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6259</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5952</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.004901971272377,41.72104132248838,-1.004901971272377</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-3</FINCA><SUPERFICIE>552</SUPERFICIE><IDGIS>6259</IDGIS><NAMESPACE>T10_UTE_A-3</NAMESPACE><LOCALID>T10_UTE_A-3</LOCALID><ORIG_FID>5952</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="138">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0074</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>264</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6260</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0074</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0074</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5953</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.00423420133337,41.72059458717482,-1.00423420133337</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0074</FINCA><SUPERFICIE>264</SUPERFICIE><IDGIS>6260</IDGIS><NAMESPACE>T10_UTE_0074</NAMESPACE><LOCALID>T10_UTE_0074</LOCALID><ORIG_FID>5953</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="139">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>599</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6261</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0008-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0008-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5954</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.004377494264529,41.72057396700227,-1.004377494264529</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0008-1</FINCA><SUPERFICIE>599</SUPERFICIE><IDGIS>6261</IDGIS><NAMESPACE>T10_UTE_0008-1</NAMESPACE><LOCALID>T10_UTE_0008-1</LOCALID><ORIG_FID>5954</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="140">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-15</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>142</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6262</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-15</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-15</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5955</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.004492188402835,41.72068454609074,-1.004492188402835</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-15</FINCA><SUPERFICIE>142</SUPERFICIE><IDGIS>6262</IDGIS><NAMESPACE>T10_UTE_A-15</NAMESPACE><LOCALID>T10_UTE_A-15</LOCALID><ORIG_FID>5955</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="141">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0009</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1914</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6263</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0009</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0009</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5956</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.004835236864318,41.72107630456113,-1.004835236864318</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0009</FINCA><SUPERFICIE>1914</SUPERFICIE><IDGIS>6263</IDGIS><NAMESPACE>T10_UTE_0009</NAMESPACE><LOCALID>T10_UTE_0009</LOCALID><ORIG_FID>5956</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="142">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>210</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6264</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0008</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0008</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5957</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.005714914749586,41.72081207537057,-1.005714914749586</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0008</FINCA><SUPERFICIE>210</SUPERFICIE><IDGIS>6264</IDGIS><NAMESPACE>T10_UTE_0008</NAMESPACE><LOCALID>T10_UTE_0008</LOCALID><ORIG_FID>5957</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="143">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0006</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>10740</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6265</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0006</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0006</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5958</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.005939482924947,41.7211666887905,-1.005939482924947</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0006</FINCA><SUPERFICIE>10740</SUPERFICIE><IDGIS>6265</IDGIS><NAMESPACE>T10_UTE_0006</NAMESPACE><LOCALID>T10_UTE_0006</LOCALID><ORIG_FID>5958</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="144">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0008-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>964</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6266</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0008-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0008-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5959</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.006312067592024,41.72100535197442,-1.006312067592024</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0008-2</FINCA><SUPERFICIE>964</SUPERFICIE><IDGIS>6266</IDGIS><NAMESPACE>T10_UTE_0008-2</NAMESPACE><LOCALID>T10_UTE_0008-2</LOCALID><ORIG_FID>5959</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="145">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0007</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3024</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6267</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0007</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0007</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5960</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.007175774493498,41.72132832759753,-1.007175774493498</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0007</FINCA><SUPERFICIE>3024</SUPERFICIE><IDGIS>6267</IDGIS><NAMESPACE>T10_UTE_0007</NAMESPACE><LOCALID>T10_UTE_0007</LOCALID><ORIG_FID>5960</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="146">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>326</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6268</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5961</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.007642976085303,41.72156205142814,-1.007642976085303</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-2</FINCA><SUPERFICIE>326</SUPERFICIE><IDGIS>6268</IDGIS><NAMESPACE>T10_UTE_A-2</NAMESPACE><LOCALID>T10_UTE_A-2</LOCALID><ORIG_FID>5961</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="147">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0004</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1332</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6269</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0004</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0004</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5962</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.007915141167528,41.72178590916865,-1.007915141167528</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0004</FINCA><SUPERFICIE>1332</SUPERFICIE><IDGIS>6269</IDGIS><NAMESPACE>T10_UTE_0004</NAMESPACE><LOCALID>T10_UTE_0004</LOCALID><ORIG_FID>5962</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="148">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0005</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>940</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6270</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0005</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0005</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5963</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.007851786240977,41.72149238461506,-1.007851786240977</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0005</FINCA><SUPERFICIE>940</SUPERFICIE><IDGIS>6270</IDGIS><NAMESPACE>T10_UTE_0005</NAMESPACE><LOCALID>T10_UTE_0005</LOCALID><ORIG_FID>5963</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="149">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0003</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3213</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6271</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0003</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0003</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5964</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.008371592551731,41.72172516246507,-1.008371592551731</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0003</FINCA><SUPERFICIE>3213</SUPERFICIE><IDGIS>6271</IDGIS><NAMESPACE>T10_UTE_0003</NAMESPACE><LOCALID>T10_UTE_0003</LOCALID><ORIG_FID>5964</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="150">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0002</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>1977</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6272</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0002</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0002</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5965</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.008839536948627,41.7219045888831,-1.008839536948627</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0002</FINCA><SUPERFICIE>1977</SUPERFICIE><IDGIS>6272</IDGIS><NAMESPACE>T10_UTE_0002</NAMESPACE><LOCALID>T10_UTE_0002</LOCALID><ORIG_FID>5965</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="151">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0001</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>3776</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6273</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0001</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0001</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5966</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.009352713701716,41.72205834166219,-1.009352713701716</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0001</FINCA><SUPERFICIE>3776</SUPERFICIE><IDGIS>6273</IDGIS><NAMESPACE>T10_UTE_0001</NAMESPACE><LOCALID>T10_UTE_0001</LOCALID><ORIG_FID>5966</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="152">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>111</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6274</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>5967</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.009707723826324,41.72214956225733,-1.009707723826324</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-1</FINCA><SUPERFICIE>111</SUPERFICIE><IDGIS>6274</IDGIS><NAMESPACE>T10_UTE_A-1</NAMESPACE><LOCALID>T10_UTE_A-1</LOCALID><ORIG_FID>5967</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="153">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-25</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>452</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6426</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-25</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-25</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>6131</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.979054698038402,41.70275490981867,-0.979054698038402</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-25</FINCA><SUPERFICIE>452</SUPERFICIE><IDGIS>6426</IDGIS><NAMESPACE>T10_UTE_A-25</NAMESPACE><LOCALID>T10_UTE_A-25</LOCALID><ORIG_FID>6131</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="154">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050-2C</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>280</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11000</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0050-2C</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0050-2C</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10953</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9946894318942103,41.71779337086841,-0.9946894318942103</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0050-2C</FINCA><SUPERFICIE>280</SUPERFICIE><IDGIS>11000</IDGIS><NAMESPACE>T10_UTE_0050-2C</NAMESPACE><LOCALID>T10_UTE_0050-2C</LOCALID><ORIG_FID>10953</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="155">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0050-3</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>49</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6216</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0050-3</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0050-3</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10954</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9949022050752739,41.7174736789462,-0.9949022050752741</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0050-3</FINCA><SUPERFICIE>49</SUPERFICIE><IDGIS>6216</IDGIS><NAMESPACE>T10_UTE_0050-3</NAMESPACE><LOCALID>T10_UTE_0050-3</LOCALID><ORIG_FID>10954</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="156">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0059</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>162</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11002</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0059</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0059</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10955</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9896821137050162,41.71700163040818,-0.9896821137050161</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0059</FINCA><SUPERFICIE>162</SUPERFICIE><IDGIS>11002</IDGIS><NAMESPACE>T10_UTE_0059</NAMESPACE><LOCALID>T10_UTE_0059</LOCALID><ORIG_FID>10955</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="157">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0082</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>261</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11004</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0082</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0082</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10956</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9848247337105365,41.71246704035202,-0.9848247337105364</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0082</FINCA><SUPERFICIE>261</SUPERFICIE><IDGIS>11004</IDGIS><NAMESPACE>T10_UTE_0082</NAMESPACE><LOCALID>T10_UTE_0082</LOCALID><ORIG_FID>10956</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="158">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0071-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>78</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11003</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0071-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0071-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10957</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9847682120317307,41.71248532893649,-0.9847682120317307</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0071-1</FINCA><SUPERFICIE>78</SUPERFICIE><IDGIS>11003</IDGIS><NAMESPACE>T10_UTE_0071-1</NAMESPACE><LOCALID>T10_UTE_0071-1</LOCALID><ORIG_FID>10957</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="159">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0072</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>82</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11005</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0072</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0072</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10958</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.984783277752088,41.71239623822714,-0.984783277752088</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0072</FINCA><SUPERFICIE>82</SUPERFICIE><IDGIS>11005</IDGIS><NAMESPACE>T10_UTE_0072</NAMESPACE><LOCALID>T10_UTE_0072</LOCALID><ORIG_FID>10958</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="160">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0102-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2255</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11007</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0102-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0102-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10959</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9822521131349875,41.71191555799553,-0.9822521131349874</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0102-A</FINCA><SUPERFICIE>2255</SUPERFICIE><IDGIS>11007</IDGIS><NAMESPACE>T10_UTE_0102-A</NAMESPACE><LOCALID>T10_UTE_0102-A</LOCALID><ORIG_FID>10959</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="161">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0104-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>95</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11008</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0104-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0104-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10960</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9843256222628994,41.71212478092156,-0.9843256222628994</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0104-A</FINCA><SUPERFICIE>95</SUPERFICIE><IDGIS>11008</IDGIS><NAMESPACE>T10_UTE_0104-A</NAMESPACE><LOCALID>T10_UTE_0104-A</LOCALID><ORIG_FID>10960</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="162">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0104</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>738</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6166</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0104</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0104</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10961</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9844803574010468,41.71203534897422,-0.9844803574010469</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0104</FINCA><SUPERFICIE>738</SUPERFICIE><IDGIS>6166</IDGIS><NAMESPACE>T10_UTE_0104</NAMESPACE><LOCALID>T10_UTE_0104</LOCALID><ORIG_FID>10961</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="163">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0104-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>88</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11009</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0104-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0104-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10962</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9846159680809171,41.71199224562025,-0.984615968080917</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0104-B</FINCA><SUPERFICIE>88</SUPERFICIE><IDGIS>11009</IDGIS><NAMESPACE>T10_UTE_0104-B</NAMESPACE><LOCALID>T10_UTE_0104-B</LOCALID><ORIG_FID>10962</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="164">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0105-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>173</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11010</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0105-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0105-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10963</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9842505685993691,41.71201296530073,-0.9842505685993691</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0105-A</FINCA><SUPERFICIE>173</SUPERFICIE><IDGIS>11010</IDGIS><NAMESPACE>T10_UTE_0105-A</NAMESPACE><LOCALID>T10_UTE_0105-A</LOCALID><ORIG_FID>10963</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="165">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0105-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>106</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11011</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0105-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0105-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10964</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9844358135236115,41.71169325990807,-0.9844358135236115</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0105-B</FINCA><SUPERFICIE>106</SUPERFICIE><IDGIS>11011</IDGIS><NAMESPACE>T10_UTE_0105-B</NAMESPACE><LOCALID>T10_UTE_0105-B</LOCALID><ORIG_FID>10964</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="166">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103-B</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>31</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11013</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0103-B</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0103-B</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10965</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9846607963903669,41.71227999364123,-0.9846607963903669</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0103-B</FINCA><SUPERFICIE>31</SUPERFICIE><IDGIS>11013</IDGIS><NAMESPACE>T10_UTE_0103-B</NAMESPACE><LOCALID>T10_UTE_0103-B</LOCALID><ORIG_FID>10965</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="167">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>375</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6168</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0103</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0103</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10966</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9844697759709644,41.71227436441426,-0.9844697759709642</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0103</FINCA><SUPERFICIE>375</SUPERFICIE><IDGIS>6168</IDGIS><NAMESPACE>T10_UTE_0103</NAMESPACE><LOCALID>T10_UTE_0103</LOCALID><ORIG_FID>10966</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="168">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0103-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>80</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11012</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0103-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0103-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10967</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9844230629471086,41.71227314128693,-0.9844230629471085</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0103-A</FINCA><SUPERFICIE>80</SUPERFICIE><IDGIS>11012</IDGIS><NAMESPACE>T10_UTE_0103-A</NAMESPACE><LOCALID>T10_UTE_0103-A</LOCALID><ORIG_FID>10967</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="169">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0107-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>86</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11014</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0107-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0107-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10968</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9828624798185069,41.71161516259515,-0.9828624798185071</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0107-A</FINCA><SUPERFICIE>86</SUPERFICIE><IDGIS>11014</IDGIS><NAMESPACE>T10_UTE_0107-A</NAMESPACE><LOCALID>T10_UTE_0107-A</LOCALID><ORIG_FID>10968</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="170">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0108-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>57</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11015</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0108-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0108-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10969</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9828368638185023,41.71158048277749,-0.9828368638185024</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0108-A</FINCA><SUPERFICIE>57</SUPERFICIE><IDGIS>11015</IDGIS><NAMESPACE>T10_UTE_0108-A</NAMESPACE><LOCALID>T10_UTE_0108-A</LOCALID><ORIG_FID>10969</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="171">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0108-1-2</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>69</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11016</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0108-1-2</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0108-1-2</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10970</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9824350186544872,41.71149085155344,-0.9824350186544872</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0108-1-2</FINCA><SUPERFICIE>69</SUPERFICIE><IDGIS>11016</IDGIS><NAMESPACE>T10_UTE_0108-1-2</NAMESPACE><LOCALID>T10_UTE_0108-1-2</LOCALID><ORIG_FID>10970</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="172">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0111-1A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>92</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11017</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0111-1A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0111-1A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10971</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.981608461567446,41.70924973288069,-0.981608461567446</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0111-1A</FINCA><SUPERFICIE>92</SUPERFICIE><IDGIS>11017</IDGIS><NAMESPACE>T10_UTE_0111-1A</NAMESPACE><LOCALID>T10_UTE_0111-1A</LOCALID><ORIG_FID>10971</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="173">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0112-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>39</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11018</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0112-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0112-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10972</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.981688853385891,41.70939044673824,-0.981688853385891</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0112-A</FINCA><SUPERFICIE>39</SUPERFICIE><IDGIS>11018</IDGIS><NAMESPACE>T10_UTE_0112-A</NAMESPACE><LOCALID>T10_UTE_0112-A</LOCALID><ORIG_FID>10972</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="174">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0113</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>80</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6149</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0113</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0113</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10973</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9816179247151913,41.70908256155553,-0.9816179247151913</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0113</FINCA><SUPERFICIE>80</SUPERFICIE><IDGIS>6149</IDGIS><NAMESPACE>T10_UTE_0113</NAMESPACE><LOCALID>T10_UTE_0113</LOCALID><ORIG_FID>10973</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="175">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0115-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>436</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11020</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0115-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0115-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10974</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9811850009303776,41.70886304244222,-0.9811850009303776</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0115-A</FINCA><SUPERFICIE>436</SUPERFICIE><IDGIS>11020</IDGIS><NAMESPACE>T10_UTE_0115-A</NAMESPACE><LOCALID>T10_UTE_0115-A</LOCALID><ORIG_FID>10974</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="176">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0117</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>166</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>6138</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0117</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0117</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10975</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.982178118923688,41.70870245249865,-0.982178118923688</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0117</FINCA><SUPERFICIE>166</SUPERFICIE><IDGIS>6138</IDGIS><NAMESPACE>T10_UTE_0117</NAMESPACE><LOCALID>T10_UTE_0117</LOCALID><ORIG_FID>10975</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="177">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0116-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>258</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11021</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0116-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0116-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10976</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9823959908393706,41.70887063855137,-0.9823959908393705</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0116-A</FINCA><SUPERFICIE>258</SUPERFICIE><IDGIS>11021</IDGIS><NAMESPACE>T10_UTE_0116-A</NAMESPACE><LOCALID>T10_UTE_0116-A</LOCALID><ORIG_FID>10976</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="178">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0119-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>622</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11023</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0119-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0119-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10977</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9811153316848519,41.70871277527481,-0.9811153316848519</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0119-A</FINCA><SUPERFICIE>622</SUPERFICIE><IDGIS>11023</IDGIS><NAMESPACE>T10_UTE_0119-A</NAMESPACE><LOCALID>T10_UTE_0119-A</LOCALID><ORIG_FID>10977</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="179">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0122-A</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>2</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11024</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0122-A</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0122-A</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10978</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9804949602110578,41.70851152772709,-0.9804949602110578</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0122-A</FINCA><SUPERFICIE>2</SUPERFICIE><IDGIS>11024</IDGIS><NAMESPACE>T10_UTE_0122-A</NAMESPACE><LOCALID>T10_UTE_0122-A</LOCALID><ORIG_FID>10978</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="180">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>0142-1</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>65</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11025</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_0142-1</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_0142-1</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>10979</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9845281436870613,41.71236685284955,-0.9845281436870613</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>0142-1</FINCA><SUPERFICIE>65</SUPERFICIE><IDGIS>11025</IDGIS><NAMESPACE>T10_UTE_0142-1</NAMESPACE><LOCALID>T10_UTE_0142-1</LOCALID><ORIG_FID>10979</ORIG_FID></Metadata>
+	</Placemark>
+	<Placemark id="181">
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="TRAMO">
+				<value>T10</value>
+			</Data>
+			<Data name="TERMINO">
+				<value>UTE</value>
+			</Data>
+			<Data name="FINCA">
+				<value>A-12</value>
+			</Data>
+			<Data name="SUPERFICIE">
+				<value>130</value>
+			</Data>
+			<Data name="IDGIS">
+				<value>11898</value>
+			</Data>
+			<Data name="NAMESPACE">
+				<value>T10_UTE_A-12</value>
+			</Data>
+			<Data name="LOCALID">
+				<value>T10_UTE_A-12</value>
+			</Data>
+			<Data name="ORIG_FID">
+				<value>11591</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.9998917721136037,41.71970275554683,-0.9998917721136036</coordinates>
+		</Point>
+		<Metadata><TRAMO>T10</TRAMO><TERMINO>UTE</TERMINO><FINCA>A-12</FINCA><SUPERFICIE>130</SUPERFICIE><IDGIS>11898</IDGIS><NAMESPACE>T10_UTE_A-12</NAMESPACE><LOCALID>T10_UTE_A-12</LOCALID><ORIG_FID>11591</ORIG_FID></Metadata>
+	</Placemark>
+</Document>
+</kml>
