@@ -1,9 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document id="EXPRO_PAIS_VASCO_Y_RESTO" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
-	<name>EXPRO_PAIS_VASCO_Y_RESTO</name>
+	<name>LIMITE EXPROPIACIÓN</name>
 	<Snippet maxLines="0"></Snippet>
-	<Style id="PolyStyle00">
+	<StyleMap id="PolyStyle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle004</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle000">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle003</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle002">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle003">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle004">
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
@@ -22,68 +81,7 @@
 		<Placemark id="ID_00000">
 			<name>PAIS VASCO</name>
 			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>PAIS VASCO</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>TRAMO</td>
-
-<td>PAIS VASCO</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>248480,757154</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#PolyStyle00</styleUrl>
+			<styleUrl>#PolyStyle001</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -438,67 +436,6 @@
 		<Placemark id="ID_00001">
 			<name>RESTO</name>
 			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>RESTO</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>TRAMO</td>
-
-<td>RESTO</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>627498,833301</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
 			<styleUrl>#PolyStyle00</styleUrl>
 			<MultiGeometry>
 				<Polygon>
