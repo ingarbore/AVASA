@@ -1,58 +1,427 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Folder>
-	<name>T6_P</name>
-	<open>1</open>
-	<Document>
-		<name>T6_AGO_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.44933383483037</north>
-				<south>42.41585441146295</south>
-				<east>-2.260965532905668</east>
-				<west>-2.342150553529835</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<StyleMap id="m_ylw-pushpin">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="s_ylw-pushpin">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<Style id="s_ylw-pushpin_hl">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
+<Document>
+	<name>T6_P.kml</name>
+	<Style id="s_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>T6_P</name>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<ExtendedData>
@@ -20216,57 +20585,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>AGO</TERMINO><FINCA>0339-1AC</FINCA><SUPERFICIE>124</SUPERFICIE><IDGIS>12679</IDGIS><NAMESPACE>T6_AGO_0339-1AC</NAMESPACE><LOCALID>T6_AGO_0339-1AC</LOCALID><ORIG_FID>12248</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_ALC_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.39321034838826</north>
-				<south>42.37655136022413</south>
-				<east>-2.092627923338174</east>
-				<west>-2.210535669475653</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<Style id="s_ylw-pushpin0">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<StyleMap id="m_ylw-pushpin0">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin0</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="s_ylw-pushpin_hl0">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin0</styleUrl>
 			<ExtendedData>
@@ -32642,57 +32960,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>ALC</TERMINO><FINCA>CR-4</FINCA><SUPERFICIE>3</SUPERFICIE><IDGIS>5819</IDGIS><NAMESPACE>T6_ALC_CR-4</NAMESPACE><LOCALID>T6_ALC_CR-4</LOCALID><ORIG_FID>6123</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_AUS_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.39065463735653</north>
-				<south>42.37245765511985</south>
-				<east>-2.085098621216884</east>
-				<west>-2.147467475147192</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<StyleMap id="m_ylw-pushpin1">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin1</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="s_ylw-pushpin1">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<Style id="s_ylw-pushpin_hl1">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin1</styleUrl>
 			<ExtendedData>
@@ -37313,57 +37580,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>AUS</TERMINO><FINCA>0108-N</FINCA><SUPERFICIE>76</SUPERFICIE><IDGIS>9885</IDGIS><NAMESPACE>T6_AUS_0108-N</NAMESPACE><LOCALID>T6_AUS_0108-N</LOCALID><ORIG_FID>9574</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_CAL_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.33196689315886</north>
-				<south>42.31334891252952</south>
-				<east>-1.984520495659345</east>
-				<west>-2.012111692451294</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<Style id="s_ylw-pushpin_hl2">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<Style id="s_ylw-pushpin2">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<StyleMap id="m_ylw-pushpin2">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin2</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin2</styleUrl>
 			<ExtendedData>
@@ -41093,57 +41309,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>CAL</TERMINO><FINCA>0067-1</FINCA><SUPERFICIE>107</SUPERFICIE><IDGIS>506</IDGIS><NAMESPACE>T6_CAL_0067-1</NAMESPACE><LOCALID>T6_CAL_0067-1</LOCALID><ORIG_FID>12255</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_GAL_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.39121007343513</north>
-				<south>42.38947145857365</south>
-				<east>-2.208876032709889</east>
-				<west>-2.225515745466167</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<Style id="s_ylw-pushpin_hl3">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<Style id="s_ylw-pushpin3">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<StyleMap id="m_ylw-pushpin3">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin3</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin3</styleUrl>
 			<ExtendedData>
@@ -41903,57 +42068,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>GAL</TERMINO><FINCA>0001-2A</FINCA><SUPERFICIE>517</SUPERFICIE><IDGIS>5600</IDGIS><NAMESPACE>T6_GAL_0001-2A</NAMESPACE><LOCALID>T6_GAL_0001-2A</LOCALID><ORIG_FID>5412</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_LAR_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.44032743219897</north>
-				<south>42.43072657388535</south>
-				<east>-2.439938563140033</east>
-				<west>-2.488219640037128</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<Style id="s_ylw-pushpin4">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<Style id="s_ylw-pushpin_hl4">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<StyleMap id="m_ylw-pushpin4">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin4</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin4</styleUrl>
 			<ExtendedData>
@@ -50864,57 +50978,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>LAR</TERMINO><FINCA>0109</FINCA><SUPERFICIE>39</SUPERFICIE><IDGIS>3112</IDGIS><NAMESPACE>T6_LAR_0109</NAMESPACE><LOCALID>T6_LAR_0109</LOCALID><ORIG_FID>12242</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_LOD_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.37512641794599</north>
-				<south>42.3507074977647</south>
-				<east>-2.05281621453038</east>
-				<west>-2.089347057319785</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<StyleMap id="m_ylw-pushpin5">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin5</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl5</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="s_ylw-pushpin_hl5">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<Style id="s_ylw-pushpin5">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin5</styleUrl>
 			<ExtendedData>
@@ -56888,57 +56951,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>LOD</TERMINO><FINCA>0035</FINCA><SUPERFICIE>158</SUPERFICIE><IDGIS>10983</IDGIS><NAMESPACE>T6_LOD_0035</NAMESPACE><LOCALID>T6_LOD_0035</LOCALID><ORIG_FID>10611</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_LOG_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.45535399093697</north>
-				<south>42.43381916019782</south>
-				<east>-2.341690837602699</east>
-				<west>-2.460443875941517</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<Style id="s_ylw-pushpin_hl6">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<Style id="s_ylw-pushpin6">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<StyleMap id="m_ylw-pushpin6">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin6</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin6</styleUrl>
 			<ExtendedData>
@@ -64001,57 +64013,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>LOG</TERMINO><FINCA>C-08</FINCA><SUPERFICIE>180</SUPERFICIE><IDGIS>2331</IDGIS><NAMESPACE>T6_LOG_C-08</NAMESPACE><LOCALID>T6_LOG_C-08</LOCALID><ORIG_FID>9391</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_MUR_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.41540080065959</north>
-				<south>42.39051549948078</south>
-				<east>-2.216372303070962</east>
-				<west>-2.26187813351841</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<Style id="s_ylw-pushpin7">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<StyleMap id="m_ylw-pushpin7">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin7</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="s_ylw-pushpin_hl7">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin7</styleUrl>
 			<ExtendedData>
@@ -67121,57 +67082,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>MUR</TERMINO><FINCA>0065-A</FINCA><SUPERFICIE>421</SUPERFICIE><IDGIS>3466</IDGIS><NAMESPACE>T6_MUR_0065-A</NAMESPACE><LOCALID>T6_MUR_0065-A</LOCALID><ORIG_FID>3392</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_PRA_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.3507557785095</north>
-				<south>42.33119162460431</south>
-				<east>-2.011040609412543</east>
-				<west>-2.05380138918397</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<Style id="s_ylw-pushpin_hl8">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<StyleMap id="m_ylw-pushpin8">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin8</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl8</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="s_ylw-pushpin8">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin8</styleUrl>
 			<ExtendedData>
@@ -76742,57 +76652,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>PRA</TERMINO><FINCA>A-20</FINCA><SUPERFICIE>47</SUPERFICIE><IDGIS>9687</IDGIS><NAMESPACE>T6_PRA_A-20</NAMESPACE><LOCALID>T6_PRA_A-20</LOCALID><ORIG_FID>9378</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-	<Document>
-		<name>T6_VIL_P.kml</name>
-		<Region>
-			<LatLonAltBox>
-				<north>42.44855226642566</north>
-				<south>42.43429935067987</south>
-				<east>-2.412314132953632</east>
-				<west>-2.432860370952394</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-		</Region>
-		<Style id="s_ylw-pushpin9">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
-		<StyleMap id="m_ylw-pushpin9">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#s_ylw-pushpin9</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#s_ylw-pushpin_hl9</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="s_ylw-pushpin_hl9">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-				</Icon>
-				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-			</IconStyle>
-			<ListStyle>
-				<ItemIcon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-				</ItemIcon>
-			</ListStyle>
-		</Style>
 		<Placemark id="0">
 			<styleUrl>#m_ylw-pushpin9</styleUrl>
 			<ExtendedData>
@@ -82172,6 +82031,6 @@
 			</Point>
 			<Metadata><TRAMO>T6</TRAMO><TERMINO>VIL</TERMINO><FINCA>0086</FINCA><SUPERFICIE>0</SUPERFICIE><IDGIS>9686</IDGIS><NAMESPACE>T6_VIL_0086</NAMESPACE><LOCALID>T6_VIL_0086</LOCALID><ORIG_FID>9377</ORIG_FID></Metadata>
 		</Placemark>
-	</Document>
-</Folder>
+	</Folder>
+</Document>
 </kml>
